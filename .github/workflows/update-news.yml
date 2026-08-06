@@ -1,0 +1,168 @@
+name: Update AI Signal Snapshot
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_tikhub:
+        description: "Force a paid TikHub refresh even before its normal interval"
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    - cron: "17 * * * *"
+
+concurrency:
+  group: update-ai-signal-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    timeout-minutes: 40
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: "requirements-dev.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Prepare OPML
+        env:
+          FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}
+        run: |
+          mkdir -p feeds
+          if [ -n "$FOLLOW_OPML_B64" ]; then
+            echo "$FOLLOW_OPML_B64" | base64 --decode > feeds/follow.opml
+          elif [ -f feeds/follow.example.opml ]; then
+            cp feeds/follow.example.opml feeds/follow.opml
+          fi
+
+      - name: Prepare candidate snapshot
+        run: |
+          CANDIDATE_DATA="$RUNNER_TEMP/ai-signal-data"
+          mkdir -p "$CANDIDATE_DATA"
+          cp -a data/. "$CANDIDATE_DATA/"
+          echo "CANDIDATE_DATA=$CANDIDATE_DATA" >> "$GITHUB_ENV"
+
+      - name: Generate candidate data
+        env:
+          EMAIL_DIGEST_ENABLED: ${{ secrets.EMAIL_DIGEST_ENABLED || vars.EMAIL_DIGEST_ENABLED }}
+          AGENTMAIL_API_KEY: ${{ secrets.AGENTMAIL_API_KEY }}
+          AGENTMAIL_INBOX_ID: ${{ secrets.AGENTMAIL_INBOX_ID }}
+          AGENTMAIL_API_BASE_URL: ${{ vars.AGENTMAIL_API_BASE_URL }}
+          AGENTMAIL_LIMIT: ${{ vars.AGENTMAIL_LIMIT }}
+          AGENTMAIL_ALLOWED_SENDER_DOMAINS: ${{ vars.AGENTMAIL_ALLOWED_SENDER_DOMAINS }}
+          X_API_ENABLED: ${{ secrets.X_API_ENABLED || vars.X_API_ENABLED }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          SOCIALDATA_ENABLED: ${{ secrets.SOCIALDATA_ENABLED || vars.SOCIALDATA_ENABLED }}
+          SOCIALDATA_API_KEY: ${{ secrets.SOCIALDATA_API_KEY }}
+          SOCIALDATA_QUERY: ${{ vars.SOCIALDATA_QUERY }}
+          SOCIALDATA_SEARCH_TYPE: ${{ vars.SOCIALDATA_SEARCH_TYPE }}
+          SOCIALDATA_MAX_RESULTS: ${{ vars.SOCIALDATA_MAX_RESULTS }}
+          SOCIALDATA_DAILY_TWEET_LIMIT: ${{ vars.SOCIALDATA_DAILY_TWEET_LIMIT }}
+          SOCIALDATA_RUN_INTERVAL_HOURS: ${{ vars.SOCIALDATA_RUN_INTERVAL_HOURS }}
+          SOCIALDATA_RUN_UTC_HOUR: ${{ vars.SOCIALDATA_RUN_UTC_HOUR }}
+          SOCIALDATA_RUN_UTC_MINUTE_MAX: ${{ vars.SOCIALDATA_RUN_UTC_MINUTE_MAX }}
+          SOCIALDATA_LIST_ID: ${{ vars.SOCIALDATA_LIST_ID }}
+          SOCIALDATA_LIST_ENABLED: ${{ vars.SOCIALDATA_LIST_ENABLED }}
+          SOCIALDATA_LIST_MAX_RESULTS: ${{ vars.SOCIALDATA_LIST_MAX_RESULTS }}
+          SOCIALDATA_LIST_EXCLUDE: ${{ vars.SOCIALDATA_LIST_EXCLUDE }}
+          TIKHUB_ENABLED: ${{ secrets.TIKHUB_ENABLED || vars.TIKHUB_ENABLED }}
+          TIKHUB_API_KEY: ${{ secrets.TIKHUB_API_KEY }}
+          TIKHUB_API_BASE_URL: ${{ vars.TIKHUB_API_BASE_URL }}
+          TIKHUB_QUERY: ${{ vars.TIKHUB_QUERY }}
+          TIKHUB_PLATFORMS: ${{ vars.TIKHUB_PLATFORMS }}
+          TIKHUB_MAX_RESULTS: ${{ vars.TIKHUB_MAX_RESULTS }}
+          TIKHUB_DAILY_ITEM_LIMIT: ${{ vars.TIKHUB_DAILY_ITEM_LIMIT }}
+          TIKHUB_RUN_INTERVAL_HOURS: ${{ vars.TIKHUB_RUN_INTERVAL_HOURS }}
+          TIKHUB_RUN_UTC_HOUR: ${{ vars.TIKHUB_RUN_UTC_HOUR }}
+          TIKHUB_RUN_UTC_MINUTE_MAX: ${{ vars.TIKHUB_RUN_UTC_MINUTE_MAX }}
+          TIKHUB_FORCE_RUN: ${{ inputs.force_tikhub && '1' || '' }}
+          RSS_MAX_FEEDS: ${{ vars.RSS_MAX_FEEDS || 10 }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+          TITLE_ENHANCE_MAX_PER_RUN: ${{ vars.TITLE_ENHANCE_MAX_PER_RUN }}
+        run: |
+          if [ -f feeds/follow.opml ]; then
+            python scripts/update_news.py --output-dir "$CANDIDATE_DATA" --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-10}"
+          else
+            python scripts/update_news.py --output-dir "$CANDIDATE_DATA" --window-hours 24 --archive-days 21
+          fi
+
+      - name: Persona scoring
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+        run: python scripts/persona_score.py --data-dir "$CANDIDATE_DATA"
+
+      - name: Sanitize and validate candidate
+        run: |
+          python scripts/sanitize_public_data.py --data-dir "$CANDIDATE_DATA"
+          python scripts/quality_gate.py --data-dir "$CANDIDATE_DATA" --baseline-dir data --max-age-hours 6
+
+      - name: Promote candidate
+        env:
+          EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}
+        run: |
+          EXTRA=""
+          if [ "$EMAIL_DIGEST_PUBLISH" = "1" ]; then EXTRA="--publish-email-digest"; fi
+          python scripts/promote_data.py --candidate-dir "$CANDIDATE_DATA" --target-dir data $EXTRA
+
+      - name: Build public site
+        run: python scripts/build_public_site.py --data-dir data --output-dir dist
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+      - name: Commit data snapshot
+        env:
+          EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if [ -f data/email-digest.json ] && [ "$EMAIL_DIGEST_PUBLISH" = "1" ]; then
+            git add -f data/email-digest.json
+          fi
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: update ai signal snapshot"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase origin "${GITHUB_REF_NAME}" || { git rebase --abort || true; exit 1; }
+          done
+          git push
+
+  deploy:
+    needs: update
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,45 @@
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cert
+*token*
+*cookie*
+cookies.json
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Private source inputs
+feeds/follow.opml
+feeds/*.private.opml
+feeds/private*.opml
+
+# Optional private/generated digests
+data/email-digest.json
+
+# Internal pipeline state: never publish or commit in this fork
+data/archive.json
+data/latest-24h-all-raw.json
+data/merge-log.json
+data/paid-source-state.json
+data/persona-cache.json
+data/title-zh-cache.json
+
+# Build and candidate snapshots
+dist/
+.candidate-data/
+
+# Local OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+.gstack/
