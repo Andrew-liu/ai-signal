@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:03:22.013569Z",
+  "generated_at": "2026-08-07T21:58:09.233921Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8627,
-      "importance": 0.8627,
-      "importance_score": 0.8627,
+      "score": 0.8606,
+      "importance": 0.8606,
+      "importance_score": 0.8606,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9207,
+        "recency": 0.9086,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9553,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,30 +196,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
-      "story_id": "story_af6808a77d18",
-      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "story_id": "story_06de520f313d",
+      "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
+          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+          "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+          "title_zh": "Copilot代码审查工作水平通常可用",
+          "title_en": "Copilot code review effort levels are generally available",
+          "title_original": "Copilot code review effort levels are generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
+          "published_at": "2026-08-07T20:49:26Z"
         }
       ],
       "source_count": 1,
@@ -228,31 +228,31 @@
       ],
       "items": [
         {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
+          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+          "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+          "title_zh": "Copilot代码审查工作水平通常可用",
+          "title_en": "Copilot code review effort levels are generally available",
+          "title_original": "Copilot code review effort levels are generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
+          "published_at": "2026-08-07T20:49:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9616,
+        "recency": 0.9836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,17 +261,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T18:20:47Z",
-      "latest_at": "2026-08-07T18:20:47Z",
+      "earliest_at": "2026-08-07T20:49:26Z",
+      "latest_at": "2026-08-07T20:49:26Z",
       "primary_item": {
-        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-        "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-        "title_en": "Copilot usage metrics API adds agent app activity",
-        "title_original": "Copilot usage metrics API adds agent app activity",
+        "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+        "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+        "title_zh": "Copilot代码审查工作水平通常可用",
+        "title_en": "Copilot code review effort levels are generally available",
+        "title_original": "Copilot code review effort levels are generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7378,
+        "recency": 0.7282,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,30 +444,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
-      "story_id": "story_a3f464009da9",
-      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
       "source_count": 1,
@@ -476,31 +476,31 @@
       ],
       "items": [
         {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9179,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,17 +509,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T15:07:25Z",
-      "latest_at": "2026-08-07T15:07:25Z",
+      "earliest_at": "2026-08-07T18:20:47Z",
+      "latest_at": "2026-08-07T18:20:47Z",
       "primary_item": {
-        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+        "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+        "title_en": "Copilot usage metrics API adds agent app activity",
+        "title_original": "Copilot usage metrics API adds agent app activity",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -527,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.9568,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -639,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -687,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -721,7 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -769,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8402,
+        "recency": 0.8292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -804,30 +804,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
-      "story_id": "story_07e970ae06be",
-      "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
-          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "source_count": 1,
@@ -836,18 +836,18 @@
       ],
       "items": [
         {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
-          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "item_count": 1,
@@ -859,8 +859,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9507,
+        "ai_relevance": 0.91,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,17 +869,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T17:33:14Z",
-      "latest_at": "2026-08-07T17:33:14Z",
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
       "primary_item": {
-        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-        "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
-        "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -887,7 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -935,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
+        "recency": 0.9423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,7 +969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -1017,15 +1017,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1051,89 +1051,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
-      }
-    },
-    {
-      "story_id": "story_d325f4174c59",
-      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-      "url": "https://www.aibase.com/news/30199",
-      "primary_url": "https://www.aibase.com/news/30199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_en": null,
-          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T18:03:22.013569Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_en": null,
-          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T18:03:22.013569Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T18:03:22.013569Z",
-      "latest_at": "2026-08-07T18:03:22.013569Z",
-      "primary_item": {
-        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "title_en": null,
-        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30199",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -1181,15 +1099,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8049,
+        "recency": 0.7944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,7 +1133,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
+      }
+    },
+    {
+      "story_id": "story_d325f4174c59",
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199",
+      "primary_url": "https://www.aibase.com/news/30199",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_en": null,
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T17:58:09.233921Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_en": null,
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T17:58:09.233921Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9439,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:58:09.233921Z",
+      "latest_at": "2026-08-07T17:58:09.233921Z",
+      "primary_item": {
+        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_en": null,
+        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30199",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -1263,15 +1263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7671,
+        "recency": 0.7571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1297,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -1345,15 +1345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,7 +1379,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -1427,15 +1427,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8882,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1460,30 +1460,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
-      "story_id": "story_cba5eebd8637",
-      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "story_id": "story_07e970ae06be",
+      "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "秘密扫描覆盖范围更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "published_at": "2026-08-07T17:33:14Z"
         }
       ],
       "source_count": 1,
@@ -1492,31 +1492,31 @@
       ],
       "items": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "秘密扫描覆盖范围更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "published_at": "2026-08-07T17:33:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9419,
+        "recency": 0.9382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1525,17 +1525,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T16:54:47Z",
-      "latest_at": "2026-08-07T16:54:47Z",
+      "earliest_at": "2026-08-07T17:33:14Z",
+      "latest_at": "2026-08-07T17:33:14Z",
       "primary_item": {
-        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-        "title_zh": "秘密扫描覆盖范围更新",
-        "title_en": "Secret scanning coverage updates",
-        "title_original": "Secret scanning coverage updates",
+        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+        "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
+        "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1543,7 +1543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -1591,15 +1591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8222,
+        "recency": 0.8115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1624,7 +1624,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     },
     {
@@ -1672,15 +1672,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8067,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1705,7 +1705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:05:26.970965Z"
+        "scored_at": "2026-08-07T21:58:49.958595Z"
       }
     }
   ]
