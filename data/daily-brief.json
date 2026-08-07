@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:46:23.525742Z",
+  "generated_at": "2026-08-07T09:18:02.723565Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8864,
-      "importance": 0.8864,
-      "importance_score": 0.8864,
+      "score": 0.8836,
+      "importance": 0.8836,
+      "importance_score": 0.8836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7302,
+        "recency": 0.7143,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8938,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +254,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
+      }
+    },
+    {
+      "story_id": "story_75e54bde627b",
+      "title": "HSP GRUPPE 如何构建税务咨询人工智能功能 / How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "primary_url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何构建税务咨询人工智能功能 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何构建税务咨询人工智能功能",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何构建税务咨询人工智能功能 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何构建税务咨询人工智能功能",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T09:00:00Z",
+      "latest_at": "2026-08-07T09:00:00Z",
+      "primary_item": {
+        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+        "title": "HSP GRUPPE 如何构建税务咨询人工智能功能 / How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_zh": "HSP GRUPPE 如何构建税务咨询人工智能功能",
+        "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/hsp-gruppe",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -302,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8415,
+        "recency": 0.8232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -385,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8132,
+        "recency": 0.7955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -468,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7861,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -551,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8066,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -633,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,7 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -715,15 +798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -749,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -772,7 +855,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T07:46:23.525742Z"
+          "published_at": "2026-08-07T09:18:02.723565Z"
         }
       ],
       "source_count": 1,
@@ -792,7 +875,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T07:46:23.525742Z"
+          "published_at": "2026-08-07T09:18:02.723565Z"
         }
       ],
       "item_count": 1,
@@ -813,8 +896,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T07:46:23.525742Z",
-      "latest_at": "2026-08-07T07:46:23.525742Z",
+      "earliest_at": "2026-08-07T09:18:02.723565Z",
+      "latest_at": "2026-08-07T09:18:02.723565Z",
       "primary_item": {
         "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
         "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
@@ -831,63 +914,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
-      "story_id": "story_b514e76766d9",
-      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-      "url": "https://www.ithome.com/0/986/951.htm",
-      "primary_url": "https://www.ithome.com/0/986/951.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_8f5b354afd70",
+      "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+      "url": "https://x.com/krea_ai/status/2085629541385736662",
+      "primary_url": "https://x.com/krea_ai/status/2085629541385736662",
+      "source": "X：Krea AI (@krea_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a11b435456716d5abbd0433177be593b8f62f562",
-          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_en": null,
-          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+          "id": "e809506aac5a613385def31f8c88b577abc01d23",
+          "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_zh": "Krea 推出 Seedance 2.5 视频模型",
+          "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/951.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/krea_ai/status/2085629541385736662",
+          "source": "X：Krea AI (@krea_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T06:11:01Z"
+          "published_at": "2026-08-07T07:30:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：Krea AI (@krea_ai)"
       ],
       "items": [
         {
-          "id": "a11b435456716d5abbd0433177be593b8f62f562",
-          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_en": null,
-          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+          "id": "e809506aac5a613385def31f8c88b577abc01d23",
+          "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_zh": "Krea 推出 Seedance 2.5 视频模型",
+          "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/951.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/krea_ai/status/2085629541385736662",
+          "source": "X：Krea AI (@krea_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T06:11:01Z"
+          "published_at": "2026-08-07T07:30:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,25 +978,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T06:11:01Z",
-      "latest_at": "2026-08-07T06:11:01Z",
+      "earliest_at": "2026-08-07T07:30:06Z",
+      "latest_at": "2026-08-07T07:30:06Z",
       "primary_item": {
-        "id": "a11b435456716d5abbd0433177be593b8f62f562",
-        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "title_en": null,
-        "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+        "id": "e809506aac5a613385def31f8c88b577abc01d23",
+        "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+        "title_zh": "Krea 推出 Seedance 2.5 视频模型",
+        "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+        "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+        "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/986/951.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://x.com/krea_ai/status/2085629541385736662",
+        "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -990,15 +1073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7675,
+        "recency": 0.7507,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1025,7 +1108,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
+      }
+    },
+    {
+      "story_id": "story_b514e76766d9",
+      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+      "url": "https://www.ithome.com/0/986/951.htm",
+      "primary_url": "https://www.ithome.com/0/986/951.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a11b435456716d5abbd0433177be593b8f62f562",
+          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_en": null,
+          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/986/951.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:11:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a11b435456716d5abbd0433177be593b8f62f562",
+          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_en": null,
+          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/986/951.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:11:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.956,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T06:11:01Z",
+      "latest_at": "2026-08-07T06:11:01Z",
+      "primary_item": {
+        "id": "a11b435456716d5abbd0433177be593b8f62f562",
+        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+        "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+        "title_en": null,
+        "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+        "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/986/951.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -1073,21 +1238,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8371,
+        "recency": 0.8189,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-06T19:27:41Z",
       "latest_at": "2026-08-06T19:27:41Z",
@@ -1107,7 +1271,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -1184,15 +1348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7869,
+        "recency": 0.7697,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1218,7 +1382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -1266,15 +1430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9845,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1299,7 +1463,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -1347,15 +1511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,7 +1544,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
+      }
+    },
+    {
+      "story_id": "story_d325f4174c59",
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199",
+      "primary_url": "https://www.aibase.com/news/30199",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_en": null,
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:18:02.723565Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_en": null,
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:18:02.723565Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T09:18:02.723565Z",
+      "latest_at": "2026-08-07T09:18:02.723565Z",
+      "primary_item": {
+        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_en": null,
+        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30199",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -1428,15 +1674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9211,
+        "recency": 0.901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1461,89 +1707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
-      }
-    },
-    {
-      "story_id": "story_b72b947b1616",
-      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-      "url": "https://www.aibase.com/news/30180",
-      "primary_url": "https://www.aibase.com/news/30180",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "title_en": null,
-          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:46:23.525742Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "title_en": null,
-          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:46:23.525742Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T07:46:23.525742Z",
-      "latest_at": "2026-08-07T07:46:23.525742Z",
-      "primary_item": {
-        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-        "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-        "title_en": null,
-        "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30180",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     },
     {
@@ -1591,15 +1755,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1625,170 +1789,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
-      }
-    },
-    {
-      "story_id": "story_1205e7b648e2",
-      "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "primary_url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
-          "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-          "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
-          "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-          "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7625,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T13:00:00Z",
-      "latest_at": "2026-08-06T13:00:00Z",
-      "primary_item": {
-        "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
-        "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-        "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-        "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-        "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-        "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
-      }
-    },
-    {
-      "story_id": "story_185ce5e58586",
-      "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-      "url": "https://www.aibase.com/news/30179",
-      "primary_url": "https://www.aibase.com/news/30179",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "title_en": null,
-          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:46:23.525742Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "title_en": null,
-          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:46:23.525742Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T07:46:23.525742Z",
-      "latest_at": "2026-08-07T07:46:23.525742Z",
-      "primary_item": {
-        "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-        "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-        "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-        "title_en": null,
-        "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30179",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T07:47:07.448573Z"
+        "scored_at": "2026-08-07T09:18:39.671431Z"
       }
     }
   ]
