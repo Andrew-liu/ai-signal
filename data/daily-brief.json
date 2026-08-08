@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T20:52:22.613381Z",
+  "generated_at": "2026-08-08T21:49:20.873547Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8601,
-      "importance": 0.8601,
-      "importance_score": 0.8601,
+      "score": 0.8579,
+      "importance": 0.8579,
+      "importance_score": 0.8579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.914,
+        "recency": 0.9015,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.732,
+        "recency": 0.722,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,90 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
-      }
-    },
-    {
-      "story_id": "story_2252b2f8dcb5",
-      "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "Copilot影响仪表板添加了投资回报部分",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "Copilot影响仪表板添加了投资回报部分",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:05:37Z",
-      "latest_at": "2026-08-07T21:05:37Z",
-      "primary_item": {
-        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-        "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-        "title_zh": "Copilot影响仪表板添加了投资回报部分",
-        "title_en": "Copilot impact dashboard adds a return on investment section",
-        "title_original": "Copilot impact dashboard adds a return on investment section",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -384,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,7 +335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -466,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9009,
+        "recency": 0.8886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,7 +417,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -548,15 +465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9383,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,90 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
-      }
-    },
-    {
-      "story_id": "story_1f7d8d6cb096",
-      "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7153,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:40:03Z",
-      "latest_at": "2026-08-07T21:40:03Z",
-      "primary_item": {
-        "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-        "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-        "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-        "title_en": "Enterprises can now install third-party GitHub Apps",
-        "title_original": "Enterprises can now install third-party GitHub Apps",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -712,21 +546,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8354,
+        "recency": 0.824,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-08T08:25:11Z",
       "latest_at": "2026-08-08T08:25:11Z",
@@ -746,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -794,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7307,
+        "recency": 0.7208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -850,7 +683,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-08T20:52:41.976000Z"
+          "published_at": "2026-08-08T21:49:39.586000Z"
         },
         {
           "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
@@ -900,7 +733,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-08T20:52:41.976000Z"
+          "published_at": "2026-08-08T21:49:39.586000Z"
         },
         {
           "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
@@ -949,7 +782,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-08T18:09:31Z",
-      "latest_at": "2026-08-08T20:52:41.976000Z",
+      "latest_at": "2026-08-08T21:49:39.586000Z",
       "primary_item": {
         "id": "415c5d98e638ad6b96353f679325f05e221f3479",
         "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
@@ -966,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     },
     {
@@ -1043,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9609,
+        "recency": 0.9478,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,117 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
-      }
-    },
-    {
-      "story_id": "story_56cf4cefef8c",
-      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-      "url": "https://news.ycombinator.com/item?id=49222824",
-      "primary_url": "https://news.ycombinator.com/item?id=49222824",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您的其他 Claude Code 会议发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:52:41.976000Z"
-        },
-        {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您的其他 Claude Code 会议发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您的其他 Claude Code 会议发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:52:41.976000Z"
-        },
-        {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您的其他 Claude Code 会议发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-08T20:52:41.976000Z",
-      "primary_item": {
-        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-        "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-        "title_zh": "向您的其他 Claude Code 会议发送消息",
-        "title_en": "Message your other Claude Code sessions",
-        "title_original": "Message your other Claude Code sessions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49222824",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:52:56.765883Z"
+        "scored_at": "2026-08-08T21:49:52.614256Z"
       }
     }
   ]
