@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T09:59:45.153826Z",
+  "generated_at": "2026-08-09T10:55:36.064724Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_e0986e6e9db9",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7562,
+        "recency": 0.7461,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -205,8 +205,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T09:59:45.153826Z",
-      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
       "primary_item": {
         "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
         "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
@@ -223,7 +223,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
+      }
+    },
+    {
+      "story_id": "story_89f0f7e97237",
+      "title": "Seedance 2.5 上线一周新增六种创意玩法",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_en": null,
+          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_en": null,
+          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9235,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T05:25:02Z",
+      "latest_at": "2026-08-09T05:25:02Z",
+      "primary_item": {
+        "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+        "title": "Seedance 2.5 上线一周新增六种创意玩法",
+        "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+        "title_en": null,
+        "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+        "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -271,15 +353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9617,
+        "recency": 0.9489,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -305,7 +387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -353,21 +435,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9106,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T03:30:30Z",
       "latest_at": "2026-08-09T03:30:30Z",
@@ -387,7 +468,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -435,15 +516,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8504,
+        "recency": 0.839,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -468,7 +549,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -532,8 +613,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T09:59:45.153826Z",
-      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
       "primary_item": {
         "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
         "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
@@ -550,7 +631,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -598,15 +679,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7184,
+        "recency": 0.7089,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -631,7 +712,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -679,21 +760,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T03:24:44Z",
       "latest_at": "2026-08-09T03:24:44Z",
@@ -713,7 +793,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
+      }
+    },
+    {
+      "story_id": "story_3bb539329f5d",
+      "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+      "url": "https://www.aibase.com/news/30185",
+      "primary_url": "https://www.aibase.com/news/30185",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
+          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_en": null,
+          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
+          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_en": null,
+          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
+      "primary_item": {
+        "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
+        "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "title_en": null,
+        "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30185",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:56:09.988454Z"
+      }
+    },
+    {
+      "story_id": "story_90b3cceba55e",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7354,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_en": null,
+        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -777,8 +1020,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T09:59:45.153826Z",
-      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
       "primary_item": {
         "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
         "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
@@ -795,88 +1038,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
-      "story_id": "story_90b3cceba55e",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "primary_url": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_1df7f23c4e1c",
+      "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+      "url": "https://www.aibase.com/news/30184",
+      "primary_url": "https://www.aibase.com/news/30184",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "id": "e3e6537378f71d8593af4f9360bcd762895088af",
+          "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "title_zh": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "title_original": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
+          "url": "https://www.aibase.com/news/30184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "id": "e3e6537378f71d8593af4f9360bcd762895088af",
+          "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "title_zh": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "title_original": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
+          "url": "https://www.aibase.com/news/30184",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7454,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
       "primary_item": {
-        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "id": "e3e6537378f71d8593af4f9360bcd762895088af",
+        "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+        "title_zh": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
         "title_en": null,
-        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "title_original": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/438.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30184",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -940,8 +1184,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T09:59:45.153826Z",
-      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
       "primary_item": {
         "id": "f82c996e1adcd30933f74889c59a25322c024946",
         "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
@@ -958,7 +1202,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -1022,8 +1266,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T09:59:45.153826Z",
-      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
       "primary_item": {
         "id": "9513636bd5be73287a8d12b757c53569406cb040",
         "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
@@ -1040,7 +1284,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
+      }
+    },
+    {
+      "story_id": "story_713dc284a11c",
+      "title": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+      "url": "https://www.aibase.com/news/30186",
+      "primary_url": "https://www.aibase.com/news/30186",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "78153a5218203d757590e68e9bffab91a693fcf0",
+          "title": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+          "title_zh": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+          "title_en": null,
+          "title_original": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30186",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "78153a5218203d757590e68e9bffab91a693fcf0",
+          "title": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+          "title_zh": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+          "title_en": null,
+          "title_original": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30186",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T10:55:36.064724Z",
+      "latest_at": "2026-08-09T10:55:36.064724Z",
+      "primary_item": {
+        "id": "78153a5218203d757590e68e9bffab91a693fcf0",
+        "title": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+        "title_zh": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+        "title_en": null,
+        "title_original": "阿里千问大模型重磅更新：Qwen3.8-MAX加持，打造“真·办公助理”新范式 正文：",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30186",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:56:09.988454Z"
+      }
+    },
+    {
+      "story_id": "story_86c94d047e72",
+      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://news.ycombinator.com/item?id=49229412",
+      "primary_url": "https://news.ycombinator.com/item?id=49229412",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:36:36.830000Z"
+        },
+        {
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:36:36.830000Z"
+        },
+        {
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9954,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T08:00:51Z",
+      "latest_at": "2026-08-09T10:36:36.830000Z",
+      "primary_item": {
+        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+        "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49229412",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -1066,7 +1502,7 @@
           "published_at": "2026-08-09T06:22:36.507000Z"
         },
         {
-          "id": "d701a11300d80906f2a4955712818009896d5d9a",
+          "id": "8d3eee9cfed261ea50e46aa704d6c84b9ec32861",
           "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
           "title_zh": "向您其他“Claude代码”会话发送消息",
           "title_en": "Message your other Claude Code sessions",
@@ -1074,15 +1510,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "code.claude.com"
       ],
       "items": [
@@ -1101,7 +1537,7 @@
           "published_at": "2026-08-09T06:22:36.507000Z"
         },
         {
-          "id": "d701a11300d80906f2a4955712818009896d5d9a",
+          "id": "8d3eee9cfed261ea50e46aa704d6c84b9ec32861",
           "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
           "title_zh": "向您其他“Claude代码”会话发送消息",
           "title_en": "Message your other Claude Code sessions",
@@ -1109,23 +1545,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9491,
+        "recency": 0.9364,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,7 +1586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     },
     {
@@ -1227,15 +1663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.795,
+        "recency": 0.7844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1260,7 +1696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:00:24.250409Z"
+        "scored_at": "2026-08-09T10:56:09.988454Z"
       }
     }
   ]
