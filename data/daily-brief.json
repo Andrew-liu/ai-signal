@@ -1,149 +1,8 @@
 {
-  "generated_at": "2026-08-09T07:26:15.645729Z",
+  "generated_at": "2026-08-09T09:05:29.168433Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 5,
   "items": [
-    {
-      "story_id": "story_e0986e6e9db9",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
-        },
-        {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Simon Willison"
-      ],
-      "items": [
-        {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
-        },
-        {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7847,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T10:57:44Z",
-      "latest_at": "2026-08-08T14:38:40.439000Z",
-      "primary_item": {
-        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "title_en": null,
-        "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
-      }
-    },
     {
       "story_id": "story_019e440fd20f",
       "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
@@ -189,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9448,
+        "recency": 0.9225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -223,169 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
-      }
-    },
-    {
-      "story_id": "story_7bfb99629928",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "url": "https://www.ithome.com/0/987/452.htm",
-      "primary_url": "https://www.ithome.com/0/987/452.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8824,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T22:46:14Z",
-      "latest_at": "2026-08-08T22:46:14Z",
-      "primary_item": {
-        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_en": null,
-        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/452.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
-      }
-    },
-    {
-      "story_id": "story_8d401dc43acf",
-      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "primary_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T11:05:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T11:05:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7455,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T11:05:50Z",
-      "latest_at": "2026-08-08T11:05:50Z",
-      "primary_item": {
-        "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-        "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-        "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-        "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-        "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
+        "scored_at": "2026-08-09T09:10:09.789023Z"
       }
     },
     {
@@ -433,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9435,
+        "recency": 0.9213,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,279 +164,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
+        "scored_at": "2026-08-09T09:10:09.789023Z"
       }
     },
     {
-      "story_id": "story_90b3cceba55e",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "primary_url": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_e0986e6e9db9",
+      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+      "primary_url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7734,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
-      "primary_item": {
-        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_en": null,
-        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/438.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
-      }
-    },
-    {
-      "story_id": "story_e1fa47f5bc52",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "primary_url": "https://www.ithome.com/0/987/366.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7172,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T08:25:11Z",
-      "latest_at": "2026-08-08T08:25:11Z",
-      "primary_item": {
-        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_en": null,
-        "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/366.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
-      }
-    },
-    {
-      "story_id": "story_c679b82f6543",
-      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://news.ycombinator.com/item?id=49228086",
-      "primary_url": "https://news.ycombinator.com/item?id=49228086",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T07:06:03.975000Z"
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
         },
         {
-          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://marketnow.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T03:13:01Z"
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "Simon Willison"
       ],
       "items": [
         {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T07:06:03.975000Z"
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
         },
         {
-          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://marketnow.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T03:13:01Z"
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5838,
+      "importance": 0.5838,
+      "importance_score": 0.5838,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9952,
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.7603,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T03:13:01Z",
-      "latest_at": "2026-08-09T07:06:03.975000Z",
+      "earliest_at": "2026-08-08T10:57:44Z",
+      "latest_at": "2026-08-08T14:06:41Z",
       "primary_item": {
-        "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-        "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-        "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+        "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+        "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+        "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49228086",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
+        "scored_at": "2026-08-09T09:10:09.789023Z"
       }
     },
     {
@@ -765,7 +300,7 @@
           "published_at": "2026-08-09T06:22:36.507000Z"
         },
         {
-          "id": "8d3eee9cfed261ea50e46aa704d6c84b9ec32861",
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
           "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
           "title_zh": "向您其他“Claude代码”会话发送消息",
           "title_en": "Message your other Claude Code sessions",
@@ -773,15 +308,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "code.claude.com"
       ],
       "items": [
@@ -800,7 +335,7 @@
           "published_at": "2026-08-09T06:22:36.507000Z"
         },
         {
-          "id": "8d3eee9cfed261ea50e46aa704d6c84b9ec32861",
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
           "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
           "title_zh": "向您其他“Claude代码”会话发送消息",
           "title_en": "Message your other Claude Code sessions",
@@ -808,23 +343,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9848,
+        "recency": 0.9616,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -849,7 +384,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
+        "scored_at": "2026-08-09T09:10:09.789023Z"
       }
     },
     {
@@ -926,15 +461,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.825,
+        "recency": 0.8055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,7 +494,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:26:52.371913Z"
+        "scored_at": "2026-08-09T09:10:09.789023Z"
       }
     }
   ]
