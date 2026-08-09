@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T16:58:33.109958Z",
+  "generated_at": "2026-08-09T17:50:31.366425Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9649,
+        "recency": 0.9529,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -146,8 +146,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
         "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
@@ -164,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -212,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8463,
+        "recency": 0.8358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,7 +245,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
+      }
+    },
+    {
+      "story_id": "story_d325f4174c59",
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199",
+      "primary_url": "https://www.aibase.com/news/30199",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_en": null,
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_en": null,
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
+      "primary_item": {
+        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_en": null,
+        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30199",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -293,15 +375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8695,
+        "recency": 0.8587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,7 +408,250 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
+      }
+    },
+    {
+      "story_id": "story_019e440fd20f",
+      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.813,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T03:30:30Z",
+      "latest_at": "2026-08-09T03:30:30Z",
+      "primary_item": {
+        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:51:05.440270Z"
+      }
+    },
+    {
+      "story_id": "story_7bfb99629928",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "primary_url": "https://www.ithome.com/0/987/452.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7593,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T22:46:14Z",
+      "latest_at": "2026-08-08T22:46:14Z",
+      "primary_item": {
+        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_en": null,
+        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/452.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:51:05.440270Z"
+      }
+    },
+    {
+      "story_id": "story_abc8705d02da",
+      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "primary_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "title_en": "Lessons from the hacks",
+          "title_original": "Lessons from the hacks",
+          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+          "recommend_reason_zh": null,
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "title_en": "Lessons from the hacks",
+          "title_original": "Lessons from the hacks",
+          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+          "recommend_reason_zh": null,
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9591,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T14:57:11Z",
+      "latest_at": "2026-08-09T14:57:11Z",
+      "primary_item": {
+        "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+        "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+        "title_en": "Lessons from the hacks",
+        "title_original": "Lessons from the hacks",
+        "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+        "recommend_reason_zh": null,
+        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -390,8 +715,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
         "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
@@ -408,30 +733,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
-      "story_id": "story_019e440fd20f",
-      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "story_id": "story_5309a01ab201",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
       "source": "Daily Digest",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
           "source": "Daily Digest",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
+          "published_at": "2026-08-09T03:24:44Z"
         }
       ],
       "source_count": 1,
@@ -440,48 +765,48 @@
       ],
       "items": [
         {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
           "source": "Daily Digest",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
+          "published_at": "2026-08-09T03:24:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8233,
+        "recency": 0.8119,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T03:30:30Z",
-      "latest_at": "2026-08-09T03:30:30Z",
+      "earliest_at": "2026-08-09T03:24:44Z",
+      "latest_at": "2026-08-09T03:24:44Z",
       "primary_item": {
-        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
       },
@@ -489,169 +814,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
-      }
-    },
-    {
-      "story_id": "story_abc8705d02da",
-      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "primary_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "title_en": "Lessons from the hacks",
-          "title_original": "Lessons from the hacks",
-          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "title_en": "Lessons from the hacks",
-          "title_original": "Lessons from the hacks",
-          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T14:57:11Z",
-      "latest_at": "2026-08-09T14:57:11Z",
-      "primary_item": {
-        "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-        "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-        "title_en": "Lessons from the hacks",
-        "title_original": "Lessons from the hacks",
-        "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-        "recommend_reason_zh": null,
-        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
-      }
-    },
-    {
-      "story_id": "story_7bfb99629928",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "url": "https://www.ithome.com/0/987/452.htm",
-      "primary_url": "https://www.ithome.com/0/987/452.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7688,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T22:46:14Z",
-      "latest_at": "2026-08-08T22:46:14Z",
-      "primary_item": {
-        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_en": null,
-        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/452.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -715,8 +878,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
         "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
@@ -733,88 +896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
-      }
-    },
-    {
-      "story_id": "story_5309a01ab201",
-      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8221,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T03:24:44Z",
-      "latest_at": "2026-08-09T03:24:44Z",
-      "primary_item": {
-        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -878,8 +960,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
         "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
@@ -896,7 +978,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -960,8 +1042,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
         "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
@@ -978,7 +1060,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -1042,8 +1124,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "e3e6537378f71d8593af4f9360bcd762895088af",
         "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
@@ -1060,7 +1142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -1124,8 +1206,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "98608447a616cc19373034f3ef86c4e5f0966422",
         "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
@@ -1142,7 +1224,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
+      }
+    },
+    {
+      "story_id": "story_0921672e30ae",
+      "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://news.ycombinator.com/item?id=49232300",
+      "primary_url": "https://news.ycombinator.com/item?id=49232300",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
+          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49232300",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T17:37:28.949000Z"
+        },
+        {
+          "id": "a601f83850c7bd032d35c367164b74bb3481b67c",
+          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/eighttrigrams/us-vs-them",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T15:25:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
+          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49232300",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T17:37:28.949000Z"
+        },
+        {
+          "id": "a601f83850c7bd032d35c367164b74bb3481b67c",
+          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/eighttrigrams/us-vs-them",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T15:25:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T15:25:29Z",
+      "latest_at": "2026-08-09T17:37:28.949000Z",
+      "primary_item": {
+        "id": "a77869a6f151c09961698d0e97ca224261408d1d",
+        "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
+        "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49232300",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:51:05.440270Z"
+      }
+    },
+    {
+      "story_id": "story_67d5e9ec1941",
+      "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
+      "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+      "primary_url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
+          "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
+          "title_zh": "人工智能代码是疯狂的垃圾",
+          "title_en": "AI Code Is Insane Trash",
+          "title_original": "AI Code Is Insane Trash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T17:10:35Z"
+        },
+        {
+          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
+          "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
+          "title_zh": "人工智能代码是疯狂的垃圾",
+          "title_en": "AI Code Is Insane Trash",
+          "title_original": "AI Code Is Insane Trash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T17:10:35Z"
+        },
+        {
+          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9904,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T11:56:16Z",
+      "latest_at": "2026-08-09T17:10:35Z",
+      "primary_item": {
+        "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
+        "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
+        "title_zh": "人工智能代码是疯狂的垃圾",
+        "title_en": "AI Code Is Insane Trash",
+        "title_original": "AI Code Is Insane Trash",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -1206,8 +1508,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "4a43677b04b281cf5fbfb818ecf78c670f0799b5",
         "title": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
@@ -1224,7 +1526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -1288,8 +1590,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "f82c996e1adcd30933f74889c59a25322c024946",
         "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
@@ -1306,7 +1608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     },
     {
@@ -1370,8 +1672,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "earliest_at": "2026-08-09T17:50:31.366425Z",
+      "latest_at": "2026-08-09T17:50:31.366425Z",
       "primary_item": {
         "id": "cfbb1d461e839eb77ced6d338d16d31a75e95c76",
         "title": "字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力",
@@ -1388,253 +1690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
-      }
-    },
-    {
-      "story_id": "story_ef262694eaa4",
-      "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-      "url": "https://www.aibase.com/news/30197",
-      "primary_url": "https://www.aibase.com/news/30197",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
-      "primary_item": {
-        "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-        "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "title_en": null,
-        "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30197",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
-      }
-    },
-    {
-      "story_id": "story_52703033845b",
-      "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-      "url": "https://www.aibase.com/news/30195",
-      "primary_url": "https://www.aibase.com/news/30195",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4ba25ba0379f6756a471111b185864f54a223381",
-          "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "title_zh": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "title_en": null,
-          "title_original": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4ba25ba0379f6756a471111b185864f54a223381",
-          "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "title_zh": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "title_en": null,
-          "title_original": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
-      "primary_item": {
-        "id": "4ba25ba0379f6756a471111b185864f54a223381",
-        "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-        "title_zh": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-        "title_en": null,
-        "title_original": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30195",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
-      }
-    },
-    {
-      "story_id": "story_229fa9e0c717",
-      "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-      "url": "https://www.aibase.com/news/30193",
-      "primary_url": "https://www.aibase.com/news/30193",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
-          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "title_zh": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "title_en": null,
-          "title_original": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
-          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "title_zh": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "title_en": null,
-          "title_original": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T16:58:33.109958Z",
-      "latest_at": "2026-08-09T16:58:33.109958Z",
-      "primary_item": {
-        "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
-        "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-        "title_zh": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-        "title_en": null,
-        "title_original": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30193",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:00:53.225676Z"
+        "scored_at": "2026-08-09T17:51:05.440270Z"
       }
     }
   ]
