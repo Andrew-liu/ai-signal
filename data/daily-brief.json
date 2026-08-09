@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:50:46.328745Z",
+  "generated_at": "2026-08-09T16:58:33.109958Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -146,8 +146,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
         "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
@@ -164,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -212,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,7 +245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,88 +326,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
-      }
-    },
-    {
-      "story_id": "story_019e440fd20f",
-      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8368,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T03:30:30Z",
-      "latest_at": "2026-08-09T03:30:30Z",
-      "primary_item": {
-        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -471,8 +390,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
         "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
@@ -489,7 +408,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
+      }
+    },
+    {
+      "story_id": "story_019e440fd20f",
+      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8233,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T03:30:30Z",
+      "latest_at": "2026-08-09T03:30:30Z",
+      "primary_item": {
+        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -537,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -570,7 +570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -618,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7815,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -651,88 +651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
-      }
-    },
-    {
-      "story_id": "story_5309a01ab201",
-      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8356,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T03:24:44Z",
-      "latest_at": "2026-08-09T03:24:44Z",
-      "primary_item": {
-        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -796,8 +715,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
         "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
@@ -814,7 +733,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
+      }
+    },
+    {
+      "story_id": "story_5309a01ab201",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8221,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T03:24:44Z",
+      "latest_at": "2026-08-09T03:24:44Z",
+      "primary_item": {
+        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -878,8 +878,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
         "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
@@ -896,7 +896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -960,8 +960,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
         "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
@@ -978,7 +978,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -1042,8 +1042,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "e3e6537378f71d8593af4f9360bcd762895088af",
         "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
@@ -1060,7 +1060,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -1124,8 +1124,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "98608447a616cc19373034f3ef86c4e5f0966422",
         "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
@@ -1142,7 +1142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -1206,8 +1206,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "4a43677b04b281cf5fbfb818ecf78c670f0799b5",
         "title": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
@@ -1224,117 +1224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
-      }
-    },
-    {
-      "story_id": "story_67d5e9ec1941",
-      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-      "url": "https://news.ycombinator.com/item?id=49230605",
-      "primary_url": "https://news.ycombinator.com/item?id=49230605",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
-        },
-        {
-          "id": "ad9362593b22200c939b5b7d24b0da8447a3e9b8",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
-        },
-        {
-          "id": "ad9362593b22200c939b5b7d24b0da8447a3e9b8",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9967,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T11:56:16Z",
-      "latest_at": "2026-08-09T15:37:14.306000Z",
-      "primary_item": {
-        "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-        "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-        "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-        "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-        "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49230605",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -1398,8 +1288,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "f82c996e1adcd30933f74889c59a25322c024946",
         "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
@@ -1416,7 +1306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -1480,8 +1370,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "cfbb1d461e839eb77ced6d338d16d31a75e95c76",
         "title": "字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力",
@@ -1498,7 +1388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -1562,8 +1452,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
         "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
@@ -1580,7 +1470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     },
     {
@@ -1644,8 +1534,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T15:50:46.328745Z",
-      "latest_at": "2026-08-09T15:50:46.328745Z",
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
       "primary_item": {
         "id": "4ba25ba0379f6756a471111b185864f54a223381",
         "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
@@ -1662,7 +1552,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:19.949495Z"
+        "scored_at": "2026-08-09T17:00:53.225676Z"
+      }
+    },
+    {
+      "story_id": "story_229fa9e0c717",
+      "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+      "url": "https://www.aibase.com/news/30193",
+      "primary_url": "https://www.aibase.com/news/30193",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
+          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "title_zh": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "title_en": null,
+          "title_original": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
+          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "title_zh": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "title_en": null,
+          "title_original": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T16:58:33.109958Z",
+      "latest_at": "2026-08-09T16:58:33.109958Z",
+      "primary_item": {
+        "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
+        "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+        "title_zh": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+        "title_en": null,
+        "title_original": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30193",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T17:00:53.225676Z"
       }
     }
   ]
