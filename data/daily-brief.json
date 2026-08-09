@@ -1,8 +1,313 @@
 {
-  "generated_at": "2026-08-09T09:05:29.168433Z",
+  "generated_at": "2026-08-09T09:59:45.153826Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 14,
   "items": [
+    {
+      "story_id": "story_e0986e6e9db9",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": null,
+          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": null,
+          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7562,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T10:57:44Z",
+      "latest_at": "2026-08-08T14:38:40.439000Z",
+      "primary_item": {
+        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "title_en": null,
+        "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_b72b947b1616",
+      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+      "url": "https://www.aibase.com/news/30180",
+      "primary_url": "https://www.aibase.com/news/30180",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_en": null,
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_en": null,
+          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T09:59:45.153826Z",
+      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "primary_item": {
+        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "title_en": null,
+        "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30180",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_5da542bcba7e",
+      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "primary_url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d0376059a540cf55332476d773f52e93dce002c",
+          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T07:17:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9d0376059a540cf55332476d773f52e93dce002c",
+          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T07:17:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9617,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T07:17:35Z",
+      "latest_at": "2026-08-09T07:17:35Z",
+      "primary_item": {
+        "id": "9d0376059a540cf55332476d773f52e93dce002c",
+        "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+        "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+        "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+        "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+        "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
     {
       "story_id": "story_019e440fd20f",
       "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
@@ -48,15 +353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.9106,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +387,251 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:10:09.789023Z"
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_7bfb99629928",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "primary_url": "https://www.ithome.com/0/987/452.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8504,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T22:46:14Z",
+      "latest_at": "2026-08-08T22:46:14Z",
+      "primary_item": {
+        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_en": null,
+        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/452.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_185ce5e58586",
+      "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+      "url": "https://www.aibase.com/news/30179",
+      "primary_url": "https://www.aibase.com/news/30179",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_en": null,
+          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_en": null,
+          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T09:59:45.153826Z",
+      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "primary_item": {
+        "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+        "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "title_en": null,
+        "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30179",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_8d401dc43acf",
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "primary_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
+          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T11:05:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
+          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T11:05:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7184,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T11:05:50Z",
+      "latest_at": "2026-08-08T11:05:50Z",
+      "primary_item": {
+        "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+        "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+        "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+        "title_original": "DeepMind's hurricane model bought forecasters an extra day",
+        "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
       }
     },
     {
@@ -130,15 +679,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,117 +713,334 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:10:09.789023Z"
+        "scored_at": "2026-08-09T10:00:24.250409Z"
       }
     },
     {
-      "story_id": "story_e0986e6e9db9",
-      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-      "primary_url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
+      "story_id": "story_b1e793314165",
+      "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+      "url": "https://www.aibase.com/news/30183",
+      "primary_url": "https://www.aibase.com/news/30183",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_en": null,
+          "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
+          "url": "https://www.aibase.com/news/30183",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Simon Willison"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_en": null,
+          "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
+          "url": "https://www.aibase.com/news/30183",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5838,
-      "importance": 0.5838,
-      "importance_score": 0.5838,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.7603,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-08T10:57:44Z",
-      "latest_at": "2026-08-08T14:06:41Z",
+      "earliest_at": "2026-08-09T09:59:45.153826Z",
+      "latest_at": "2026-08-09T09:59:45.153826Z",
       "primary_item": {
-        "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-        "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-        "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-        "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-        "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+        "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+        "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+        "title_en": null,
+        "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
+        "url": "https://www.aibase.com/news/30183",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:10:09.789023Z"
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_90b3cceba55e",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7454,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_en": null,
+        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_e7ae39512cf6",
+      "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+      "url": "https://www.aibase.com/news/30181",
+      "primary_url": "https://www.aibase.com/news/30181",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f82c996e1adcd30933f74889c59a25322c024946",
+          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "title_zh": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "title_en": null,
+          "title_original": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30181",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f82c996e1adcd30933f74889c59a25322c024946",
+          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "title_zh": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "title_en": null,
+          "title_original": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30181",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T09:59:45.153826Z",
+      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "primary_item": {
+        "id": "f82c996e1adcd30933f74889c59a25322c024946",
+        "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+        "title_zh": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+        "title_en": null,
+        "title_original": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30181",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
+      }
+    },
+    {
+      "story_id": "story_295100609f7e",
+      "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+      "url": "https://www.aibase.com/news/30182",
+      "primary_url": "https://www.aibase.com/news/30182",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9513636bd5be73287a8d12b757c53569406cb040",
+          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "title_zh": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "title_en": null,
+          "title_original": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30182",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9513636bd5be73287a8d12b757c53569406cb040",
+          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "title_zh": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "title_en": null,
+          "title_original": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30182",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T09:59:45.153826Z",
+      "latest_at": "2026-08-09T09:59:45.153826Z",
+      "primary_item": {
+        "id": "9513636bd5be73287a8d12b757c53569406cb040",
+        "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+        "title_zh": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+        "title_en": null,
+        "title_original": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30182",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:00:24.250409Z"
       }
     },
     {
@@ -351,15 +1117,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9616,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -384,7 +1150,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:10:09.789023Z"
+        "scored_at": "2026-08-09T10:00:24.250409Z"
       }
     },
     {
@@ -461,15 +1227,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8055,
+        "recency": 0.795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -494,7 +1260,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:10:09.789023Z"
+        "scored_at": "2026-08-09T10:00:24.250409Z"
       }
     }
   ]
