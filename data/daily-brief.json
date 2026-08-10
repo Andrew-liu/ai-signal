@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-10T12:03:26.146279Z",
+  "generated_at": "2026-08-10T13:48:44.880902Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_88c4bb049e16",
+      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "primary_url": "https://openai.com/index/model-ml",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8553,
+      "importance": 0.8553,
+      "importance_score": 0.8553,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:00:00Z",
+      "latest_at": "2026-08-10T12:00:00Z",
+      "primary_item": {
+        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+        "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T13:49:35.119903Z"
+      }
+    },
     {
       "story_id": "story_1c29972a7c81",
       "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.855,
-      "importance": 0.855,
-      "importance_score": 0.855,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.972,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,12 +166,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
+      }
+    },
+    {
+      "story_id": "story_d49cfe84ff4f",
+      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+          "title_zh": "自定义线程订阅已被弃用",
+          "title_en": "Custom thread subscriptions are being deprecated",
+          "title_original": "Custom thread subscriptions are being deprecated",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:45:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+          "title_zh": "自定义线程订阅已被弃用",
+          "title_en": "Custom thread subscriptions are being deprecated",
+          "title_original": "Custom thread subscriptions are being deprecated",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:45:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.985,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:45:49Z",
+      "latest_at": "2026-08-10T12:45:49Z",
+      "primary_item": {
+        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+        "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+        "title_zh": "自定义线程订阅已被弃用",
+        "title_en": "Custom thread subscriptions are being deprecated",
+        "title_original": "Custom thread subscriptions are being deprecated",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
       "story_id": "story_895e60ee83c3",
-      "title": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "url": "https://huggingface.co/blog/muse-glimmer",
       "primary_url": "https://huggingface.co/blog/muse-glimmer",
       "source": "Hugging Face Blog",
@@ -96,8 +262,8 @@
       "sources": [
         {
           "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
-          "title": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "title_zh": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
           "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
           "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
           "summary": null,
@@ -116,8 +282,8 @@
       "items": [
         {
           "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
-          "title": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "title_zh": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
           "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
           "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
           "summary": null,
@@ -131,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8402,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -152,8 +318,8 @@
       "latest_at": "2026-08-10T00:00:00Z",
       "primary_item": {
         "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
-        "title": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-        "title_zh": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源",
+        "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
         "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
         "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
         "summary": null,
@@ -166,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -214,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -325,15 +491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8399,
+        "recency": 0.8189,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -360,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -383,7 +549,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "source_count": 1,
@@ -403,7 +569,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "item_count": 1,
@@ -424,8 +590,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:03:26.146279Z",
-      "latest_at": "2026-08-10T12:03:26.146279Z",
+      "earliest_at": "2026-08-10T13:48:44.880902Z",
+      "latest_at": "2026-08-10T13:48:44.880902Z",
       "primary_item": {
         "id": "3f548bd2ec8832b414c23b887d5f4d7304dbf1f1",
         "title": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
@@ -442,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -490,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9972,
+        "recency": 0.9722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -572,21 +738,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9468,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T10:01:39Z",
       "latest_at": "2026-08-10T10:01:39Z",
@@ -606,88 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
-      }
-    },
-    {
-      "story_id": "story_d9b7ad25a0ae",
-      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
-          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "title_en": null,
-          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T02:07:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
-          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "title_en": null,
-          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T02:07:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T02:07:18Z",
-      "latest_at": "2026-08-10T02:07:18Z",
-      "primary_item": {
-        "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
-        "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-        "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-        "title_en": null,
-        "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-        "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -764,15 +848,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7765,
+        "recency": 0.757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -798,7 +882,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
+      }
+    },
+    {
+      "story_id": "story_d9b7ad25a0ae",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_en": null,
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_en": null,
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8447,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T02:07:18Z",
+      "latest_at": "2026-08-10T02:07:18Z",
+      "primary_item": {
+        "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+        "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "title_en": null,
+        "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -846,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -879,7 +1044,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
+      }
+    },
+    {
+      "story_id": "story_91b9abec7d9b",
+      "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+      "url": "https://www.aibase.com/news/30223",
+      "primary_url": "https://www.aibase.com/news/30223",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
+          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_en": null,
+          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30223",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T13:48:44.880902Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
+          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_en": null,
+          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30223",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T13:48:44.880902Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T13:48:44.880902Z",
+      "latest_at": "2026-08-10T13:48:44.880902Z",
+      "primary_item": {
+        "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
+        "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+        "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+        "title_en": null,
+        "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30223",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -927,15 +1174,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7325,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -960,89 +1207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
-      }
-    },
-    {
-      "story_id": "story_91b9abec7d9b",
-      "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-      "url": "https://www.aibase.com/news/30223",
-      "primary_url": "https://www.aibase.com/news/30223",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
-          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_en": null,
-          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30223",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
-          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_en": null,
-          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30223",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:03:26.146279Z",
-      "latest_at": "2026-08-10T12:03:26.146279Z",
-      "primary_item": {
-        "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
-        "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-        "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-        "title_en": null,
-        "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30223",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -1090,15 +1255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8284,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1123,7 +1288,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -1171,15 +1336,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8296,
+        "recency": 0.8088,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1204,7 +1369,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -1227,7 +1392,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "source_count": 1,
@@ -1247,7 +1412,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "item_count": 1,
@@ -1268,8 +1433,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:03:26.146279Z",
-      "latest_at": "2026-08-10T12:03:26.146279Z",
+      "earliest_at": "2026-08-10T13:48:44.880902Z",
+      "latest_at": "2026-08-10T13:48:44.880902Z",
       "primary_item": {
         "id": "9ba8b6d1068efb124f3f1a93d9cfcc84bdfcc939",
         "title": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
@@ -1286,7 +1451,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -1309,7 +1474,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "source_count": 1,
@@ -1329,7 +1494,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "item_count": 1,
@@ -1350,8 +1515,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:03:26.146279Z",
-      "latest_at": "2026-08-10T12:03:26.146279Z",
+      "earliest_at": "2026-08-10T13:48:44.880902Z",
+      "latest_at": "2026-08-10T13:48:44.880902Z",
       "primary_item": {
         "id": "f1c134c462508736fa2ef081ad1ebafb0c21622f",
         "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
@@ -1368,7 +1533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -1391,7 +1556,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "source_count": 1,
@@ -1411,7 +1576,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
+          "published_at": "2026-08-10T13:48:44.880902Z"
         }
       ],
       "item_count": 1,
@@ -1432,8 +1597,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:03:26.146279Z",
-      "latest_at": "2026-08-10T12:03:26.146279Z",
+      "earliest_at": "2026-08-10T13:48:44.880902Z",
+      "latest_at": "2026-08-10T13:48:44.880902Z",
       "primary_item": {
         "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
         "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
@@ -1450,7 +1615,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     },
     {
@@ -1527,15 +1692,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6351,
-      "importance": 0.6351,
-      "importance_score": 0.6351,
+      "score": 0.6316,
+      "importance": 0.6316,
+      "importance_score": 0.6316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7855,
+        "recency": 0.7659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,171 +1726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
-      }
-    },
-    {
-      "story_id": "story_ae25210f3945",
-      "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-      "url": "https://www.aibase.com/news/30220",
-      "primary_url": "https://www.aibase.com/news/30220",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3db11516374d8d3ef8a0d73268bc251949deb5b2",
-          "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-          "title_zh": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-          "title_en": null,
-          "title_original": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30220",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3db11516374d8d3ef8a0d73268bc251949deb5b2",
-          "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-          "title_zh": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-          "title_en": null,
-          "title_original": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30220",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:03:26.146279Z",
-      "latest_at": "2026-08-10T12:03:26.146279Z",
-      "primary_item": {
-        "id": "3db11516374d8d3ef8a0d73268bc251949deb5b2",
-        "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-        "title_zh": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-        "title_en": null,
-        "title_original": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30220",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
-      }
-    },
-    {
-      "story_id": "story_69d516d1e1bc",
-      "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-      "url": "https://www.aibase.com/news/30217",
-      "primary_url": "https://www.aibase.com/news/30217",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0df62b7d47daa6d3f87d8e8731b9db66a477d5d0",
-          "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-          "title_zh": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-          "title_en": null,
-          "title_original": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30217",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0df62b7d47daa6d3f87d8e8731b9db66a477d5d0",
-          "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-          "title_zh": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-          "title_en": null,
-          "title_original": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30217",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T12:03:26.146279Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:03:26.146279Z",
-      "latest_at": "2026-08-10T12:03:26.146279Z",
-      "primary_item": {
-        "id": "0df62b7d47daa6d3f87d8e8731b9db66a477d5d0",
-        "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-        "title_zh": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-        "title_en": null,
-        "title_original": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30217",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T12:06:29.902681Z"
+        "scored_at": "2026-08-10T13:49:35.119903Z"
       }
     }
   ]
