@@ -1,16 +1,21 @@
-# AI Signal
-
-[![GitHub stars](https://img.shields.io/github/stars/Andrew-liu/ai-signal?style=flat-square&color=f5c542)](https://github.com/Andrew-liu/ai-signal/stargazers)
-[![Live](https://img.shields.io/badge/Live-AI%20Signal-green?style=flat-square)](https://andrew-liu.github.io/ai-signal/)
-[![Actions](https://img.shields.io/github/actions/workflow/status/Andrew-liu/ai-signal/update-news.yml?branch=main&label=update&style=flat-square)](https://github.com/Andrew-liu/ai-signal/actions/workflows/update-news.yml)
-[![Agent Skill](https://img.shields.io/badge/Agent%20Skill-AI%20News%20Radar-blueviolet?style=flat-square)](skills/ai-news-radar/README.md)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
-
-面向中文 AI 从业者与内容创作者的开源资讯聚合站。
+<div align="center">
+  <h1>AI Signal</h1>
+  <p>
+    <a href="https://github.com/Andrew-liu/ai-signal/stargazers"><img src="https://img.shields.io/github/stars/Andrew-liu/ai-signal?style=flat-square&amp;color=f5c542" alt="GitHub stars"></a>
+    <a href="https://andrew-liu.github.io/ai-signal/"><img src="https://img.shields.io/badge/Live-AI%20Signal-green?style=flat-square" alt="Live site"></a>
+    <a href="https://github.com/Andrew-liu/ai-signal/actions/workflows/update-news.yml"><img src="https://img.shields.io/github/actions/workflow/status/Andrew-liu/ai-signal/update-news.yml?branch=main&amp;label=update&amp;style=flat-square" alt="Update workflow"></a>
+    <a href="skills/ai-news-radar/README.md"><img src="https://img.shields.io/badge/Agent%20Skill-AI%20News%20Radar-blueviolet?style=flat-square" alt="AI News Radar Agent Skill"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="MIT License"></a>
+  </p>
+  <p>面向中文 AI 从业者与内容创作者的开源资讯聚合站。</p>
+  <p>
+    <a href="https://andrew-liu.github.io/ai-signal/">在线站点</a> ·
+    <a href="README.en.md">English</a> ·
+    <a href="docs/SOURCE_COVERAGE.md">信息源策略</a>
+  </p>
+</div>
 
 AI Signal 自动采集官方博客、技术媒体、RSS、开发者社区及可选社交信源，完成 AI 相关性过滤、中文标题处理、重复内容去除、同事件合并和重要性排序，最终生成可直接部署的静态网站。
-
-[在线站点](https://andrew-liu.github.io/ai-signal/) · [English](README.en.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
 
 ## 核心能力
 

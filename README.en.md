@@ -1,16 +1,21 @@
-# AI Signal
-
-[![GitHub stars](https://img.shields.io/github/stars/Andrew-liu/ai-signal?style=flat-square&color=f5c542)](https://github.com/Andrew-liu/ai-signal/stargazers)
-[![Live](https://img.shields.io/badge/Live-AI%20Signal-green?style=flat-square)](https://andrew-liu.github.io/ai-signal/)
-[![Actions](https://img.shields.io/github/actions/workflow/status/Andrew-liu/ai-signal/update-news.yml?branch=main&label=update&style=flat-square)](https://github.com/Andrew-liu/ai-signal/actions/workflows/update-news.yml)
-[![Agent Skill](https://img.shields.io/badge/Agent%20Skill-AI%20News%20Radar-blueviolet?style=flat-square)](skills/ai-news-radar/README.md)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
-
-An open-source AI information aggregator for Chinese AI practitioners and creators.
+<div align="center">
+  <h1>AI Signal</h1>
+  <p>
+    <a href="https://github.com/Andrew-liu/ai-signal/stargazers"><img src="https://img.shields.io/github/stars/Andrew-liu/ai-signal?style=flat-square&amp;color=f5c542" alt="GitHub stars"></a>
+    <a href="https://andrew-liu.github.io/ai-signal/"><img src="https://img.shields.io/badge/Live-AI%20Signal-green?style=flat-square" alt="Live site"></a>
+    <a href="https://github.com/Andrew-liu/ai-signal/actions/workflows/update-news.yml"><img src="https://img.shields.io/github/actions/workflow/status/Andrew-liu/ai-signal/update-news.yml?branch=main&amp;label=update&amp;style=flat-square" alt="Update workflow"></a>
+    <a href="skills/ai-news-radar/README.md"><img src="https://img.shields.io/badge/Agent%20Skill-AI%20News%20Radar-blueviolet?style=flat-square" alt="AI News Radar Agent Skill"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="MIT License"></a>
+  </p>
+  <p>An open-source AI information aggregator for Chinese AI practitioners and creators.</p>
+  <p>
+    <a href="https://andrew-liu.github.io/ai-signal/">Live site</a> ·
+    <a href="README.md">中文</a> ·
+    <a href="docs/SOURCE_COVERAGE.md">Source strategy</a>
+  </p>
+</div>
 
 AI Signal collects public updates from official blogs, technical media, RSS feeds, developer communities, and optional social sources. It filters AI-relevant items, normalizes titles, removes duplicates, merges coverage of the same event, ranks importance, and publishes a static responsive website.
-
-[Live site](https://andrew-liu.github.io/ai-signal/) · [中文](README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
 
 ## Features
 

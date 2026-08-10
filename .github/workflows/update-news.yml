@@ -1,6 +1,10 @@
 name: Update AI Signal Snapshot
 
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
   workflow_dispatch:
     inputs:
       force_tikhub:
