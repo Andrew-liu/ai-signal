@@ -1,29 +1,223 @@
 {
-  "generated_at": "2026-08-09T23:50:56.272928Z",
+  "generated_at": "2026-08-10T02:37:48.409501Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_a42aa2bf58c8",
-      "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-      "url": "https://www.aibase.com/news/30192",
-      "primary_url": "https://www.aibase.com/news/30192",
+      "story_id": "story_db693db10af6",
+      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "primary_url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9624,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T23:58:34Z",
+      "latest_at": "2026-08-09T23:58:34Z",
+      "primary_item": {
+        "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+        "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+        "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:39:51.070023Z"
+      }
+    },
+    {
+      "story_id": "story_d9b7ad25a0ae",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_en": null,
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_en": null,
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:07:18Z",
+      "latest_at": "2026-08-10T02:07:18Z",
+      "primary_item": {
+        "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+        "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "title_en": null,
+        "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:39:51.070023Z"
+      }
+    },
+    {
+      "story_id": "story_638e0ee7c5f7",
+      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+      "url": "https://www.aibase.com/news/30207",
+      "primary_url": "https://www.aibase.com/news/30207",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "title_en": null,
-          "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30192",
+          "url": "https://www.aibase.com/news/30207",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -32,18 +226,18 @@
       ],
       "items": [
         {
-          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "title_en": null,
-          "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30192",
+          "url": "https://www.aibase.com/news/30207",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -64,17 +258,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-        "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-        "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+        "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+        "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
         "title_en": null,
-        "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+        "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30192",
+        "url": "https://www.aibase.com/news/30207",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -82,7 +276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
@@ -130,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8737,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +358,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
+      }
+    },
+    {
+      "story_id": "story_9d4e935f861b",
+      "title": "OpenChamber：一个基于代理的开发环境",
+      "url": "https://openchamber.dev",
+      "primary_url": "https://openchamber.dev",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": null,
+          "title_original": "OpenChamber：一个基于代理的开发环境",
+          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+          "recommend_reason_zh": null,
+          "url": "https://openchamber.dev",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:46:27.596000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": null,
+          "title_original": "OpenChamber：一个基于代理的开发环境",
+          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+          "recommend_reason_zh": null,
+          "url": "https://openchamber.dev",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:46:27.596000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T00:46:27.596000Z",
+      "latest_at": "2026-08-10T00:46:27.596000Z",
+      "primary_item": {
+        "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+        "title": "OpenChamber：一个基于代理的开发环境",
+        "title_zh": "OpenChamber：一个基于代理的开发环境",
+        "title_en": null,
+        "title_original": "OpenChamber：一个基于代理的开发环境",
+        "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+        "recommend_reason_zh": null,
+        "url": "https://openchamber.dev",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
@@ -212,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9895,
+        "recency": 0.9506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
@@ -294,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9262,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -327,30 +603,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
-      "story_id": "story_d325f4174c59",
-      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-      "url": "https://www.aibase.com/news/30199",
-      "primary_url": "https://www.aibase.com/news/30199",
+      "story_id": "story_ad5a6d38f4aa",
+      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+      "url": "https://www.aibase.com/news/30202",
+      "primary_url": "https://www.aibase.com/news/30202",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "title_en": null,
-          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30199",
+          "url": "https://www.aibase.com/news/30202",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -359,18 +635,18 @@
       ],
       "items": [
         {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "title_en": null,
-          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30199",
+          "url": "https://www.aibase.com/news/30202",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -391,17 +667,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+        "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
         "title_en": null,
-        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30199",
+        "url": "https://www.aibase.com/news/30202",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -409,7 +685,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
+      }
+    },
+    {
+      "story_id": "story_85e804b6deb3",
+      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_en": null,
+          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_en": null,
+          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9749,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T00:52:19Z",
+      "latest_at": "2026-08-10T00:52:19Z",
+      "primary_item": {
+        "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+        "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+        "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+        "title_en": null,
+        "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+        "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
@@ -457,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7663,
+        "recency": 0.7361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -490,192 +847,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
-      "story_id": "story_5da542bcba7e",
-      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-      "primary_url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d0376059a540cf55332476d773f52e93dce002c",
-          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T07:17:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d0376059a540cf55332476d773f52e93dce002c",
-          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T07:17:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7874,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T07:17:35Z",
-      "latest_at": "2026-08-09T07:17:35Z",
-      "primary_item": {
-        "id": "9d0376059a540cf55332476d773f52e93dce002c",
-        "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-        "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
-      }
-    },
-    {
-      "story_id": "story_019e440fd20f",
-      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7455,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T03:30:30Z",
-      "latest_at": "2026-08-09T03:30:30Z",
-      "primary_item": {
-        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
-      }
-    },
-    {
-      "story_id": "story_b72b947b1616",
-      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-      "url": "https://www.aibase.com/news/30180",
-      "primary_url": "https://www.aibase.com/news/30180",
+      "story_id": "story_83e68d96b0b8",
+      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+      "url": "https://www.aibase.com/news/30203",
+      "primary_url": "https://www.aibase.com/news/30203",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
           "title_en": null,
-          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30180",
+          "url": "https://www.aibase.com/news/30203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -684,18 +879,18 @@
       ],
       "items": [
         {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
           "title_en": null,
-          "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30180",
+          "url": "https://www.aibase.com/news/30203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -716,17 +911,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-        "title_zh": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+        "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
         "title_en": null,
-        "title_original": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30180",
+        "url": "https://www.aibase.com/news/30203",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -734,111 +929,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
-      "story_id": "story_5309a01ab201",
-      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7444,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T03:24:44Z",
-      "latest_at": "2026-08-09T03:24:44Z",
-      "primary_item": {
-        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
-      }
-    },
-    {
-      "story_id": "story_185ce5e58586",
-      "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-      "url": "https://www.aibase.com/news/30179",
-      "primary_url": "https://www.aibase.com/news/30179",
+      "story_id": "story_882121d179e0",
+      "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+      "url": "https://www.aibase.com/news/30210",
+      "primary_url": "https://www.aibase.com/news/30210",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "title_en": null,
-          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30179",
+          "url": "https://www.aibase.com/news/30210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -847,18 +961,18 @@
       ],
       "items": [
         {
-          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "title_en": null,
-          "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30179",
+          "url": "https://www.aibase.com/news/30210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -879,17 +993,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-        "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-        "title_zh": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "id": "527862e451260bcdcf23e1995729283740eb2d67",
+        "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
         "title_en": null,
-        "title_original": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30179",
+        "url": "https://www.aibase.com/news/30210",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -897,7 +1011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
@@ -974,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6624,
-      "importance": 0.6624,
-      "importance_score": 0.6624,
+      "score": 0.6557,
+      "importance": 0.6557,
+      "importance_score": 0.6557,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.937,
+        "recency": 0.9001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1008,30 +1122,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
-      "story_id": "story_3bb539329f5d",
-      "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
-      "url": "https://www.aibase.com/news/30185",
-      "primary_url": "https://www.aibase.com/news/30185",
+      "story_id": "story_60c45f9e2562",
+      "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+      "url": "https://www.aibase.com/news/30200",
+      "primary_url": "https://www.aibase.com/news/30200",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
-          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
-          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
           "title_en": null,
-          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30185",
+          "url": "https://www.aibase.com/news/30200",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -1040,18 +1154,18 @@
       ],
       "items": [
         {
-          "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
-          "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
-          "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
           "title_en": null,
-          "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30185",
+          "url": "https://www.aibase.com/news/30200",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -1072,17 +1186,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "00b6237da740f3738a741b99b972fe6726e4b8a3",
-        "title": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
-        "title_zh": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+        "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
         "title_en": null,
-        "title_original": "ChatGPT 接入 Adobe 全家桶：70 多款创意工具一句话调用，修图剪辑无需切换软件",
+        "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30185",
+        "url": "https://www.aibase.com/news/30200",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1090,30 +1204,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
-      "story_id": "story_b1e793314165",
-      "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
-      "url": "https://www.aibase.com/news/30183",
-      "primary_url": "https://www.aibase.com/news/30183",
+      "story_id": "story_3628e8845d8e",
+      "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+      "url": "https://www.aibase.com/news/30206",
+      "primary_url": "https://www.aibase.com/news/30206",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
-          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
-          "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
           "title_en": null,
-          "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30183",
+          "url": "https://www.aibase.com/news/30206",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -1122,18 +1236,18 @@
       ],
       "items": [
         {
-          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
-          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
-          "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
           "title_en": null,
-          "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30183",
+          "url": "https://www.aibase.com/news/30206",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -1154,17 +1268,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
-        "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
-        "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+        "id": "f00e72445229b58d87baebc6842423424a765494",
+        "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
         "title_en": null,
-        "title_original": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+        "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30183",
+        "url": "https://www.aibase.com/news/30206",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1172,30 +1286,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
-      "story_id": "story_1df7f23c4e1c",
-      "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
-      "url": "https://www.aibase.com/news/30184",
-      "primary_url": "https://www.aibase.com/news/30184",
+      "story_id": "story_5744e38c3127",
+      "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+      "url": "https://www.aibase.com/news/30201",
+      "primary_url": "https://www.aibase.com/news/30201",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e3e6537378f71d8593af4f9360bcd762895088af",
-          "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
-          "title_zh": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
+          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
           "title_en": null,
-          "title_original": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30184",
+          "url": "https://www.aibase.com/news/30201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -1204,18 +1318,18 @@
       ],
       "items": [
         {
-          "id": "e3e6537378f71d8593af4f9360bcd762895088af",
-          "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
-          "title_zh": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
+          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
           "title_en": null,
-          "title_original": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30184",
+          "url": "https://www.aibase.com/news/30201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -1236,17 +1350,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "e3e6537378f71d8593af4f9360bcd762895088af",
-        "title": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
-        "title_zh": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+        "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
+        "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+        "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
         "title_en": null,
-        "title_original": "Grokipedia被曝数月未更新，AI百科项目编辑功能陷停滞",
+        "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30184",
+        "url": "https://www.aibase.com/news/30201",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1254,31 +1368,99 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
+      }
+    },
+    {
+      "story_id": "story_589994013cde",
+      "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+      "url": "https://www.aibase.com/news/30205",
+      "primary_url": "https://www.aibase.com/news/30205",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:37:48.409501Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:37:48.409501Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
+      "primary_item": {
+        "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+        "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "title_en": null,
+        "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30205",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
       "story_id": "story_9e861a3d88aa",
-      "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-      "url": "https://news.ycombinator.com/item?id=49234675",
-      "primary_url": "https://news.ycombinator.com/item?id=49234675",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "primary_url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "source": "laurentiugabriel.github.io",
+      "source_name": "Buzzing",
       "sources": [
-        {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-          "title_zh": "我如何利用LLM学习复杂的主题",
-          "title_en": "How I use LLMs to learn complex topics",
-          "title_original": "How I use LLMs to learn complex topics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49234675",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T23:38:34.548000Z"
-        },
         {
           "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
           "title": "我如何利用大型语言模型（LLM）学习复杂主题",
@@ -1306,391 +1488,102 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-09T19:16:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "laurentiugabriel.github.io"
-      ],
-      "items": [
-        {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-          "title_zh": "我如何利用LLM学习复杂的主题",
-          "title_en": "How I use LLMs to learn complex topics",
-          "title_original": "How I use LLMs to learn complex topics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49234675",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T23:38:34.548000Z"
-        },
-        {
-          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "title_en": null,
-          "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "laurentiugabriel.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T20:30:33.242000Z"
-        },
-        {
-          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
-          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "title_en": "How I use LLMs to learn complex topics",
-          "title_original": "How I use LLMs to learn complex topics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T19:16:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.997,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T19:16:49Z",
-      "latest_at": "2026-08-09T23:38:34.548000Z",
-      "primary_item": {
-        "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-        "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-        "title_zh": "我如何利用LLM学习复杂的主题",
-        "title_en": "How I use LLMs to learn complex topics",
-        "title_original": "How I use LLMs to learn complex topics",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49234675",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
-      }
-    },
-    {
-      "story_id": "story_d0b32e7a187e",
-      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-      "url": "https://www.aibase.com/news/30194",
-      "primary_url": "https://www.aibase.com/news/30194",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_en": null,
-          "title_original": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_en": null,
-          "title_original": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
-      "primary_item": {
-        "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-        "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "title_en": null,
-        "title_original": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30194",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
-      }
-    },
-    {
-      "story_id": "story_92e753eae6d0",
-      "title": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-      "url": "https://www.aibase.com/news/30187",
-      "primary_url": "https://www.aibase.com/news/30187",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a43677b04b281cf5fbfb818ecf78c670f0799b5",
-          "title": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-          "title_zh": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-          "title_en": null,
-          "title_original": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a43677b04b281cf5fbfb818ecf78c670f0799b5",
-          "title": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-          "title_zh": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-          "title_en": null,
-          "title_original": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
-      "primary_item": {
-        "id": "4a43677b04b281cf5fbfb818ecf78c670f0799b5",
-        "title": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-        "title_zh": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-        "title_en": null,
-        "title_original": "OpenAI 首款 AI 硬件曝光：甜甜圈造型、冰球大小，售价 300–400 美元，2027 年有望发布",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30187",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
-      }
-    },
-    {
-      "story_id": "story_4ce0c388aa43",
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://news.ycombinator.com/item?id=49235011",
-      "primary_url": "https://news.ycombinator.com/item?id=49235011",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T23:38:34.548000Z"
-        },
-        {
-          "id": "ffd184206face1103f4e29caab4778fe3560895a",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:43:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "laurentiugabriel.github.io"
       ],
       "items": [
         {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
+          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_en": null,
+          "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T23:38:34.548000Z"
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "laurentiugabriel.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T20:30:33.242000Z"
         },
         {
-          "id": "ffd184206face1103f4e29caab4778fe3560895a",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_en": "How I use LLMs to learn complex topics",
+          "title_original": "How I use LLMs to learn complex topics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:43:52Z"
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T19:16:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.997,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T19:43:52Z",
-      "latest_at": "2026-08-09T23:38:34.548000Z",
+      "earliest_at": "2026-08-09T19:16:49Z",
+      "latest_at": "2026-08-09T20:30:33.242000Z",
       "primary_item": {
-        "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-        "title": "The tragedy of the commons, AI edition",
-        "title_zh": null,
-        "title_en": "The tragedy of the commons, AI edition",
-        "title_original": "The tragedy of the commons, AI edition",
+        "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+        "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+        "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+        "title_en": null,
+        "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49235011",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+        "source": "laurentiugabriel.github.io",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     },
     {
-      "story_id": "story_e7ae39512cf6",
-      "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-      "url": "https://www.aibase.com/news/30181",
-      "primary_url": "https://www.aibase.com/news/30181",
+      "story_id": "story_277d9e7add8e",
+      "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+      "url": "https://www.aibase.com/news/30204",
+      "primary_url": "https://www.aibase.com/news/30204",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f82c996e1adcd30933f74889c59a25322c024946",
-          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-          "title_zh": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+          "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "title_zh": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
           "title_en": null,
-          "title_original": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "title_original": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30181",
+          "url": "https://www.aibase.com/news/30204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "source_count": 1,
@@ -1699,18 +1592,18 @@
       ],
       "items": [
         {
-          "id": "f82c996e1adcd30933f74889c59a25322c024946",
-          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-          "title_zh": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+          "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+          "title_zh": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
           "title_en": null,
-          "title_original": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "title_original": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30181",
+          "url": "https://www.aibase.com/news/30204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": null
+          "published_at": "2026-08-10T02:37:48.409501Z"
         }
       ],
       "item_count": 1,
@@ -1731,17 +1624,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T23:50:56.272928Z",
-      "latest_at": "2026-08-09T23:50:56.272928Z",
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
       "primary_item": {
-        "id": "f82c996e1adcd30933f74889c59a25322c024946",
-        "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-        "title_zh": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+        "id": "adc460264fcc2c14f9069c1b883dd872fc04dc2e",
+        "title": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
+        "title_zh": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
         "title_en": null,
-        "title_original": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+        "title_original": "探秘OpenAI底座大模型：代号Doug的全新预训练项目浮出水面",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30181",
+        "url": "https://www.aibase.com/news/30204",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1749,7 +1642,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:51:32.376690Z"
+        "scored_at": "2026-08-10T02:39:51.070023Z"
+      }
+    },
+    {
+      "story_id": "story_0fa42eef41e9",
+      "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+      "url": "https://www.aibase.com/news/30211",
+      "primary_url": "https://www.aibase.com/news/30211",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f6d0245e8f00576dc2c5699b603be34dcee61373",
+          "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "title_zh": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "title_en": null,
+          "title_original": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30211",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:37:48.409501Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f6d0245e8f00576dc2c5699b603be34dcee61373",
+          "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "title_zh": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "title_en": null,
+          "title_original": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30211",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:37:48.409501Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:37:48.409501Z",
+      "latest_at": "2026-08-10T02:37:48.409501Z",
+      "primary_item": {
+        "id": "f6d0245e8f00576dc2c5699b603be34dcee61373",
+        "title": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+        "title_zh": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+        "title_en": null,
+        "title_original": "支持5张参考图融合与智能扩图，xAI Imagine Image2.0正式上线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30211",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:39:51.070023Z"
       }
     }
   ]
