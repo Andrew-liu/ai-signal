@@ -70,6 +70,20 @@ def test_page_preserves_required_runtime_dom_contract():
     assert 'class="why-box"' in source
 
 
+def test_page_exposes_ai_trending_board_with_explicit_24h_rules():
+    html = read("index.html")
+    app = read("assets/app.js")
+    assert 'aria-label="AI热榜"' in html
+    assert "AI热榜" in html
+    assert "HOT_WINDOW_HOURS = 24" in app
+    assert "HOT_MIN_IMPORTANCE_SCORE = 82" in app
+    assert "HOT_TRUSTED_IMPORTANCE_SCORE = 76" in app
+    assert "function hotReferenceTimeMs()" in app
+    assert "function storyHasTrustedHotSource(story)" in app
+    assert "function storyQualifiesForHotBoard(story)" in app
+    assert "热度" in app
+
+
 def test_public_build_only_copies_single_frontend_assets():
     source = read("scripts/build_public_site.py")
     assert 'ROOT_DIRS = ("assets",)' in source

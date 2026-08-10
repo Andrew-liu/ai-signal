@@ -1185,38 +1185,68 @@ function buildPersonaPanel(entry) {
   return cols > 0 ? panel : null;
 }
 
+const HOT_WINDOW_HOURS = 24;
 const HOT_DECAY_HOURS = 12;
-const HOT_SCORE_SCALE = 60;
+const HOT_MIN_IMPORTANCE_SCORE = 82;
+const HOT_TRUSTED_IMPORTANCE_SCORE = 76;
+const HOT_BOARD_LIMIT = 20;
+
+function hotReferenceTimeMs() {
+  const generated = Date.parse(String(state.storiesMerged?.generated_at || state.generatedAt || ""));
+  return Number.isFinite(generated) ? generated : Date.now();
+}
+
+function storyAgeHours(story) {
+  const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
+  if (!latest) return Number.POSITIVE_INFINITY;
+  return Math.max(0, (hotReferenceTimeMs() - latest) / 3600000);
+}
+
+function storyHasTrustedHotSource(story) {
+  const refs = [
+    story?.primary_item,
+    ...(Array.isArray(story?.sources) ? story.sources : []),
+  ].filter(Boolean);
+  return refs.some(isCuratedSourceRef);
+}
+
+function storyQualifiesForHotBoard(story) {
+  const ageHours = storyAgeHours(story);
+  if (!Number.isFinite(ageHours) || ageHours > HOT_WINDOW_HOURS) return false;
+  const importance = storyScore(story);
+  return (
+    storySourceCount(story) >= 2 ||
+    importance >= HOT_MIN_IMPORTANCE_SCORE ||
+    (storyHasTrustedHotSource(story) && importance >= HOT_TRUSTED_IMPORTANCE_SCORE)
+  );
+}
 
 function storyHotness(story) {
-  const sources = storySourceCount(story);
-  if (sources < 2) return 0;
-  const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
-  const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 24;
-  return (sources - 1) * Math.exp(-ageHours / HOT_DECAY_HOURS);
+  if (!storyQualifiesForHotBoard(story)) return 0;
+  const sourceSignal = Math.min(1, Math.max(0, storySourceCount(story) - 1) / 3);
+  const importanceSignal = Math.min(1, storyScore(story) / 100);
+  const freshnessSignal = Math.exp(-storyAgeHours(story) / HOT_DECAY_HOURS);
+  return (importanceSignal * 0.45) + (sourceSignal * 0.35) + (freshnessSignal * 0.2);
 }
 
 function storyHotScore(story) {
   const raw = storyHotness(story);
-  if (raw <= 0) return 0;
-  return Math.max(1, Math.min(100, Math.round(raw * HOT_SCORE_SCALE)));
+  return raw > 0 ? Math.max(1, Math.min(100, Math.round(raw * 100))) : 0;
 }
 
 function hotStories(stories) {
   return stories
-    .filter((story) => storyHotness(story) > 0)
+    .filter(storyQualifiesForHotBoard)
     .sort((a, b) => {
       const byHotScore = storyHotScore(b) - storyHotScore(a);
       if (byHotScore !== 0) return byHotScore;
-      const byHotRaw = storyHotness(b) - storyHotness(a);
-      if (byHotRaw !== 0) return byHotRaw;
       const byEditorial = storyScore(b) - storyScore(a);
       if (byEditorial !== 0) return byEditorial;
+      const bySources = storySourceCount(b) - storySourceCount(a);
+      if (bySources !== 0) return bySources;
       return storyTimeMs(b, "latest_at") - storyTimeMs(a, "latest_at");
     });
 }
-
-const HOT_BOARD_LIMIT = 20;
 
 function briefStories() {
   return (Array.isArray(state.dailyBrief?.items) ? state.dailyBrief.items : []).filter((story) => !isUnsafeStory(story));
@@ -1243,10 +1273,9 @@ function isCuratedSourceRef(ref) {
   return ref.site_id === "official_ai" || ref.site_id === "aihot" || ref.source_tier === "official" || ref.source_tier === "curated";
 }
 
-// 热点排行区候选池：stories-merged 中 source_count>=2，按热度降序（不含栏目过滤，供 tab 计数复用）
+// AI热榜候选池：最近24小时内，多源印证或重要性达标的事件，按综合热度降序。
 function hotBoardStories() {
   return hotStories(mergedStories().filter((story) =>
-    storySourceCount(story) >= 2 &&
     storyMatchesSiteFilter(story) &&
     storyMatchesQuery(story)));
 }
@@ -1585,6 +1614,7 @@ function buildHotRow(row, rank) {
   const metaEl = document.createElement("span");
   metaEl.className = "hot-row-meta";
   const sourceCount = rowSourceCount(row);
+  const heatScore = row.story ? storyHotScore(row.story) : 0;
   const relTime = fmtRelativeTime(timelineMs(item) || storyTimeMs(row.story, "latest_at"));
 
   // 同一事件展开：热点行的"N 个信源"变成可点击项，点击在 .hot-row 正下方插入/移除同一份子列表组件。
@@ -1611,13 +1641,15 @@ function buildHotRow(row, rank) {
       sourceToggle.setAttribute("aria-expanded", "true");
       el.insertAdjacentElement("afterend", sourceList);
     });
+    const heatEl = document.createElement("span");
+    heatEl.textContent = `热度 ${fmtNumber(heatScore)} · `;
     const sep = document.createElement("span");
     sep.textContent = " · ";
     const timeEl = document.createElement("span");
     timeEl.textContent = relTime;
-    metaEl.append(sourceToggle, sep, timeEl);
+    metaEl.append(heatEl, sourceToggle, sep, timeEl);
   } else {
-    metaEl.textContent = `${fmtNumber(sourceCount)} 个信源 · ${relTime}`;
+    metaEl.textContent = `热度 ${fmtNumber(heatScore)} · ${fmtNumber(sourceCount)} 个信源 · ${relTime}`;
   }
 
   el.append(rankEl, titleEl, metaEl);
@@ -1773,7 +1805,7 @@ function renderTop3Board() {
   rows.forEach((row) => top3BoardListEl.appendChild(renderItemNode(row)));
 }
 
-// 热点排行区：不设固定条数，展示条数取决于当前有多少条满足多信源热度阈值（HOT_BOARD_LIMIT 只是技术兜底）。
+// AI热榜：最近24小时内满足多源印证或重要性门槛的事件，最多展示 HOT_BOARD_LIMIT 条。
 function renderHotBoard() {
   renderTop3Board();
   if (!hotBoardListEl) return;
@@ -1785,8 +1817,8 @@ function renderHotBoard() {
   const rows = hotBoardEntries();
   if (hotBoardMetaEl) {
     hotBoardMetaEl.textContent = rows.length
-      ? `当前 ${fmtNumber(rows.length)} 条热点 · 按热度降序`
-      : "按热度排序";
+      ? `最近 24 小时 · ${fmtNumber(rows.length)} 条 · 综合热度排序`
+      : "最近 24 小时 · 综合热度排序";
   }
 
   if (!rows.length) {
