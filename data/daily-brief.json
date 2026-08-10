@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:06:24.261660Z",
+  "generated_at": "2026-08-10T19:24:58.006980Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -26,24 +26,39 @@
           "published_at": "2026-08-10T14:00:00Z"
         },
         {
-          "id": "c5b1c9386311bd99eaa8beb0fabb4496aca0fe70",
-          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_zh": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
-          "title_en": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_original": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "id": "105596003162f95fc90870cf17eba55ef07ae76f",
+          "title": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_zh": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
+          "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49244308",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T19:25:18.823000Z"
+        },
+        {
+          "id": "e05568c26cf1f3a6a5f215f4dd05615e1d46056d",
+          "title": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_zh": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
+          "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "hackernews"
       ],
       "items": [
         {
@@ -61,32 +76,46 @@
           "published_at": "2026-08-10T14:00:00Z"
         },
         {
-          "id": "c5b1c9386311bd99eaa8beb0fabb4496aca0fe70",
-          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_zh": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
-          "title_en": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "title_original": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "id": "105596003162f95fc90870cf17eba55ef07ae76f",
+          "title": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_zh": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
+          "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49244308",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T19:25:18.823000Z"
+        },
+        {
+          "id": "e05568c26cf1f3a6a5f215f4dd05615e1d46056d",
+          "title": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_zh": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
+          "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8666,
-      "importance": 0.8666,
-      "importance_score": 0.8666,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8885,
+      "importance": 0.8885,
+      "importance_score": 0.8885,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9424,
-        "story_heat": 0.25
+        "recency": 0.9248,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -96,7 +125,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-10T14:00:00Z",
-      "latest_at": "2026-08-10T14:38:20Z",
+      "latest_at": "2026-08-10T19:25:18.823000Z",
       "primary_item": {
         "id": "0754ccb6465361f94f2e013cde380666cd80ded3",
         "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信函 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -113,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -161,15 +190,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8557,
-      "importance": 0.8557,
-      "importance_score": 0.8557,
+      "score": 0.8524,
+      "importance": 0.8524,
+      "importance_score": 0.8524,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.976,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -244,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9486,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -327,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9492,
+        "recency": 0.9315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -410,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7699,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -493,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9841,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,7 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -576,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8907,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,7 +640,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
+      }
+    },
+    {
+      "story_id": "story_a2c082e61e71",
+      "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+      "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+      "primary_url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
+          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+          "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
+          "title_en": "GitHub billing in India now supports automatic recurring payments",
+          "title_original": "GitHub billing in India now supports automatic recurring payments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:00:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
+          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+          "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
+          "title_en": "GitHub billing in India now supports automatic recurring payments",
+          "title_original": "GitHub billing in India now supports automatic recurring payments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:00:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.925,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:00:58Z",
+      "latest_at": "2026-08-10T14:00:58Z",
+      "primary_item": {
+        "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
+        "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+        "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
+        "title_en": "GitHub billing in India now supports automatic recurring payments",
+        "title_original": "GitHub billing in India now supports automatic recurring payments",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -659,15 +771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9698,
+        "recency": 0.9516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -693,90 +805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
-      }
-    },
-    {
-      "story_id": "story_d49cfe84ff4f",
-      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "title_zh": "自定义线程订阅已被弃用",
-          "title_en": "Custom thread subscriptions are being deprecated",
-          "title_original": "Custom thread subscriptions are being deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "title_zh": "自定义线程订阅已被弃用",
-          "title_en": "Custom thread subscriptions are being deprecated",
-          "title_original": "Custom thread subscriptions are being deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9257,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:45:49Z",
-      "latest_at": "2026-08-10T12:45:49Z",
-      "primary_item": {
-        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-        "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-        "title_zh": "自定义线程订阅已被弃用",
-        "title_en": "Custom thread subscriptions are being deprecated",
-        "title_original": "Custom thread subscriptions are being deprecated",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -824,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9156,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -859,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -936,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9432,
+        "recency": 0.9255,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -971,7 +1000,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
+      }
+    },
+    {
+      "story_id": "story_d49cfe84ff4f",
+      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+          "title_zh": "自定义线程订阅已被弃用",
+          "title_en": "Custom thread subscriptions are being deprecated",
+          "title_original": "Custom thread subscriptions are being deprecated",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:45:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+          "title_zh": "自定义线程订阅已被弃用",
+          "title_en": "Custom thread subscriptions are being deprecated",
+          "title_original": "Custom thread subscriptions are being deprecated",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:45:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9084,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:45:49Z",
+      "latest_at": "2026-08-10T12:45:49Z",
+      "primary_item": {
+        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+        "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+        "title_zh": "自定义线程订阅已被弃用",
+        "title_en": "Custom thread subscriptions are being deprecated",
+        "title_original": "Custom thread subscriptions are being deprecated",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -994,7 +1106,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T17:27:24.261660Z"
+          "published_at": "2026-08-10T18:24:58.006980Z"
         }
       ],
       "source_count": 1,
@@ -1014,20 +1126,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T17:27:24.261660Z"
+          "published_at": "2026-08-10T18:24:58.006980Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1035,8 +1147,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T17:27:24.261660Z",
-      "latest_at": "2026-08-10T17:27:24.261660Z",
+      "earliest_at": "2026-08-10T18:24:58.006980Z",
+      "latest_at": "2026-08-10T18:24:58.006980Z",
       "primary_item": {
         "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
         "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
@@ -1053,7 +1165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -1101,15 +1213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.891,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,7 +1247,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
+      }
+    },
+    {
+      "story_id": "story_db693db10af6",
+      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "primary_url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7552,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T23:58:34Z",
+      "latest_at": "2026-08-09T23:58:34Z",
+      "primary_item": {
+        "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+        "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+        "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -1183,15 +1407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7699,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1218,7 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -1266,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9426,
+        "recency": 0.9249,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,7 +1524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -1348,21 +1572,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T11:51:38.747000Z",
       "latest_at": "2026-08-10T11:51:38.747000Z",
@@ -1382,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -1430,15 +1653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8895,
+        "recency": 0.8729,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1465,7 +1688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     },
     {
@@ -1513,15 +1736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7699,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1546,170 +1769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
-      }
-    },
-    {
-      "story_id": "story_4b75b6d902d4",
-      "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-      "url": "https://x.com/finkd/status/2086754845218726027",
-      "primary_url": "https://x.com/finkd/status/2086754845218726027",
-      "source": "X：Mark Zuckerberg (@finkd)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
-          "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-          "title_zh": "扎克伯格：超级智能应人人可用",
-          "title_en": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-          "title_original": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-          "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/finkd/status/2086754845218726027",
-          "source": "X：Mark Zuckerberg (@finkd)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:01:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Mark Zuckerberg (@finkd)"
-      ],
-      "items": [
-        {
-          "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
-          "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-          "title_zh": "扎克伯格：超级智能应人人可用",
-          "title_en": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-          "title_original": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-          "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/finkd/status/2086754845218726027",
-          "source": "X：Mark Zuckerberg (@finkd)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:01:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8899,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T10:01:39Z",
-      "latest_at": "2026-08-10T10:01:39Z",
-      "primary_item": {
-        "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
-        "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-        "title_zh": "扎克伯格：超级智能应人人可用",
-        "title_en": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-        "title_original": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
-        "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/finkd/status/2086754845218726027",
-        "source": "X：Mark Zuckerberg (@finkd)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
-      }
-    },
-    {
-      "story_id": "story_051c42befe67",
-      "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-      "url": "https://www.aibase.com/news/30224",
-      "primary_url": "https://www.aibase.com/news/30224",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f1c134c462508736fa2ef081ad1ebafb0c21622f",
-          "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-          "title_zh": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-          "title_en": null,
-          "title_original": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T17:13:24.261660Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f1c134c462508736fa2ef081ad1ebafb0c21622f",
-          "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-          "title_zh": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-          "title_en": null,
-          "title_original": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T17:13:24.261660Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9873,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:13:24.261660Z",
-      "latest_at": "2026-08-10T17:13:24.261660Z",
-      "primary_item": {
-        "id": "f1c134c462508736fa2ef081ad1ebafb0c21622f",
-        "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-        "title_zh": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-        "title_en": null,
-        "title_original": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30224",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T18:07:05.487751Z"
+        "scored_at": "2026-08-10T19:25:36.661027Z"
       }
     }
   ]
