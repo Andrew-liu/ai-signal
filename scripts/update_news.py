@@ -173,6 +173,12 @@ CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
         "max_entries": 8,
     },
     {
+        "title": "AINews by smol.ai",
+        "xml_url": "https://news.smol.ai/rss.xml",
+        "html_url": "https://news.smol.ai/",
+        "max_entries": 7,
+    },
+    {
         "title": "Claude Code Releases",
         "xml_url": "https://github.com/anthropics/claude-code/releases.atom",
         "html_url": "https://github.com/anthropics/claude-code/releases",
@@ -185,8 +191,11 @@ AIHOT_MIN_SCORE = 60
 AIHOT_API_TAKE = 100
 AIHOT_API_MAX_PAGES = 5
 AIHOT_API_UA = f"{BROWSER_UA} aihot-skill/0.2.0 AI-News-Radar/0.7"
+AIHOT_FULL_FEED_URL = "https://aihot.virxact.com/feed/full.xml"
 AIHOT_FEED_URL = "https://aihot.virxact.com/feed.xml"
 AIHOT_FALLBACK_FEED_URLS = (
+    AIHOT_FULL_FEED_URL,
+    AIHOT_FEED_URL,
     "https://aihot.virxact.com/rss.xml",
     "https://aihot.virxact.com/feed",
     "https://aihot.virxact.com/feed/daily.xml",
@@ -321,6 +330,7 @@ PUBLIC_RAW_META_FIELDS: tuple[str, ...] = (
     "aihot_score",
     "aihot_category",
     "aihot_selected",
+    "aihot_ingest_mode",
     "provided_title_en",
     "provided_title_zh",
     "creator_metrics",
@@ -2168,7 +2178,12 @@ def parse_aihot_feed_items(feed_content: bytes, now: datetime, feed_url: str = A
                 title=title,
                 url=link,
                 published_at=published,
-                meta={"feed_url": feed_url},
+                meta={
+                    "feed_url": feed_url,
+                    "aihot_ingest_mode": (
+                        "rss_full_fallback" if feed_url == AIHOT_FULL_FEED_URL else "rss_fallback"
+                    ),
+                },
             )
         )
 
@@ -2221,6 +2236,7 @@ def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) 
                 meta={
                     "api_url": AIHOT_ITEMS_API_URL,
                     "aihot_id": entry.get("id"),
+                    "aihot_ingest_mode": "api_selected",
                     "aihot_score": score_value,
                     "aihot_category": entry.get("category"),
                     "aihot_selected": bool(entry.get("selected")),
@@ -2234,30 +2250,61 @@ def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) 
     return out
 
 
+def fetch_aihot_feed_fallback(session: requests.Session, now: datetime) -> list[RawItem]:
+    errors: list[str] = []
+    for feed_url in AIHOT_FALLBACK_FEED_URLS:
+        try:
+            response = session.get(
+                feed_url,
+                timeout=30,
+                headers={
+                    "User-Agent": AIHOT_API_UA,
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                    "Accept": "application/rss+xml, application/xml;q=0.9, text/xml;q=0.8",
+                },
+            )
+            response.raise_for_status()
+            items = parse_aihot_feed_items(response.content, now, feed_url)
+            if items:
+                return items
+            errors.append(f"{feed_url}: empty feed")
+        except Exception as exc:
+            errors.append(f"{feed_url}: {exc}")
+    raise RuntimeError("AI HOT RSS fallbacks failed: " + "; ".join(errors))
+
+
 def fetch_aihot(session: requests.Session, now: datetime) -> list[RawItem]:
-    out: list[RawItem] = []
-    cursor = ""
-    for _ in range(AIHOT_API_MAX_PAGES):
-        params: dict[str, Any] = {"mode": "selected", "take": AIHOT_API_TAKE}
-        if cursor:
-            params["cursor"] = cursor
-        r = session.get(
-            AIHOT_ITEMS_API_URL,
-            timeout=30,
-            params=params,
-            headers={
-                "User-Agent": AIHOT_API_UA,
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                "Accept": "application/json",
-            },
-        )
-        r.raise_for_status()
-        payload = r.json()
-        out.extend(parse_aihot_api_items(payload, now))
-        cursor = str(payload.get("nextCursor") or "")
-        if not payload.get("hasNext") or not cursor:
-            break
-    return out
+    try:
+        out: list[RawItem] = []
+        cursor = ""
+        for _ in range(AIHOT_API_MAX_PAGES):
+            params: dict[str, Any] = {"mode": "selected", "take": AIHOT_API_TAKE}
+            if cursor:
+                params["cursor"] = cursor
+            response = session.get(
+                AIHOT_ITEMS_API_URL,
+                timeout=30,
+                params=params,
+                headers={
+                    "User-Agent": AIHOT_API_UA,
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                    "Accept": "application/json",
+                },
+            )
+            response.raise_for_status()
+            payload = response.json()
+            if not isinstance(payload, dict) or not isinstance(payload.get("items"), list):
+                raise ValueError("AI HOT API returned an invalid items schema")
+            out.extend(parse_aihot_api_items(payload, now))
+            cursor = str(payload.get("nextCursor") or "")
+            if not payload.get("hasNext") or not cursor:
+                break
+        return out
+    except Exception as api_exc:
+        try:
+            return fetch_aihot_feed_fallback(session, now)
+        except Exception as feed_exc:
+            raise RuntimeError(f"AI HOT API failed ({api_exc}); {feed_exc}") from feed_exc
 
 
 

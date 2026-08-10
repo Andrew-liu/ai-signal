@@ -89,9 +89,11 @@ baseline, then let the aggregator layer add breadth.
 - **Curated AI media RSS**: reads a small set of public RSS/Atom feeds that add
   coverage without requiring login: The Decoder AI News, TechCrunch AI, The
   Verge RSS with strict AI-title filtering, MarkTechPost Research with research
-  filtering, VentureBeat AI, Artificial Intelligence News, and Claude Code
-  GitHub releases. These feeds are capped per source and pass through the same
-  AI relevance scoring as the rest of the radar. Research-heavy feeds are
+  filtering, VentureBeat AI, Artificial Intelligence News, AINews by smol.ai,
+  and Claude Code GitHub releases. The smol.ai feed is collected at newsletter
+  issue level from its public RSS endpoint. These feeds are capped per source
+  and pass through the same AI relevance scoring as the rest of the radar.
+  Research-heavy feeds are
   intentionally filtered and downweighted so they fill the research lane without
   dominating the default hot view.
 - **AI Breakfast**: reads the public Beehiiv archive through Jina Reader because
@@ -99,9 +101,11 @@ baseline, then let the aggregator layer add breadth.
 - **AI HOT**: reads the public `https://aihot.virxact.com/api/public/items`
   API in selected mode and keeps only items whose AI HOT card score is at least
   60. The parser preserves AI HOT's Chinese title, valid English original title,
-  editorial summary, category, score, and canonical source URL. The RSS feed is
-  intentionally not used for the default fetch path because it does not expose
-  the source score field needed for this quality gate.
+  editorial summary, category, score, and canonical source URL. If that API is
+  unavailable or returns an invalid schema, the collector falls back first to
+  `https://aihot.virxact.com/feed/full.xml`, then to the legacy public RSS
+  endpoints. RSS fallback records remain explicitly marked as unscored degraded
+  input and never receive a fabricated AI HOT score.
 - **Hacker News Algolia**: reads the public
   `https://hn.algolia.com/api/v1/search_by_date` endpoint for the last 24 hours
   of HN stories matching focused AI/tooling keywords such as OpenAI, Anthropic,

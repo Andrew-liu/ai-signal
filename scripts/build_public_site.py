@@ -23,7 +23,7 @@ ROOT_FILES = (
     "content-policy.html",
     "robots.txt",
 )
-ROOT_DIRS = ("assets", "classic")
+ROOT_DIRS = ("assets",)
 
 
 def main() -> int:
@@ -36,7 +36,7 @@ def main() -> int:
     root = args.root.resolve()
     data_dir = args.data_dir.resolve()
     output = args.output_dir.resolve()
-    if output == root or root in output.parents and output.name in {"assets", "classic", "data"}:
+    if output == root or root in output.parents and output.name in {"assets", "data"}:
         raise SystemExit("refusing unsafe output directory")
 
     shutil.rmtree(output, ignore_errors=True)

@@ -99,7 +99,8 @@ def test_waytoagi_payload_applies_blocklist_to_all_public_updates():
 
 def test_frontends_do_not_interpolate_external_errors_or_source_names_into_html():
 
-    for relative in ("assets/app.js", "classic/assets/app.js"):
+    for relative in ("assets/app.js",):
+
         text = (ROOT / relative).read_text(encoding="utf-8")
         assert "${newsResult.reason.message}" not in text
         assert "${waytoagiResult.reason.message}" not in text
@@ -108,7 +109,8 @@ def test_frontends_do_not_interpolate_external_errors_or_source_names_into_html(
 
 
 def test_remote_data_source_is_allowlisted_in_both_frontends():
-    for relative in ("assets/app.js", "classic/assets/app.js"):
+    for relative in ("assets/app.js",):
+
         text = (ROOT / relative).read_text(encoding="utf-8")
         assert "TRUSTED_DATA_HOSTS" in text
         assert "safeDataBaseUrl" in text

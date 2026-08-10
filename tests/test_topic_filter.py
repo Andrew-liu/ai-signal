@@ -343,6 +343,7 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(items[0].site_name, "AI HOT")
         self.assertEqual(items[0].title, "OpenAI ships a new Codex feature")
         self.assertEqual(items[0].url, "https://example.com/codex")
+        self.assertEqual(items[0].meta["aihot_ingest_mode"], "rss_fallback")
 
     def test_parse_aihot_api_items_keeps_only_score_60_plus(self):
         payload = {
@@ -386,6 +387,7 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(items[0].source, "OpenAI Blog")
         self.assertEqual(items[0].meta["aihot_score"], 60)
         self.assertEqual(items[0].meta["aihot_category"], "ai-models")
+        self.assertEqual(items[0].meta["aihot_ingest_mode"], "api_selected")
         self.assertEqual(items[0].meta["provided_title_zh"], "高分条目")
         self.assertEqual(items[0].meta["provided_title_en"], "High score item")
 
@@ -495,6 +497,69 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(session.calls[1][1]["params"], {"mode": "selected", "take": 100, "cursor": "cursor-2"})
         self.assertIn("aihot-skill/0.2.0", session.calls[0][1]["headers"]["User-Agent"])
 
+    def test_fetch_aihot_falls_back_to_full_feed_when_api_fails(self):
+        xml = """<?xml version='1.0' encoding='UTF-8'?>
+<rss><channel><title>AIHOT — 精选全文</title>
+<item>
+<title>Qwen ships a multimodal agent plugin</title>
+<link>https://aihot.virxact.com/items/example</link>
+<pubDate>Mon, 10 Aug 2026 04:04:12 GMT</pubDate>
+<author>noreply@aihot.virxact.com (X：通义千问)</author>
+</item>
+</channel></rss>""".encode("utf-8")
+
+        class ApiFailureResponse:
+            def raise_for_status(self):
+                raise RuntimeError("api unavailable")
+
+        class FeedResponse:
+            content = xml
+
+            def raise_for_status(self):
+                return None
+
+        class FakeSession:
+            def __init__(self):
+                self.calls = []
+
+            def get(self, url, **kwargs):
+                self.calls.append((url, kwargs))
+                if url.endswith("/api/public/items"):
+                    return ApiFailureResponse()
+                return FeedResponse()
+
+        session = FakeSession()
+        items = fetch_aihot(session, now=datetime(2026, 8, 10, tzinfo=timezone.utc))
+        self.assertEqual([call[0] for call in session.calls[:2]], [
+            "https://aihot.virxact.com/api/public/items",
+            "https://aihot.virxact.com/feed/full.xml",
+        ])
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].meta["aihot_ingest_mode"], "rss_full_fallback")
+        self.assertNotIn("aihot_score", items[0].meta)
+
+    def test_fetch_aihot_does_not_fallback_for_valid_empty_api_result(self):
+        class EmptyApiResponse:
+            def raise_for_status(self):
+                return None
+
+            def json(self):
+                return {"items": [], "hasNext": False, "nextCursor": None}
+
+        class FakeSession:
+            def __init__(self):
+                self.calls = []
+
+            def get(self, url, **kwargs):
+                self.calls.append((url, kwargs))
+                return EmptyApiResponse()
+
+        session = FakeSession()
+        items = fetch_aihot(session, now=datetime(2026, 8, 10, tzinfo=timezone.utc))
+        self.assertEqual(items, [])
+        self.assertEqual(len(session.calls), 1)
+        self.assertEqual(session.calls[0][0], "https://aihot.virxact.com/api/public/items")
+
     def test_parse_curated_media_feed_applies_strict_title_filter_and_cap(self):
         xml = """<?xml version='1.0' encoding='UTF-8'?>
 <rss><channel><title>The Verge</title>
@@ -521,6 +586,33 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(items[0].site_id, "curated_media")
         self.assertEqual(items[0].source, "The Verge")
         self.assertIn("OpenAI", items[0].title)
+
+    def test_parse_smol_ai_rss_as_curated_media(self):
+        xml = """<?xml version='1.0' encoding='UTF-8'?>
+<rss><channel><title>AINews</title>
+<item>
+<title>not much happened today</title>
+<link>https://news.smol.ai/issues/26-08-07-not-much/</link>
+<pubDate>Fri, 07 Aug 2026 05:44:39 GMT</pubDate>
+</item>
+<item>
+<title>GDM leadership reset</title>
+<link>https://news.smol.ai/issues/26-08-05-gdm-reset/</link>
+<pubDate>Wed, 05 Aug 2026 05:44:39 GMT</pubDate>
+</item>
+</channel></rss>""".encode("utf-8")
+        feed = {
+            "title": "AINews by smol.ai",
+            "xml_url": "https://news.smol.ai/rss.xml",
+            "html_url": "https://news.smol.ai/",
+            "max_entries": 7,
+        }
+        items = parse_curated_ai_media_feed_items(xml, feed, now=parse_date_any("2026-08-10T00:00:00Z", None))
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items[0].site_id, "curated_media")
+        self.assertEqual(items[0].source, "AINews by smol.ai")
+        self.assertEqual(items[0].url, "https://news.smol.ai/issues/26-08-07-not-much/")
+        self.assertEqual(items[0].published_at.isoformat(), "2026-08-07T05:44:39+00:00")
 
     def test_parse_follow_builders_items(self):
         feeds = {

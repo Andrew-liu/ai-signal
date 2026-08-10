@@ -155,6 +155,7 @@ CURATED_MEDIA_TRUSTED_SOURCE_KEYWORDS = [
     "techcrunch ai",
     "venturebeat ai",
     "artificial intelligence news",
+    "ainews by smol.ai",
     "claude code releases",
 ]
 CURATED_MEDIA_RESEARCH_SOURCE_KEYWORDS = [

@@ -114,6 +114,18 @@ class AiRelevanceScoringTests(unittest.TestCase):
         self.assertEqual(result["reason"], "curated_media_source_filter")
         self.assertEqual(result["label"], "industry_business")
 
+    def test_curated_media_keeps_smol_ai_digest_without_title_keyword(self):
+        rec = {
+            "site_id": "curated_media",
+            "site_name": "Curated Media",
+            "source": "AINews by smol.ai",
+            "title": "not much happened today",
+            "url": "https://news.smol.ai/issues/26-08-07-not-much/",
+        }
+        result = score_ai_relevance(rec)
+        self.assertTrue(result["is_ai_related"])
+        self.assertEqual(result["reason"], "curated_media_source_filter")
+
     def test_curated_general_feed_requires_title_signal(self):
         rec = {
             "site_id": "curated_media",

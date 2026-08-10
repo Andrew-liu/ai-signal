@@ -147,7 +147,7 @@ AI News Radar already has some similar building blocks:
 
 - Official AI updates
 - OPML/RSS support
-- AI HOT feed ingestion
+- AI HOT selected API ingestion with `feed/full.xml` as the first RSS fallback
 - Follow Builders public feeds
 - Buzzing / TechURLs / NewsNow / Zeli aggregators
 - AI relevance scoring
