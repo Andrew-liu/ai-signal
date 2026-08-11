@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-11T12:00:55.540851Z",
+  "generated_at": "2026-08-11T13:47:19.485742Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_eddc237df9be",
+      "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_zh": "想到 ACE 了吗？我们可以用更少的代币做到这一点",
+          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T13:37:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_zh": "想到 ACE 了吗？我们可以用更少的代币做到这一点",
+          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T13:37:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9976,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:37:10Z",
+      "latest_at": "2026-08-11T13:37:10Z",
+      "primary_item": {
+        "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+        "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+        "title_zh": "想到 ACE 了吗？我们可以用更少的代币做到这一点",
+        "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
+        "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T13:48:21.490739Z"
+      }
+    },
     {
       "story_id": "story_1ad67226f47b",
       "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -106,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.853,
-      "importance": 0.853,
-      "importance_score": 0.853,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7277,
+        "recency": 0.7093,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,90 +225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
-      }
-    },
-    {
-      "story_id": "story_b385166df3f8",
-      "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
-          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
-          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7536,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T16:25:36Z",
-      "latest_at": "2026-08-10T16:25:36Z",
-      "primary_item": {
-        "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-        "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
-        "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -273,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7878,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,7 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -356,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7324,
+        "recency": 0.7139,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7329,
+        "recency": 0.7144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,7 +474,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
+      }
+    },
+    {
+      "story_id": "story_b385166df3f8",
+      "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
+          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T16:25:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
+          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T16:25:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7346,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T16:25:36Z",
+      "latest_at": "2026-08-10T16:25:36Z",
+      "primary_item": {
+        "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+        "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
+        "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T13:48:21.490739Z"
+      }
+    },
+    {
+      "story_id": "story_f527ac6baab4",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:00:25Z",
+      "latest_at": "2026-08-11T13:00:25Z",
+      "primary_item": {
+        "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+        "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+        "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+        "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+        "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+        "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -522,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7599,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -557,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -605,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -639,7 +804,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
+      }
+    },
+    {
+      "story_id": "story_2e9310d5724c",
+      "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+      "url": "https://www.aibase.com/news/30253",
+      "primary_url": "https://www.aibase.com/news/30253",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
+          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_en": null,
+          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T13:47:19.485742Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
+          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_en": null,
+          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T13:47:19.485742Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:47:19.485742Z",
+      "latest_at": "2026-08-11T13:47:19.485742Z",
+      "primary_item": {
+        "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
+        "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+        "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+        "title_en": null,
+        "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30253",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -687,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8902,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,89 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
-      }
-    },
-    {
-      "story_id": "story_2e9310d5724c",
-      "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-      "url": "https://www.aibase.com/news/30253",
-      "primary_url": "https://www.aibase.com/news/30253",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_en": null,
-          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_en": null,
-          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T12:00:55.540851Z",
-      "latest_at": "2026-08-11T12:00:55.540851Z",
-      "primary_item": {
-        "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-        "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "title_en": null,
-        "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30253",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -851,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7278,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "official",
@@ -886,7 +1051,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -934,15 +1099,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7488,
+        "recency": 0.7299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -968,7 +1133,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -1016,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.962,
+        "recency": 0.9377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1050,7 +1215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -1098,15 +1263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
+        "recency": 0.7954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1132,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -1180,21 +1345,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9134,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T05:44:38Z",
       "latest_at": "2026-08-11T05:44:38Z",
@@ -1214,7 +1378,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -1262,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9151,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,7 +1459,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -1343,15 +1507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9033,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,7 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -1399,7 +1563,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
+          "published_at": "2026-08-11T13:47:19.485742Z"
         }
       ],
       "source_count": 1,
@@ -1419,7 +1583,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
+          "published_at": "2026-08-11T13:47:19.485742Z"
         }
       ],
       "item_count": 1,
@@ -1440,8 +1604,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T12:00:55.540851Z",
-      "latest_at": "2026-08-11T12:00:55.540851Z",
+      "earliest_at": "2026-08-11T13:47:19.485742Z",
+      "latest_at": "2026-08-11T13:47:19.485742Z",
       "primary_item": {
         "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
         "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
@@ -1458,90 +1622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
-      }
-    },
-    {
-      "story_id": "story_d49cfe84ff4f",
-      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "title_zh": "自定义线程订阅已被弃用",
-          "title_en": "Custom thread subscriptions are being deprecated",
-          "title_original": "Custom thread subscriptions are being deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "title_zh": "自定义线程订阅已被弃用",
-          "title_en": "Custom thread subscriptions are being deprecated",
-          "title_original": "Custom thread subscriptions are being deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7148,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:45:49Z",
-      "latest_at": "2026-08-10T12:45:49Z",
-      "primary_item": {
-        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-        "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-        "title_zh": "自定义线程订阅已被弃用",
-        "title_en": "Custom thread subscriptions are being deprecated",
-        "title_original": "Custom thread subscriptions are being deprecated",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     },
     {
@@ -1564,7 +1645,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
+          "published_at": "2026-08-11T13:47:19.485742Z"
         }
       ],
       "source_count": 1,
@@ -1584,7 +1665,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
+          "published_at": "2026-08-11T13:47:19.485742Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1686,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T12:00:55.540851Z",
-      "latest_at": "2026-08-11T12:00:55.540851Z",
+      "earliest_at": "2026-08-11T13:47:19.485742Z",
+      "latest_at": "2026-08-11T13:47:19.485742Z",
       "primary_item": {
         "id": "29b2a6cf469cd010981eb7a400e8944b20d5b21b",
         "title": "Claude挑战百年数学难题未果，却意外改写了人类数学史的底层边界！",
@@ -1623,89 +1704,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
-      }
-    },
-    {
-      "story_id": "story_a5ebfc1b3422",
-      "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-      "url": "https://www.aibase.com/news/30249",
-      "primary_url": "https://www.aibase.com/news/30249",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
-          "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-          "title_zh": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-          "title_en": null,
-          "title_original": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30249",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
-          "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-          "title_zh": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-          "title_en": null,
-          "title_original": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30249",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T12:00:55.540851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T12:00:55.540851Z",
-      "latest_at": "2026-08-11T12:00:55.540851Z",
-      "primary_item": {
-        "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
-        "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-        "title_zh": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-        "title_en": null,
-        "title_original": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30249",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T12:02:03.840704Z"
+        "scored_at": "2026-08-11T13:48:21.490739Z"
       }
     }
   ]
