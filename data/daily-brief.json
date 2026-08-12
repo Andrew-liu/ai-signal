@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-12T12:02:14.856693Z",
+  "generated_at": "2026-08-12T13:52:05.355789Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c27a5b0e8673",
+      "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "primary_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+          "title_zh": "从协助到执行：企业如何让AI发挥作用",
+          "title_en": "From assistance to execution: How enterprises put AI to work",
+          "title_original": "From assistance to execution: How enterprises put AI to work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+          "title_zh": "从协助到执行：企业如何让AI发挥作用",
+          "title_en": "From assistance to execution: How enterprises put AI to work",
+          "title_original": "From assistance to execution: How enterprises put AI to work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8926,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T06:00:00Z",
+      "latest_at": "2026-08-12T06:00:00Z",
+      "primary_item": {
+        "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+        "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+        "title_zh": "从协助到执行：企业如何让AI发挥作用",
+        "title_en": "From assistance to execution: How enterprises put AI to work",
+        "title_original": "From assistance to execution: How enterprises put AI to work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:52:47.944800Z"
+      }
+    },
     {
       "story_id": "story_5d259fa5549c",
       "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7596,
+        "recency": 0.7398,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7963,
+        "recency": 0.7755,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -236,7 +319,7 @@
           "published_at": "2026-08-12T05:41:30.137000Z"
         },
         {
-          "id": "89ae5bcf405610024be71dce015b500e864559e3",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
           "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
           "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
@@ -244,15 +327,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-12T02:05:42Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.404media.co"
       ],
@@ -286,7 +369,7 @@
           "published_at": "2026-08-12T05:41:30.137000Z"
         },
         {
-          "id": "89ae5bcf405610024be71dce015b500e864559e3",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
           "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
           "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
@@ -294,23 +377,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-12T02:05:42Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9124,
+        "recency": 0.8886,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -337,90 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
-      }
-    },
-    {
-      "story_id": "story_eddc237df9be",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_zh": null,
-          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T13:37:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_zh": null,
-          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T13:37:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7234,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T13:37:10Z",
-      "latest_at": "2026-08-11T13:37:10Z",
-      "primary_item": {
-        "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-        "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-        "title_zh": null,
-        "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
-        "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7733,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7808,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -608,7 +608,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T12:02:14.856693Z"
+          "published_at": "2026-08-12T13:52:05.355789Z"
         }
       ],
       "source_count": 1,
@@ -628,7 +628,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T12:02:14.856693Z"
+          "published_at": "2026-08-12T13:52:05.355789Z"
         }
       ],
       "item_count": 1,
@@ -649,8 +649,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T12:02:14.856693Z",
-      "latest_at": "2026-08-12T12:02:14.856693Z",
+      "earliest_at": "2026-08-12T13:52:05.355789Z",
+      "latest_at": "2026-08-12T13:52:05.355789Z",
       "primary_item": {
         "id": "19885d82860a200a6c11b27212173a78ac3ba013",
         "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
@@ -667,7 +667,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
+      }
+    },
+    {
+      "story_id": "story_208a14008235",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9735,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T12:00:18Z",
+      "latest_at": "2026-08-12T12:00:18Z",
+      "primary_item": {
+        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+        "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2087509478480765218",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -715,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7745,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -749,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -797,15 +879,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7898,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,7 +913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -879,21 +961,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.9027,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T06:46:51Z",
       "latest_at": "2026-08-12T06:46:51Z",
@@ -913,7 +994,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -961,15 +1042,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7668,
+        "recency": 0.7468,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -1042,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7983,
+        "recency": 0.7775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1077,7 +1158,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
+      }
+    },
+    {
+      "story_id": "story_a9f021589299",
+      "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+      "url": "https://www.aibase.com/news/30278",
+      "primary_url": "https://www.aibase.com/news/30278",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
+          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_en": null,
+          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30278",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:52:05.355789Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
+          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_en": null,
+          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30278",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:52:05.355789Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T13:52:05.355789Z",
+      "latest_at": "2026-08-12T13:52:05.355789Z",
+      "primary_item": {
+        "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
+        "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "title_en": null,
+        "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30278",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -1125,15 +1288,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7597,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1158,89 +1321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
-      }
-    },
-    {
-      "story_id": "story_a9f021589299",
-      "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-      "url": "https://www.aibase.com/news/30278",
-      "primary_url": "https://www.aibase.com/news/30278",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T12:02:14.856693Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T12:02:14.856693Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T12:02:14.856693Z",
-      "latest_at": "2026-08-12T12:02:14.856693Z",
-      "primary_item": {
-        "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-        "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_en": null,
-        "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30278",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -1288,15 +1369,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8421,
+        "recency": 0.8201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,250 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
-      }
-    },
-    {
-      "story_id": "story_f527ac6baab4",
-      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:00:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:00:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7171,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T13:00:25Z",
-      "latest_at": "2026-08-11T13:00:25Z",
-      "primary_item": {
-        "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-        "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-        "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-        "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-        "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-        "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
-      }
-    },
-    {
-      "story_id": "story_2b0f68d1ef21",
-      "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning / Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
-          "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning / Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-          "title_zh": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-          "title_en": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-          "title_original": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-          "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
-          "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning / Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-          "title_zh": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-          "title_en": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-          "title_original": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-          "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T13:51:45.827000Z",
-      "latest_at": "2026-08-11T13:51:45.827000Z",
-      "primary_item": {
-        "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
-        "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning / Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-        "title_zh": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-        "title_en": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-        "title_original": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-        "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
-        "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
-      }
-    },
-    {
-      "story_id": "story_2b5700449511",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-          "recommend_reason_zh": null,
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Cloud：Databases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-          "recommend_reason_zh": null,
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7487,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T16:00:00Z",
-      "latest_at": "2026-08-11T16:00:00Z",
-      "primary_item": {
-        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-        "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-        "recommend_reason_zh": null,
-        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-        "source": "Google Cloud：Databases（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -1641,22 +1479,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7562,
+        "recency": 0.7365,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T14:50:33Z",
       "latest_at": "2026-08-11T16:41:17.281000Z",
@@ -1676,7 +1513,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     },
     {
@@ -1724,15 +1561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7826,
+        "recency": 0.7622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1759,7 +1596,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T12:02:51.647552Z"
+        "scored_at": "2026-08-12T13:52:47.944800Z"
+      }
+    },
+    {
+      "story_id": "story_8703bb84c475",
+      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+      "url": "https://www.aibase.com/news/30277",
+      "primary_url": "https://www.aibase.com/news/30277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_en": null,
+          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:52:05.355789Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_en": null,
+          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:52:05.355789Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T13:52:05.355789Z",
+      "latest_at": "2026-08-12T13:52:05.355789Z",
+      "primary_item": {
+        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "title_en": null,
+        "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30277",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:52:47.944800Z"
+      }
+    },
+    {
+      "story_id": "story_5ce5e8a5042c",
+      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+      "url": "https://www.ithome.com/0/988/524.htm",
+      "primary_url": "https://www.ithome.com/0/988/524.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "title_zh": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "title_en": null,
+          "title_original": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/988/524.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:54:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "title_zh": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "title_en": null,
+          "title_original": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/988/524.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:54:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7178,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T14:54:16Z",
+      "latest_at": "2026-08-11T14:54:16Z",
+      "primary_item": {
+        "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "title_zh": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "title_en": null,
+        "title_original": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/988/524.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:52:47.944800Z"
       }
     }
   ]
