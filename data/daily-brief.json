@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:30:18.169482Z",
+  "generated_at": "2026-08-12T21:06:38.013121Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8587,
-      "importance": 0.8587,
-      "importance_score": 0.8587,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9927,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9238,
+        "recency": 0.9026,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
+      }
+    },
+    {
+      "story_id": "story_094f6572bd5f",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9651,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:39:11Z",
+      "latest_at": "2026-08-12T18:39:11Z",
+      "primary_item": {
+        "id": "18e5595d096312125c112295fde577991c1afc7c",
+        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.924,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.8517,
-      "importance_score": 0.8517,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.954,
+        "recency": 0.9321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8228,
+        "recency": 0.804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,30 +498,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
-      "story_id": "story_d21fb74b185b",
-      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "story_id": "story_953c86e801a6",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_zh": null,
-          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "title_zh": "公共预览版中组织的规则见解",
+          "title_en": "Rule insights for organizations in public preview",
+          "title_original": "Rule insights for organizations in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "source_count": 1,
@@ -447,31 +530,31 @@
       ],
       "items": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_zh": null,
-          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "title_zh": "公共预览版中组织的规则见解",
+          "title_en": "Rule insights for organizations in public preview",
+          "title_original": "Rule insights for organizations in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7149,
+        "ai_relevance": 0.87,
+        "recency": 0.9631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,17 +563,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T20:15:55Z",
-      "latest_at": "2026-08-11T20:15:55Z",
+      "earliest_at": "2026-08-12T18:30:28Z",
+      "latest_at": "2026-08-12T18:30:28Z",
       "primary_item": {
-        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-        "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "title_zh": null,
-        "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+        "title_zh": "公共预览版中组织的规则见解",
+        "title_en": "Rule insights for organizations in public preview",
+        "title_original": "Rule insights for organizations in public preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -498,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9779,
+        "recency": 0.9555,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -657,15 +740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8192,
+        "recency": 0.8004,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -692,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -740,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.9311,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,7 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -851,15 +934,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7545,
+        "recency": 0.7372,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -886,113 +969,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
-      "story_id": "story_f4f6d73ecb41",
-      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-          "title_en": "GitHub Enterprise Server 3.22 release candidate",
-          "title_original": "GitHub Enterprise Server 3.22 release candidate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-          "title_en": "GitHub Enterprise Server 3.22 release candidate",
-          "title_original": "GitHub Enterprise Server 3.22 release candidate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7167,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T20:26:26Z",
-      "latest_at": "2026-08-11T20:26:26Z",
-      "primary_item": {
-        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-        "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-        "title_en": "GitHub Enterprise Server 3.22 release candidate",
-        "title_original": "GitHub Enterprise Server 3.22 release candidate",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
-      }
-    },
-    {
-      "story_id": "story_e3ed1b002f81",
-      "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-      "url": "https://www.aibase.com/news/30285",
-      "primary_url": "https://www.aibase.com/news/30285",
+      "story_id": "story_ad70cc461272",
+      "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+      "url": "https://www.aibase.com/news/30289",
+      "primary_url": "https://www.aibase.com/news/30289",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
-          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-          "title_zh": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "title_en": null,
-          "title_original": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30285",
+          "url": "https://www.aibase.com/news/30289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:30:18.169482Z"
+          "published_at": "2026-08-12T18:06:38.013121Z"
         }
       ],
       "source_count": 1,
@@ -1001,31 +1001,31 @@
       ],
       "items": [
         {
-          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
-          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-          "title_zh": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "title_en": null,
-          "title_original": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30285",
+          "url": "https://www.aibase.com/news/30289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:30:18.169482Z"
+          "published_at": "2026-08-12T18:06:38.013121Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,17 +1033,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T17:30:18.169482Z",
-      "latest_at": "2026-08-12T17:30:18.169482Z",
+      "earliest_at": "2026-08-12T18:06:38.013121Z",
+      "latest_at": "2026-08-12T18:06:38.013121Z",
       "primary_item": {
-        "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
-        "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-        "title_zh": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+        "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+        "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+        "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
         "title_en": null,
-        "title_original": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+        "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30285",
+        "url": "https://www.aibase.com/news/30289",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1051,7 +1051,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -1099,15 +1099,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8974,
+        "recency": 0.8768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1132,7 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -1180,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,7 +1213,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
+      }
+    },
+    {
+      "story_id": "story_5535217c6b3d",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "primary_url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+          "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+          "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+          "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+          "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+          "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+          "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T20:15:51.977000Z",
+      "latest_at": "2026-08-12T20:15:51.977000Z",
+      "primary_item": {
+        "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+        "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+        "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+        "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+        "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/cowork-chrome-side-panel",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -1261,15 +1342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.9291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,111 +1375,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
-      "story_id": "story_8a4c14a3381a",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T19:41:42Z",
-      "latest_at": "2026-08-11T19:41:42Z",
-      "primary_item": {
-        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-        "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-        "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
-      }
-    },
-    {
-      "story_id": "story_99857c061b25",
-      "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-      "url": "https://www.aibase.com/news/30284",
-      "primary_url": "https://www.aibase.com/news/30284",
+      "story_id": "story_e3ed1b002f81",
+      "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+      "url": "https://www.aibase.com/news/30285",
+      "primary_url": "https://www.aibase.com/news/30285",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
-          "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-          "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
+          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "title_zh": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
           "title_en": null,
-          "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "title_original": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30284",
+          "url": "https://www.aibase.com/news/30285",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:30:18.169482Z"
+          "published_at": "2026-08-12T17:06:38.013121Z"
         }
       ],
       "source_count": 1,
@@ -1407,31 +1407,31 @@
       ],
       "items": [
         {
-          "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
-          "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-          "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
+          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+          "title_zh": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
           "title_en": null,
-          "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "title_original": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30284",
+          "url": "https://www.aibase.com/news/30285",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:30:18.169482Z"
+          "published_at": "2026-08-12T17:06:38.013121Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1439,17 +1439,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T17:30:18.169482Z",
-      "latest_at": "2026-08-12T17:30:18.169482Z",
+      "earliest_at": "2026-08-12T17:06:38.013121Z",
+      "latest_at": "2026-08-12T17:06:38.013121Z",
       "primary_item": {
-        "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
-        "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-        "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
+        "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
+        "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+        "title_zh": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
         "title_en": null,
-        "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
+        "title_original": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30284",
+        "url": "https://www.aibase.com/news/30285",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1457,88 +1457,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
-      }
-    },
-    {
-      "story_id": "story_72a76c10c59d",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "primary_url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-          "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-          "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-          "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-          "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9106,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T13:01:16Z",
-      "latest_at": "2026-08-12T13:01:16Z",
-      "primary_item": {
-        "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-        "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-        "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-        "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-        "recommend_reason_zh": null,
-        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
@@ -1586,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8321,
+        "recency": 0.8131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1619,30 +1538,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     },
     {
-      "story_id": "story_ad70cc461272",
-      "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-      "url": "https://www.aibase.com/news/30289",
-      "primary_url": "https://www.aibase.com/news/30289",
+      "story_id": "story_99857c061b25",
+      "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
+      "url": "https://www.aibase.com/news/30284",
+      "primary_url": "https://www.aibase.com/news/30284",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
-          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
+          "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
           "title_en": null,
-          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30289",
+          "url": "https://www.aibase.com/news/30284",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:30:18.169482Z"
+          "published_at": "2026-08-12T17:06:38.013121Z"
         }
       ],
       "source_count": 1,
@@ -1651,31 +1570,31 @@
       ],
       "items": [
         {
-          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
-          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
+          "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
           "title_en": null,
-          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30289",
+          "url": "https://www.aibase.com/news/30284",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:30:18.169482Z"
+          "published_at": "2026-08-12T17:06:38.013121Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1683,17 +1602,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T17:30:18.169482Z",
-      "latest_at": "2026-08-12T17:30:18.169482Z",
+      "earliest_at": "2026-08-12T17:06:38.013121Z",
+      "latest_at": "2026-08-12T17:06:38.013121Z",
       "primary_item": {
-        "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
-        "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-        "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+        "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
+        "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
+        "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
         "title_en": null,
-        "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+        "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30289",
+        "url": "https://www.aibase.com/news/30284",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1701,7 +1620,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:31:04.069351Z"
+        "scored_at": "2026-08-12T21:07:29.473164Z"
+      }
+    },
+    {
+      "story_id": "story_a04023a0a935",
+      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+      "url": "https://www.aibase.com/news/30287",
+      "primary_url": "https://www.aibase.com/news/30287",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T17:06:38.013121Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T17:06:38.013121Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9439,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T17:06:38.013121Z",
+      "latest_at": "2026-08-12T17:06:38.013121Z",
+      "primary_item": {
+        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_en": null,
+        "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30287",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T21:07:29.473164Z"
       }
     }
   ]
