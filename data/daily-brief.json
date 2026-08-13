@@ -1,8 +1,257 @@
 {
-  "generated_at": "2026-08-13T15:18:07.423846Z",
+  "generated_at": "2026-08-13T17:16:44.729727Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7243b3d66c55",
+      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.866,
+      "importance": 0.866,
+      "importance_score": 0.866,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9998,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:16:04Z",
+      "latest_at": "2026-08-13T17:16:04Z",
+      "primary_item": {
+        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
+    {
+      "story_id": "story_230b99496aae",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Introducing Gemini 3.7 Flash",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Introducing Gemini 3.7 Flash",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.997,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:04:18Z",
+      "latest_at": "2026-08-13T17:04:18Z",
+      "primary_item": {
+        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+        "title": "Introducing Gemini 3.7 Flash",
+        "title_zh": null,
+        "title_en": "Introducing Gemini 3.7 Flash",
+        "title_original": "Introducing Gemini 3.7 Flash",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
+    {
+      "story_id": "story_55c454217558",
+      "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "primary_url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍",
+          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍",
+          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9002,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T10:00:00Z",
+      "latest_at": "2026-08-13T10:00:00Z",
+      "primary_item": {
+        "id": "5175d87bcae80ab0d848d51674956034c540468a",
+        "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "title_zh": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍",
+        "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
     {
       "story_id": "story_fdae5f4986f9",
       "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
@@ -48,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7459,
+        "recency": 0.7249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_c2d4ddb5d531",
-      "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7168,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T16:14:36Z",
-      "latest_at": "2026-08-12T16:14:36Z",
-      "primary_item": {
-        "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-        "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析",
-        "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -214,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7422,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +415,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
+    {
+      "story_id": "story_54d692d2c27d",
+      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8873,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T09:00:00Z",
+      "latest_at": "2026-08-13T09:00:00Z",
+      "primary_item": {
+        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
+    {
+      "story_id": "story_ff650fa8bd8f",
+      "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "primary_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7792,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
+      "primary_item": {
+        "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+        "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+        "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+        "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+        "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -297,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,30 +663,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
-      "story_id": "story_3777f97e86f5",
-      "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-      "url": "https://www.aibase.com/news/30317",
-      "primary_url": "https://www.aibase.com/news/30317",
+      "story_id": "story_f803e81923df",
+      "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
+      "url": "https://www.aibase.com/news/30324",
+      "primary_url": "https://www.aibase.com/news/30324",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
-          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-          "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "id": "e95783a4878ac1b9d18702f94a2a66e0cabf9205",
+          "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
+          "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
           "title_en": null,
-          "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30317",
+          "url": "https://www.aibase.com/news/30324",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
+          "published_at": "2026-08-13T17:16:44.729727Z"
         }
       ],
       "source_count": 1,
@@ -363,18 +695,18 @@
       ],
       "items": [
         {
-          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
-          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-          "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "id": "e95783a4878ac1b9d18702f94a2a66e0cabf9205",
+          "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
+          "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
           "title_en": null,
-          "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30317",
+          "url": "https://www.aibase.com/news/30324",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
+          "published_at": "2026-08-13T17:16:44.729727Z"
         }
       ],
       "item_count": 1,
@@ -395,17 +727,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T15:18:07.423846Z",
-      "latest_at": "2026-08-13T15:18:07.423846Z",
+      "earliest_at": "2026-08-13T17:16:44.729727Z",
+      "latest_at": "2026-08-13T17:16:44.729727Z",
       "primary_item": {
-        "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
-        "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-        "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+        "id": "e95783a4878ac1b9d18702f94a2a66e0cabf9205",
+        "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
+        "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
         "title_en": null,
-        "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+        "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30317",
+        "url": "https://www.aibase.com/news/30324",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -413,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -461,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7406,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -496,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -544,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -626,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8175,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,89 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_d59aee8eef1f",
-      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "primary_url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-          "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T17:57:36.369000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-          "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T17:57:36.369000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7348,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T17:57:36.369000Z",
-      "latest_at": "2026-08-12T17:57:36.369000Z",
-      "primary_item": {
-        "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-        "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-        "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-        "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-        "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-        "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-        "recommend_reason_zh": null,
-        "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -790,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -823,7 +1073,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
+    {
+      "story_id": "story_b36ce0a79f35",
+      "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+      "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "primary_url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "source": "MiniMax：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+          "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_zh": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+          "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_original": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:52:23.676000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+          "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_zh": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+          "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_original": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:52:23.676000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T16:52:23.676000Z",
+      "latest_at": "2026-08-13T16:52:23.676000Z",
+      "primary_item": {
+        "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+        "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+        "title_zh": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+        "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+        "title_original": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+        "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+        "recommend_reason_zh": null,
+        "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+        "source": "MiniMax：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -871,15 +1202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -904,7 +1235,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
+    {
+      "story_id": "story_9fd2d6d4a7de",
+      "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+      "url": "https://www.aibase.com/news/30323",
+      "primary_url": "https://www.aibase.com/news/30323",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_en": null,
+          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T17:09:44.729727Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_en": null,
+          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T17:09:44.729727Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9983,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:09:44.729727Z",
+      "latest_at": "2026-08-13T17:09:44.729727Z",
+      "primary_item": {
+        "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+        "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "title_en": null,
+        "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30323",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
+      }
+    },
+    {
+      "story_id": "story_fe80c6938485",
+      "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+      "url": "https://www.aibase.com/news/30322",
+      "primary_url": "https://www.aibase.com/news/30322",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72ebce7841ce84720bc44a13d0e9ea244a37aca7",
+          "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+          "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+          "title_en": null,
+          "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T16:46:44.729727Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "72ebce7841ce84720bc44a13d0e9ea244a37aca7",
+          "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+          "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+          "title_en": null,
+          "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T16:46:44.729727Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:46:44.729727Z",
+      "latest_at": "2026-08-13T16:46:44.729727Z",
+      "primary_item": {
+        "id": "72ebce7841ce84720bc44a13d0e9ea244a37aca7",
+        "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+        "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+        "title_en": null,
+        "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30322",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -927,7 +1422,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
+          "published_at": "2026-08-13T16:28:44.729727Z"
         }
       ],
       "source_count": 1,
@@ -947,20 +1442,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
+          "published_at": "2026-08-13T16:28:44.729727Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,8 +1463,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T15:18:07.423846Z",
-      "latest_at": "2026-08-13T15:18:07.423846Z",
+      "earliest_at": "2026-08-13T16:28:44.729727Z",
+      "latest_at": "2026-08-13T16:28:44.729727Z",
       "primary_item": {
         "id": "5595c0507566904c8d3c6d45579fff9bfc9f5b58",
         "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
@@ -986,252 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_f9c6869f48c8",
-      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8561,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T04:32:24Z",
-      "latest_at": "2026-08-13T04:32:24Z",
-      "primary_item": {
-        "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "title_en": null,
-        "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_9b3747a8d29a",
-      "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-      "url": "https://www.aibase.com/news/30318",
-      "primary_url": "https://www.aibase.com/news/30318",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T15:18:07.423846Z",
-      "latest_at": "2026-08-13T15:18:07.423846Z",
-      "primary_item": {
-        "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-        "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-        "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-        "title_en": null,
-        "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30318",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_2ee15bae6450",
-      "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-      "url": "https://www.aibase.com/news/30316",
-      "primary_url": "https://www.aibase.com/news/30316",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
-          "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_en": null,
-          "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30316",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:17:07.423846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
-          "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_en": null,
-          "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30316",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:17:07.423846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9998,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T15:17:07.423846Z",
-      "latest_at": "2026-08-13T15:17:07.423846Z",
-      "primary_item": {
-        "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
-        "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-        "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-        "title_en": null,
-        "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30316",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
@@ -1337,15 +1587,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6598,
-      "importance": 0.6598,
-      "importance_score": 0.6598,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7839,
+        "recency": 0.7619,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1371,30 +1621,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     },
     {
-      "story_id": "story_9fd2d6d4a7de",
-      "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-      "url": "https://www.aibase.com/news/30323",
-      "primary_url": "https://www.aibase.com/news/30323",
+      "story_id": "story_3777f97e86f5",
+      "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+      "url": "https://www.aibase.com/news/30317",
+      "primary_url": "https://www.aibase.com/news/30317",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
-          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
+          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
           "title_en": null,
-          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30323",
+          "url": "https://www.aibase.com/news/30317",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
+          "published_at": "2026-08-13T16:16:44.729727Z"
         }
       ],
       "source_count": 1,
@@ -1403,31 +1653,31 @@
       ],
       "items": [
         {
-          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
-          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
+          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
           "title_en": null,
-          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30323",
+          "url": "https://www.aibase.com/news/30317",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
+          "published_at": "2026-08-13T16:16:44.729727Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1435,17 +1685,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T15:18:07.423846Z",
-      "latest_at": "2026-08-13T15:18:07.423846Z",
+      "earliest_at": "2026-08-13T16:16:44.729727Z",
+      "latest_at": "2026-08-13T16:16:44.729727Z",
       "primary_item": {
-        "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
-        "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-        "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
+        "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+        "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
         "title_en": null,
-        "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30323",
+        "url": "https://www.aibase.com/news/30317",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1453,253 +1703,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_fe80c6938485",
-      "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-      "url": "https://www.aibase.com/news/30322",
-      "primary_url": "https://www.aibase.com/news/30322",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "72ebce7841ce84720bc44a13d0e9ea244a37aca7",
-          "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "title_en": null,
-          "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "72ebce7841ce84720bc44a13d0e9ea244a37aca7",
-          "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "title_en": null,
-          "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T15:18:07.423846Z",
-      "latest_at": "2026-08-13T15:18:07.423846Z",
-      "primary_item": {
-        "id": "72ebce7841ce84720bc44a13d0e9ea244a37aca7",
-        "title": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-        "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-        "title_en": null,
-        "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30322",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_f803e81923df",
-      "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-      "url": "https://www.aibase.com/news/30324",
-      "primary_url": "https://www.aibase.com/news/30324",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e95783a4878ac1b9d18702f94a2a66e0cabf9205",
-          "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "title_en": null,
-          "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30324",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e95783a4878ac1b9d18702f94a2a66e0cabf9205",
-          "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "title_en": null,
-          "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30324",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T15:18:07.423846Z",
-      "latest_at": "2026-08-13T15:18:07.423846Z",
-      "primary_item": {
-        "id": "e95783a4878ac1b9d18702f94a2a66e0cabf9205",
-        "title": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-        "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-        "title_en": null,
-        "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30324",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
-      }
-    },
-    {
-      "story_id": "story_87158c19a937",
-      "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-      "url": "https://www.aibase.com/news/30319",
-      "primary_url": "https://www.aibase.com/news/30319",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
-          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "title_zh": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "title_en": null,
-          "title_original": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30319",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
-          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "title_zh": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "title_en": null,
-          "title_original": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30319",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T15:18:07.423846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T15:18:07.423846Z",
-      "latest_at": "2026-08-13T15:18:07.423846Z",
-      "primary_item": {
-        "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
-        "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-        "title_zh": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-        "title_en": null,
-        "title_original": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30319",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T15:18:55.960304Z"
+        "scored_at": "2026-08-13T17:17:22.327804Z"
       }
     }
   ]
