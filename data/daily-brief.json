@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:48:58.686478Z",
+  "generated_at": "2026-08-14T21:43:57.594458Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9368,
+        "recency": 0.9245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,148 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
-      }
-    },
-    {
-      "story_id": "story_b8125cc46db3",
-      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
-          "title": "Claude的文本水印如何工作 / How Claude's text watermarking works",
-          "title_zh": "Claude的文本水印如何工作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49303350",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T20:36:23.700000Z"
-        },
-        {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
-          "title": "Claude的文本水印如何工作 / How Claude's text watermarking works",
-          "title_zh": "Claude的文本水印如何工作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49303350",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T20:36:23.700000Z"
-        },
-        {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9795,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T19:15:51Z",
-      "latest_at": "2026-08-14T20:36:23.700000Z",
-      "primary_item": {
-        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-        "title_zh": "Claude 文本水印机制如何运作",
-        "title_en": "How Claude's text watermark works",
-        "title_original": "How Claude's text watermark works",
-        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/claude-text-watermark",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -301,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7404,
+        "recency": 0.7306,
         "story_heat": 0.25
       },
       "category": "official",
@@ -337,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -385,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9328,
+        "recency": 0.9206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +279,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
+      }
+    },
+    {
+      "story_id": "story_b8125cc46db3",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9666,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T19:15:51Z",
+      "latest_at": "2026-08-14T19:22:48.546000Z",
+      "primary_item": {
+        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+        "title_zh": "Claude 文本水印机制如何运作",
+        "title_en": "How Claude's text watermark works",
+        "title_original": "How Claude's text watermark works",
+        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -468,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7761,
+        "recency": 0.7659,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -551,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8732,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -633,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.9002,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -690,7 +661,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:48:58.686478Z"
+          "published_at": "2026-08-14T17:43:57.594458Z"
         }
       ],
       "source_count": 1,
@@ -710,20 +681,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:48:58.686478Z"
+          "published_at": "2026-08-14T17:43:57.594458Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -731,8 +702,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T17:48:58.686478Z",
-      "latest_at": "2026-08-14T17:48:58.686478Z",
+      "earliest_at": "2026-08-14T17:43:57.594458Z",
+      "latest_at": "2026-08-14T17:43:57.594458Z",
       "primary_item": {
         "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
         "title": "AI企业也能按Token融资：广东首推“Token贷”",
@@ -749,7 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -797,21 +768,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9201,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T15:02:48Z",
       "latest_at": "2026-08-14T15:02:48Z",
@@ -831,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -879,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9616,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -912,7 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -960,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8018,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -1041,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8805,
+        "recency": 0.8689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -1097,7 +1067,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:48:58.686478Z"
+          "published_at": "2026-08-14T17:43:57.594458Z"
         }
       ],
       "source_count": 1,
@@ -1117,20 +1087,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:48:58.686478Z"
+          "published_at": "2026-08-14T17:43:57.594458Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1138,8 +1108,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T17:48:58.686478Z",
-      "latest_at": "2026-08-14T17:48:58.686478Z",
+      "earliest_at": "2026-08-14T17:43:57.594458Z",
+      "latest_at": "2026-08-14T17:43:57.594458Z",
       "primary_item": {
         "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
         "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
@@ -1156,118 +1126,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
-      "story_id": "story_a0bd6da42cad",
-      "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-      "url": "https://x.com/bcherny/status/2088014489438621990",
-      "primary_url": "https://x.com/bcherny/status/2088014489438621990",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
+      "story_id": "story_a55195371b1b",
+      "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+      "url": "https://www.aibase.com/news/30358",
+      "primary_url": "https://www.aibase.com/news/30358",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T21:27:02Z"
-        },
-        {
-          "id": "d58dbe5c2328e0e890689f30e1fe7d3206bec20b",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
-          "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
-          "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
+          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-13T21:27:02Z"
+          "url": "https://www.aibase.com/news/30358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Boris Cherny",
-        "X：Boris Cherny (@bcherny)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-          "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T21:27:02Z"
-        },
-        {
-          "id": "d58dbe5c2328e0e890689f30e1fe7d3206bec20b",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
-          "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
-          "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
+          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-13T21:27:02Z"
+          "url": "https://www.aibase.com/news/30358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7136,
-        "story_heat": 0.25
+        "recency": 0.9303,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-13T21:27:02Z",
-      "latest_at": "2026-08-13T21:27:02Z",
+      "earliest_at": "2026-08-14T16:43:57.594458Z",
+      "latest_at": "2026-08-14T16:43:57.594458Z",
       "primary_item": {
-        "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-        "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-        "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
-        "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-        "title_original": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-        "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
+        "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+        "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+        "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+        "title_en": null,
+        "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2088014489438621990",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30358",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -1290,7 +1231,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
       "source_count": 1,
@@ -1310,20 +1251,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1331,8 +1272,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T16:48:58.686478Z",
-      "latest_at": "2026-08-14T16:48:58.686478Z",
+      "earliest_at": "2026-08-14T16:43:57.594458Z",
+      "latest_at": "2026-08-14T16:43:57.594458Z",
       "primary_item": {
         "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
         "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
@@ -1349,7 +1290,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -1372,7 +1313,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
       "source_count": 1,
@@ -1392,20 +1333,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1413,8 +1354,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T16:48:58.686478Z",
-      "latest_at": "2026-08-14T16:48:58.686478Z",
+      "earliest_at": "2026-08-14T16:43:57.594458Z",
+      "latest_at": "2026-08-14T16:43:57.594458Z",
       "primary_item": {
         "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
         "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
@@ -1431,89 +1372,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
-      }
-    },
-    {
-      "story_id": "story_2f9d3471ca3a",
-      "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-      "url": "https://www.aibase.com/news/30361",
-      "primary_url": "https://www.aibase.com/news/30361",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_en": null,
-          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_en": null,
-          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:48:58.686478Z",
-      "latest_at": "2026-08-14T16:48:58.686478Z",
-      "primary_item": {
-        "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-        "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-        "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-        "title_en": null,
-        "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30361",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -1590,15 +1449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6372,
-      "importance": 0.6372,
-      "importance_score": 0.6372,
+      "score": 0.635,
+      "importance": 0.635,
+      "importance_score": 0.635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9359,
+        "recency": 0.9236,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1623,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -1699,15 +1558,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6175,
-      "importance": 0.6175,
-      "importance_score": 0.6175,
+      "score": 0.6152,
+      "importance": 0.6152,
+      "importance_score": 0.6152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9417,
+        "recency": 0.9294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1732,7 +1591,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
+      }
+    },
+    {
+      "story_id": "story_2f9d3471ca3a",
+      "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+      "url": "https://www.aibase.com/news/30361",
+      "primary_url": "https://www.aibase.com/news/30361",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_en": null,
+          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:43:57.594458Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_en": null,
+          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:43:57.594458Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9303,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T16:43:57.594458Z",
+      "latest_at": "2026-08-14T16:43:57.594458Z",
+      "primary_item": {
+        "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+        "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "title_en": null,
+        "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30361",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     },
     {
@@ -1755,7 +1696,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
       "source_count": 1,
@@ -1775,20 +1716,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:48:58.686478Z"
+          "published_at": "2026-08-14T16:43:57.594458Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1796,8 +1737,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T16:48:58.686478Z",
-      "latest_at": "2026-08-14T16:48:58.686478Z",
+      "earliest_at": "2026-08-14T16:43:57.594458Z",
+      "latest_at": "2026-08-14T16:43:57.594458Z",
       "primary_item": {
         "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
         "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
@@ -1814,7 +1755,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T20:49:40.074691Z"
+        "scored_at": "2026-08-14T21:44:38.382377Z"
       }
     }
   ]
