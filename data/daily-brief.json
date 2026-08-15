@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:43:13.373419Z",
+  "generated_at": "2026-08-15T11:37:46.407017Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7664,
+        "recency": 0.7564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7631,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.841,
+        "recency": 0.83,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.7908,
         "story_heat": 0.25
       },
       "category": "official",
@@ -361,88 +361,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
-      "story_id": "story_5634b0a754f6",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "source": "公众号：小红书技术（dots.llm）",
+      "story_id": "story_e50ea4ab6859",
+      "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_zh": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降",
+          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
+          "published_at": "2026-08-15T11:00:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：小红书技术（dots.llm）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_zh": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降",
+          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
+          "published_at": "2026-08-15T11:00:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7143,
+        "recency": 0.9911,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-14T11:25:29Z",
-      "latest_at": "2026-08-14T11:25:29Z",
+      "earliest_at": "2026-08-15T11:00:50Z",
+      "latest_at": "2026-08-15T11:00:50Z",
       "primary_item": {
-        "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-        "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_en": null,
-        "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+        "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+        "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+        "title_zh": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降",
+        "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+        "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-        "source": "公众号：小红书技术（dots.llm）",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -490,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7463,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -546,7 +547,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:13.373419Z"
+          "published_at": "2026-08-14T17:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -566,28 +567,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:13.373419Z"
+          "published_at": "2026-08-14T17:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T17:43:13.373419Z",
-      "latest_at": "2026-08-14T17:43:13.373419Z",
+      "earliest_at": "2026-08-14T17:37:46.407017Z",
+      "latest_at": "2026-08-14T17:37:46.407017Z",
       "primary_item": {
         "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
         "title": "AI企业也能按Token融资：广东首推“Token贷”",
@@ -604,88 +605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
-      }
-    },
-    {
-      "story_id": "story_a5a9de1a4652",
-      "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_zh": "通义千问开源 Qwen3.8 系列模型",
-          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T15:02:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_zh": "通义千问开源 Qwen3.8 系列模型",
-          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T15:02:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7527,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T15:02:48Z",
-      "latest_at": "2026-08-14T15:02:48Z",
-      "primary_item": {
-        "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-        "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "title_zh": "通义千问开源 Qwen3.8 系列模型",
-        "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -708,7 +628,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:13.373419Z"
+          "published_at": "2026-08-14T17:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -728,28 +648,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:13.373419Z"
+          "published_at": "2026-08-14T17:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T17:43:13.373419Z",
-      "latest_at": "2026-08-14T17:43:13.373419Z",
+      "earliest_at": "2026-08-14T17:37:46.407017Z",
+      "latest_at": "2026-08-14T17:37:46.407017Z",
       "primary_item": {
         "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
         "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
@@ -766,7 +686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -789,7 +709,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -809,28 +729,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T16:43:13.373419Z",
-      "latest_at": "2026-08-14T16:43:13.373419Z",
+      "earliest_at": "2026-08-14T16:37:46.407017Z",
+      "latest_at": "2026-08-14T16:37:46.407017Z",
       "primary_item": {
         "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
         "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
@@ -847,7 +767,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -870,7 +790,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -890,28 +810,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T16:43:13.373419Z",
-      "latest_at": "2026-08-14T16:43:13.373419Z",
+      "earliest_at": "2026-08-14T16:37:46.407017Z",
+      "latest_at": "2026-08-14T16:37:46.407017Z",
       "primary_item": {
         "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
         "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
@@ -928,7 +848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1005,15 +925,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6066,
-      "importance": 0.6066,
-      "importance_score": 0.6066,
+      "score": 0.6048,
+      "importance": 0.6048,
+      "importance_score": 0.6048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7656,
+        "recency": 0.7557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1038,7 +958,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1061,7 +981,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -1081,28 +1001,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T16:43:13.373419Z",
-      "latest_at": "2026-08-14T16:43:13.373419Z",
+      "earliest_at": "2026-08-14T16:37:46.407017Z",
+      "latest_at": "2026-08-14T16:37:46.407017Z",
       "primary_item": {
         "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
         "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
@@ -1119,7 +1039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1195,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5866,
-      "importance": 0.5866,
-      "importance_score": 0.5866,
+      "score": 0.5848,
+      "importance": 0.5848,
+      "importance_score": 0.5848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7704,
+        "recency": 0.7604,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,7 +1148,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1251,7 +1171,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -1271,28 +1191,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T16:43:13.373419Z",
-      "latest_at": "2026-08-14T16:43:13.373419Z",
+      "earliest_at": "2026-08-14T16:37:46.407017Z",
+      "latest_at": "2026-08-14T16:37:46.407017Z",
       "primary_item": {
         "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
         "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
@@ -1309,7 +1229,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
+      }
+    },
+    {
+      "story_id": "story_e4e112615ce7",
+      "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+      "url": "https://news.ycombinator.com/item?id=49309050",
+      "primary_url": "https://news.ycombinator.com/item?id=49309050",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T11:39:31.371000Z"
+        },
+        {
+          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T09:20:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T11:39:31.371000Z"
+        },
+        {
+          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T09:20:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T09:20:07Z",
+      "latest_at": "2026-08-15T11:39:31.371000Z",
+      "primary_item": {
+        "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+        "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+        "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
+        "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+        "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49309050",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1332,7 +1362,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -1352,28 +1382,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:13.373419Z"
+          "published_at": "2026-08-14T16:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T16:43:13.373419Z",
-      "latest_at": "2026-08-14T16:43:13.373419Z",
+      "earliest_at": "2026-08-14T16:37:46.407017Z",
+      "latest_at": "2026-08-14T16:37:46.407017Z",
       "primary_item": {
         "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
         "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
@@ -1390,117 +1420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
-      }
-    },
-    {
-      "story_id": "story_9b3a42a6069d",
-      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://news.ycombinator.com/item?id=49308553",
-      "primary_url": "https://news.ycombinator.com/item?id=49308553",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
-          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49308553",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T10:43:35.052000Z"
-        },
-        {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
-          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T07:31:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
-          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49308553",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T10:43:35.052000Z"
-        },
-        {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
-          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T07:31:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T07:31:46Z",
-      "latest_at": "2026-08-15T10:43:35.052000Z",
-      "primary_item": {
-        "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
-        "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
-        "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49308553",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1577,15 +1497,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8907,
+        "recency": 0.8791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1610,7 +1530,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
+      }
+    },
+    {
+      "story_id": "story_9b3a42a6069d",
+      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://news.ycombinator.com/item?id=49308553",
+      "primary_url": "https://news.ycombinator.com/item?id=49308553",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
+          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49308553",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T11:39:31.371000Z"
+        },
+        {
+          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T07:31:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
+          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49308553",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T11:39:31.371000Z"
+        },
+        {
+          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T07:31:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T07:31:46Z",
+      "latest_at": "2026-08-15T11:39:31.371000Z",
+      "primary_item": {
+        "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
+        "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+        "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49308553",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1687,15 +1717,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8354,
+        "recency": 0.8245,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1720,7 +1750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     },
     {
@@ -1743,7 +1773,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T15:43:13.373419Z"
+          "published_at": "2026-08-14T15:37:46.407017Z"
         }
       ],
       "source_count": 1,
@@ -1763,28 +1793,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T15:43:13.373419Z"
+          "published_at": "2026-08-14T15:37:46.407017Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T15:43:13.373419Z",
-      "latest_at": "2026-08-14T15:43:13.373419Z",
+      "earliest_at": "2026-08-14T15:37:46.407017Z",
+      "latest_at": "2026-08-14T15:37:46.407017Z",
       "primary_item": {
         "id": "9954fc2df96bf099edfea4b8b458e56841cfeb14",
         "title": "京东七鲜咖啡全球首发 24 小时无人店：机器人现制、AI 荐饮，落地北京银河 Soho",
@@ -1801,7 +1831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T10:43:54.105559Z"
+        "scored_at": "2026-08-15T11:39:45.828024Z"
       }
     }
   ]
