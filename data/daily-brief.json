@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-08-15T22:41:53.916925Z",
+  "generated_at": "2026-08-15T23:37:58.611774Z",
   "window_hours": 24,
   "total_items": 11,
   "items": [
-    {
-      "story_id": "story_e27bfcf013b4",
-      "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T22:43:44Z",
-      "latest_at": "2026-08-14T22:43:44Z",
-      "primary_item": {
-        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-        "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-        "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
-      }
-    },
     {
       "story_id": "story_fe87bc97dd0a",
       "title": "Cursor 正式被 SpaceX 收购",
@@ -160,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9632,
+        "recency": 0.9502,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -243,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8447,
+        "recency": 0.8334,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -276,7 +193,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
+      }
+    },
+    {
+      "story_id": "story_dbeb44805b60",
+      "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.662,
+      "importance": 0.662,
+      "importance_score": 0.662,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.935,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-15T18:58:39Z",
+      "latest_at": "2026-08-15T22:07:08Z",
+      "primary_item": {
+        "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+        "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+        "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+        "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -299,7 +327,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T22:43:40.082000Z"
+          "published_at": "2026-08-15T23:10:01.607000Z"
         },
         {
           "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
@@ -363,7 +391,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T22:43:40.082000Z"
+          "published_at": "2026-08-15T23:10:01.607000Z"
         },
         {
           "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
@@ -410,15 +438,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5958,
-      "importance": 0.5958,
-      "importance_score": 0.5958,
+      "score": 0.5946,
+      "importance": 0.5946,
+      "importance_score": 0.5946,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9933,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -426,7 +454,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-15T22:43:40.082000Z",
+      "latest_at": "2026-08-15T23:10:01.607000Z",
       "primary_item": {
         "id": "2482d8bb344b37476f7a3c5191ab942296699936",
         "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
@@ -443,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -549,15 +577,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9521,
+        "recency": 0.9394,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -582,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -659,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9781,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -692,7 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -769,15 +797,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9706,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,7 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -879,15 +907,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9162,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -912,7 +940,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -989,15 +1017,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8839,
+        "recency": 0.872,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1022,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -1099,15 +1127,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8815,
+        "recency": 0.8697,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1132,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     },
     {
@@ -1155,7 +1183,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T22:43:40.082000Z"
+          "published_at": "2026-08-15T23:10:01.607000Z"
         },
         {
           "id": "3b899642b0cd06a0af74829b57ebf1fef11c2320",
@@ -1190,7 +1218,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T22:43:40.082000Z"
+          "published_at": "2026-08-15T23:10:01.607000Z"
         },
         {
           "id": "3b899642b0cd06a0af74829b57ebf1fef11c2320",
@@ -1209,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9933,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1225,7 +1253,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-15T21:42:39Z",
-      "latest_at": "2026-08-15T22:43:40.082000Z",
+      "latest_at": "2026-08-15T23:10:01.607000Z",
       "primary_item": {
         "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
         "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
@@ -1242,7 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:43:55.066733Z"
+        "scored_at": "2026-08-15T23:38:34.333608Z"
       }
     }
   ]
