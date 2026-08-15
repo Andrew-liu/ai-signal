@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:40:55.778652Z",
+  "generated_at": "2026-08-15T01:52:57.932893Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8988,
+        "recency": 0.8707,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,120 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_0276dc6b6132",
-      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7104,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T00:00:00Z",
-      "latest_at": "2026-08-14T00:00:00Z",
-      "primary_item": {
-        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-        "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-        "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-        "title_en": "State of Open Models: Summer 2026 Observations",
-        "title_original": "State of Open Models: Summer 2026 Observations",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -244,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.895,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -327,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9863,
+        "recency": 0.9555,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,283 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_b8125cc46db3",
-      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9398,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T19:15:51Z",
-      "latest_at": "2026-08-14T19:22:48.546000Z",
-      "primary_item": {
-        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-        "title_zh": "Claude 文本水印机制如何运作",
-        "title_en": "How Claude's text watermark works",
-        "title_original": "How Claude's text watermark works",
-        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/claude-text-watermark",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_5634b0a754f6",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8378,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T11:25:29Z",
-      "latest_at": "2026-08-14T11:25:29Z",
-      "primary_item": {
-        "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-        "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_en": null,
-        "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_e5e76630b687",
-      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8752,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T14:27:14Z",
-      "latest_at": "2026-08-14T14:27:14Z",
-      "primary_item": {
-        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-        "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-        "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -661,7 +272,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:40:55.778652Z"
+          "published_at": "2026-08-14T17:52:57.932893Z"
         }
       ],
       "source_count": 1,
@@ -681,29 +292,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:40:55.778652Z"
+          "published_at": "2026-08-14T17:52:57.932893Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T17:40:55.778652Z",
-      "latest_at": "2026-08-14T17:40:55.778652Z",
+      "earliest_at": "2026-08-14T17:52:57.932893Z",
+      "latest_at": "2026-08-14T17:52:57.932893Z",
       "primary_item": {
         "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
         "title": "AI企业也能按Token融资：广东首推“Token贷”",
@@ -720,7 +330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -768,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7447,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -803,331 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_a5a9de1a4652",
-      "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_zh": "通义千问开源 Qwen3.8 系列模型",
-          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T15:02:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_zh": "通义千问开源 Qwen3.8 系列模型",
-          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T15:02:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8828,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T15:02:48Z",
-      "latest_at": "2026-08-14T15:02:48Z",
-      "primary_item": {
-        "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-        "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "title_zh": "通义千问开源 Qwen3.8 系列模型",
-        "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_4a31f336fa32",
-      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-      "url": "https://x.com/GeminiApp/status/2088326407730692538",
-      "primary_url": "https://x.com/GeminiApp/status/2088326407730692538",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
-          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2088326407730692538",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T18:06:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
-          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2088326407730692538",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T18:06:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9227,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T18:06:29Z",
-      "latest_at": "2026-08-14T18:06:29Z",
-      "primary_item": {
-        "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
-        "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-        "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-        "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-        "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-        "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GeminiApp/status/2088326407730692538",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_d40bf6855f00",
-      "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
-          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_en": null,
-          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T05:31:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
-          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_en": null,
-          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T05:31:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7693,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T05:31:04Z",
-      "latest_at": "2026-08-14T05:31:04Z",
-      "primary_item": {
-        "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
-        "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-        "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-        "title_en": null,
-        "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-        "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_c0648d9766a4",
-      "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": "Cursor is now a part of SpaceX",
-          "title_original": "Cursor is now a part of SpaceX",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": "Cursor is now a part of SpaceX",
-          "title_original": "Cursor is now a part of SpaceX",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8448,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T12:00:00Z",
-      "latest_at": "2026-08-14T12:00:00Z",
-      "primary_item": {
-        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-        "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-        "title_zh": "Cursor 正式被 SpaceX 收购",
-        "title_en": "Cursor is now a part of SpaceX",
-        "title_original": "Cursor is now a part of SpaceX",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "recommend_reason_zh": null,
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -1150,7 +436,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:40:55.778652Z"
+          "published_at": "2026-08-14T17:52:57.932893Z"
         }
       ],
       "source_count": 1,
@@ -1170,29 +456,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T17:40:55.778652Z"
+          "published_at": "2026-08-14T17:52:57.932893Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T17:40:55.778652Z",
-      "latest_at": "2026-08-14T17:40:55.778652Z",
+      "earliest_at": "2026-08-14T17:52:57.932893Z",
+      "latest_at": "2026-08-14T17:52:57.932893Z",
       "primary_item": {
         "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
         "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
@@ -1209,89 +494,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_a55195371b1b",
-      "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-      "url": "https://www.aibase.com/news/30358",
-      "primary_url": "https://www.aibase.com/news/30358",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
-          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-          "title_en": null,
-          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30358",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
-          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-          "title_en": null,
-          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30358",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:40:55.778652Z",
-      "latest_at": "2026-08-14T16:40:55.778652Z",
-      "primary_item": {
-        "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
-        "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-        "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-        "title_en": null,
-        "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30358",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -1314,7 +517,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
+          "published_at": "2026-08-14T16:52:57.932893Z"
         }
       ],
       "source_count": 1,
@@ -1334,29 +537,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
+          "published_at": "2026-08-14T16:52:57.932893Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T16:40:55.778652Z",
-      "latest_at": "2026-08-14T16:40:55.778652Z",
+      "earliest_at": "2026-08-14T16:52:57.932893Z",
+      "latest_at": "2026-08-14T16:52:57.932893Z",
       "primary_item": {
         "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
         "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
@@ -1373,7 +575,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_2f9d3471ca3a",
+      "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+      "url": "https://www.aibase.com/news/30361",
+      "primary_url": "https://www.aibase.com/news/30361",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_en": null,
+          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:52:57.932893Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_en": null,
+          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:52:57.932893Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T16:52:57.932893Z",
+      "latest_at": "2026-08-14T16:52:57.932893Z",
+      "primary_item": {
+        "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
+        "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "title_en": null,
+        "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30361",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_1b43dac6eba9",
+      "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+      "url": "https://www.aibase.com/news/30360",
+      "primary_url": "https://www.aibase.com/news/30360",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
+          "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_zh": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_en": null,
+          "title_original": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:52:57.932893Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
+          "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_zh": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "title_en": null,
+          "title_original": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T16:52:57.932893Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T16:52:57.932893Z",
+      "latest_at": "2026-08-14T16:52:57.932893Z",
+      "primary_item": {
+        "id": "d034598b36a4efaf36d69d51e1038e3225100b84",
+        "title": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+        "title_zh": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+        "title_en": null,
+        "title_original": "重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30360",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -1450,15 +814,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6304,
-      "importance": 0.6304,
-      "importance_score": 0.6304,
+      "score": 0.6253,
+      "importance": 0.6253,
+      "importance_score": 0.6253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8979,
+        "recency": 0.8699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1483,89 +847,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
-      }
-    },
-    {
-      "story_id": "story_840aaaf072af",
-      "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-      "url": "https://www.aibase.com/news/30359",
-      "primary_url": "https://www.aibase.com/news/30359",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
-          "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-          "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-          "title_en": null,
-          "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30359",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
-          "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-          "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-          "title_en": null,
-          "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30359",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:40:55.778652Z",
-      "latest_at": "2026-08-14T16:40:55.778652Z",
-      "primary_item": {
-        "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
-        "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-        "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-        "title_en": null,
-        "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30359",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
@@ -1641,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6106,
-      "importance": 0.6106,
-      "importance_score": 0.6106,
+      "score": 0.6055,
+      "importance": 0.6055,
+      "importance_score": 0.6055,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9036,
+        "recency": 0.8753,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1674,30 +956,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     },
     {
-      "story_id": "story_2f9d3471ca3a",
-      "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-      "url": "https://www.aibase.com/news/30361",
-      "primary_url": "https://www.aibase.com/news/30361",
+      "story_id": "story_a55195371b1b",
+      "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+      "url": "https://www.aibase.com/news/30358",
+      "primary_url": "https://www.aibase.com/news/30358",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
           "title_en": null,
-          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30361",
+          "url": "https://www.aibase.com/news/30358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
+          "published_at": "2026-08-14T15:52:57.932893Z"
         }
       ],
       "source_count": 1,
@@ -1706,49 +988,48 @@
       ],
       "items": [
         {
-          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+          "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+          "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
           "title_en": null,
-          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+          "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30361",
+          "url": "https://www.aibase.com/news/30358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T16:40:55.778652Z"
+          "published_at": "2026-08-14T15:52:57.932893Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T16:40:55.778652Z",
-      "latest_at": "2026-08-14T16:40:55.778652Z",
+      "earliest_at": "2026-08-14T15:52:57.932893Z",
+      "latest_at": "2026-08-14T15:52:57.932893Z",
       "primary_item": {
-        "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-        "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-        "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
+        "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+        "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
         "title_en": null,
-        "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
+        "title_original": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30361",
+        "url": "https://www.aibase.com/news/30358",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1756,7 +1037,800 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:41:32.864336Z"
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_71eae7f8ef8d",
+      "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+      "url": "https://www.aibase.com/news/30357",
+      "primary_url": "https://www.aibase.com/news/30357",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_en": null,
+          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T15:52:57.932893Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_en": null,
+          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T15:52:57.932893Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T15:52:57.932893Z",
+      "latest_at": "2026-08-14T15:52:57.932893Z",
+      "primary_item": {
+        "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+        "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "title_en": null,
+        "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30357",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_7aa12c11fa17",
+      "title": "充分利用您的克劳德代码（Claude Code）会话",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "primary_url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
+          "title": "充分利用您的克劳德代码（Claude Code）会话",
+          "title_zh": "充分利用您的克劳德代码（Claude Code）会话",
+          "title_en": null,
+          "title_original": "充分利用您的克劳德代码（Claude Code）会话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T22:16:05.719000Z"
+        },
+        {
+          "id": "ef41b7ce62ac386f758078a0319bf9644ea9cd77",
+          "title": "充分利用您的Claude代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
+          "title_zh": "充分利用您的Claude代码（Claude Code）会话",
+          "title_en": "Maximizing the value of your Claude Code sessions",
+          "title_original": "Maximizing the value of your Claude Code sessions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T16:15:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "claude.com"
+      ],
+      "items": [
+        {
+          "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
+          "title": "充分利用您的克劳德代码（Claude Code）会话",
+          "title_zh": "充分利用您的克劳德代码（Claude Code）会话",
+          "title_en": null,
+          "title_original": "充分利用您的克劳德代码（Claude Code）会话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T22:16:05.719000Z"
+        },
+        {
+          "id": "ef41b7ce62ac386f758078a0319bf9644ea9cd77",
+          "title": "充分利用您的Claude代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
+          "title_zh": "充分利用您的Claude代码（Claude Code）会话",
+          "title_en": "Maximizing the value of your Claude Code sessions",
+          "title_original": "Maximizing the value of your Claude Code sessions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T16:15:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9491,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T16:15:21Z",
+      "latest_at": "2026-08-14T22:16:05.719000Z",
+      "primary_item": {
+        "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
+        "title": "充分利用您的克劳德代码（Claude Code）会话",
+        "title_zh": "充分利用您的克劳德代码（Claude Code）会话",
+        "title_en": null,
+        "title_original": "充分利用您的克劳德代码（Claude Code）会话",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+        "source": "claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_840aaaf072af",
+      "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+      "url": "https://www.aibase.com/news/30359",
+      "primary_url": "https://www.aibase.com/news/30359",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
+          "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_en": null,
+          "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T15:52:57.932893Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
+          "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "title_en": null,
+          "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T15:52:57.932893Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T15:52:57.932893Z",
+      "latest_at": "2026-08-14T15:52:57.932893Z",
+      "primary_item": {
+        "id": "a19be57811805bd5861df61d51d5be822b8f6f8f",
+        "title": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+        "title_zh": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+        "title_en": null,
+        "title_original": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30359",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_dce79a086a50",
+      "title": "亲手打造的AI",
+      "url": "https://www.byhand.ai",
+      "primary_url": "https://www.byhand.ai",
+      "source": "www.byhand.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
+          "title": "亲手打造的AI",
+          "title_zh": "亲手打造的AI",
+          "title_en": null,
+          "title_original": "亲手打造的AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.byhand.ai",
+          "source": "www.byhand.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T20:56:57.601000Z"
+        },
+        {
+          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
+          "title": "亲手打造的AI / AI by Hand",
+          "title_zh": "亲手打造的AI",
+          "title_en": "AI by Hand",
+          "title_original": "AI by Hand",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.byhand.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T15:58:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.byhand.ai"
+      ],
+      "items": [
+        {
+          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
+          "title": "亲手打造的AI",
+          "title_zh": "亲手打造的AI",
+          "title_en": null,
+          "title_original": "亲手打造的AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.byhand.ai",
+          "source": "www.byhand.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T20:56:57.601000Z"
+        },
+        {
+          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
+          "title": "亲手打造的AI / AI by Hand",
+          "title_zh": "亲手打造的AI",
+          "title_en": "AI by Hand",
+          "title_original": "AI by Hand",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.byhand.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T15:58:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9312,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T15:58:59Z",
+      "latest_at": "2026-08-14T20:56:57.601000Z",
+      "primary_item": {
+        "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
+        "title": "亲手打造的AI",
+        "title_zh": "亲手打造的AI",
+        "title_en": null,
+        "title_original": "亲手打造的AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.byhand.ai",
+        "source": "www.byhand.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_3d0ee750d14d",
+      "title": "谷歌正借助同态加密让私有化人工智能成为现实",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+      "primary_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+      "source": "blog.google",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f41976f167970f859103f965ef83cfd41f741414",
+          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "title_en": null,
+          "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T19:22:21.717000Z"
+        },
+        {
+          "id": "ecdd5d39c9dfb4382bbaeac1e8fe46ec12ca5bf1",
+          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google is making private AI practical with homomorphic encryption",
+          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "title_en": "Google is making private AI practical with homomorphic encryption",
+          "title_original": "Google is making private AI practical with homomorphic encryption",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T15:43:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.google"
+      ],
+      "items": [
+        {
+          "id": "f41976f167970f859103f965ef83cfd41f741414",
+          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "title_en": null,
+          "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T19:22:21.717000Z"
+        },
+        {
+          "id": "ecdd5d39c9dfb4382bbaeac1e8fe46ec12ca5bf1",
+          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google is making private AI practical with homomorphic encryption",
+          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
+          "title_en": "Google is making private AI practical with homomorphic encryption",
+          "title_original": "Google is making private AI practical with homomorphic encryption",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T15:43:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9103,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T15:43:10Z",
+      "latest_at": "2026-08-14T19:22:21.717000Z",
+      "primary_item": {
+        "id": "f41976f167970f859103f965ef83cfd41f741414",
+        "title": "谷歌正借助同态加密让私有化人工智能成为现实",
+        "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
+        "title_en": null,
+        "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+        "source": "blog.google",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_02ec0b642bd2",
+      "title": "当天才失灵：人工智能实验室的智力傲慢",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "primary_url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "source": "weightythoughts.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
+          "title": "当天才失灵：人工智能实验室的智力傲慢",
+          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
+          "title_en": null,
+          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "weightythoughts.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T16:10:19.001000Z"
+        },
+        {
+          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
+          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
+          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T14:34:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "weightythoughts.com"
+      ],
+      "items": [
+        {
+          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
+          "title": "当天才失灵：人工智能实验室的智力傲慢",
+          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
+          "title_en": null,
+          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "weightythoughts.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T16:10:19.001000Z"
+        },
+        {
+          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
+          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
+          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T14:34:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8692,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T14:34:49Z",
+      "latest_at": "2026-08-14T16:10:19.001000Z",
+      "primary_item": {
+        "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
+        "title": "当天才失灵：人工智能实验室的智力傲慢",
+        "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
+        "title_en": null,
+        "title_original": "当天才失灵：人工智能实验室的智力傲慢",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "source": "weightythoughts.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_5a09fec3239c",
+      "title": "DeepSeek 峰谷电价更新",
+      "url": "https://api-docs.deepseek.com/news/news260813",
+      "primary_url": "https://api-docs.deepseek.com/news/news260813",
+      "source": "api-docs.deepseek.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c77cba701516586a9a2f25cd861b85d5acacb66d",
+          "title": "DeepSeek 峰谷电价更新",
+          "title_zh": "DeepSeek 峰谷电价更新",
+          "title_en": null,
+          "title_original": "DeepSeek 峰谷电价更新",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/news/news260813",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T13:32:02.381000Z"
+        },
+        {
+          "id": "c68c5ed9bba7ce744c6c5aaf6ff2b2cb7b8db8b3",
+          "title": "DeepSeek 峰谷电价更新 / DeepSeek peak/off-peak pricing update",
+          "title_zh": "DeepSeek 峰谷电价更新",
+          "title_en": "DeepSeek peak/off-peak pricing update",
+          "title_original": "DeepSeek peak/off-peak pricing update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/news/news260813",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T09:55:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "api-docs.deepseek.com"
+      ],
+      "items": [
+        {
+          "id": "c77cba701516586a9a2f25cd861b85d5acacb66d",
+          "title": "DeepSeek 峰谷电价更新",
+          "title_zh": "DeepSeek 峰谷电价更新",
+          "title_en": null,
+          "title_original": "DeepSeek 峰谷电价更新",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/news/news260813",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T13:32:02.381000Z"
+        },
+        {
+          "id": "c68c5ed9bba7ce744c6c5aaf6ff2b2cb7b8db8b3",
+          "title": "DeepSeek 峰谷电价更新 / DeepSeek peak/off-peak pricing update",
+          "title_zh": "DeepSeek 峰谷电价更新",
+          "title_en": "DeepSeek peak/off-peak pricing update",
+          "title_original": "DeepSeek peak/off-peak pricing update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/news/news260813",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T09:55:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8367,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T09:55:33Z",
+      "latest_at": "2026-08-14T13:32:02.381000Z",
+      "primary_item": {
+        "id": "c77cba701516586a9a2f25cd861b85d5acacb66d",
+        "title": "DeepSeek 峰谷电价更新",
+        "title_zh": "DeepSeek 峰谷电价更新",
+        "title_en": null,
+        "title_original": "DeepSeek 峰谷电价更新",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://api-docs.deepseek.com/news/news260813",
+        "source": "api-docs.deepseek.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
+      }
+    },
+    {
+      "story_id": "story_d693a039f349",
+      "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+      "url": "https://www.aibase.com/news/30351",
+      "primary_url": "https://www.aibase.com/news/30351",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d6340518c14a07d57d67c2dfa742c301ff8ff570",
+          "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+          "title_zh": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+          "title_en": null,
+          "title_original": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30351",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T14:52:57.932893Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d6340518c14a07d57d67c2dfa742c301ff8ff570",
+          "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+          "title_zh": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+          "title_en": null,
+          "title_original": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30351",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T14:52:57.932893Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8531,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T14:52:57.932893Z",
+      "latest_at": "2026-08-14T14:52:57.932893Z",
+      "primary_item": {
+        "id": "d6340518c14a07d57d67c2dfa742c301ff8ff570",
+        "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+        "title_zh": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+        "title_en": null,
+        "title_original": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30351",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T02:18:19.114001Z"
       }
     }
   ]
