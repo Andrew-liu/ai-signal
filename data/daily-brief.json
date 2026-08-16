@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T09:45:59.671482Z",
+  "generated_at": "2026-08-16T10:43:50.414959Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_fe87bc97dd0a",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8209,
+        "recency": 0.8095,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -160,21 +160,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9102,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-16T03:15:09Z",
       "latest_at": "2026-08-16T03:15:09Z",
@@ -194,7 +193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -271,15 +270,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6391,
-      "importance": 0.6391,
-      "importance_score": 0.6391,
+      "score": 0.6371,
+      "importance": 0.6371,
+      "importance_score": 0.6371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8077,
+        "recency": 0.7965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -305,7 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -328,12 +327,26 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T09:46:21.537000Z"
+          "published_at": "2026-08-16T10:44:14.294000Z"
+        },
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "title_en": null,
+          "title_original": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
         },
         {
           "id": "2a46358db60bc8aeb50bbfce0c3c4935799a9325",
-          "title": "如果LLM从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "title_zh": "如果LLM从未见过五年级以上的材料，会发生什么？",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
           "title_en": "What happens when an LLM never sees material beyond fifth grade?",
           "title_original": "What happens when an LLM never sees material beyond fifth grade?",
           "summary": null,
@@ -345,10 +358,11 @@
           "published_at": "2026-08-16T07:37:53Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "hackernews",
+        "littlelearner-ll.github.io"
       ],
       "items": [
         {
@@ -363,12 +377,26 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T09:46:21.537000Z"
+          "published_at": "2026-08-16T10:44:14.294000Z"
+        },
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "title_en": null,
+          "title_original": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
         },
         {
           "id": "2a46358db60bc8aeb50bbfce0c3c4935799a9325",
-          "title": "如果LLM从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "title_zh": "如果LLM从未见过五年级以上的材料，会发生什么？",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
           "title_en": "What happens when an LLM never sees material beyond fifth grade?",
           "title_original": "What happens when an LLM never sees material beyond fifth grade?",
           "summary": null,
@@ -380,25 +408,25 @@
           "published_at": "2026-08-16T07:37:53Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-16T07:37:53Z",
-      "latest_at": "2026-08-16T09:46:21.537000Z",
+      "latest_at": "2026-08-16T10:44:14.294000Z",
       "primary_item": {
         "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
         "title": "如果LLM从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
@@ -415,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -492,15 +520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.904,
+        "recency": 0.8915,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -525,7 +553,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -602,15 +630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8272,
+        "recency": 0.8158,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -635,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -712,15 +740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.5098,
+      "importance": 0.5098,
+      "importance_score": 0.5098,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8115,
+        "recency": 0.8003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -745,117 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
-      }
-    },
-    {
-      "story_id": "story_461e5611a9d5",
-      "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-      "primary_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-      "source": "allen.bargi.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "title_en": null,
-          "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "allen.bargi.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T16:38:01.653000Z"
-        },
-        {
-          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
-          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "title_en": "Working with AI feels more like leadership than coding",
-          "title_original": "Working with AI feels more like leadership than coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "allen.bargi.org"
-      ],
-      "items": [
-        {
-          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "title_en": null,
-          "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "allen.bargi.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T16:38:01.653000Z"
-        },
-        {
-          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
-          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "title_en": "Working with AI feels more like leadership than coding",
-          "title_original": "Working with AI feels more like leadership than coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7808,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:39:41Z",
-      "latest_at": "2026-08-15T16:38:01.653000Z",
-      "primary_item": {
-        "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
-        "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-        "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
-        "title_en": null,
-        "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-        "source": "allen.bargi.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -932,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5014,
-      "importance": 0.5014,
-      "importance_score": 0.5014,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7533,
+        "recency": 0.7429,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -962,10 +880,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     },
     {
@@ -991,7 +909,7 @@
           "published_at": "2026-08-15T13:58:02.713000Z"
         },
         {
-          "id": "a5ee76eaf4ec5911f1db8b4202d06a7f854c5040",
+          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
           "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
           "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
           "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
@@ -999,15 +917,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T11:00:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "sankalp.bearblog.dev"
       ],
       "items": [
@@ -1026,7 +944,7 @@
           "published_at": "2026-08-15T13:58:02.713000Z"
         },
         {
-          "id": "a5ee76eaf4ec5911f1db8b4202d06a7f854c5040",
+          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
           "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
           "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
           "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
@@ -1034,23 +952,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T11:00:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
+      "score": 0.4992,
+      "importance": 0.4992,
+      "importance_score": 0.4992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7513,
+        "recency": 0.7409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,10 +990,10 @@
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T09:46:37.214539Z"
+        "scored_at": "2026-08-16T10:44:29.415119Z"
       }
     }
   ]
