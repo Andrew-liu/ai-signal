@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:49:29.834963Z",
+  "generated_at": "2026-08-16T19:37:52.599439Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.897,
+        "recency": 0.8866,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -176,8 +176,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
         "title": "AI企业也能按Token融资：广东首推“Token贷”",
@@ -194,7 +194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -258,8 +258,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "df9a7c050f645ac9da20845c5dca6e0b348b007b",
         "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
@@ -276,7 +276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -324,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7986,
+        "recency": 0.7894,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,118 +357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
-      }
-    },
-    {
-      "story_id": "story_fe87bc97dd0a",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
-      ],
-      "items": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7202,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T20:05:54.703000Z",
-      "latest_at": "2026-08-15T20:05:54.703000Z",
-      "primary_item": {
-        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "title_zh": "Cursor 正式被 SpaceX 收购",
-        "title_en": null,
-        "title_original": "Cursor 正式被 SpaceX 收购",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "recommend_reason_zh": null,
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -532,8 +421,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
         "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
@@ -550,7 +439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -614,8 +503,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "1172c6daa9ab6602e32ca149e2a6ff51510b3d22",
         "title": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
@@ -632,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -696,8 +585,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "d6340518c14a07d57d67c2dfa742c301ff8ff570",
         "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
@@ -714,146 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
-      }
-    },
-    {
-      "story_id": "story_dbeb44805b60",
-      "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-15T18:58:39Z"
-        },
-        {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
-        },
-        {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
-          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-15T18:58:39Z"
-        },
-        {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
-        },
-        {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
-          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6463,
-      "importance": 0.6463,
-      "importance_score": 0.6463,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7087,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T18:58:39Z",
-      "latest_at": "2026-08-16T10:03:27Z",
-      "primary_item": {
-        "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-        "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-        "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
-        "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -917,8 +667,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "905bbaea674b7bc6d60500aa7675db70c00dd70b",
         "title": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
@@ -935,7 +685,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -999,8 +749,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "1b2253bccc1fdc0e91916103d94deef1b6d5cece",
         "title": "三星用Claude Code加速芯片验证：一个月项目缩短至两天",
@@ -1017,7 +767,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1040,7 +790,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T18:49:52.611000Z"
+          "published_at": "2026-08-16T19:14:41.319000Z"
         },
         {
           "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
@@ -1090,7 +840,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T18:49:52.611000Z"
+          "published_at": "2026-08-16T19:14:41.319000Z"
         },
         {
           "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
@@ -1123,15 +873,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9944,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1139,7 +889,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-16T14:44:55Z",
-      "latest_at": "2026-08-16T18:49:52.611000Z",
+      "latest_at": "2026-08-16T19:14:41.319000Z",
       "primary_item": {
         "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
         "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
@@ -1156,7 +906,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1220,8 +970,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "9954fc2df96bf099edfea4b8b458e56841cfeb14",
         "title": "京东七鲜咖啡全球首发 24 小时无人店：机器人现制、AI 荐饮，落地北京银河 Soho",
@@ -1238,7 +988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1315,15 +1065,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9395,
+        "recency": 0.9286,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,7 +1098,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1412,8 +1162,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
         "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
@@ -1430,7 +1180,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
+      }
+    },
+    {
+      "story_id": "story_219081828aa3",
+      "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "items": [
+        {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8709,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T22:07:08Z",
+      "latest_at": "2026-08-16T10:03:27Z",
+      "primary_item": {
+        "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+        "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+        "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
+        "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
+        "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1507,15 +1366,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8766,
+        "recency": 0.8664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1540,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1563,7 +1422,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T18:49:52.611000Z"
+          "published_at": "2026-08-16T19:14:41.319000Z"
         },
         {
           "id": "8850383390b70c74f8faa664aa93000ad2553f63",
@@ -1598,7 +1457,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T18:49:52.611000Z"
+          "published_at": "2026-08-16T19:14:41.319000Z"
         },
         {
           "id": "8850383390b70c74f8faa664aa93000ad2553f63",
@@ -1617,15 +1476,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9944,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1633,7 +1492,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T18:49:52.611000Z",
+      "latest_at": "2026-08-16T19:14:41.319000Z",
       "primary_item": {
         "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
         "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
@@ -1650,117 +1509,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
-      }
-    },
-    {
-      "story_id": "story_01c472791cae",
-      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "www.science.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": null,
-          "title_original": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "43fc07649ac561e5b54ef1763a62334624cc015e",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.science.org"
-      ],
-      "items": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": null,
-          "title_original": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "43fc07649ac561e5b54ef1763a62334624cc015e",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-16T02:46:42.706000Z",
-      "primary_item": {
-        "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-        "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-        "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-        "title_en": null,
-        "title_original": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "source": "www.science.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1824,8 +1573,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
         "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
@@ -1842,7 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     },
     {
@@ -1906,8 +1655,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:49:29.834963Z",
-      "latest_at": "2026-08-16T18:49:29.834963Z",
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
       "primary_item": {
         "id": "912318d87a13b30605178f6c758588ba8a588a67",
         "title": "智谱 GLM-5.3 发布：7400 亿参数没涨，靠后训练硬拉 50% 性能，编程能力逼近 Fable 5",
@@ -1924,7 +1673,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T18:50:08.846569Z"
+        "scored_at": "2026-08-16T19:39:50.669643Z"
+      }
+    },
+    {
+      "story_id": "story_73b31695b554",
+      "title": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+      "url": "https://www.aibase.com/news/30348",
+      "primary_url": "https://www.aibase.com/news/30348",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f950697d026e4e267e26944035660ae5a9ed517f",
+          "title": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+          "title_zh": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+          "title_en": null,
+          "title_original": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30348",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f950697d026e4e267e26944035660ae5a9ed517f",
+          "title": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+          "title_zh": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+          "title_en": null,
+          "title_original": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30348",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
+      "primary_item": {
+        "id": "f950697d026e4e267e26944035660ae5a9ed517f",
+        "title": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+        "title_zh": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+        "title_en": null,
+        "title_original": "智谱发布 GLM-5.3：不换底座、只炼后训，开源编程王座易主",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30348",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-16T19:39:50.669643Z"
+      }
+    },
+    {
+      "story_id": "story_077cbf8051a6",
+      "title": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+      "url": "https://www.aibase.com/news/30349",
+      "primary_url": "https://www.aibase.com/news/30349",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1789f323f860595309e136e1ed59de08435299de",
+          "title": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+          "title_zh": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+          "title_en": null,
+          "title_original": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30349",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1789f323f860595309e136e1ed59de08435299de",
+          "title": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+          "title_zh": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+          "title_en": null,
+          "title_original": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30349",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-16T19:37:52.599439Z",
+      "latest_at": "2026-08-16T19:37:52.599439Z",
+      "primary_item": {
+        "id": "1789f323f860595309e136e1ed59de08435299de",
+        "title": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+        "title_zh": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+        "title_en": null,
+        "title_original": "深度绑定本土生态：传苹果与阿里联手打造中国专属大模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30349",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-16T19:39:50.669643Z"
       }
     }
   ]
