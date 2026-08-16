@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T04:53:19.435437Z",
+  "generated_at": "2026-08-16T05:47:12.759417Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_fe87bc97dd0a",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8694,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -194,88 +194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
-      }
-    },
-    {
-      "story_id": "story_e50ea4ab6859",
-      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "237f5929662e76d04e6158b8f564028e5c415071",
-          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "title_zh": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
-          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
-          "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "237f5929662e76d04e6158b8f564028e5c415071",
-          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "title_zh": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
-          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
-          "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7725,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T11:00:50Z",
-      "latest_at": "2026-08-15T11:00:50Z",
-      "primary_item": {
-        "id": "237f5929662e76d04e6158b8f564028e5c415071",
-        "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-        "title_zh": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-        "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
-        "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
-        "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -352,15 +271,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6497,
-      "importance": 0.6497,
-      "importance_score": 0.6497,
+      "score": 0.6477,
+      "importance": 0.6477,
+      "importance_score": 0.6477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8666,
+        "recency": 0.8555,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -386,44 +305,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
-      "story_id": "story_3415e330fba4",
-      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
-      "primary_url": "https://news.ycombinator.com/item?id=49314967",
+      "story_id": "story_e5da5f0992d1",
+      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49316605",
+      "primary_url": "https://news.ycombinator.com/item?id=49316605",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
-          "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_original": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
+          "title_en": "ProofRun – a local verification receipt for AI coding agents",
+          "title_original": "ProofRun – a local verification receipt for AI coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49314967",
+          "url": "https://news.ycombinator.com/item?id=49316605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T04:40:40.166000Z"
+          "published_at": "2026-08-16T05:47:36.811000Z"
         },
         {
-          "id": "2713b3286640bc0d1328925207c5e5ec1bff3bae",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
-          "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_original": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "id": "21b0027bbef147692576a393bcc41524018907e7",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
+          "title_en": "ProofRun – a local verification receipt for AI coding agents",
+          "title_original": "ProofRun – a local verification receipt for AI coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.13122",
+          "url": "https://github.com/yebiguo/ProofRun",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T22:41:51Z"
+          "published_at": "2026-08-16T03:22:15Z"
         }
       ],
       "source_count": 2,
@@ -433,62 +352,62 @@
       ],
       "items": [
         {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
-          "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_original": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
+          "title_en": "ProofRun – a local verification receipt for AI coding agents",
+          "title_original": "ProofRun – a local verification receipt for AI coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49314967",
+          "url": "https://news.ycombinator.com/item?id=49316605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T04:40:40.166000Z"
+          "published_at": "2026-08-16T05:47:36.811000Z"
         },
         {
-          "id": "2713b3286640bc0d1328925207c5e5ec1bff3bae",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
-          "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "title_original": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "id": "21b0027bbef147692576a393bcc41524018907e7",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
+          "title_en": "ProofRun – a local verification receipt for AI coding agents",
+          "title_original": "ProofRun – a local verification receipt for AI coding agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.13122",
+          "url": "https://github.com/yebiguo/ProofRun",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T22:41:51Z"
+          "published_at": "2026-08-16T03:22:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.997,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T22:41:51Z",
-      "latest_at": "2026-08-16T04:40:40.166000Z",
+      "earliest_at": "2026-08-16T03:22:15Z",
+      "latest_at": "2026-08-16T05:47:36.811000Z",
       "primary_item": {
-        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
-        "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "title_original": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
+        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+        "title_zh": "ProofRun – AI 编码代理的本地验证收据",
+        "title_en": "ProofRun – a local verification receipt for AI coding agents",
+        "title_original": "ProofRun – a local verification receipt for AI coding agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49314967",
+        "url": "https://news.ycombinator.com/item?id=49316605",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -496,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -573,15 +492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.97,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -606,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -683,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8876,
+        "recency": 0.8762,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -716,7 +635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -793,15 +712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8707,
+        "recency": 0.8595,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -826,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -852,7 +771,7 @@
           "published_at": "2026-08-15T16:38:01.653000Z"
         },
         {
-          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
           "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
           "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
           "title_en": "Working with AI feels more like leadership than coding",
@@ -860,15 +779,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T10:39:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "allen.bargi.org"
       ],
       "items": [
@@ -887,7 +806,7 @@
           "published_at": "2026-08-15T16:38:01.653000Z"
         },
         {
-          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
           "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
           "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
           "title_en": "Working with AI feels more like leadership than coding",
@@ -895,23 +814,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T10:39:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8378,
+        "recency": 0.827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -936,7 +855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -1013,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8083,
+        "recency": 0.7979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1046,7 +965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     },
     {
@@ -1123,15 +1042,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8062,
+        "recency": 0.7958,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1156,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T04:53:56.776365Z"
+        "scored_at": "2026-08-16T05:47:52.215165Z"
       }
     }
   ]
