@@ -1,12 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
   <title id="title">AI Signal Logo</title>
-  <desc id="desc">A graphite radar mark with one ember-orange signal</desc>
-  <rect x="8" y="8" width="204" height="204" rx="18" fill="#efefef"/>
-  <circle cx="110" cy="110" r="76" fill="none" stroke="#202020" stroke-width="8" opacity="0.16"/>
-  <circle cx="110" cy="110" r="50" fill="none" stroke="#202020" stroke-width="7" opacity="0.26"/>
-  <circle cx="110" cy="110" r="26" fill="none" stroke="#816729" stroke-width="6" opacity="0.55"/>
-  <path d="M110 110 L174 82" stroke="#202020" stroke-width="9" stroke-linecap="round"/>
-  <circle cx="174" cy="82" r="13" fill="#ff682c"/>
-  <circle cx="110" cy="110" r="9" fill="#202020"/>
-  <path d="M63 165 L110 110 L132 129 L88 165 Z" fill="#202020"/>
+  <desc id="desc">A white signal tile with a black pulse and coral endpoint</desc>
+  <rect x="8" y="8" width="204" height="204" rx="48" fill="#ffffff" stroke="#dedbd8" stroke-width="3"/>
+  <path d="M38 116H70L88 79L111 153L133 95L150 116H176" fill="none" stroke="#111111" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="176" cy="116" r="16" fill="#f64932" stroke="#ffffff" stroke-width="7"/>
 </svg>

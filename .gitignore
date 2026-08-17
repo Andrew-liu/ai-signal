@@ -37,6 +37,7 @@ data/title-zh-cache.json
 # Build and candidate snapshots
 dist/
 .candidate-data/
+node_modules/
 
 # Local OS/editor noise
 .DS_Store

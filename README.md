@@ -63,6 +63,8 @@ Windows PowerShell：
 py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements-dev.txt
+npm ci
+npm run build:css
 python -m pytest -q
 python scripts\quality_gate.py --data-dir data
 python scripts\build_public_site.py --data-dir data --output-dir dist

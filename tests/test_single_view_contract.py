@@ -90,9 +90,27 @@ def test_public_build_only_copies_single_frontend_assets():
     assert '"classic"' not in source
 
 
-def test_design_tokens_follow_editorial_reference():
-    source = read("assets/styles.css")
-    for token in ("#202020", "#efefef", "#f5f5f5", "#ebe6dd", "#ff682c", "#816729"):
+def test_tailwind_source_preserves_visual_contract():
+    source = read("assets/tailwind.css")
+    package = read("package.json")
+    assert '@import "tailwindcss"' in source
+    assert '"tailwindcss": "4.3.3"' in package
+    for token in ("#f6f5f4", "#ffffff", "#111111", "#0075de", "#e6f3fe", "#ffb110", "#f64932", "#02093a"):
         assert token in source
-    assert "box-shadow:" not in source
+    assert "--page-max-width: 1280px" in source
+    assert "--radius-cards: 16px" in source
+    assert "--motion-duration: 200ms" in source
+    for tone in ("tone-models", "tone-products", "tone-devtools", "tone-research", "tone-industry", "tone-community", "tone-creator", "tone-aggregate"):
+        assert tone in source
     assert "linear-gradient" not in source
+
+
+def test_tailwind_compiled_styles_are_checked_in():
+    compiled = read("assets/styles.css")
+    assert "tailwindcss v4.3.3" in compiled
+    assert ".hot-board-wrap" in compiled
+    assert ".news-card" in compiled
+
+
+
+

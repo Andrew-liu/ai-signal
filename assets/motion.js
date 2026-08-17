@@ -4,7 +4,7 @@
   const mm = gsap.matchMedia();
 
   mm.add("(prefers-reduced-motion: no-preference)", function () {
-    gsap.defaults({ duration: 0.55, ease: "power3.out" });
+    gsap.defaults({ duration: 0.2, ease: "power2.out" });
 
     // Intro / list entry animations intentionally live in styles.css as
     // transform-only @keyframes: any JS "from" tween that touches opacity

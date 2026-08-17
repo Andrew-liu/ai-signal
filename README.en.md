@@ -59,6 +59,8 @@ skills/         Agent consumer and maintainer Skills
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
+npm ci
+npm run build:css
 python -m pytest -q
 python scripts/quality_gate.py --data-dir data
 python scripts/build_public_site.py --data-dir data --output-dir dist
