@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:43:51.834986Z",
+  "generated_at": "2026-08-17T16:49:12.605826Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8627,
+        "recency": 0.8492,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
+      }
+    },
+    {
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9882,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T16:00:00Z",
+      "latest_at": "2026-08-17T16:00:00Z",
+      "primary_item": {
+        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+        "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+        "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8944,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -244,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8564,
+        "recency": 0.8431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -327,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9555,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -384,7 +467,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:49:12.605826Z"
         }
       ],
       "source_count": 1,
@@ -404,7 +487,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:49:12.605826Z"
         }
       ],
       "item_count": 1,
@@ -425,8 +508,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
+      "earliest_at": "2026-08-17T16:49:12.605826Z",
+      "latest_at": "2026-08-17T16:49:12.605826Z",
       "primary_item": {
         "id": "8896675e6169f1699ac10a6295254c1db07825e0",
         "title": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
@@ -443,24 +526,24 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
       "story_id": "story_be56974e4c46",
-      "title": "https://x.com/i/article/2089330332369588224",
+      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
       "url": "https://x.com/JensenHuang/status/2089331487342829862",
       "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
       "source": "X：Jensen Huang (@JensenHuang)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
-          "title_zh": null,
+          "id": "6e0f761a2146032889914220920c023472e7a342",
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
           "title_en": "https://x.com/i/article/2089330332369588224",
           "title_original": "https://x.com/i/article/2089330332369588224",
-          "summary": null,
+          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
           "recommend_reason_zh": null,
           "url": "https://x.com/JensenHuang/status/2089331487342829862",
           "source": "X：Jensen Huang (@JensenHuang)",
@@ -475,12 +558,12 @@
       ],
       "items": [
         {
-          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
-          "title_zh": null,
+          "id": "6e0f761a2146032889914220920c023472e7a342",
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
           "title_en": "https://x.com/i/article/2089330332369588224",
           "title_original": "https://x.com/i/article/2089330332369588224",
-          "summary": null,
+          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
           "recommend_reason_zh": null,
           "url": "https://x.com/JensenHuang/status/2089331487342829862",
           "source": "X：Jensen Huang (@JensenHuang)",
@@ -491,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -510,12 +593,12 @@
       "earliest_at": "2026-08-17T12:40:19Z",
       "latest_at": "2026-08-17T12:40:19Z",
       "primary_item": {
-        "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-        "title": "https://x.com/i/article/2089330332369588224",
-        "title_zh": null,
+        "id": "6e0f761a2146032889914220920c023472e7a342",
+        "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+        "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
         "title_en": "https://x.com/i/article/2089330332369588224",
         "title_original": "https://x.com/i/article/2089330332369588224",
-        "summary": null,
+        "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
         "recommend_reason_zh": null,
         "url": "https://x.com/JensenHuang/status/2089331487342829862",
         "source": "X：Jensen Huang (@JensenHuang)",
@@ -525,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -573,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8351,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -656,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -713,7 +796,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:49:12.605826Z"
         }
       ],
       "source_count": 1,
@@ -733,7 +816,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:49:12.605826Z"
         }
       ],
       "item_count": 1,
@@ -754,8 +837,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
+      "earliest_at": "2026-08-17T16:49:12.605826Z",
+      "latest_at": "2026-08-17T16:49:12.605826Z",
       "primary_item": {
         "id": "0c1c9688db4107d152c66877ded859c720f5a604",
         "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
@@ -772,7 +855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -820,15 +903,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7742,
+        "recency": 0.7621,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,171 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
-      }
-    },
-    {
-      "story_id": "story_98a2acea3dca",
-      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-      "url": "https://www.aibase.com/news/30398",
-      "primary_url": "https://www.aibase.com/news/30398",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_en": null,
-          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30398",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_en": null,
-          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30398",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
-      "primary_item": {
-        "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-        "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "title_en": null,
-        "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30398",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
-      }
-    },
-    {
-      "story_id": "story_d11d05f89a66",
-      "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-      "url": "https://www.aibase.com/news/30401",
-      "primary_url": "https://www.aibase.com/news/30401",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
-      "primary_item": {
-        "id": "d736d87029511dac5e26a44965814f519559f722",
-        "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_en": null,
-        "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30401",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -1040,7 +959,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:49:12.605826Z"
         }
       ],
       "source_count": 1,
@@ -1060,7 +979,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:49:12.605826Z"
         }
       ],
       "item_count": 1,
@@ -1081,8 +1000,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
+      "earliest_at": "2026-08-17T16:49:12.605826Z",
+      "latest_at": "2026-08-17T16:49:12.605826Z",
       "primary_item": {
         "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
         "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
@@ -1099,7 +1018,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
+      }
+    },
+    {
+      "story_id": "story_907f85032454",
+      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+      "url": "https://www.aibase.com/news/30405",
+      "primary_url": "https://www.aibase.com/news/30405",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "title_zh": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "title_en": null,
+          "title_original": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:49:12.605826Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "title_zh": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "title_en": null,
+          "title_original": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:49:12.605826Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T16:49:12.605826Z",
+      "latest_at": "2026-08-17T16:49:12.605826Z",
+      "primary_item": {
+        "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+        "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+        "title_zh": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+        "title_en": null,
+        "title_original": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30405",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:50:02.336286Z"
+      }
+    },
+    {
+      "story_id": "story_16a84261d17f",
+      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+      "url": "https://www.aibase.com/news/30402",
+      "primary_url": "https://www.aibase.com/news/30402",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
+          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_en": null,
+          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30402",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:47:12.605826Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
+          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_en": null,
+          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30402",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:47:12.605826Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9995,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T16:47:12.605826Z",
+      "latest_at": "2026-08-17T16:47:12.605826Z",
+      "primary_item": {
+        "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
+        "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+        "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+        "title_en": null,
+        "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30402",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -1175,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6284,
-      "importance": 0.6284,
-      "importance_score": 0.6284,
+      "score": 0.6258,
+      "importance": 0.6258,
+      "importance_score": 0.6258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9333,
+        "recency": 0.9188,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,7 +1291,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
+      }
+    },
+    {
+      "story_id": "story_d11d05f89a66",
+      "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+      "url": "https://www.aibase.com/news/30401",
+      "primary_url": "https://www.aibase.com/news/30401",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d736d87029511dac5e26a44965814f519559f722",
+          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+          "title_en": null,
+          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30401",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:40:12.605826Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d736d87029511dac5e26a44965814f519559f722",
+          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+          "title_en": null,
+          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30401",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:40:12.605826Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9978,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T16:40:12.605826Z",
+      "latest_at": "2026-08-17T16:40:12.605826Z",
+      "primary_item": {
+        "id": "d736d87029511dac5e26a44965814f519559f722",
+        "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+        "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+        "title_en": null,
+        "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30401",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -1234,7 +1399,7 @@
           "published_at": "2026-08-17T15:21:29Z"
         },
         {
-          "id": "2279eec4b3c2bb26ffae18b432e33a12fa48005f",
+          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
           "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
           "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
@@ -1242,9 +1407,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-17T13:44:23Z"
         },
         {
@@ -1264,7 +1429,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Reddit (热门)",
         "Simon Willison"
       ],
@@ -1284,7 +1449,7 @@
           "published_at": "2026-08-17T15:21:29Z"
         },
         {
-          "id": "2279eec4b3c2bb26ffae18b432e33a12fa48005f",
+          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
           "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
           "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
@@ -1292,9 +1457,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-17T13:44:23Z"
         },
         {
@@ -1314,15 +1479,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6178,
-      "importance": 0.6178,
-      "importance_score": 0.6178,
+      "score": 0.615,
+      "importance": 0.615,
+      "importance_score": 0.615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9946,
+        "recency": 0.9791,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1347,302 +1512,167 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
-      "story_id": "story_a40740f5bec6",
-      "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-      "url": "https://www.aibase.com/news/30397",
-      "primary_url": "https://www.aibase.com/news/30397",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-          "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_en": null,
-          "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30397",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-          "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_en": null,
-          "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30397",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
-      "primary_item": {
-        "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-        "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-        "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-        "title_en": null,
-        "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30397",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
-      }
-    },
-    {
-      "story_id": "story_16a84261d17f",
-      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-      "url": "https://www.aibase.com/news/30402",
-      "primary_url": "https://www.aibase.com/news/30402",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
-      "primary_item": {
-        "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-        "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_en": null,
-        "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30402",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
-      }
-    },
-    {
-      "story_id": "story_f75e3b4636ba",
-      "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://news.ycombinator.com/item?id=49329575",
-      "primary_url": "https://news.ycombinator.com/item?id=49329575",
+      "story_id": "story_a3e7db53d120",
+      "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "url": "https://news.ycombinator.com/item?id=49331423",
+      "primary_url": "https://news.ycombinator.com/item?id=49331423",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
+          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49329575",
+          "url": "https://news.ycombinator.com/item?id=49331423",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T15:44:15.285000Z"
+          "published_at": "2026-08-17T16:49:38.546000Z"
         },
         {
-          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "id": "38069cf1f4c337ff054f6b19307629efb3dfb33e",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
           "title_en": null,
-          "title_original": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_original": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "blog.roboflow.com",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "www.wiz.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T14:29:55.280000Z"
+          "published_at": "2026-08-17T16:38:11.073000Z"
         },
         {
-          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "9dd07b53fea512d3aee489453a2f6c29c8920dac",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:18:38Z"
+        },
+        {
+          "id": "cf7a87e812c53e264434957b442f968288cf3d7c",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-17T12:09:42Z"
+          "published_at": "2026-08-17T14:18:38Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
-        "blog.roboflow.com",
-        "hackernews"
+        "hackernews",
+        "www.wiz.io"
       ],
       "items": [
         {
-          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
+          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49329575",
+          "url": "https://news.ycombinator.com/item?id=49331423",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T15:44:15.285000Z"
+          "published_at": "2026-08-17T16:49:38.546000Z"
         },
         {
-          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "id": "38069cf1f4c337ff054f6b19307629efb3dfb33e",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
           "title_en": null,
-          "title_original": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_original": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "blog.roboflow.com",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "www.wiz.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T14:29:55.280000Z"
+          "published_at": "2026-08-17T16:38:11.073000Z"
         },
         {
-          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "9dd07b53fea512d3aee489453a2f6c29c8920dac",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:18:38Z"
+        },
+        {
+          "id": "cf7a87e812c53e264434957b442f968288cf3d7c",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-17T12:09:42Z"
+          "published_at": "2026-08-17T14:18:38Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T12:09:42Z",
-      "latest_at": "2026-08-17T15:44:15.285000Z",
+      "earliest_at": "2026-08-17T14:18:38Z",
+      "latest_at": "2026-08-17T16:49:38.546000Z",
       "primary_item": {
-        "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-        "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-        "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
+        "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+        "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
+        "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+        "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49329575",
+        "url": "https://news.ycombinator.com/item?id=49331423",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1650,7 +1680,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
@@ -1673,7 +1703,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:26:12.605826Z"
         }
       ],
       "source_count": 1,
@@ -1693,20 +1723,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T15:43:51.834986Z"
+          "published_at": "2026-08-17T16:26:12.605826Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1714,8 +1744,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T15:43:51.834986Z",
-      "latest_at": "2026-08-17T15:43:51.834986Z",
+      "earliest_at": "2026-08-17T16:26:12.605826Z",
+      "latest_at": "2026-08-17T16:26:12.605826Z",
       "primary_item": {
         "id": "d373ff73aa86be48d7aaf5866b3a2ed77acf8943",
         "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
@@ -1732,117 +1762,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     },
     {
-      "story_id": "story_40f3e2e4a0ac",
-      "title": "MathCode，数学编码代理",
-      "url": "https://math-ai-org.github.io/mathcode",
-      "primary_url": "https://math-ai-org.github.io/mathcode",
-      "source": "math-ai-org.github.io",
-      "source_name": "Buzzing",
+      "story_id": "story_98a2acea3dca",
+      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+      "url": "https://www.aibase.com/news/30398",
+      "primary_url": "https://www.aibase.com/news/30398",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
-          "title": "MathCode，数学编码代理",
-          "title_zh": "MathCode，数学编码代理",
+          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
+          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
           "title_en": null,
-          "title_original": "MathCode，数学编码代理",
+          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "math-ai-org.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T11:33:59.048000Z"
-        },
-        {
-          "id": "c19f223266ea5a4f029577c74140a3c58a248a79",
-          "title": "MathCode，数学编码代理 / MathCode, Mathematical Coding Agent",
-          "title_zh": "MathCode，数学编码代理",
-          "title_en": "MathCode, Mathematical Coding Agent",
-          "title_original": "MathCode, Mathematical Coding Agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T18:17:10Z"
+          "url": "https://www.aibase.com/news/30398",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:21:12.605826Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "math-ai-org.github.io"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
-          "title": "MathCode，数学编码代理",
-          "title_zh": "MathCode，数学编码代理",
+          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
+          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
           "title_en": null,
-          "title_original": "MathCode，数学编码代理",
+          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "math-ai-org.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T11:33:59.048000Z"
-        },
-        {
-          "id": "c19f223266ea5a4f029577c74140a3c58a248a79",
-          "title": "MathCode，数学编码代理 / MathCode, Mathematical Coding Agent",
-          "title_zh": "MathCode，数学编码代理",
-          "title_en": "MathCode, Mathematical Coding Agent",
-          "title_original": "MathCode, Mathematical Coding Agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T18:17:10Z"
+          "url": "https://www.aibase.com/news/30398",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T16:21:12.605826Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9416,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9933,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-16T18:17:10Z",
-      "latest_at": "2026-08-17T11:33:59.048000Z",
+      "earliest_at": "2026-08-17T16:21:12.605826Z",
+      "latest_at": "2026-08-17T16:21:12.605826Z",
       "primary_item": {
-        "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
-        "title": "MathCode，数学编码代理",
-        "title_zh": "MathCode，数学编码代理",
+        "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
+        "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+        "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
         "title_en": null,
-        "title_original": "MathCode，数学编码代理",
+        "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://math-ai-org.github.io/mathcode",
-        "source": "math-ai-org.github.io",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/30398",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:44:30.028747Z"
+        "scored_at": "2026-08-17T16:50:02.336286Z"
       }
     }
   ]
