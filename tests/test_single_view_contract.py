@@ -110,7 +110,3 @@ def test_tailwind_compiled_styles_are_checked_in():
     assert "tailwindcss v4.3.3" in compiled
     assert ".hot-board-wrap" in compiled
     assert ".news-card" in compiled
-
-
-
-
