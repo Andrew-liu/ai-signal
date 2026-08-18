@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:55:08.960104Z",
+  "generated_at": "2026-08-18T05:48:23.517563Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8763,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.908,
+        "recency": 0.8964,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,120 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
-      }
-    },
-    {
-      "story_id": "story_b3a579450c1c",
-      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "primary_url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7131,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:30:00Z",
-      "latest_at": "2026-08-17T05:30:00Z",
-      "primary_item": {
-        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-        "title_en": "The Defender’s Window",
-        "title_original": "The Defender’s Window",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -385,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8298,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -468,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7393,
+        "recency": 0.7299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -551,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -720,15 +607,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.8527,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -755,90 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
-      }
-    },
-    {
-      "story_id": "story_07b36a6c9f2c",
-      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7079,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:00:00Z",
-      "latest_at": "2026-08-17T05:00:00Z",
-      "primary_item": {
-        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-        "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-        "title_en": "OpenAI joins PORTS-Pike project",
-        "title_original": "OpenAI joins PORTS-Pike project",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-joins-ports-pike-project",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -861,7 +665,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "source_count": 1,
@@ -881,7 +685,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "item_count": 1,
@@ -902,8 +706,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:55:08.960104Z",
-      "latest_at": "2026-08-18T04:55:08.960104Z",
+      "earliest_at": "2026-08-18T05:48:23.517563Z",
+      "latest_at": "2026-08-18T05:48:23.517563Z",
       "primary_item": {
         "id": "27629c58575dfdb786e35467e371eb1057688f83",
         "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
@@ -920,7 +724,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -968,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.9191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,7 +806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1050,15 +854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7898,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1083,7 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1106,7 +910,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "source_count": 1,
@@ -1126,7 +930,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "item_count": 1,
@@ -1147,8 +951,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:55:08.960104Z",
-      "latest_at": "2026-08-18T04:55:08.960104Z",
+      "earliest_at": "2026-08-18T05:48:23.517563Z",
+      "latest_at": "2026-08-18T05:48:23.517563Z",
       "primary_item": {
         "id": "7823e6f0e326657bfe619ad1bc880c2a96a413b3",
         "title": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
@@ -1165,7 +969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1213,15 +1017,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7909,
+        "recency": 0.7808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1246,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1294,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.788,
+        "recency": 0.778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1131,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
+      }
+    },
+    {
+      "story_id": "story_96a7eab71ba9",
+      "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+      "url": "https://www.aibase.com/news/30409",
+      "primary_url": "https://www.aibase.com/news/30409",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
+          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "title_zh": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "title_en": null,
+          "title_original": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30409",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T05:48:23.517563Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
+          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "title_zh": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "title_en": null,
+          "title_original": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30409",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T05:48:23.517563Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T05:48:23.517563Z",
+      "latest_at": "2026-08-18T05:48:23.517563Z",
+      "primary_item": {
+        "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
+        "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+        "title_zh": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+        "title_en": null,
+        "title_original": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30409",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1353,20 +1239,6 @@
           "published_at": "2026-08-17T17:58:12.144000Z"
         },
         {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
           "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
           "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
           "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
@@ -1381,11 +1253,10 @@
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.librarian.net"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
@@ -1403,20 +1274,6 @@
           "published_at": "2026-08-17T17:58:12.144000Z"
         },
         {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
           "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
           "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
           "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
@@ -1431,20 +1288,20 @@
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8538,
-        "story_heat": 0.5
+        "recency": 0.8429,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
@@ -1468,89 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
-      }
-    },
-    {
-      "story_id": "story_96a7eab71ba9",
-      "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-      "url": "https://www.aibase.com/news/30409",
-      "primary_url": "https://www.aibase.com/news/30409",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
-          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "title_zh": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "title_en": null,
-          "title_original": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30409",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
-          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "title_zh": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "title_en": null,
-          "title_original": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30409",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T04:55:08.960104Z",
-      "latest_at": "2026-08-18T04:55:08.960104Z",
-      "primary_item": {
-        "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
-        "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-        "title_zh": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-        "title_en": null,
-        "title_original": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30409",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1573,7 +1348,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "source_count": 1,
@@ -1593,7 +1368,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "item_count": 1,
@@ -1614,8 +1389,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:55:08.960104Z",
-      "latest_at": "2026-08-18T04:55:08.960104Z",
+      "earliest_at": "2026-08-18T05:48:23.517563Z",
+      "latest_at": "2026-08-18T05:48:23.517563Z",
       "primary_item": {
         "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
         "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
@@ -1632,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1655,7 +1430,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "source_count": 1,
@@ -1675,7 +1450,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "item_count": 1,
@@ -1696,8 +1471,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:55:08.960104Z",
-      "latest_at": "2026-08-18T04:55:08.960104Z",
+      "earliest_at": "2026-08-18T05:48:23.517563Z",
+      "latest_at": "2026-08-18T05:48:23.517563Z",
       "primary_item": {
         "id": "614ab34169e08a313897e927c1d7f0d85a8fb041",
         "title": "AI视频创作平台 Higgsfield完成4亿美元B轮融资，估值升至54亿美元",
@@ -1714,7 +1489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1741,8 +1516,8 @@
         },
         {
           "id": "028bc6f232377abf8a6d6288df14f4cfd604ce76",
-          "title": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "title_zh": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型",
+          "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
+          "title_zh": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型",
           "title_en": "Amazon, once an online bookseller, is destroying rare books to train AI models",
           "title_original": "Amazon, once an online bookseller, is destroying rare books to train AI models",
           "summary": null,
@@ -1776,8 +1551,8 @@
         },
         {
           "id": "028bc6f232377abf8a6d6288df14f4cfd604ce76",
-          "title": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "title_zh": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型",
+          "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
+          "title_zh": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型",
           "title_en": "Amazon, once an online bookseller, is destroying rare books to train AI models",
           "title_original": "Amazon, once an online bookseller, is destroying rare books to train AI models",
           "summary": null,
@@ -1791,15 +1566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6195,
-      "importance": 0.6195,
-      "importance_score": 0.6195,
+      "score": 0.6176,
+      "importance": 0.6176,
+      "importance_score": 0.6176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8376,
+        "recency": 0.8269,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1824,7 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     },
     {
@@ -1847,7 +1622,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "source_count": 1,
@@ -1867,7 +1642,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:55:08.960104Z"
+          "published_at": "2026-08-18T05:48:23.517563Z"
         }
       ],
       "item_count": 1,
@@ -1888,8 +1663,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:55:08.960104Z",
-      "latest_at": "2026-08-18T04:55:08.960104Z",
+      "earliest_at": "2026-08-18T05:48:23.517563Z",
+      "latest_at": "2026-08-18T05:48:23.517563Z",
       "primary_item": {
         "id": "5b6373f995994142d172f82753267b7d90448c60",
         "title": "Anthropic 年化营收冲上 650 亿美元，增速碾压 OpenAI 剑指 2 万亿估值",
@@ -1906,7 +1681,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:55:51.971497Z"
+        "scored_at": "2026-08-18T05:48:59.057026Z"
+      }
+    },
+    {
+      "story_id": "story_ae0a0f31fc5c",
+      "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Decoder AI News"
+      ],
+      "items": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8042,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T14:43:04Z",
+      "latest_at": "2026-08-17T17:55:50Z",
+      "primary_item": {
+        "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+        "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+        "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+        "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
+        "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T05:48:59.057026Z"
+      }
+    },
+    {
+      "story_id": "story_80d47696ead8",
+      "title": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+      "url": "https://www.aibase.com/news/30414",
+      "primary_url": "https://www.aibase.com/news/30414",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "313e3c5c80e0e0e1161e042133ea29610c986f9d",
+          "title": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+          "title_zh": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+          "title_en": null,
+          "title_original": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30414",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T05:48:23.517563Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "313e3c5c80e0e0e1161e042133ea29610c986f9d",
+          "title": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+          "title_zh": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+          "title_en": null,
+          "title_original": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30414",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T05:48:23.517563Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T05:48:23.517563Z",
+      "latest_at": "2026-08-18T05:48:23.517563Z",
+      "primary_item": {
+        "id": "313e3c5c80e0e0e1161e042133ea29610c986f9d",
+        "title": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+        "title_zh": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+        "title_en": null,
+        "title_original": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30414",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T05:48:59.057026Z"
       }
     }
   ]
