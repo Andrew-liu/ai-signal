@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:12:01.252060Z",
+  "generated_at": "2026-08-18T14:00:24.504236Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8794,
-      "importance": 0.8794,
-      "importance_score": 0.8794,
+      "score": 0.8774,
+      "importance": 0.8774,
+      "importance_score": 0.8774,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9687,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,30 +113,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
-      "story_id": "story_5646c2e72f66",
-      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "story_id": "story_cd7a1ff75de2",
+      "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -145,31 +145,31 @@
       ],
       "items": [
         {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7775,
+        "ai_relevance": 0.99,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,17 +178,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T19:46:21Z",
-      "latest_at": "2026-08-17T19:46:21Z",
+      "earliest_at": "2026-08-18T00:00:00Z",
+      "latest_at": "2026-08-18T00:00:00Z",
       "primary_item": {
-        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-        "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
-        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+        "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+        "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "url": "https://huggingface.co/blog/multi-vector-encoder",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9687,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8056,
+        "recency": 0.7963,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7363,
+        "recency": 0.7278,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +503,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7685,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T19:46:21Z",
+      "latest_at": "2026-08-17T19:46:21Z",
+      "primary_item": {
+        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+        "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -551,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.819,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -608,7 +691,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "source_count": 1,
@@ -628,7 +711,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "item_count": 1,
@@ -649,8 +732,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T13:12:01.252060Z",
-      "latest_at": "2026-08-18T13:12:01.252060Z",
+      "earliest_at": "2026-08-18T14:00:24.504236Z",
+      "latest_at": "2026-08-18T14:00:24.504236Z",
       "primary_item": {
         "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
         "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
@@ -667,148 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
-      }
-    },
-    {
-      "story_id": "story_31dbd9b65f22",
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "8254d99f5de9f88ad47e8882d89f60a514c96a4a",
-          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
-          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T15:21:29Z"
-        },
-        {
-          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T13:44:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Simon Willison"
-      ],
-      "items": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "8254d99f5de9f88ad47e8882d89f60a514c96a4a",
-          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
-          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T15:21:29Z"
-        },
-        {
-          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T13:44:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7663,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T13:44:23Z",
-      "latest_at": "2026-08-17T18:46:04.518000Z",
-      "primary_item": {
-        "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-        "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_en": null,
-        "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -831,7 +773,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "source_count": 1,
@@ -851,7 +793,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "item_count": 1,
@@ -872,8 +814,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T13:12:01.252060Z",
-      "latest_at": "2026-08-18T13:12:01.252060Z",
+      "earliest_at": "2026-08-18T14:00:24.504236Z",
+      "latest_at": "2026-08-18T14:00:24.504236Z",
       "primary_item": {
         "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
         "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
@@ -890,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -938,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,7 +913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1019,15 +961,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.826,
+        "recency": 0.8165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,89 +994,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
-      }
-    },
-    {
-      "story_id": "story_c47c2f0e2f45",
-      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-      "url": "https://www.aibase.com/news/30433",
-      "primary_url": "https://www.aibase.com/news/30433",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_en": null,
-          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30433",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_en": null,
-          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30433",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T13:12:01.252060Z",
-      "latest_at": "2026-08-18T13:12:01.252060Z",
-      "primary_item": {
-        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "title_en": null,
-        "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30433",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1160,7 +1020,7 @@
           "published_at": "2026-08-17T17:58:12.144000Z"
         },
         {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
           "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
           "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
           "title_en": "How to disable or avoid intrusive AI",
@@ -1168,15 +1028,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -1195,7 +1055,7 @@
           "published_at": "2026-08-17T17:58:12.144000Z"
         },
         {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
           "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
           "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
           "title_en": "How to disable or avoid intrusive AI",
@@ -1203,23 +1063,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7575,
+        "recency": 0.7488,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1245,7 +1105,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
+      }
+    },
+    {
+      "story_id": "story_c47c2f0e2f45",
+      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+      "url": "https://www.aibase.com/news/30433",
+      "primary_url": "https://www.aibase.com/news/30433",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_en": null,
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:00:24.504236Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_en": null,
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:00:24.504236Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T14:00:24.504236Z",
+      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "primary_item": {
+        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "title_en": null,
+        "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30433",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1268,7 +1210,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "source_count": 1,
@@ -1288,7 +1230,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "item_count": 1,
@@ -1309,8 +1251,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T13:12:01.252060Z",
-      "latest_at": "2026-08-18T13:12:01.252060Z",
+      "earliest_at": "2026-08-18T14:00:24.504236Z",
+      "latest_at": "2026-08-18T14:00:24.504236Z",
       "primary_item": {
         "id": "597ed88674a898548c4f5920b32a5572603d64e3",
         "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
@@ -1327,7 +1269,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
+      }
+    },
+    {
+      "story_id": "story_9dc365abafc2",
+      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
+          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "title_en": null,
+          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T18:46:04.518000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
+          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "title_en": null,
+          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T18:46:04.518000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7574,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-17T18:46:04.518000Z",
+      "latest_at": "2026-08-17T18:46:04.518000Z",
+      "primary_item": {
+        "id": "4e9af5540cfb87db38c0d740293719051913bff7",
+        "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+        "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+        "title_en": null,
+        "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+        "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
+        "recommend_reason_zh": null,
+        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1350,7 +1373,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "source_count": 1,
@@ -1370,7 +1393,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "item_count": 1,
@@ -1391,8 +1414,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T13:12:01.252060Z",
-      "latest_at": "2026-08-18T13:12:01.252060Z",
+      "earliest_at": "2026-08-18T14:00:24.504236Z",
+      "latest_at": "2026-08-18T14:00:24.504236Z",
       "primary_item": {
         "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
         "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
@@ -1409,7 +1432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1432,7 +1455,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "source_count": 1,
@@ -1452,7 +1475,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "item_count": 1,
@@ -1473,8 +1496,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T13:12:01.252060Z",
-      "latest_at": "2026-08-18T13:12:01.252060Z",
+      "earliest_at": "2026-08-18T14:00:24.504236Z",
+      "latest_at": "2026-08-18T14:00:24.504236Z",
       "primary_item": {
         "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
         "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
@@ -1491,7 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1568,15 +1591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6025,
-      "importance": 0.6025,
-      "importance_score": 0.6025,
+      "score": 0.601,
+      "importance": 0.601,
+      "importance_score": 0.601,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7432,
+        "recency": 0.7346,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1601,7 +1624,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1678,15 +1701,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5989,
-      "importance": 0.5989,
-      "importance_score": 0.5989,
+      "score": 0.5974,
+      "importance": 0.5974,
+      "importance_score": 0.5974,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7228,
+        "recency": 0.7144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1711,7 +1734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     },
     {
@@ -1734,7 +1757,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "source_count": 1,
@@ -1754,7 +1777,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T13:12:01.252060Z"
+          "published_at": "2026-08-18T14:00:24.504236Z"
         }
       ],
       "item_count": 1,
@@ -1775,8 +1798,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T13:12:01.252060Z",
-      "latest_at": "2026-08-18T13:12:01.252060Z",
+      "earliest_at": "2026-08-18T14:00:24.504236Z",
+      "latest_at": "2026-08-18T14:00:24.504236Z",
       "primary_item": {
         "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
         "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
@@ -1793,146 +1816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
-      }
-    },
-    {
-      "story_id": "story_b7fc3695f17f",
-      "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-      "url": "https://news.ycombinator.com/item?id=49343559",
-      "primary_url": "https://news.ycombinator.com/item?id=49343559",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
-          "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49343559",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T12:56:06.727000Z"
-        },
-        {
-          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": null,
-          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "www.theregister.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T12:06:14.267000Z"
-        },
-        {
-          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T10:13:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.theregister.com"
-      ],
-      "items": [
-        {
-          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
-          "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49343559",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T12:56:06.727000Z"
-        },
-        {
-          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": null,
-          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "www.theregister.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T12:06:14.267000Z"
-        },
-        {
-          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T10:13:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9962,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T10:13:28Z",
-      "latest_at": "2026-08-18T12:56:06.727000Z",
-      "primary_item": {
-        "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
-        "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-        "title_zh": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
-        "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-        "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49343559",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T13:12:54.625011Z"
+        "scored_at": "2026-08-18T14:01:23.589968Z"
       }
     }
   ]
