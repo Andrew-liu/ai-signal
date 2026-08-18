@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:56:44.116344Z",
+  "generated_at": "2026-08-18T09:52:05.591436Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8268,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8567,
+        "recency": 0.8453,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7829,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8709,
+        "recency": 0.8594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -389,30 +389,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
-      "story_id": "story_a8e593f081cc",
-      "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-      "url": "https://www.aibase.com/news/30420",
-      "primary_url": "https://www.aibase.com/news/30420",
+      "story_id": "story_bff3f6531ed0",
+      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+      "url": "https://www.aibase.com/news/30439",
+      "primary_url": "https://www.aibase.com/news/30439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27629c58575dfdb786e35467e371eb1057688f83",
-          "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-          "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "title_en": null,
-          "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30420",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "source_count": 1,
@@ -421,18 +421,18 @@
       ],
       "items": [
         {
-          "id": "27629c58575dfdb786e35467e371eb1057688f83",
-          "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-          "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "title_en": null,
-          "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30420",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "item_count": 1,
@@ -453,17 +453,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:56:44.116344Z",
-      "latest_at": "2026-08-18T08:56:44.116344Z",
+      "earliest_at": "2026-08-18T09:52:05.591436Z",
+      "latest_at": "2026-08-18T09:52:05.591436Z",
       "primary_item": {
-        "id": "27629c58575dfdb786e35467e371eb1057688f83",
-        "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-        "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
         "title_en": null,
-        "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+        "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30420",
+        "url": "https://www.aibase.com/news/30439",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -471,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -577,15 +577,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8149,
+        "recency": 0.8041,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -612,7 +612,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -660,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.9594,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -693,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -741,15 +741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8784,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,30 +774,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
-      "story_id": "story_bff3f6531ed0",
-      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-      "url": "https://www.aibase.com/news/30439",
-      "primary_url": "https://www.aibase.com/news/30439",
+      "story_id": "story_d9aa06247ab9",
+      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+      "url": "https://www.aibase.com/news/30431",
+      "primary_url": "https://www.aibase.com/news/30431",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30439",
+          "url": "https://www.aibase.com/news/30431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "source_count": 1,
@@ -806,18 +806,18 @@
       ],
       "items": [
         {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30439",
+          "url": "https://www.aibase.com/news/30431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "item_count": 1,
@@ -838,17 +838,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:56:44.116344Z",
-      "latest_at": "2026-08-18T08:56:44.116344Z",
+      "earliest_at": "2026-08-18T09:52:05.591436Z",
+      "latest_at": "2026-08-18T09:52:05.591436Z",
       "primary_item": {
-        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
         "title_en": null,
-        "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30439",
+        "url": "https://www.aibase.com/news/30431",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -856,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -904,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7452,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,7 +937,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -985,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7279,
-      "importance": 0.7279,
-      "importance_score": 0.7279,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7462,
+        "recency": 0.7363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1018,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -1066,15 +1066,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7435,
+        "recency": 0.7337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1099,30 +1099,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
-      "story_id": "story_d9aa06247ab9",
-      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-      "url": "https://www.aibase.com/news/30431",
-      "primary_url": "https://www.aibase.com/news/30431",
+      "story_id": "story_3097bbbd907d",
+      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+      "url": "https://www.aibase.com/news/30426",
+      "primary_url": "https://www.aibase.com/news/30426",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
+          "url": "https://www.aibase.com/news/30426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "source_count": 1,
@@ -1131,18 +1131,18 @@
       ],
       "items": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
+          "url": "https://www.aibase.com/news/30426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "item_count": 1,
@@ -1163,17 +1163,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:56:44.116344Z",
-      "latest_at": "2026-08-18T08:56:44.116344Z",
+      "earliest_at": "2026-08-18T09:52:05.591436Z",
+      "latest_at": "2026-08-18T09:52:05.591436Z",
       "primary_item": {
-        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
+        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+        "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
         "title_en": null,
-        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30431",
+        "url": "https://www.aibase.com/news/30426",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1181,7 +1181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -1258,22 +1258,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8055,
+        "recency": 0.7949,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T14:07:56Z",
       "latest_at": "2026-08-17T17:58:12.144000Z",
@@ -1293,171 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
-      }
-    },
-    {
-      "story_id": "story_011d89a45a9d",
-      "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-      "url": "https://www.aibase.com/news/30421",
-      "primary_url": "https://www.aibase.com/news/30421",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_en": null,
-          "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30421",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_en": null,
-          "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30421",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T08:56:44.116344Z",
-      "latest_at": "2026-08-18T08:56:44.116344Z",
-      "primary_item": {
-        "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-        "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-        "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-        "title_en": null,
-        "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30421",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
-      }
-    },
-    {
-      "story_id": "story_3097bbbd907d",
-      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-      "url": "https://www.aibase.com/news/30426",
-      "primary_url": "https://www.aibase.com/news/30426",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T08:56:44.116344Z",
-      "latest_at": "2026-08-18T08:56:44.116344Z",
-      "primary_item": {
-        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "title_en": null,
-        "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30426",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -1480,7 +1315,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "source_count": 1,
@@ -1500,7 +1335,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "item_count": 1,
@@ -1521,8 +1356,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:56:44.116344Z",
-      "latest_at": "2026-08-18T08:56:44.116344Z",
+      "earliest_at": "2026-08-18T09:52:05.591436Z",
+      "latest_at": "2026-08-18T09:52:05.591436Z",
       "primary_item": {
         "id": "305298a37039d907b17569781c4a0c773bbe7c61",
         "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
@@ -1539,7 +1374,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
+      }
+    },
+    {
+      "story_id": "story_4dcfda21a6fc",
+      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+      "url": "https://www.aibase.com/news/30432",
+      "primary_url": "https://www.aibase.com/news/30432",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_en": null,
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:52:05.591436Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_en": null,
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:52:05.591436Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T09:52:05.591436Z",
+      "latest_at": "2026-08-18T09:52:05.591436Z",
+      "primary_item": {
+        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "title_en": null,
+        "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30432",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T09:54:06.864630Z"
+      }
+    },
+    {
+      "story_id": "story_b4cb58f18c34",
+      "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+      "url": "https://www.aibase.com/news/30437",
+      "primary_url": "https://www.aibase.com/news/30437",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
+          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "title_en": null,
+          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30437",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:52:05.591436Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
+          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "title_en": null,
+          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30437",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:52:05.591436Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T09:52:05.591436Z",
+      "latest_at": "2026-08-18T09:52:05.591436Z",
+      "primary_item": {
+        "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
+        "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+        "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+        "title_en": null,
+        "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30437",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -1616,15 +1615,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.611,
-      "importance": 0.611,
-      "importance_score": 0.611,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7903,
+        "recency": 0.7798,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1649,7 +1648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
@@ -1726,15 +1725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6071,
-      "importance": 0.6071,
-      "importance_score": 0.6071,
+      "score": 0.6053,
+      "importance": 0.6053,
+      "importance_score": 0.6053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7686,
+        "recency": 0.7584,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1759,30 +1758,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     },
     {
-      "story_id": "story_4dcfda21a6fc",
-      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-      "url": "https://www.aibase.com/news/30432",
-      "primary_url": "https://www.aibase.com/news/30432",
+      "story_id": "story_350c554c9760",
+      "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+      "url": "https://www.aibase.com/news/30425",
+      "primary_url": "https://www.aibase.com/news/30425",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
+          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
           "title_en": null,
-          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30432",
+          "url": "https://www.aibase.com/news/30425",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "source_count": 1,
@@ -1791,18 +1790,18 @@
       ],
       "items": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
+          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
           "title_en": null,
-          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30432",
+          "url": "https://www.aibase.com/news/30425",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:56:44.116344Z"
+          "published_at": "2026-08-18T09:52:05.591436Z"
         }
       ],
       "item_count": 1,
@@ -1823,17 +1822,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:56:44.116344Z",
-      "latest_at": "2026-08-18T08:56:44.116344Z",
+      "earliest_at": "2026-08-18T09:52:05.591436Z",
+      "latest_at": "2026-08-18T09:52:05.591436Z",
       "primary_item": {
-        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-        "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
+        "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+        "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
         "title_en": null,
-        "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30432",
+        "url": "https://www.aibase.com/news/30425",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1841,7 +1840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:57:24.138309Z"
+        "scored_at": "2026-08-18T09:54:06.864630Z"
       }
     }
   ]
