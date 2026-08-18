@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-08-18T19:00:33.089225Z",
+  "generated_at": "2026-08-18T19:44:00.434838Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_77f8f8705916",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.881,
+      "importance": 0.881,
+      "importance_score": 0.881,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9775,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
+      "primary_item": {
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+        "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+        "title_en": "How Much Memory Does Your Agent Actually Need?",
+        "title_original": "How Much Memory Does Your Agent Actually Need?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:44:43.275351Z"
+      }
+    },
     {
       "story_id": "story_394e39b5c070",
       "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
@@ -77,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8653,
-      "importance": 0.8653,
-      "importance_score": 0.8653,
+      "score": 0.8637,
+      "importance": 0.8637,
+      "importance_score": 0.8637,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8908,
+        "recency": 0.8815,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,95 +226,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
-      }
-    },
-    {
-      "story_id": "story_77f8f8705916",
-      "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "您的代理实际需要多少内存？",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "您的代理实际需要多少内存？",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9878,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
-      "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-        "title_zh": "您的代理实际需要多少内存？",
-        "title_en": "How Much Memory Does Your Agent Actually Need?",
-        "title_original": "How Much Memory Does Your Agent Actually Need?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
       "story_id": "story_cd7a1ff75de2",
-      "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
       "source": "Hugging Face Blog",
@@ -209,8 +239,8 @@
       "sources": [
         {
           "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
@@ -222,12 +252,12 @@
           "published_at": "2026-08-18T00:00:00Z"
         },
         {
-          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "summary": null,
+          "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face：Blog（RSS）",
@@ -244,8 +274,8 @@
       "items": [
         {
           "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
@@ -257,12 +287,12 @@
           "published_at": "2026-08-18T00:00:00Z"
         },
         {
-          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "summary": null,
+          "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face：Blog（RSS）",
@@ -273,15 +303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7599,
+        "recency": 0.752,
         "story_heat": 0.25
       },
       "category": "official",
@@ -295,8 +325,8 @@
       "latest_at": "2026-08-18T00:00:00Z",
       "primary_item": {
         "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-        "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+        "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
         "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "summary": null,
@@ -309,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -357,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8908,
+        "recency": 0.8815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,7 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -440,15 +470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8908,
+        "recency": 0.8815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -475,112 +505,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
-      "story_id": "story_87b3d74c4ec1",
-      "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-      "url": "https://x.com/gdb/status/2089783608630284758",
-      "primary_url": "https://x.com/gdb/status/2089783608630284758",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4fbe24947d1993fa344c7ea85c3265bbedb9afa4",
-          "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-          "title_zh": "OpenAI 放缓前沿训练以强化安全监控",
-          "title_en": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-          "title_original": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-          "summary": "OpenAI 暂时放缓前沿模型训练，包括最大规模的前沿 RL 训练，以加强安全与监控。公司已暂停最新部署模型的 RL 训练两周，用于加固研究环境、红队测试并扩大监控覆盖。最大规模前沿 RL 运行仍处于暂停状态，待小规模训练和评估验证安全措施及对齐证据。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2089783608630284758",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:36:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "4fbe24947d1993fa344c7ea85c3265bbedb9afa4",
-          "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-          "title_zh": "OpenAI 放缓前沿训练以强化安全监控",
-          "title_en": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-          "title_original": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-          "summary": "OpenAI 暂时放缓前沿模型训练，包括最大规模的前沿 RL 训练，以加强安全与监控。公司已暂停最新部署模型的 RL 训练两周，用于加固研究环境、红队测试并扩大监控覆盖。最大规模前沿 RL 运行仍处于暂停状态，待小规模训练和评估验证安全措施及对齐证据。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2089783608630284758",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:36:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9943,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:36:53Z",
-      "latest_at": "2026-08-18T18:36:53Z",
-      "primary_item": {
-        "id": "4fbe24947d1993fa344c7ea85c3265bbedb9afa4",
-        "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-        "title_zh": "OpenAI 放缓前沿训练以强化安全监控",
-        "title_en": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-        "title_original": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
-        "summary": "OpenAI 暂时放缓前沿模型训练，包括最大规模的前沿 RL 训练，以加强安全与监控。公司已暂停最新部署模型的 RL 训练两周，用于加固研究环境、红队测试并扩大监控覆盖。最大规模前沿 RL 运行仍处于暂停状态，待小规模训练和评估验证安全措施及对齐证据。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2089783608630284758",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
-      }
-    },
-    {
-      "story_id": "story_e3e64a7023cf",
-      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-      "url": "https://www.aibase.com/news/30441",
-      "primary_url": "https://www.aibase.com/news/30441",
+      "story_id": "story_3590481c04b9",
+      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+      "url": "https://www.aibase.com/news/30444",
+      "primary_url": "https://www.aibase.com/news/30444",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
+          "url": "https://www.aibase.com/news/30444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T18:44:00.434838Z"
         }
       ],
       "source_count": 1,
@@ -589,18 +537,18 @@
       ],
       "items": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
+          "url": "https://www.aibase.com/news/30444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T18:44:00.434838Z"
         }
       ],
       "item_count": 1,
@@ -621,17 +569,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:00:33.089225Z",
-      "latest_at": "2026-08-18T18:00:33.089225Z",
+      "earliest_at": "2026-08-18T18:44:00.434838Z",
+      "latest_at": "2026-08-18T18:44:00.434838Z",
       "primary_item": {
-        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
         "title_en": null,
-        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30441",
+        "url": "https://www.aibase.com/news/30444",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -639,7 +587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -687,15 +635,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7531,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -721,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -769,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7149,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -804,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -852,15 +800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7408,
+        "recency": 0.7331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -885,7 +833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -933,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8408,
+        "recency": 0.832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -968,30 +916,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
-      "story_id": "story_3590481c04b9",
-      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-      "url": "https://www.aibase.com/news/30444",
-      "primary_url": "https://www.aibase.com/news/30444",
+      "story_id": "story_57110e360f41",
+      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+      "url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "primary_url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T19:26:08.389000Z",
+      "latest_at": "2026-08-18T19:26:08.389000Z",
+      "primary_item": {
+        "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+        "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+        "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+        "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+        "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+        "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/ai-ci-cd-on-call",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:44:43.275351Z"
+      }
+    },
+    {
+      "story_id": "story_e3e64a7023cf",
+      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+      "url": "https://www.aibase.com/news/30441",
+      "primary_url": "https://www.aibase.com/news/30441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30444",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T17:44:00.434838Z"
         }
       ],
       "source_count": 1,
@@ -1000,31 +1029,31 @@
       ],
       "items": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30444",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T17:44:00.434838Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,17 +1061,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:00:33.089225Z",
-      "latest_at": "2026-08-18T18:00:33.089225Z",
+      "earliest_at": "2026-08-18T17:44:00.434838Z",
+      "latest_at": "2026-08-18T17:44:00.434838Z",
       "primary_item": {
-        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "title_en": null,
-        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30444",
+        "url": "https://www.aibase.com/news/30441",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1050,7 +1079,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -1098,15 +1127,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8408,
+        "recency": 0.832,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,88 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
-      }
-    },
-    {
-      "story_id": "story_7e8f273992af",
-      "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-          "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "title_zh": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "title_en": null,
-          "title_original": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "summary": "作者基于Reddit上\"让Claude真正开始思考\"的帖子，引入逻辑学中的\"钢人论证\"（steelman）概念，并自创了一个\"双向钢人Prompt\"。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-          "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "title_zh": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "title_en": null,
-          "title_original": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "summary": "作者基于Reddit上\"让Claude真正开始思考\"的帖子，引入逻辑学中的\"钢人论证\"（steelman）概念，并自创了一个\"双向钢人Prompt\"。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T23:58:00Z",
-      "latest_at": "2026-08-17T23:58:00Z",
-      "primary_item": {
-        "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-        "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-        "title_zh": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-        "title_en": null,
-        "title_original": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-        "summary": "作者基于Reddit上\"让Claude真正开始思考\"的帖子，引入逻辑学中的\"钢人论证\"（steelman）概念，并自创了一个\"双向钢人Prompt\"。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -1235,7 +1183,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T17:44:00.434838Z"
         }
       ],
       "source_count": 1,
@@ -1255,20 +1203,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T17:44:00.434838Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1276,8 +1224,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:00:33.089225Z",
-      "latest_at": "2026-08-18T18:00:33.089225Z",
+      "earliest_at": "2026-08-18T17:44:00.434838Z",
+      "latest_at": "2026-08-18T17:44:00.434838Z",
       "primary_item": {
         "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
         "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
@@ -1294,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -1317,7 +1265,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T17:44:00.434838Z"
         }
       ],
       "source_count": 1,
@@ -1337,20 +1285,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:00:33.089225Z"
+          "published_at": "2026-08-18T17:44:00.434838Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,8 +1306,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:00:33.089225Z",
-      "latest_at": "2026-08-18T18:00:33.089225Z",
+      "earliest_at": "2026-08-18T17:44:00.434838Z",
+      "latest_at": "2026-08-18T17:44:00.434838Z",
       "primary_item": {
         "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
         "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
@@ -1376,7 +1324,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -1399,7 +1347,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:00:33.089225Z"
+          "published_at": "2026-08-18T16:44:00.434838Z"
         }
       ],
       "source_count": 1,
@@ -1419,20 +1367,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:00:33.089225Z"
+          "published_at": "2026-08-18T16:44:00.434838Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,8 +1388,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T17:00:33.089225Z",
-      "latest_at": "2026-08-18T17:00:33.089225Z",
+      "earliest_at": "2026-08-18T16:44:00.434838Z",
+      "latest_at": "2026-08-18T16:44:00.434838Z",
       "primary_item": {
         "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
         "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
@@ -1458,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -1481,7 +1429,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:00:33.089225Z"
+          "published_at": "2026-08-18T16:44:00.434838Z"
         }
       ],
       "source_count": 1,
@@ -1501,20 +1449,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:00:33.089225Z"
+          "published_at": "2026-08-18T16:44:00.434838Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1522,8 +1470,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T17:00:33.089225Z",
-      "latest_at": "2026-08-18T17:00:33.089225Z",
+      "earliest_at": "2026-08-18T16:44:00.434838Z",
+      "latest_at": "2026-08-18T16:44:00.434838Z",
       "primary_item": {
         "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
         "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
@@ -1540,30 +1488,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
-      "story_id": "story_caea36665915",
-      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-      "url": "https://www.aibase.com/news/30440",
-      "primary_url": "https://www.aibase.com/news/30440",
+      "story_id": "story_525b36aafcb4",
+      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+      "url": "https://www.aibase.com/news/30435",
+      "primary_url": "https://www.aibase.com/news/30435",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "title_en": null,
-          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30440",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:00:33.089225Z"
+          "published_at": "2026-08-18T16:44:00.434838Z"
         }
       ],
       "source_count": 1,
@@ -1572,31 +1520,31 @@
       ],
       "items": [
         {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "title_en": null,
-          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30440",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:00:33.089225Z"
+          "published_at": "2026-08-18T16:44:00.434838Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1604,17 +1552,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T17:00:33.089225Z",
-      "latest_at": "2026-08-18T17:00:33.089225Z",
+      "earliest_at": "2026-08-18T16:44:00.434838Z",
+      "latest_at": "2026-08-18T16:44:00.434838Z",
       "primary_item": {
-        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-        "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+        "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+        "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
         "title_en": null,
-        "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30440",
+        "url": "https://www.aibase.com/news/30435",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1622,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     },
     {
@@ -1645,7 +1593,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-18T19:00:58.627000Z"
+          "published_at": "2026-08-18T19:44:27.112000Z"
         },
         {
           "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
@@ -1695,7 +1643,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-18T19:00:58.627000Z"
+          "published_at": "2026-08-18T19:44:27.112000Z"
         },
         {
           "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
@@ -1744,7 +1692,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-18T17:02:15Z",
-      "latest_at": "2026-08-18T19:00:58.627000Z",
+      "latest_at": "2026-08-18T19:44:27.112000Z",
       "primary_item": {
         "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
         "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
@@ -1761,7 +1709,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T19:01:14.525988Z"
+        "scored_at": "2026-08-18T19:44:43.275351Z"
+      }
+    },
+    {
+      "story_id": "story_caea36665915",
+      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+      "url": "https://www.aibase.com/news/30440",
+      "primary_url": "https://www.aibase.com/news/30440",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_en": null,
+          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T16:44:00.434838Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_en": null,
+          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T16:44:00.434838Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T16:44:00.434838Z",
+      "latest_at": "2026-08-18T16:44:00.434838Z",
+      "primary_item": {
+        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "title_en": null,
+        "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30440",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:44:43.275351Z"
       }
     }
   ]
