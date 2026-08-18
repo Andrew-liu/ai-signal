@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:47:12.596767Z",
+  "generated_at": "2026-08-18T19:00:33.089225Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8682,
-      "importance": 0.8682,
-      "importance_score": 0.8682,
+      "score": 0.8653,
+      "importance": 0.8653,
+      "importance_score": 0.8653,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9066,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
+      }
+    },
+    {
+      "story_id": "story_77f8f8705916",
+      "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "您的代理实际需要多少内存？",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "您的代理实际需要多少内存？",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8578,
+      "importance": 0.8578,
+      "importance_score": 0.8578,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9878,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
+      "primary_item": {
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
+        "title_zh": "您的代理实际需要多少内存？",
+        "title_en": "How Much Memory Does Your Agent Actually Need?",
+        "title_original": "How Much Memory Does Your Agent Actually Need?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -190,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8522,
-      "importance": 0.8522,
-      "importance_score": 0.8522,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7735,
+        "recency": 0.7599,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,7 +309,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
+      }
+    },
+    {
+      "story_id": "story_deae2dbaff1a",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8908,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+        "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+        "title_en": "Pacing model development in an era of cyber-critical capabilities",
+        "title_original": "Pacing model development in an era of cyber-critical capabilities",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -274,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9066,
+        "recency": 0.8908,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,196 +475,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
-      "story_id": "story_5646c2e72f66",
-      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_87b3d74c4ec1",
+      "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+      "url": "https://x.com/gdb/status/2089783608630284758",
+      "primary_url": "https://x.com/gdb/status/2089783608630284758",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": null,
+          "id": "4fbe24947d1993fa344c7ea85c3265bbedb9afa4",
+          "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+          "title_zh": "OpenAI 放缓前沿训练以强化安全监控",
+          "title_en": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+          "title_original": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+          "summary": "OpenAI 暂时放缓前沿模型训练，包括最大规模的前沿 RL 训练，以加强安全与监控。公司已暂停最新部署模型的 RL 训练两周，用于加固研究环境、红队测试并扩大监控覆盖。最大规模前沿 RL 运行仍处于暂停状态，待小规模训练和评估验证安全措施及对齐证据。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
+          "url": "https://x.com/gdb/status/2089783608630284758",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:36:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": null,
+          "id": "4fbe24947d1993fa344c7ea85c3265bbedb9afa4",
+          "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+          "title_zh": "OpenAI 放缓前沿训练以强化安全监控",
+          "title_en": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+          "title_original": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+          "summary": "OpenAI 暂时放缓前沿模型训练，包括最大规模的前沿 RL 训练，以加强安全与监控。公司已暂停最新部署模型的 RL 训练两周，用于加固研究环境、红队测试并扩大监控覆盖。最大规模前沿 RL 运行仍处于暂停状态，待小规模训练和评估验证安全措施及对齐证据。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
+          "url": "https://x.com/gdb/status/2089783608630284758",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:36:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
-      "importance_label": "官方更新",
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7277,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9943,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T19:46:21Z",
-      "latest_at": "2026-08-17T19:46:21Z",
+      "earliest_at": "2026-08-18T18:36:53Z",
+      "latest_at": "2026-08-18T18:36:53Z",
       "primary_item": {
-        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-        "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
-        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "summary": null,
+        "id": "4fbe24947d1993fa344c7ea85c3265bbedb9afa4",
+        "title": "OpenAI 放缓前沿训练以强化安全监控 / we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+        "title_zh": "OpenAI 放缓前沿训练以强化安全监控",
+        "title_en": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+        "title_original": "we temporarily slowed scaling of our frontier training， including our largest planned frontier RL， t…",
+        "summary": "OpenAI 暂时放缓前沿模型训练，包括最大规模的前沿 RL 训练，以加强安全与监控。公司已暂停最新部署模型的 RL 训练两周，用于加固研究环境、红队测试并扩大监控覆盖。最大规模前沿 RL 运行仍处于暂停状态，待小规模训练和评估验证安全措施及对齐证据。",
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/gdb/status/2089783608630284758",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
-      "story_id": "story_41f4a70159de",
-      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8558,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T07:00:00Z",
-      "primary_item": {
-        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-        "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/asana",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
-      }
-    },
-    {
-      "story_id": "story_3590481c04b9",
-      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-      "url": "https://www.aibase.com/news/30444",
-      "primary_url": "https://www.aibase.com/news/30444",
+      "story_id": "story_e3e64a7023cf",
+      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+      "url": "https://www.aibase.com/news/30441",
+      "primary_url": "https://www.aibase.com/news/30441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30444",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:47:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "source_count": 1,
@@ -507,31 +589,31 @@
       ],
       "items": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30444",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:47:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -539,17 +621,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T17:47:12.596767Z",
-      "latest_at": "2026-08-18T17:47:12.596767Z",
+      "earliest_at": "2026-08-18T18:00:33.089225Z",
+      "latest_at": "2026-08-18T18:00:33.089225Z",
       "primary_item": {
-        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "title_en": null,
-        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30444",
+        "url": "https://www.aibase.com/news/30441",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -557,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -605,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,7 +721,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7149,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T19:46:21Z",
+      "latest_at": "2026-08-17T19:46:21Z",
+      "primary_item": {
+        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+        "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_zh": "相同的集群，利用率增加了 33 个点：改变的是顺序",
+        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -687,21 +852,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.754,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T22:14:00.748000Z",
       "latest_at": "2026-08-17T22:14:00.748000Z",
@@ -721,30 +885,113 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
-      "story_id": "story_914e45d552d0",
-      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-      "url": "https://www.aibase.com/news/30443",
-      "primary_url": "https://www.aibase.com/news/30443",
+      "story_id": "story_41f4a70159de",
+      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "primary_url": "https://openai.com/index/asana",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8408,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+        "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:01:14.525988Z"
+      }
+    },
+    {
+      "story_id": "story_3590481c04b9",
+      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+      "url": "https://www.aibase.com/news/30444",
+      "primary_url": "https://www.aibase.com/news/30444",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "title_en": null,
-          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30443",
+          "url": "https://www.aibase.com/news/30444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:20:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "source_count": 1,
@@ -753,31 +1000,31 @@
       ],
       "items": [
         {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "title_en": null,
-          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30443",
+          "url": "https://www.aibase.com/news/30444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:20:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9935,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -785,17 +1032,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T17:20:12.596767Z",
-      "latest_at": "2026-08-18T17:20:12.596767Z",
+      "earliest_at": "2026-08-18T18:00:33.089225Z",
+      "latest_at": "2026-08-18T18:00:33.089225Z",
       "primary_item": {
-        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-        "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
         "title_en": null,
-        "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30443",
+        "url": "https://www.aibase.com/news/30444",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -803,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -851,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8558,
+        "recency": 0.8408,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,7 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -932,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7731,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,7 +1212,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -988,7 +1235,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:18:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "source_count": 1,
@@ -1008,20 +1255,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:18:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.993,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1029,8 +1276,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T17:18:12.596767Z",
-      "latest_at": "2026-08-18T17:18:12.596767Z",
+      "earliest_at": "2026-08-18T18:00:33.089225Z",
+      "latest_at": "2026-08-18T18:00:33.089225Z",
       "primary_item": {
         "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
         "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
@@ -1047,30 +1294,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
-      "story_id": "story_e3e64a7023cf",
-      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-      "url": "https://www.aibase.com/news/30441",
-      "primary_url": "https://www.aibase.com/news/30441",
+      "story_id": "story_914e45d552d0",
+      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+      "url": "https://www.aibase.com/news/30443",
+      "primary_url": "https://www.aibase.com/news/30443",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
+          "url": "https://www.aibase.com/news/30443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:09:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "source_count": 1,
@@ -1079,31 +1326,31 @@
       ],
       "items": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
+          "url": "https://www.aibase.com/news/30443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:09:12.596767Z"
+          "published_at": "2026-08-18T18:00:33.089225Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,17 +1358,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T17:09:12.596767Z",
-      "latest_at": "2026-08-18T17:09:12.596767Z",
+      "earliest_at": "2026-08-18T18:00:33.089225Z",
+      "latest_at": "2026-08-18T18:00:33.089225Z",
       "primary_item": {
-        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
         "title_en": null,
-        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30441",
+        "url": "https://www.aibase.com/news/30443",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1129,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -1152,7 +1399,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
+          "published_at": "2026-08-18T17:00:33.089225Z"
         }
       ],
       "source_count": 1,
@@ -1172,20 +1419,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
+          "published_at": "2026-08-18T17:00:33.089225Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,8 +1440,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:47:12.596767Z",
-      "latest_at": "2026-08-18T16:47:12.596767Z",
+      "earliest_at": "2026-08-18T17:00:33.089225Z",
+      "latest_at": "2026-08-18T17:00:33.089225Z",
       "primary_item": {
         "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
         "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
@@ -1211,7 +1458,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -1234,7 +1481,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
+          "published_at": "2026-08-18T17:00:33.089225Z"
         }
       ],
       "source_count": 1,
@@ -1254,20 +1501,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
+          "published_at": "2026-08-18T17:00:33.089225Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,8 +1522,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:47:12.596767Z",
-      "latest_at": "2026-08-18T16:47:12.596767Z",
+      "earliest_at": "2026-08-18T17:00:33.089225Z",
+      "latest_at": "2026-08-18T17:00:33.089225Z",
       "primary_item": {
         "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
         "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
@@ -1293,89 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
-      }
-    },
-    {
-      "story_id": "story_525b36aafcb4",
-      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-      "url": "https://www.aibase.com/news/30435",
-      "primary_url": "https://www.aibase.com/news/30435",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "title_en": null,
-          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30435",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "title_en": null,
-          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30435",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T16:47:12.596767Z",
-      "latest_at": "2026-08-18T16:47:12.596767Z",
-      "primary_item": {
-        "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-        "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-        "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-        "title_en": null,
-        "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30435",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
@@ -1398,7 +1563,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
+          "published_at": "2026-08-18T17:00:33.089225Z"
         }
       ],
       "source_count": 1,
@@ -1418,20 +1583,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
+          "published_at": "2026-08-18T17:00:33.089225Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1439,8 +1604,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:47:12.596767Z",
-      "latest_at": "2026-08-18T16:47:12.596767Z",
+      "earliest_at": "2026-08-18T17:00:33.089225Z",
+      "latest_at": "2026-08-18T17:00:33.089225Z",
       "primary_item": {
         "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
         "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
@@ -1457,309 +1622,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     },
     {
-      "story_id": "story_2d749d8d7d24",
-      "title": "克劳德：多种模型的性能下降",
-      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "primary_url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "source": "status.claude.com",
-      "source_name": "Buzzing",
+      "story_id": "story_04675208260d",
+      "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://news.ycombinator.com/item?id=49348751",
+      "primary_url": "https://news.ycombinator.com/item?id=49348751",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-          "title": "克劳德：多种模型的性能下降",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": null,
-          "title_original": "克劳德：多种模型的性能下降",
+          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+          "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "status.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T17:09:55.487000Z"
+          "url": "https://news.ycombinator.com/item?id=49348751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:00:58.627000Z"
         },
         {
-          "id": "05296aaa97521e43f55b6a6613930b2ff1f9d051",
-          "title": "克劳德：多种模型的性能下降 / Degraded performance for multiple models",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": "Degraded performance for multiple models",
-          "title_original": "Degraded performance for multiple models",
+          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
+          "title": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_en": null,
+          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T18:14:09.002000Z"
+        },
+        {
+          "id": "475cd3dd93a2300aa584974fb07388cd8a77fbea",
+          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-18T16:28:20Z"
+          "published_at": "2026-08-18T17:02:15Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "status.claude.com"
+        "hackernews",
+        "support.claude.com"
       ],
       "items": [
         {
-          "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-          "title": "克劳德：多种模型的性能下降",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": null,
-          "title_original": "克劳德：多种模型的性能下降",
+          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+          "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "status.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T17:09:55.487000Z"
+          "url": "https://news.ycombinator.com/item?id=49348751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:00:58.627000Z"
         },
         {
-          "id": "05296aaa97521e43f55b6a6613930b2ff1f9d051",
-          "title": "克劳德：多种模型的性能下降 / Degraded performance for multiple models",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": "Degraded performance for multiple models",
-          "title_original": "Degraded performance for multiple models",
+          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
+          "title": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_en": null,
+          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T18:14:09.002000Z"
+        },
+        {
+          "id": "475cd3dd93a2300aa584974fb07388cd8a77fbea",
+          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-18T16:28:20Z"
+          "published_at": "2026-08-18T17:02:15Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9911,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T16:28:20Z",
-      "latest_at": "2026-08-18T17:09:55.487000Z",
+      "earliest_at": "2026-08-18T17:02:15Z",
+      "latest_at": "2026-08-18T19:00:58.627000Z",
       "primary_item": {
-        "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-        "title": "克劳德：多种模型的性能下降",
-        "title_zh": "克劳德：多种模型的性能下降",
-        "title_en": null,
-        "title_original": "克劳德：多种模型的性能下降",
+        "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+        "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
+        "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
+        "title_en": "Claude Code May–August 2026 weekly limits promotion",
+        "title_original": "Claude Code May–August 2026 weekly limits promotion",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-        "source": "status.claude.com",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49348751",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
-      }
-    },
-    {
-      "story_id": "story_5b08555afaa9",
-      "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-      "url": "https://www.aibase.com/news/30436",
-      "primary_url": "https://www.aibase.com/news/30436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_en": null,
-          "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_en": null,
-          "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:47:12.596767Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T16:47:12.596767Z",
-      "latest_at": "2026-08-18T16:47:12.596767Z",
-      "primary_item": {
-        "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-        "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "title_en": null,
-        "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
-      }
-    },
-    {
-      "story_id": "story_176e6b03997e",
-      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-      "primary_url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-      "source": "responsiblestatecraft.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
-          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "title_zh": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "title_en": null,
-          "title_original": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "responsiblestatecraft.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T02:30:02.549000Z"
-        },
-        {
-          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
-          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "title_zh": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "title_en": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "title_original": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T20:46:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "responsiblestatecraft.org"
-      ],
-      "items": [
-        {
-          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
-          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "title_zh": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "title_en": null,
-          "title_original": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "responsiblestatecraft.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T02:30:02.549000Z"
-        },
-        {
-          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
-          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "title_zh": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "title_en": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "title_original": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T20:46:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8019,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T20:46:10Z",
-      "latest_at": "2026-08-18T02:30:02.549000Z",
-      "primary_item": {
-        "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
-        "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-        "title_zh": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-        "title_en": null,
-        "title_original": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-        "source": "responsiblestatecraft.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T17:47:50.081815Z"
+        "scored_at": "2026-08-18T19:01:14.525988Z"
       }
     }
   ]
