@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:00:24.504236Z",
+  "generated_at": "2026-08-18T14:55:42.761363Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8774,
-      "importance": 0.8774,
-      "importance_score": 0.8774,
+      "score": 0.8751,
+      "importance": 0.8751,
+      "importance_score": 0.8751,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9575,
+        "recency": 0.9448,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -137,11 +137,26 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
@@ -157,24 +172,39 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8581,
+      "importance": 0.8581,
+      "importance_score": 0.8581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8169,
-        "story_heat": 0.0
+        "recency": 0.8061,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -196,7 +226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -244,15 +274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9575,
+        "recency": 0.9448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -385,15 +415,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7963,
+        "recency": 0.7858,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -468,15 +498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7278,
+        "recency": 0.7181,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -551,15 +581,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7685,
+        "recency": 0.7583,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,7 +616,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -634,15 +664,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8095,
+        "recency": 0.7988,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,7 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -691,7 +721,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "source_count": 1,
@@ -711,7 +741,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "item_count": 1,
@@ -732,8 +762,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T14:00:24.504236Z",
-      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
       "primary_item": {
         "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
         "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
@@ -750,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -773,7 +803,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "source_count": 1,
@@ -793,7 +823,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "item_count": 1,
@@ -814,8 +844,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T14:00:24.504236Z",
-      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
       "primary_item": {
         "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
         "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
@@ -832,7 +862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -880,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -961,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8165,
+        "recency": 0.8057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,118 +1024,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
-      }
-    },
-    {
-      "story_id": "story_92ad1be47cb2",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "url": "https://www.librarian.net/notoai",
-      "primary_url": "https://www.librarian.net/notoai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7488,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T14:07:56Z",
-      "latest_at": "2026-08-17T17:58:12.144000Z",
-      "primary_item": {
-        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_en": null,
-        "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-        "recommend_reason_zh": null,
-        "url": "https://www.librarian.net/notoai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -1128,7 +1047,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "source_count": 1,
@@ -1148,7 +1067,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "item_count": 1,
@@ -1169,8 +1088,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T14:00:24.504236Z",
-      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
       "primary_item": {
         "id": "305298a37039d907b17569781c4a0c773bbe7c61",
         "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
@@ -1187,7 +1106,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -1210,7 +1129,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "source_count": 1,
@@ -1230,7 +1149,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1170,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T14:00:24.504236Z",
-      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
       "primary_item": {
         "id": "597ed88674a898548c4f5920b32a5572603d64e3",
         "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
@@ -1269,88 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
-      }
-    },
-    {
-      "story_id": "story_9dc365abafc2",
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T18:46:04.518000Z",
-      "latest_at": "2026-08-17T18:46:04.518000Z",
-      "primary_item": {
-        "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-        "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_en": null,
-        "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -1373,7 +1211,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "source_count": 1,
@@ -1393,7 +1231,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "item_count": 1,
@@ -1414,8 +1252,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T14:00:24.504236Z",
-      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
       "primary_item": {
         "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
         "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
@@ -1432,7 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -1455,7 +1293,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "source_count": 1,
@@ -1475,7 +1313,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "item_count": 1,
@@ -1496,8 +1334,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T14:00:24.504236Z",
-      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
       "primary_item": {
         "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
         "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
@@ -1514,7 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -1591,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
+      "score": 0.5992,
+      "importance": 0.5992,
+      "importance_score": 0.5992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7346,
+        "recency": 0.7249,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1624,117 +1462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
-      }
-    },
-    {
-      "story_id": "story_ae0a0f31fc5c",
-      "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "source": "The Decoder AI News",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
-          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:43:04Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
-          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "The Decoder AI News"
-      ],
-      "items": [
-        {
-          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
-          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:43:04Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
-          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5974,
-      "importance": 0.5974,
-      "importance_score": 0.5974,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7144,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T14:43:04Z",
-      "latest_at": "2026-08-17T17:55:50Z",
-      "primary_item": {
-        "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-        "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-        "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
-        "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
-        "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-        "source": "The Decoder AI News",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     },
     {
@@ -1757,7 +1485,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "source_count": 1,
@@ -1777,7 +1505,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:00:24.504236Z"
+          "published_at": "2026-08-18T14:55:42.761363Z"
         }
       ],
       "item_count": 1,
@@ -1798,8 +1526,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T14:00:24.504236Z",
-      "latest_at": "2026-08-18T14:00:24.504236Z",
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
       "primary_item": {
         "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
         "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
@@ -1816,7 +1544,281 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T14:01:23.589968Z"
+        "scored_at": "2026-08-18T14:56:24.906760Z"
+      }
+    },
+    {
+      "story_id": "story_caea36665915",
+      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+      "url": "https://www.aibase.com/news/30440",
+      "primary_url": "https://www.aibase.com/news/30440",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_en": null,
+          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:55:42.761363Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_en": null,
+          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:55:42.761363Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
+      "primary_item": {
+        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "title_en": null,
+        "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30440",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T14:56:24.906760Z"
+      }
+    },
+    {
+      "story_id": "story_fbfaecd2ccd3",
+      "title": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序 / Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://news.ycombinator.com/item?id=49344643",
+      "primary_url": "https://news.ycombinator.com/item?id=49344643",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "98bec71bfe6aaa7d6da33c242be744ab1ef84dff",
+          "title": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序 / Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序",
+          "title_en": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_original": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49344643",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:56:07.849000Z"
+        },
+        {
+          "id": "4423e102f3a263f936b8296dbb73650709fa4cec",
+          "title": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序 / Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序",
+          "title_en": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_original": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T12:22:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "98bec71bfe6aaa7d6da33c242be744ab1ef84dff",
+          "title": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序 / Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序",
+          "title_en": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_original": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49344643",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:56:07.849000Z"
+        },
+        {
+          "id": "4423e102f3a263f936b8296dbb73650709fa4cec",
+          "title": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序 / Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序",
+          "title_en": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "title_original": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T12:22:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T12:22:58Z",
+      "latest_at": "2026-08-18T14:56:07.849000Z",
+      "primary_item": {
+        "id": "98bec71bfe6aaa7d6da33c242be744ab1ef84dff",
+        "title": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序 / Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序",
+        "title_en": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "title_original": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49344643",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T14:56:24.906760Z"
+      }
+    },
+    {
+      "story_id": "story_34a8c6a0add1",
+      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+      "url": "https://www.aibase.com/news/30434",
+      "primary_url": "https://www.aibase.com/news/30434",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_en": null,
+          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:55:42.761363Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_en": null,
+          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:55:42.761363Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T14:55:42.761363Z",
+      "latest_at": "2026-08-18T14:55:42.761363Z",
+      "primary_item": {
+        "id": "f83591abed7de311be34b00e2db89cff34da7523",
+        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "title_en": null,
+        "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30434",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T14:56:24.906760Z"
       }
     }
   ]
