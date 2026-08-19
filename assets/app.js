@@ -30,6 +30,8 @@ const state = {
   storiesDataUrl: "data/stories-merged.json",
   // 内容 tab：单值，默认 "all"（全部，无过滤）
   activeSection: "all",
+  // hash 路由：home(#/ 精选) / all(#/all) / hot(#/hot) / community(#/community)
+  route: "home",
   mainListVisibleCount: 0,
   xAuthorsExpanded: false,
 };
@@ -371,7 +373,6 @@ function activeAdjustmentCount() {
     Boolean(state.query.trim()),
     state.activeSection !== "all",
     Boolean(state.siteFilter || state.authorFilter),
-    state.mode !== "selected",
     state.mode === "all" && !state.allDedup,
   ].filter(Boolean).length;
 }
@@ -398,13 +399,18 @@ function clearAllFilters() {
   state.activeSection = "all";
   state.siteFilter = "";
   state.authorFilter = "";
-  state.mode = "selected";
   state.allDedup = true;
   state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
   state.waytoagiMode = "today";
   state.xAuthorsExpanded = false;
   if (searchInputEl) searchInputEl.value = "";
   if (siteSelectEl) siteSelectEl.value = "";
+  // 全量页清筛选后回精选路由（route 驱动 mode）；已在精选页则原地重渲染。
+  if (state.route === "all") {
+    window.location.hash = "#/selected";
+    return;
+  }
+  state.mode = "selected";
   rerenderCurrentView();
 }
 
@@ -468,8 +474,6 @@ function renderSectionTabs() {
       renderSectionTabs();
       renderModeSwitch();
       renderSiteFilters();
-      renderHotBoard();
-      if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
       renderMainList();
     });
     sectionTabsEl.appendChild(btn);
@@ -503,7 +507,7 @@ function renderSiteFilters() {
   siteSelectEl.value = state.siteFilter;
 }
 
-// 全局 精选/全量 开关：热点排行区只在精选模式显示；主列表两种模式共用同一套时间序+日期分组模板。
+// 全局 精选/全量 由路由驱动（#/ 精选，#/all 全量），此处只同步计数与标题等 UI。
 function renderModeSwitch() {
   if (modeSelectedBtnEl) {
     modeSelectedBtnEl.classList.toggle("active", state.mode === "selected");
@@ -513,7 +517,6 @@ function renderModeSwitch() {
     modeAllBtnEl.classList.toggle("active", state.mode === "all");
     modeAllBtnEl.setAttribute("aria-pressed", state.mode === "all" ? "true" : "false");
   }
-  if (hotBoardWrapEl) hotBoardWrapEl.hidden = state.mode !== "selected";
   if (allDedupeWrapEl) allDedupeWrapEl.classList.toggle("show", state.mode === "all");
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
@@ -528,7 +531,7 @@ function renderModeSwitch() {
 
 function listTitleText() {
   const section = state.activeSection !== "all" ? SECTION_BY_ID[state.activeSection] : null;
-  const label = modeLabelText();
+  const label = state.mode === "all" ? "全部动态" : "精选";
   return section ? `${section.label} · ${label}` : label;
 }
 
@@ -1281,7 +1284,6 @@ function hotBoardStories() {
 }
 
 function hotBoardEntries() {
-  if (state.mode !== "selected") return [];
   return hotBoardStories()
     .filter((story) => storyMatchesSection(story))
     .slice(0, HOT_BOARD_LIMIT)
@@ -1591,19 +1593,109 @@ function renderItemNode(row) {
   return node;
 }
 
-// 热点排行区：一行一条（rank + 标题链接 + 信源数 · 相对时间），不复用卡片模板——
-// 避免和下方精选列表的完整卡片重复展示摘要/标签/为什么重要。
+// 全量页紧凑行（aihot /all 电报流风格）：一行标题 + 来源/栏目 chip，无摘要无推荐理由。
+// 与精选页丰富卡片（renderItemNode）形成视觉分层：精选是"编辑室"，全部是"电报流"。
+function renderCompactRow(row) {
+  const item = row.item || {};
+  const el = document.createElement("article");
+  el.className = "news-card compact-row";
+
+  const titleEl = document.createElement("a");
+  titleEl.className = "compact-title";
+  titleEl.target = "_blank";
+  titleEl.rel = "noopener noreferrer";
+  titleEl.textContent = itemTitleText(item);
+  titleEl.href = safeExternalUrl(item.url || row.story?.primary_url || row.story?.url);
+
+  const metaEl = document.createElement("div");
+  metaEl.className = "compact-meta";
+  const siteEl = document.createElement("span");
+  siteEl.className = "compact-site";
+  siteEl.textContent = item.source || item.site_name || "";
+  metaEl.appendChild(siteEl);
+
+  const sectionLabel = sectionBadgeLabel(itemSection(item));
+  if (sectionLabel) {
+    const chip = document.createElement("span");
+    chip.className = "compact-chip";
+    chip.textContent = sectionLabel;
+    metaEl.appendChild(chip);
+  }
+
+  el.append(titleEl, metaEl);
+  return el;
+}
+
+// 热点榜（aihot 风格排名行）：大序号 + 标题 + 元信息 + 24h 报道密度 sparkline。
+// 密度曲线纯前端计算：取 story.items/sources 的 published_at 落进 24h 窗口的 12 个桶，数据管线零改动。
+function storyReportTimestamps(story) {
+  const refs = [
+    ...(Array.isArray(story?.items) ? story.items : []),
+    ...(Array.isArray(story?.sources) ? story.sources : []),
+    story?.primary_item,
+  ].filter(Boolean);
+  const seen = new Set();
+  const out = [];
+  refs.forEach((ref) => {
+    const key = ref.url || ref.id || `${ref.source || ""}:${ref.published_at || ""}`;
+    if (seen.has(key)) return;
+    seen.add(key);
+    const ms = timelineMs(ref);
+    if (ms) out.push(ms);
+  });
+  return out;
+}
+
+function buildHotSparkline(story) {
+  const BUCKETS = 12;
+  const windowMs = HOT_WINDOW_HOURS * 3600000;
+  const end = hotReferenceTimeMs();
+  const start = end - windowMs;
+  const counts = new Array(BUCKETS).fill(0);
+  storyReportTimestamps(story).forEach((ms) => {
+    if (ms < start || ms > end) return;
+    const idx = Math.min(BUCKETS - 1, Math.floor(((ms - start) / windowMs) * BUCKETS));
+    counts[idx] += 1;
+  });
+  const max = Math.max(1, ...counts);
+  const W = 96;
+  const H = 30;
+  const PAD = 3;
+  const stepX = (W - PAD * 2) / (BUCKETS - 1);
+  const points = counts.map((count, i) => {
+    const x = PAD + i * stepX;
+    const y = H - PAD - ((H - PAD * 2) * count) / max;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  });
+
+  const SVG_NS = "http://www.w3.org/2000/svg";
+  const svg = document.createElementNS(SVG_NS, "svg");
+  svg.setAttribute("class", "hot-rank-spark");
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  svg.setAttribute("aria-hidden", "true");
+  const fill = document.createElementNS(SVG_NS, "polygon");
+  fill.setAttribute("class", "spark-fill");
+  fill.setAttribute("points", `${PAD},${H - PAD} ${points.join(" ")} ${W - PAD},${H - PAD}`);
+  const line = document.createElementNS(SVG_NS, "polyline");
+  line.setAttribute("points", points.join(" "));
+  svg.append(fill, line);
+  return svg;
+}
+
 function buildHotRow(row, rank) {
   const item = row.item || {};
   const el = document.createElement("div");
-  el.className = "hot-row";
+  el.className = "hot-rank-row";
 
   const rankEl = document.createElement("span");
-  rankEl.className = "hot-row-rank";
-  rankEl.textContent = `#${rank}`;
+  rankEl.className = "hot-rank-number";
+  rankEl.textContent = String(rank);
+
+  const contentEl = document.createElement("div");
+  contentEl.className = "hot-rank-content";
 
   const titleEl = document.createElement("a");
-  titleEl.className = "hot-row-title";
+  titleEl.className = "hot-rank-link";
   titleEl.target = "_blank";
   titleEl.rel = "noopener noreferrer";
   const displayTitle = row.story ? storyPrimaryTitleText(row.story) : itemTitleText(item);
@@ -1611,18 +1703,26 @@ function buildHotRow(row, rank) {
   titleEl.title = displayTitle;
   titleEl.href = safeExternalUrl(item.url || row.story?.primary_url || row.story?.url);
 
-  const metaEl = document.createElement("span");
-  metaEl.className = "hot-row-meta";
+  const metaEl = document.createElement("div");
+  metaEl.className = "hot-rank-meta";
   const sourceCount = rowSourceCount(row);
   const heatScore = row.story ? storyHotScore(row.story) : 0;
   const relTime = fmtRelativeTime(timelineMs(item) || storyTimeMs(row.story, "latest_at"));
 
-  // 同一事件展开：热点行的"N 个信源"变成可点击项，点击在 .hot-row 正下方插入/移除同一份子列表组件。
+  const heatEl = document.createElement("span");
+  heatEl.textContent = `热度 ${fmtNumber(heatScore)}`;
+  metaEl.appendChild(heatEl);
+
+  const dotA = document.createElement("span");
+  dotA.textContent = "·";
+  metaEl.appendChild(dotA);
+
+  // 同一事件展开：信源数可点击，在行内展开/收起各家报道子列表。
   const expandable = row.story && storySourceCount(row.story) >= 2;
   if (expandable) {
     const sourceToggle = document.createElement("button");
     sourceToggle.type = "button";
-    sourceToggle.className = "hot-row-source-toggle";
+    sourceToggle.className = "hot-rank-sources";
     sourceToggle.textContent = `${fmtNumber(sourceCount)} 个信源`;
     sourceToggle.setAttribute("aria-expanded", "false");
     let sourceList = null;
@@ -1637,22 +1737,26 @@ function buildHotRow(row, rank) {
       }
       sourceList = buildEventSourceList(row);
       if (!sourceList) return;
-      sourceList.classList.add("hot-row-source-list");
+      sourceList.classList.add("hot-rank-expand");
       sourceToggle.setAttribute("aria-expanded", "true");
-      el.insertAdjacentElement("afterend", sourceList);
+      el.appendChild(sourceList);
     });
-    const heatEl = document.createElement("span");
-    heatEl.textContent = `热度 ${fmtNumber(heatScore)} · `;
-    const sep = document.createElement("span");
-    sep.textContent = " · ";
-    const timeEl = document.createElement("span");
-    timeEl.textContent = relTime;
-    metaEl.append(heatEl, sourceToggle, sep, timeEl);
+    metaEl.appendChild(sourceToggle);
   } else {
-    metaEl.textContent = `热度 ${fmtNumber(heatScore)} · ${fmtNumber(sourceCount)} 个信源 · ${relTime}`;
+    const countEl = document.createElement("span");
+    countEl.textContent = `${fmtNumber(sourceCount)} 个信源`;
+    metaEl.appendChild(countEl);
   }
 
-  el.append(rankEl, titleEl, metaEl);
+  const dotB = document.createElement("span");
+  dotB.textContent = "·";
+  const timeEl = document.createElement("span");
+  timeEl.textContent = relTime;
+  metaEl.append(dotB, timeEl);
+
+  contentEl.append(titleEl, metaEl);
+  el.append(rankEl, contentEl);
+  if (row.story) el.appendChild(buildHotSparkline(row.story));
   return el;
 }
 
@@ -1761,7 +1865,8 @@ function renderMainList() {
       dot.className = "timeline-dot";
       rail.append(timeLabel, dot);
       timelineItem.appendChild(rail);
-      timelineItem.appendChild(renderItemNode(row));
+      // 精选=丰富卡片（徽章/摘要/推荐理由），全量=紧凑电报流行，视觉上一眼可辨
+      timelineItem.appendChild(state.mode === "all" ? renderCompactRow(row) : renderItemNode(row));
       frag.appendChild(timelineItem);
     });
     newsListEl.appendChild(frag);
@@ -1805,13 +1910,10 @@ function renderTop3Board() {
   rows.forEach((row) => top3BoardListEl.appendChild(renderItemNode(row)));
 }
 
-// AI热榜：最近24小时内满足多源印证或重要性门槛的事件，最多展示 HOT_BOARD_LIMIT 条。
+// AI热榜（独立页面 #/hot）：最近24小时内满足多源印证或重要性门槛的事件，最多 HOT_BOARD_LIMIT 条。
 function renderHotBoard() {
   renderTop3Board();
   if (!hotBoardListEl) return;
-  const show = state.mode === "selected";
-  if (hotBoardWrapEl) hotBoardWrapEl.hidden = !show;
-  if (!show) return;
   hotBoardListEl.innerHTML = "";
 
   const rows = hotBoardEntries();
@@ -1823,8 +1925,8 @@ function renderHotBoard() {
 
   if (!rows.length) {
     const empty = document.createElement("div");
-    empty.className = "bole-empty";
-    empty.textContent = "当前筛选下没有 2 个以上信源交叉的热点，可切换筛选或查看全量。";
+    empty.className = "hot-empty";
+    empty.textContent = "当前筛选下没有 2 个以上信源交叉的热点，可清除筛选后再看。";
     hotBoardListEl.appendChild(empty);
     return;
   }
@@ -1836,11 +1938,18 @@ function renderHotBoard() {
 
 function rerenderCurrentView() {
   state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
+  if (state.route === "hot") {
+    renderHotBoard();
+    return;
+  }
+  if (state.route === "community") {
+    if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
+    return;
+  }
   renderSectionTabs();
   renderModeSwitch();
   renderSiteFilters();
-  renderHotBoard();
-  if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
+  renderTop3Board();
   renderMainList();
 }
 
@@ -1854,11 +1963,11 @@ function waytoagiViews(waytoagi) {
 }
 
 function renderWaytoagi(waytoagi) {
-  // 内容 tab 已收敛为单层：WaytoAGI 面板跟随「社区」tab 显示（合并了原来源形态 cn 分组）
+  // WaytoAGI 面板已迁移为独立路由页（#/community），跟随路由显示。
   if (waytoagiWrapEl) {
-    waytoagiWrapEl.hidden = state.activeSection !== "community";
+    waytoagiWrapEl.hidden = state.route !== "community";
   }
-  if (state.activeSection !== "community") return;
+  if (state.route !== "community") return;
   const { updates7d, updatesToday, latestDate } = waytoagiViews(waytoagi);
   if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.classList.toggle("active", state.waytoagiMode === "today");
   if (waytoagi7dBtnEl) waytoagi7dBtnEl.classList.toggle("active", state.waytoagiMode === "7d");
@@ -1954,18 +2063,16 @@ function selectSocialdataAuthor(author) {
   // 不能再锁死 siteFilter="socialdata_x"，否则会把该作者的 aihot 转发条目过滤掉。
   // authorFilter 本身已经是跨站点的精确匹配，siteFilter 留空即可。
   state.siteFilter = "";
-  // 博主筛选是条目级过滤：切到全量模式浏览该博主的原始条目池，并清空栏目选择
+  // 博主筛选是条目级过滤：跳到全量路由浏览该博主的原始条目池，并清空栏目选择
   state.activeSection = "all";
-  state.mode = "all";
   state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
   state.xAuthorsExpanded = false;
-  renderSectionTabs();
-  renderModeSwitch();
-  renderSiteFilters();
-  renderHotBoard();
-  renderMainList();
+  if (state.route !== "all") {
+    window.location.hash = "#/all";
+  } else {
+    rerenderCurrentView();
+  }
   renderSourceHealth();
-  document.querySelector(".list-wrap")?.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 function renderSocialdataAuthorList(authors, itemCount) {
@@ -2315,11 +2422,7 @@ async function init() {
     state.allDataLoaded = Boolean(payload.items_all || payload.items_all_raw);
     state.generatedAt = payload.generated_at;
 
-    renderSectionTabs();
-    renderModeSwitch();
-    renderSiteFilters();
-    renderHotBoard();
-    renderMainList();
+    await applyRoute();
     updatedAtEl.textContent = fmtTime(state.generatedAt);
   } else {
     updatedAtEl.textContent = "新闻数据加载失败";
@@ -2341,7 +2444,7 @@ async function init() {
     state.waytoagiData = waytoagiResult.value;
     renderWaytoagi(state.waytoagiData);
   } else {
-    if (waytoagiWrapEl) waytoagiWrapEl.hidden = state.activeSection !== "community";
+    if (waytoagiWrapEl) waytoagiWrapEl.hidden = state.route !== "community";
     waytoagiUpdatedAtEl.textContent = "加载失败";
     waytoagiListEl.replaceChildren();
     const error = document.createElement("div");
@@ -2353,13 +2456,16 @@ async function init() {
   document.dispatchEvent(new CustomEvent("aiRadar:ready"));
 }
 
-// 搜索：精选模式按故事标题/来源过滤（storyMatchesQuery），全量模式按条目过滤（itemHaystack）
+// 搜索：精选/全量按各自池过滤；热点榜页搜索同样生效
 searchInputEl.addEventListener("input", (e) => {
   state.query = e.target.value;
   state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
+  if (state.route === "hot") {
+    renderHotBoard();
+    return;
+  }
   renderSectionTabs();
   renderModeSwitch();
-  renderHotBoard();
   renderMainList();
 });
 
@@ -2372,41 +2478,107 @@ siteSelectEl.addEventListener("change", (e) => {
   if (state.siteFilter !== "socialdata_x") state.authorFilter = "";
   state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
   renderSiteFilters();
-  renderHotBoard();
+  if (state.route === "hot") {
+    renderHotBoard();
+    return;
+  }
   renderMainList();
 });
 
-// 全局 精选/全量 开关：替代旧的三视图切换（精选/热点榜/时间线）
-if (modeSelectedBtnEl) {
-  modeSelectedBtnEl.addEventListener("click", () => {
-    if (state.mode === "selected") return;
-    state.mode = "selected";
-    state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
-    rerenderCurrentView();
+// ---- Hash 路由：#/ 热点榜（默认落地） · #/selected 精选 · #/all 全量 · #/community 社区 ----
+// #/hot 保留为旧链接兼容别名。
+const ROUTES = {
+  "": "hot",
+  "/": "hot",
+  "/hot": "hot",
+  "/selected": "home",
+  "/all": "all",
+  "/community": "community",
+};
+
+const pageEls = {
+  feed: document.getElementById("feedPage"),
+  hot: document.getElementById("hotPage"),
+  community: document.getElementById("communityPage"),
+};
+
+function currentRouteFromHash() {
+  const raw = String(window.location.hash || "").replace(/^#/, "");
+  return ROUTES[raw] ?? "home";
+}
+
+function renderSideNav() {
+  document.querySelectorAll("[data-route]").forEach((link) => {
+    const active = link.dataset.route === state.route;
+    link.classList.toggle("side-link-active", active && link.classList.contains("side-link"));
+    link.classList.toggle("m-tab-active", active && link.classList.contains("m-tab"));
+    if (active) link.setAttribute("aria-current", "page");
+    else link.removeAttribute("aria-current");
   });
 }
 
-if (modeAllBtnEl) {
-  modeAllBtnEl.addEventListener("click", async () => {
-    if (state.mode === "all") return;
-    state.mode = "all";
-    state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
-    renderModeSwitch();
-    newsListEl.innerHTML = "";
-    const loading = document.createElement("div");
-    loading.className = "empty";
-    loading.textContent = "正在加载全量更新...";
-    newsListEl.appendChild(loading);
-    try {
-      await loadAllModeData();
-      rerenderCurrentView();
-    } catch (err) {
-      newsListEl.innerHTML = "";
-      const failed = document.createElement("div");
-      failed.className = "empty";
-      failed.textContent = err.message;
-      newsListEl.appendChild(failed);
+function pageTitleForRoute() {
+  if (state.route === "all") return "全部动态";
+  return "精选";
+}
+
+async function applyRoute() {
+  state.route = currentRouteFromHash();
+  renderSideNav();
+
+  const isFeed = state.route === "home" || state.route === "all";
+  if (pageEls.feed) pageEls.feed.hidden = !isFeed;
+  if (pageEls.hot) pageEls.hot.hidden = state.route !== "hot";
+  if (pageEls.community) pageEls.community.hidden = state.route !== "community";
+
+  if (isFeed) {
+    const nextMode = state.route === "all" ? "all" : "selected";
+    if (state.mode !== nextMode) {
+      state.mode = nextMode;
+      state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
     }
+    if (listTitleEl) listTitleEl.textContent = pageTitleForRoute();
+    if (state.mode === "all" && !state.allDataLoaded) {
+      newsListEl.innerHTML = "";
+      const loading = document.createElement("div");
+      loading.className = "empty";
+      loading.textContent = "正在加载全量更新...";
+      newsListEl.appendChild(loading);
+      try {
+        await loadAllModeData();
+      } catch (err) {
+        newsListEl.innerHTML = "";
+        const failed = document.createElement("div");
+        failed.className = "empty";
+        failed.textContent = err.message;
+        newsListEl.appendChild(failed);
+        return;
+      }
+    }
+    renderSectionTabs();
+    renderModeSwitch();
+    renderSiteFilters();
+    renderTop3Board();
+    renderMainList();
+  } else if (state.route === "hot") {
+    renderHotBoard();
+  } else if (state.route === "community" && state.waytoagiData) {
+    renderWaytoagi(state.waytoagiData);
+  }
+  window.scrollTo({ top: 0 });
+}
+
+window.addEventListener("hashchange", applyRoute);
+
+// 工具栏内的精选/全量开关：与侧边栏路由等价（#/selected 与 #/all），单一事实来源是 hash。
+if (modeSelectedBtnEl) {
+  modeSelectedBtnEl.addEventListener("click", () => {
+    if (state.route !== "home") window.location.hash = "#/selected";
+  });
+}
+if (modeAllBtnEl) {
+  modeAllBtnEl.addEventListener("click", () => {
+    if (state.route !== "all") window.location.hash = "#/all";
   });
 }
 
