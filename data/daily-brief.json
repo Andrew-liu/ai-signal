@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:49:26.605925Z",
+  "generated_at": "2026-08-19T11:44:02.895179Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7861,
+        "recency": 0.7759,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,203 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
-      }
-    },
-    {
-      "story_id": "story_394e39b5c070",
-      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "primary_url": "https://openai.com/index/chatgpt-for-teens",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7089,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-        "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-for-teens",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
-      }
-    },
-    {
-      "story_id": "story_57fc147b8fa7",
-      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8498,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T23:33:07Z",
-      "latest_at": "2026-08-18T23:33:07Z",
-      "primary_item": {
-        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-        "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-        "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-        "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -357,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8309,
+        "recency": 0.8201,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,30 +196,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
-      "story_id": "story_7de8d1dc0770",
-      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "story_id": "story_57fc147b8fa7",
+      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按令牌类型撤销凭证和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-18T23:33:07Z"
         }
       ],
       "source_count": 1,
@@ -424,31 +228,31 @@
       ],
       "items": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按令牌类型撤销凭证和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-18T23:33:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8304,
+        "ai_relevance": 0.91,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,17 +261,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T21:57:30Z",
-      "latest_at": "2026-08-18T21:57:30Z",
+      "earliest_at": "2026-08-18T23:33:07Z",
+      "latest_at": "2026-08-18T23:33:07Z",
       "primary_item": {
-        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-        "title_zh": "按令牌类型撤销凭证和取消授权",
-        "title_en": "Credential revocation and deauthorization by token type",
-        "title_original": "Credential revocation and deauthorization by token type",
+        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+        "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -475,171 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
-      }
-    },
-    {
-      "story_id": "story_3efa244006cd",
-      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-      "url": "https://www.aibase.com/news/30473",
-      "primary_url": "https://www.aibase.com/news/30473",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_en": null,
-          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30473",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_en": null,
-          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30473",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
-      "primary_item": {
-        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "title_en": null,
-        "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30473",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
-      }
-    },
-    {
-      "story_id": "story_eadd8d231bf2",
-      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_en": null,
-          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_en": null,
-          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8685,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T01:03:29Z",
-      "latest_at": "2026-08-19T01:03:29Z",
-      "primary_item": {
-        "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "title_en": null,
-        "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -687,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7957,
+        "recency": 0.7853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +362,254 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
+      }
+    },
+    {
+      "story_id": "story_7de8d1dc0770",
+      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按令牌类型撤销凭证和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按令牌类型撤销凭证和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8196,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T21:57:30Z",
+      "latest_at": "2026-08-18T21:57:30Z",
+      "primary_item": {
+        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+        "title_zh": "按令牌类型撤销凭证和取消授权",
+        "title_en": "Credential revocation and deauthorization by token type",
+        "title_original": "Credential revocation and deauthorization by token type",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T11:44:41.374512Z"
+      }
+    },
+    {
+      "story_id": "story_3efa244006cd",
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473",
+      "primary_url": "https://www.aibase.com/news/30473",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_en": null,
+          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T11:44:02.895179Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_en": null,
+          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T11:44:02.895179Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
+      "primary_item": {
+        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "title_en": null,
+        "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30473",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T11:44:41.374512Z"
+      }
+    },
+    {
+      "story_id": "story_eadd8d231bf2",
+      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_en": null,
+          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_en": null,
+          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8571,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T01:03:29Z",
+      "latest_at": "2026-08-19T01:03:29Z",
+      "primary_item": {
+        "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "title_en": null,
+        "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -770,15 +657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8242,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -851,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.8255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -907,7 +794,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "source_count": 1,
@@ -927,7 +814,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "item_count": 1,
@@ -948,8 +835,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
       "primary_item": {
         "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
         "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
@@ -966,7 +853,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -1043,15 +930,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8085,
+        "recency": 0.7979,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1077,90 +964,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
-      }
-    },
-    {
-      "story_id": "story_deae2dbaff1a",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "title_en": "Pacing model development in an era of cyber-critical capabilities",
-          "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "title_en": "Pacing model development in an era of cyber-critical capabilities",
-          "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7089,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-        "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-        "title_en": "Pacing model development in an era of cyber-critical capabilities",
-        "title_original": "Pacing model development in an era of cyber-critical capabilities",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -1183,7 +987,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "source_count": 1,
@@ -1203,7 +1007,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "item_count": 1,
@@ -1224,8 +1028,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
       "primary_item": {
         "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
         "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
@@ -1242,172 +1046,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
-      }
-    },
-    {
-      "story_id": "story_8e332aafeb89",
-      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与 CodeAI 合作，准备第一代 AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与 CodeAI 合作，准备第一代 AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7089,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-        "title_zh": "与 CodeAI 合作，准备第一代 AI",
-        "title_en": "Partnering with CodeAI to prepare the first AI generation",
-        "title_original": "Partnering with CodeAI to prepare the first AI generation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
-      }
-    },
-    {
-      "story_id": "story_b12c78ecfeef",
-      "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-      "url": "https://www.aibase.com/news/30463",
-      "primary_url": "https://www.aibase.com/news/30463",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4af451c2788df9f9c6b832f937700076093f10da",
-          "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "title_zh": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "title_en": null,
-          "title_original": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30463",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4af451c2788df9f9c6b832f937700076093f10da",
-          "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "title_zh": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "title_en": null,
-          "title_original": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30463",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
-      "primary_item": {
-        "id": "4af451c2788df9f9c6b832f937700076093f10da",
-        "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-        "title_zh": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-        "title_en": null,
-        "title_original": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30463",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -1430,7 +1069,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "source_count": 1,
@@ -1450,7 +1089,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "item_count": 1,
@@ -1471,8 +1110,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
       "primary_item": {
         "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
         "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
@@ -1489,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -1512,7 +1151,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "source_count": 1,
@@ -1532,7 +1171,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "item_count": 1,
@@ -1553,8 +1192,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
       "primary_item": {
         "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
         "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
@@ -1571,7 +1210,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -1594,7 +1233,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "source_count": 1,
@@ -1614,7 +1253,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "item_count": 1,
@@ -1635,8 +1274,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
       "primary_item": {
         "id": "e05533837dd963d298b50f65dc868d9d032108a4",
         "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
@@ -1653,7 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     },
     {
@@ -1676,7 +1315,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "source_count": 1,
@@ -1696,7 +1335,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:49:26.605925Z"
+          "published_at": "2026-08-19T11:44:02.895179Z"
         }
       ],
       "item_count": 1,
@@ -1717,8 +1356,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:49:26.605925Z",
-      "latest_at": "2026-08-19T10:49:26.605925Z",
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
       "primary_item": {
         "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
         "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
@@ -1735,7 +1374,391 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T10:50:02.868066Z"
+        "scored_at": "2026-08-19T11:44:41.374512Z"
+      }
+    },
+    {
+      "story_id": "story_b5a519af505f",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_zh": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_en": null,
+          "title_original": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T11:44:02.895179Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_zh": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_en": null,
+          "title_original": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T11:44:02.895179Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
+      "primary_item": {
+        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "title_zh": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "title_en": null,
+        "title_original": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30467",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T11:44:41.374512Z"
+      }
+    },
+    {
+      "story_id": "story_44ee19ab3371",
+      "title": "软件团队中人工智能的使用模式",
+      "url": "https://linear.app/data",
+      "primary_url": "https://linear.app/data",
+      "source": "linear.app",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+          "title": "软件团队中人工智能的使用模式",
+          "title_zh": "软件团队中人工智能的使用模式",
+          "title_en": null,
+          "title_original": "软件团队中人工智能的使用模式",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/data",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T06:30:17.079000Z"
+        },
+        {
+          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
+          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
+          "title_zh": "软件团队中人工智能的使用模式",
+          "title_en": "AI usage patterns in software teams",
+          "title_original": "AI usage patterns in software teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T22:08:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "linear.app"
+      ],
+      "items": [
+        {
+          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+          "title": "软件团队中人工智能的使用模式",
+          "title_zh": "软件团队中人工智能的使用模式",
+          "title_en": null,
+          "title_original": "软件团队中人工智能的使用模式",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/data",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T06:30:17.079000Z"
+        },
+        {
+          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
+          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
+          "title_zh": "软件团队中人工智能的使用模式",
+          "title_en": "AI usage patterns in software teams",
+          "title_original": "AI usage patterns in software teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T22:08:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9273,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T22:08:07Z",
+      "latest_at": "2026-08-19T06:30:17.079000Z",
+      "primary_item": {
+        "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+        "title": "软件团队中人工智能的使用模式",
+        "title_zh": "软件团队中人工智能的使用模式",
+        "title_en": null,
+        "title_original": "软件团队中人工智能的使用模式",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://linear.app/data",
+        "source": "linear.app",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T11:44:41.374512Z"
+      }
+    },
+    {
+      "story_id": "story_a656fbf68cbb",
+      "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+      "url": "https://www.aibase.com/news/30465",
+      "primary_url": "https://www.aibase.com/news/30465",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
+          "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "title_zh": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "title_en": null,
+          "title_original": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30465",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T11:44:02.895179Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
+          "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "title_zh": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "title_en": null,
+          "title_original": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30465",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T11:44:02.895179Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T11:44:02.895179Z",
+      "latest_at": "2026-08-19T11:44:02.895179Z",
+      "primary_item": {
+        "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
+        "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+        "title_zh": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+        "title_en": null,
+        "title_original": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30465",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T11:44:41.374512Z"
+      }
+    },
+    {
+      "story_id": "story_9a7a3047a8fb",
+      "title": "GLM-5.3 人工分析基准测试",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "primary_url": "https://artificialanalysis.ai/models/glm-5-3",
+      "source": "artificialanalysis.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f989af42a273b740423bdabdd5de6f98cbc3ff66",
+          "title": "GLM-5.3 人工分析基准测试",
+          "title_zh": "GLM-5.3 人工分析基准测试",
+          "title_en": null,
+          "title_original": "GLM-5.3 人工分析基准测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T04:06:16.009000Z"
+        },
+        {
+          "id": "e12eb831a6b4dfede1944f02afaf230a24be78d3",
+          "title": "GLM-5.3 人工分析基准测试 / GLM-5.3 Artificial Analysis Benchmarks",
+          "title_zh": "GLM-5.3 人工分析基准测试",
+          "title_en": "GLM-5.3 Artificial Analysis Benchmarks",
+          "title_original": "GLM-5.3 Artificial Analysis Benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T22:06:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "artificialanalysis.ai"
+      ],
+      "items": [
+        {
+          "id": "f989af42a273b740423bdabdd5de6f98cbc3ff66",
+          "title": "GLM-5.3 人工分析基准测试",
+          "title_zh": "GLM-5.3 人工分析基准测试",
+          "title_en": null,
+          "title_original": "GLM-5.3 人工分析基准测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T04:06:16.009000Z"
+        },
+        {
+          "id": "e12eb831a6b4dfede1944f02afaf230a24be78d3",
+          "title": "GLM-5.3 人工分析基准测试 / GLM-5.3 Artificial Analysis Benchmarks",
+          "title_zh": "GLM-5.3 人工分析基准测试",
+          "title_en": "GLM-5.3 Artificial Analysis Benchmarks",
+          "title_original": "GLM-5.3 Artificial Analysis Benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T22:06:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8957,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T22:06:10Z",
+      "latest_at": "2026-08-19T04:06:16.009000Z",
+      "primary_item": {
+        "id": "f989af42a273b740423bdabdd5de6f98cbc3ff66",
+        "title": "GLM-5.3 人工分析基准测试",
+        "title_zh": "GLM-5.3 人工分析基准测试",
+        "title_en": null,
+        "title_original": "GLM-5.3 人工分析基准测试",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/models/glm-5-3",
+        "source": "artificialanalysis.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T11:44:41.374512Z"
       }
     }
   ]
