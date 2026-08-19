@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:49:21.106414Z",
+  "generated_at": "2026-08-19T21:44:04.252861Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.974,
+        "recency": 0.9613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9917,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9578,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9037,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.974,
+        "recency": 0.9613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,90 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
-      }
-    },
-    {
-      "story_id": "story_24b8f639b701",
-      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
-          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-          "title_zh": "跟踪组织代码质量趋势",
-          "title_en": "Track organization code quality trends",
-          "title_original": "Track organization code quality trends",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T12:56:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
-          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-          "title_zh": "跟踪组织代码质量趋势",
-          "title_en": "Track organization code quality trends",
-          "title_original": "Track organization code quality trends",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T12:56:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8925,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T12:56:57Z",
-      "latest_at": "2026-08-19T12:56:57Z",
-      "primary_item": {
-        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
-        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
-        "title_zh": "跟踪组织代码质量趋势",
-        "title_en": "Track organization code quality trends",
-        "title_original": "Track organization code quality trends",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8191,
+        "recency": 0.8083,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,30 +498,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
-      "story_id": "story_57fc147b8fa7",
-      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "story_id": "story_24b8f639b701",
+      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
+          "published_at": "2026-08-19T12:56:57Z"
         }
       ],
       "source_count": 1,
@@ -530,31 +530,31 @@
       ],
       "items": [
         {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
+          "published_at": "2026-08-19T12:56:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7355,
+        "ai_relevance": 0.87,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "official",
@@ -563,17 +563,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T23:33:07Z",
-      "latest_at": "2026-08-18T23:33:07Z",
+      "earliest_at": "2026-08-19T12:56:57Z",
+      "latest_at": "2026-08-19T12:56:57Z",
       "primary_item": {
-        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
-        "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
-        "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
-        "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+        "title_zh": "跟踪组织代码质量趋势",
+        "title_en": "Track organization code quality trends",
+        "title_original": "Track organization code quality trends",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -581,7 +581,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
+      }
+    },
+    {
+      "story_id": "story_cf8446af2124",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+      "url": "https://x.com/haoailab/status/2090177721913770407",
+      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sky Computing Lab (@haoailab)"
+      ],
+      "items": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9854,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
+      "primary_item": {
+        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/haoailab/status/2090177721913770407",
+        "source": "X：Sky Computing Lab (@haoailab)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -629,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9592,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -686,7 +768,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T18:49:21.106414Z"
+          "published_at": "2026-08-19T18:44:04.252861Z"
         }
       ],
       "source_count": 1,
@@ -706,20 +788,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T18:49:21.106414Z"
+          "published_at": "2026-08-19T18:44:04.252861Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,8 +809,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T18:49:21.106414Z",
-      "latest_at": "2026-08-19T18:49:21.106414Z",
+      "earliest_at": "2026-08-19T18:44:04.252861Z",
+      "latest_at": "2026-08-19T18:44:04.252861Z",
       "primary_item": {
         "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
         "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
@@ -745,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -793,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7192,
+        "recency": 0.7098,
         "story_heat": 0.0
       },
       "category": "official",
@@ -828,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -905,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7403,
+        "recency": 0.7306,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -939,7 +1021,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
+      }
+    },
+    {
+      "story_id": "story_57fc147b8fa7",
+      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7259,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T23:33:07Z",
+      "latest_at": "2026-08-18T23:33:07Z",
+      "primary_item": {
+        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+        "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -987,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7517,
+        "recency": 0.7419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,7 +1185,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
+      }
+    },
+    {
+      "story_id": "story_8b228c716737",
+      "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+      "url": "https://www.aibase.com/news/30477",
+      "primary_url": "https://www.aibase.com/news/30477",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
+          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "title_en": null,
+          "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30477",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T18:44:04.252861Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
+          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "title_en": null,
+          "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30477",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T18:44:04.252861Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T18:44:04.252861Z",
+      "latest_at": "2026-08-19T18:44:04.252861Z",
+      "primary_item": {
+        "id": "47dfe46d593272d962a767f28e71df130221a9f4",
+        "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+        "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+        "title_en": null,
+        "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30477",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -1068,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7188,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1103,252 +1350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
-      }
-    },
-    {
-      "story_id": "story_8b228c716737",
-      "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-      "url": "https://www.aibase.com/news/30477",
-      "primary_url": "https://www.aibase.com/news/30477",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
-          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "title_en": null,
-          "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T18:49:21.106414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
-          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "title_en": null,
-          "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T18:49:21.106414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T18:49:21.106414Z",
-      "latest_at": "2026-08-19T18:49:21.106414Z",
-      "primary_item": {
-        "id": "47dfe46d593272d962a767f28e71df130221a9f4",
-        "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-        "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-        "title_en": null,
-        "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30477",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
-      }
-    },
-    {
-      "story_id": "story_7b5d73500e30",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "primary_url": "https://www.modular.com/blog/mojo-open-source",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_en": null,
-          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-          "recommend_reason_zh": null,
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "title_en": null,
-          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-          "recommend_reason_zh": null,
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7134,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T21:26:01.095000Z",
-      "latest_at": "2026-08-18T21:26:01.095000Z",
-      "primary_item": {
-        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "title_en": null,
-        "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-        "recommend_reason_zh": null,
-        "url": "https://www.modular.com/blog/mojo-open-source",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
-      }
-    },
-    {
-      "story_id": "story_ea0ed8c5e2fe",
-      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-      "url": "https://www.aibase.com/news/30474",
-      "primary_url": "https://www.aibase.com/news/30474",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_en": null,
-          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T16:49:21.106414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_en": null,
-          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T16:49:21.106414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T16:49:21.106414Z",
-      "latest_at": "2026-08-19T16:49:21.106414Z",
-      "primary_item": {
-        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "title_en": null,
-        "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30474",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -1371,7 +1373,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
+          "published_at": "2026-08-19T16:44:04.252861Z"
         }
       ],
       "source_count": 1,
@@ -1391,7 +1393,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
+          "published_at": "2026-08-19T16:44:04.252861Z"
         }
       ],
       "item_count": 1,
@@ -1412,8 +1414,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T15:49:21.106414Z",
-      "latest_at": "2026-08-19T15:49:21.106414Z",
+      "earliest_at": "2026-08-19T16:44:04.252861Z",
+      "latest_at": "2026-08-19T16:44:04.252861Z",
       "primary_item": {
         "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
         "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
@@ -1430,30 +1432,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
-      "story_id": "story_98aa2734f33e",
-      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-      "url": "https://www.aibase.com/news/30469",
-      "primary_url": "https://www.aibase.com/news/30469",
+      "story_id": "story_ea0ed8c5e2fe",
+      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+      "url": "https://www.aibase.com/news/30474",
+      "primary_url": "https://www.aibase.com/news/30474",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30469",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
+          "published_at": "2026-08-19T16:44:04.252861Z"
         }
       ],
       "source_count": 1,
@@ -1462,18 +1464,18 @@
       ],
       "items": [
         {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30469",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
+          "published_at": "2026-08-19T16:44:04.252861Z"
         }
       ],
       "item_count": 1,
@@ -1494,17 +1496,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T15:49:21.106414Z",
-      "latest_at": "2026-08-19T15:49:21.106414Z",
+      "earliest_at": "2026-08-19T16:44:04.252861Z",
+      "latest_at": "2026-08-19T16:44:04.252861Z",
       "primary_item": {
-        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+        "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
         "title_en": null,
-        "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30469",
+        "url": "https://www.aibase.com/news/30474",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1512,89 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
-      }
-    },
-    {
-      "story_id": "story_45688a44d097",
-      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-      "url": "https://www.aibase.com/news/30471",
-      "primary_url": "https://www.aibase.com/news/30471",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_en": null,
-          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_en": null,
-          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T15:49:21.106414Z",
-      "latest_at": "2026-08-19T15:49:21.106414Z",
-      "primary_item": {
-        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "title_en": null,
-        "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30471",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     },
     {
@@ -1617,7 +1537,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
+          "published_at": "2026-08-19T16:44:04.252861Z"
         }
       ],
       "source_count": 1,
@@ -1637,7 +1557,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T15:49:21.106414Z"
+          "published_at": "2026-08-19T16:44:04.252861Z"
         }
       ],
       "item_count": 1,
@@ -1658,8 +1578,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T15:49:21.106414Z",
-      "latest_at": "2026-08-19T15:49:21.106414Z",
+      "earliest_at": "2026-08-19T16:44:04.252861Z",
+      "latest_at": "2026-08-19T16:44:04.252861Z",
       "primary_item": {
         "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
         "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
@@ -1676,7 +1596,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T20:49:58.761533Z"
+        "scored_at": "2026-08-19T21:44:43.547828Z"
+      }
+    },
+    {
+      "story_id": "story_98aa2734f33e",
+      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+      "url": "https://www.aibase.com/news/30469",
+      "primary_url": "https://www.aibase.com/news/30469",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_en": null,
+          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T15:44:04.252861Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_en": null,
+          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T15:44:04.252861Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T15:44:04.252861Z",
+      "latest_at": "2026-08-19T15:44:04.252861Z",
+      "primary_item": {
+        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "title_en": null,
+        "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30469",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T21:44:43.547828Z"
       }
     }
   ]
