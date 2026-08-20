@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:48:12.059559Z",
+  "generated_at": "2026-08-20T23:43:28.128404Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9181,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9313,
+        "recency": 0.919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7194,
+        "recency": 0.7099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.796,
+        "recency": 0.7854,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8966,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
+      }
+    },
+    {
+      "story_id": "story_bd13e5e9f8e6",
+      "title": "Codex CLI 0.149.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
+          "title": "Codex CLI 0.149.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.0",
+          "title_original": "Codex CLI 0.149.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
+          "title": "Codex CLI 0.149.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.0",
+          "title_original": "Codex CLI 0.149.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7099,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
+        "title": "Codex CLI 0.149.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.149.0",
+        "title_original": "Codex CLI 0.149.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "recency": 0.8949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -545,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7194,
+        "recency": 0.7099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -628,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8867,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -686,7 +769,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T18:48:12.059559Z"
+          "published_at": "2026-08-20T18:43:28.128404Z"
         }
       ],
       "source_count": 1,
@@ -706,20 +789,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T18:48:12.059559Z"
+          "published_at": "2026-08-20T18:43:28.128404Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,8 +810,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T18:48:12.059559Z",
-      "latest_at": "2026-08-20T18:48:12.059559Z",
+      "earliest_at": "2026-08-20T18:43:28.128404Z",
+      "latest_at": "2026-08-20T18:43:28.128404Z",
       "primary_item": {
         "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
         "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
@@ -745,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -793,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8284,
+        "recency": 0.8174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -874,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9666,
+        "recency": 0.9538,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -955,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8869,
+        "recency": 0.8752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -990,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -1038,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9064,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -1094,7 +1177,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T17:48:12.059559Z"
+          "published_at": "2026-08-20T17:43:28.128404Z"
         }
       ],
       "source_count": 1,
@@ -1114,20 +1197,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T17:48:12.059559Z"
+          "published_at": "2026-08-20T17:43:28.128404Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,8 +1218,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T17:48:12.059559Z",
-      "latest_at": "2026-08-20T17:48:12.059559Z",
+      "earliest_at": "2026-08-20T17:43:28.128404Z",
+      "latest_at": "2026-08-20T17:43:28.128404Z",
       "primary_item": {
         "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
         "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
@@ -1153,7 +1236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -1201,15 +1284,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8736,
+        "recency": 0.8621,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,7 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -1257,7 +1340,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:48:12.059559Z"
+          "published_at": "2026-08-20T16:43:28.128404Z"
         }
       ],
       "source_count": 1,
@@ -1277,20 +1360,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:48:12.059559Z"
+          "published_at": "2026-08-20T16:43:28.128404Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1298,8 +1381,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T16:48:12.059559Z",
-      "latest_at": "2026-08-20T16:48:12.059559Z",
+      "earliest_at": "2026-08-20T16:43:28.128404Z",
+      "latest_at": "2026-08-20T16:43:28.128404Z",
       "primary_item": {
         "id": "76b9f01767f82759af76bb18dca18be1692ace57",
         "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
@@ -1316,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -1339,7 +1422,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:48:12.059559Z"
+          "published_at": "2026-08-20T16:43:28.128404Z"
         }
       ],
       "source_count": 1,
@@ -1359,20 +1442,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:48:12.059559Z"
+          "published_at": "2026-08-20T16:43:28.128404Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,8 +1463,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T16:48:12.059559Z",
-      "latest_at": "2026-08-20T16:48:12.059559Z",
+      "earliest_at": "2026-08-20T16:43:28.128404Z",
+      "latest_at": "2026-08-20T16:43:28.128404Z",
       "primary_item": {
         "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
         "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
@@ -1398,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
@@ -1421,7 +1504,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T15:48:12.059559Z"
+          "published_at": "2026-08-20T15:43:28.128404Z"
         }
       ],
       "source_count": 1,
@@ -1441,89 +1524,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T15:48:12.059559Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T15:48:12.059559Z",
-      "latest_at": "2026-08-20T15:48:12.059559Z",
-      "primary_item": {
-        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_en": null,
-        "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30503",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
-      }
-    },
-    {
-      "story_id": "story_170c6e847b14",
-      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-      "url": "https://www.aibase.com/news/30501",
-      "primary_url": "https://www.aibase.com/news/30501",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T14:48:12.059559Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T14:48:12.059559Z"
+          "published_at": "2026-08-20T15:43:28.128404Z"
         }
       ],
       "item_count": 1,
@@ -1543,17 +1544,17 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T14:48:12.059559Z",
-      "latest_at": "2026-08-20T14:48:12.059559Z",
+      "earliest_at": "2026-08-20T15:43:28.128404Z",
+      "latest_at": "2026-08-20T15:43:28.128404Z",
       "primary_item": {
-        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+        "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
         "title_en": null,
-        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30501",
+        "url": "https://www.aibase.com/news/30503",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1561,146 +1562,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     },
     {
-      "story_id": "story_77a1302ad563",
-      "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://news.ycombinator.com/item?id=49378768",
-      "primary_url": "https://news.ycombinator.com/item?id=49378768",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_97e04846adb3",
+      "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+      "url": "https://www.aibase.com/news/30497",
+      "primary_url": "https://www.aibase.com/news/30497",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "58d5030655071466d34f216ca4cccb4d742365de",
-          "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49378768",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T22:48:32.630000Z"
-        },
-        {
-          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "title_en": null,
-          "title_original": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "www.danielvaughn.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T21:26:19.463000Z"
-        },
-        {
-          "id": "d1228089491d21db3f5633bff383b76fa7f9e748",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T19:05:36Z"
+          "url": "https://www.aibase.com/news/30497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T14:43:28.128404Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.danielvaughn.dev"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "58d5030655071466d34f216ca4cccb4d742365de",
-          "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49378768",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T22:48:32.630000Z"
-        },
-        {
-          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "title_en": null,
-          "title_original": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "www.danielvaughn.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T21:26:19.463000Z"
-        },
-        {
-          "id": "d1228089491d21db3f5633bff383b76fa7f9e748",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T19:05:36Z"
+          "url": "https://www.aibase.com/news/30497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T14:43:28.128404Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T19:05:36Z",
-      "latest_at": "2026-08-20T22:48:32.630000Z",
+      "earliest_at": "2026-08-20T14:43:28.128404Z",
+      "latest_at": "2026-08-20T14:43:28.128404Z",
       "primary_item": {
-        "id": "58d5030655071466d34f216ca4cccb4d742365de",
-        "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-        "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法",
-        "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-        "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
+        "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+        "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "title_en": null,
+        "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49378768",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://www.aibase.com/news/30497",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T22:48:48.628867Z"
+        "scored_at": "2026-08-20T23:44:06.850618Z"
       }
     }
   ]
