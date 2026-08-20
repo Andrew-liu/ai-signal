@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:49:45.013762Z",
+  "generated_at": "2026-08-20T07:10:37.321987Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8552,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.841,
+        "recency": 0.8248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
-      }
-    },
-    {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8823,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
-      "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -297,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7935,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8653,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8552,
+        "recency": 0.8387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,90 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
-      }
-    },
-    {
-      "story_id": "story_fe9df585279b",
-      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "primary_url": "https://openai.com/index/replit",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7192,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T07:00:00Z",
-      "latest_at": "2026-08-19T07:00:00Z",
-      "primary_item": {
-        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-        "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-        "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-        "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-        "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -546,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7837,
+        "recency": 0.7686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -658,15 +575,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8893,
+        "recency": 0.8721,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -693,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -716,7 +633,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -736,7 +653,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -757,8 +674,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
         "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
         "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
@@ -775,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -823,21 +740,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9053,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T00:17:26Z",
       "latest_at": "2026-08-20T00:17:26Z",
@@ -857,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -905,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8598,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,7 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -986,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -1042,7 +958,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -1062,7 +978,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -1083,8 +999,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
         "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
         "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
@@ -1101,7 +1017,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -1124,7 +1040,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -1144,7 +1060,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -1165,8 +1081,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
         "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
         "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
@@ -1183,30 +1099,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
-      "story_id": "story_299363b260a1",
-      "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
-      "url": "https://www.aibase.com/news/30479",
-      "primary_url": "https://www.aibase.com/news/30479",
+      "story_id": "story_170c6e847b14",
+      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+      "url": "https://www.aibase.com/news/30501",
+      "primary_url": "https://www.aibase.com/news/30501",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
-          "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
-          "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
           "title_en": null,
-          "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30479",
+          "url": "https://www.aibase.com/news/30501",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -1215,18 +1131,18 @@
       ],
       "items": [
         {
-          "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
-          "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
-          "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
           "title_en": null,
-          "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30479",
+          "url": "https://www.aibase.com/news/30501",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -1247,17 +1163,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
-        "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
-        "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
-        "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
         "title_en": null,
-        "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30479",
+        "url": "https://www.aibase.com/news/30501",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1265,7 +1181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -1288,7 +1204,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -1308,7 +1224,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1245,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
         "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
         "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
@@ -1347,7 +1263,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -1370,7 +1286,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -1390,7 +1306,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -1411,8 +1327,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
         "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
         "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
@@ -1429,7 +1345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -1452,7 +1368,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -1472,7 +1388,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -1493,8 +1409,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
         "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
         "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
@@ -1511,30 +1427,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
-      "story_id": "story_066cef4d76cd",
-      "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
-      "url": "https://www.aibase.com/news/30481",
-      "primary_url": "https://www.aibase.com/news/30481",
+      "story_id": "story_7ef48461ffb7",
+      "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+      "url": "https://www.aibase.com/news/30483",
+      "primary_url": "https://www.aibase.com/news/30483",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
-          "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
-          "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "title_en": null,
-          "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30481",
+          "url": "https://www.aibase.com/news/30483",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "source_count": 1,
@@ -1543,18 +1459,18 @@
       ],
       "items": [
         {
-          "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
-          "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
-          "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "title_en": null,
-          "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30481",
+          "url": "https://www.aibase.com/news/30483",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:49:45.013762Z"
+          "published_at": "2026-08-20T07:10:37.321987Z"
         }
       ],
       "item_count": 1,
@@ -1575,17 +1491,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:49:45.013762Z",
-      "latest_at": "2026-08-20T05:49:45.013762Z",
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
       "primary_item": {
-        "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
-        "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
-        "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+        "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+        "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+        "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
         "title_en": null,
-        "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+        "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30481",
+        "url": "https://www.aibase.com/news/30483",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1593,7 +1509,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     },
     {
@@ -1670,15 +1586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9277,
+        "recency": 0.9098,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1703,7 +1619,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:50:19.912424Z"
+        "scored_at": "2026-08-20T07:11:16.951501Z"
+      }
+    },
+    {
+      "story_id": "story_5ee4e916b509",
+      "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+      "url": "https://www.aibase.com/news/30489",
+      "primary_url": "https://www.aibase.com/news/30489",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_en": null,
+          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30489",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:10:37.321987Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_en": null,
+          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30489",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:10:37.321987Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T07:10:37.321987Z",
+      "latest_at": "2026-08-20T07:10:37.321987Z",
+      "primary_item": {
+        "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+        "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "title_en": null,
+        "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30489",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T07:11:16.951501Z"
       }
     }
   ]
