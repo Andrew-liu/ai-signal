@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T16:54:43.481757Z",
+  "generated_at": "2026-08-20T17:49:04.870490Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_666a236350be",
-      "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "source": "Hugging Face Blog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
           "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "summary": null,
@@ -33,8 +33,8 @@
       "items": [
         {
           "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
           "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "summary": null,
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9996,
+        "recency": 0.9866,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +69,8 @@
       "latest_at": "2026-08-20T16:52:57Z",
       "primary_item": {
         "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "title_zh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍",
+        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
         "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "summary": null,
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9762,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
+      }
+    },
+    {
+      "story_id": "story_dddc776b066d",
+      "title": "Codex and ChatGPT updates",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+          "title": "Codex and ChatGPT updates",
+          "title_zh": null,
+          "title_en": "Codex and ChatGPT updates",
+          "title_original": "Codex and ChatGPT updates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+          "title": "Codex and ChatGPT updates",
+          "title_zh": null,
+          "title_en": "Codex and ChatGPT updates",
+          "title_original": "Codex and ChatGPT updates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7731,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+        "title": "Codex and ChatGPT updates",
+        "title_zh": null,
+        "title_en": "Codex and ChatGPT updates",
+        "title_original": "Codex and ChatGPT updates",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7833,
+        "recency": 0.7731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,338 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
-      }
-    },
-    {
-      "story_id": "story_6bffb665747e",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9655,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
-      "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
-      }
-    },
-    {
-      "story_id": "story_c773429fa020",
-      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7166,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T17:50:23Z",
-      "latest_at": "2026-08-19T17:50:23Z",
-      "primary_item": {
-        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-        "title_en": "GitHub Copilot app for Beginners: Managing your work",
-        "title_original": "GitHub Copilot app for Beginners: Managing your work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
-      }
-    },
-    {
-      "story_id": "story_a4fea9f5c87a",
-      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-      "url": "https://mistral.ai/news/agentic-search",
-      "primary_url": "https://mistral.ai/news/agentic-search",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9874,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:02:07.300000Z",
-      "latest_at": "2026-08-20T16:02:07.300000Z",
-      "primary_item": {
-        "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-        "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-        "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-        "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-        "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-        "recommend_reason_zh": null,
-        "url": "https://mistral.ai/news/agentic-search",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
-      }
-    },
-    {
-      "story_id": "story_65f7ae8f351a",
-      "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-          "title_zh": "通过搜索提升学习水平的 5 种新方法",
-          "title_en": "5 new ways to level up your learning with Search",
-          "title_original": "5 new ways to level up your learning with Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-          "title_zh": "通过搜索提升学习水平的 5 种新方法",
-          "title_en": "5 new ways to level up your learning with Search",
-          "title_original": "5 new ways to level up your learning with Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7288,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T19:00:00Z",
-      "latest_at": "2026-08-19T19:00:00Z",
-      "primary_item": {
-        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-        "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-        "title_zh": "通过搜索提升学习水平的 5 种新方法",
-        "title_en": "5 new ways to level up your learning with Search",
-        "title_original": "5 new ways to level up your learning with Search",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -628,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9656,
+        "recency": 0.9531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,7 +415,338 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
+      }
+    },
+    {
+      "story_id": "story_c773429fa020",
+      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7073,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
+      "primary_item": {
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+        "title_en": "GitHub Copilot app for Beginners: Managing your work",
+        "title_original": "GitHub Copilot app for Beginners: Managing your work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T17:49:38.905883Z"
+      }
+    },
+    {
+      "story_id": "story_a4fea9f5c87a",
+      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+      "url": "https://mistral.ai/news/agentic-search",
+      "primary_url": "https://mistral.ai/news/agentic-search",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
+          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/agentic-search",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:02:07.300000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Mistral AI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
+          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/agentic-search",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:02:07.300000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9746,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T16:02:07.300000Z",
+      "latest_at": "2026-08-20T16:02:07.300000Z",
+      "primary_item": {
+        "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
+        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+        "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+        "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+        "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+        "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+        "recommend_reason_zh": null,
+        "url": "https://mistral.ai/news/agentic-search",
+        "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T17:49:38.905883Z"
+      }
+    },
+    {
+      "story_id": "story_65f7ae8f351a",
+      "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "通过搜索提升学习水平的 5 种新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "通过搜索提升学习水平的 5 种新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7193,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
+      "primary_item": {
+        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+        "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+        "title_zh": "通过搜索提升学习水平的 5 种新方法",
+        "title_en": "5 new ways to level up your learning with Search",
+        "title_original": "5 new ways to level up your learning with Search",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T17:49:38.905883Z"
+      }
+    },
+    {
+      "story_id": "story_6bffb665747e",
+      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9529,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
+      "primary_item": {
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+        "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -711,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7288,
+        "recency": 0.7193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -746,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -769,7 +852,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:54:43.481757Z"
+          "published_at": "2026-08-20T17:49:04.870490Z"
         }
       ],
       "source_count": 1,
@@ -789,7 +872,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:54:43.481757Z"
+          "published_at": "2026-08-20T17:49:04.870490Z"
         }
       ],
       "item_count": 1,
@@ -810,8 +893,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T16:54:43.481757Z",
-      "latest_at": "2026-08-20T16:54:43.481757Z",
+      "earliest_at": "2026-08-20T17:49:04.870490Z",
+      "latest_at": "2026-08-20T17:49:04.870490Z",
       "primary_item": {
         "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
         "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
@@ -828,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -876,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9019,
+        "recency": 0.8902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -957,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.9741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,7 +1073,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
+      }
+    },
+    {
+      "story_id": "story_6e44341739d1",
+      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+      "url": "https://www.aibase.com/news/30507",
+      "primary_url": "https://www.aibase.com/news/30507",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_en": null,
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T17:31:04.870490Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_en": null,
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T17:31:04.870490Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T17:31:04.870490Z",
+      "latest_at": "2026-08-20T17:31:04.870490Z",
+      "primary_item": {
+        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "title_en": null,
+        "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30507",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -1038,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9512,
+        "recency": 0.9388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,89 +1236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
-      }
-    },
-    {
-      "story_id": "story_6e44341739d1",
-      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-      "url": "https://www.aibase.com/news/30507",
-      "primary_url": "https://www.aibase.com/news/30507",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_en": null,
-          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30507",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T16:54:43.481757Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_en": null,
-          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30507",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T16:54:43.481757Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:54:43.481757Z",
-      "latest_at": "2026-08-20T16:54:43.481757Z",
-      "primary_item": {
-        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-        "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-        "title_en": null,
-        "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30507",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -1201,15 +1284,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7518,
+        "recency": 0.7421,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1236,7 +1319,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -1259,7 +1342,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:40:43.481757Z"
+          "published_at": "2026-08-20T16:49:04.870490Z"
         }
       ],
       "source_count": 1,
@@ -1279,20 +1362,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:40:43.481757Z"
+          "published_at": "2026-08-20T16:49:04.870490Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9966,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,8 +1383,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T16:40:43.481757Z",
-      "latest_at": "2026-08-20T16:40:43.481757Z",
+      "earliest_at": "2026-08-20T16:49:04.870490Z",
+      "latest_at": "2026-08-20T16:49:04.870490Z",
       "primary_item": {
         "id": "76b9f01767f82759af76bb18dca18be1692ace57",
         "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
@@ -1318,7 +1401,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -1366,15 +1449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7866,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1399,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -1422,7 +1505,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T15:57:43.481757Z"
+          "published_at": "2026-08-20T16:49:04.870490Z"
         }
       ],
       "source_count": 1,
@@ -1442,20 +1525,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T15:57:43.481757Z"
+          "published_at": "2026-08-20T16:49:04.870490Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1463,8 +1546,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T15:57:43.481757Z",
-      "latest_at": "2026-08-20T15:57:43.481757Z",
+      "earliest_at": "2026-08-20T16:49:04.870490Z",
+      "latest_at": "2026-08-20T16:49:04.870490Z",
       "primary_item": {
         "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
         "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
@@ -1481,7 +1564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     },
     {
@@ -1504,7 +1587,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T15:54:43.481757Z"
+          "published_at": "2026-08-20T15:49:04.870490Z"
         }
       ],
       "source_count": 1,
@@ -1524,89 +1607,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T15:54:43.481757Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T15:54:43.481757Z",
-      "latest_at": "2026-08-20T15:54:43.481757Z",
-      "primary_item": {
-        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_en": null,
-        "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30503",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
-      }
-    },
-    {
-      "story_id": "story_170c6e847b14",
-      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-      "url": "https://www.aibase.com/news/30501",
-      "primary_url": "https://www.aibase.com/news/30501",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T14:54:43.481757Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T14:54:43.481757Z"
+          "published_at": "2026-08-20T15:49:04.870490Z"
         }
       ],
       "item_count": 1,
@@ -1627,17 +1628,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:54:43.481757Z",
-      "latest_at": "2026-08-20T14:54:43.481757Z",
+      "earliest_at": "2026-08-20T15:49:04.870490Z",
+      "latest_at": "2026-08-20T15:49:04.870490Z",
       "primary_item": {
-        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+        "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
         "title_en": null,
-        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30501",
+        "url": "https://www.aibase.com/news/30503",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1645,7 +1646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T16:55:21.088841Z"
+        "scored_at": "2026-08-20T17:49:38.905883Z"
       }
     }
   ]
