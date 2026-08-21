@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:54:35.076798Z",
+  "generated_at": "2026-08-21T10:51:41.122868Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.782,
+        "recency": 0.7713,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8603,
+        "recency": 0.8486,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7933,
+        "recency": 0.7825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
+      }
+    },
+    {
+      "story_id": "story_3e0230f4f8ca",
+      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "primary_url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_en": null,
+          "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+          "recommend_reason_zh": null,
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_en": null,
+          "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+          "recommend_reason_zh": null,
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9795,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:25:43.682000Z",
+      "latest_at": "2026-08-21T09:25:43.682000Z",
+      "primary_item": {
+        "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+        "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "title_en": null,
+        "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+        "recommend_reason_zh": null,
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -272,7 +354,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -292,7 +374,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -313,8 +395,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
         "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
@@ -331,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -379,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7725,
+        "recency": 0.762,
         "story_heat": 0.0
       },
       "category": "official",
@@ -413,7 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -461,21 +543,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9796,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-21T09:26:04.727000Z",
       "latest_at": "2026-08-21T09:26:04.727000Z",
@@ -495,7 +576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -543,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7637,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -578,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -601,7 +682,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -621,7 +702,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -642,8 +723,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "2de5185532d8a7ef7eac44ac381866d91f65b4e8",
         "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
@@ -660,7 +741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -708,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7553,
+        "recency": 0.745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -743,7 +824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -766,7 +847,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -786,7 +867,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -807,8 +888,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
         "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
@@ -825,7 +906,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -873,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7555,
+        "recency": 0.7452,
         "story_heat": 0.0
       },
       "category": "official",
@@ -908,7 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -931,7 +1012,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -951,7 +1032,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -972,8 +1053,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
         "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
@@ -990,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -1013,7 +1094,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -1033,7 +1114,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -1054,8 +1135,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
         "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
@@ -1072,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -1095,7 +1176,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -1115,7 +1196,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -1136,8 +1217,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
         "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
@@ -1154,7 +1235,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -1177,7 +1258,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -1197,7 +1278,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -1218,8 +1299,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "7deeee4b400fba0bdf63e385c0a743bdb11e7248",
         "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
@@ -1236,7 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -1259,7 +1340,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -1279,7 +1360,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -1300,8 +1381,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
         "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
@@ -1318,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -1395,15 +1476,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9592,
+        "recency": 0.9461,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,7 +1509,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -1505,15 +1586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9194,
+        "recency": 0.9068,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1538,7 +1619,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     },
     {
@@ -1561,7 +1642,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "source_count": 1,
@@ -1581,7 +1662,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:54:35.076798Z"
+          "published_at": "2026-08-21T10:51:41.122868Z"
         }
       ],
       "item_count": 1,
@@ -1602,8 +1683,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:54:35.076798Z",
-      "latest_at": "2026-08-21T09:54:35.076798Z",
+      "earliest_at": "2026-08-21T10:51:41.122868Z",
+      "latest_at": "2026-08-21T10:51:41.122868Z",
       "primary_item": {
         "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
         "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
@@ -1620,117 +1701,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
-      }
-    },
-    {
-      "story_id": "story_972bc21085bb",
-      "title": "在欧盟，版权不保护由人工智能生成的内容",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "primary_url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "source": "mathstodon.xyz",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "728b3f954e7f57268632933cd7f557411da7d197",
-          "title": "在欧盟，版权不保护由人工智能生成的内容",
-          "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
-          "title_en": null,
-          "title_original": "在欧盟，版权不保护由人工智能生成的内容",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "mathstodon.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T02:13:46.266000Z"
-        },
-        {
-          "id": "d35d1106bee95741ab4e1b435a8cd6cc8a5dea50",
-          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
-          "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
-          "title_en": "Copyright does not protect AI-generated content in EU",
-          "title_original": "Copyright does not protect AI-generated content in EU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T00:15:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "mathstodon.xyz"
-      ],
-      "items": [
-        {
-          "id": "728b3f954e7f57268632933cd7f557411da7d197",
-          "title": "在欧盟，版权不保护由人工智能生成的内容",
-          "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
-          "title_en": null,
-          "title_original": "在欧盟，版权不保护由人工智能生成的内容",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "mathstodon.xyz",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T02:13:46.266000Z"
-        },
-        {
-          "id": "d35d1106bee95741ab4e1b435a8cd6cc8a5dea50",
-          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
-          "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
-          "title_en": "Copyright does not protect AI-generated content in EU",
-          "title_original": "Copyright does not protect AI-generated content in EU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T00:15:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.895,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T00:15:12Z",
-      "latest_at": "2026-08-21T02:13:46.266000Z",
-      "primary_item": {
-        "id": "728b3f954e7f57268632933cd7f557411da7d197",
-        "title": "在欧盟，版权不保护由人工智能生成的内容",
-        "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
-        "title_en": null,
-        "title_original": "在欧盟，版权不保护由人工智能生成的内容",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-        "source": "mathstodon.xyz",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:55:13.741096Z"
+        "scored_at": "2026-08-21T10:52:27.155190Z"
       }
     }
   ]
