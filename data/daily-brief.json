@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:55:15.639550Z",
+  "generated_at": "2026-08-21T17:49:14.824039Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9885,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9314,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7832,
+        "recency": 0.7731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9876,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,30 +332,113 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
-      "story_id": "story_79fff4b92bec",
-      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-      "url": "https://www.aibase.com/news/30534",
-      "primary_url": "https://www.aibase.com/news/30534",
+      "story_id": "story_6b026b4e90dc",
+      "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+          "title_zh": "用于管理被阻止用户的更好工具",
+          "title_en": "Better tools for managing blocked users",
+          "title_original": "Better tools for managing blocked users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T14:43:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+          "title_zh": "用于管理被阻止用户的更好工具",
+          "title_en": "Better tools for managing blocked users",
+          "title_original": "Better tools for managing blocked users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T14:43:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9563,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T14:43:36Z",
+      "latest_at": "2026-08-21T14:43:36Z",
+      "primary_item": {
+        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+        "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+        "title_zh": "用于管理被阻止用户的更好工具",
+        "title_en": "Better tools for managing blocked users",
+        "title_original": "Better tools for managing blocked users",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T17:51:17.947747Z"
+      }
+    },
+    {
+      "story_id": "story_3e69e9d70dac",
+      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+      "url": "https://www.aibase.com/news/30537",
+      "primary_url": "https://www.aibase.com/news/30537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
-          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30534",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
+          "published_at": "2026-08-21T17:49:14.824039Z"
         }
       ],
       "source_count": 1,
@@ -364,18 +447,18 @@
       ],
       "items": [
         {
-          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
-          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30534",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
+          "published_at": "2026-08-21T17:49:14.824039Z"
         }
       ],
       "item_count": 1,
@@ -396,17 +479,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T16:55:15.639550Z",
-      "latest_at": "2026-08-21T16:55:15.639550Z",
+      "earliest_at": "2026-08-21T17:49:14.824039Z",
+      "latest_at": "2026-08-21T17:49:14.824039Z",
       "primary_item": {
-        "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-        "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-        "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
         "title_en": null,
-        "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30534",
+        "url": "https://www.aibase.com/news/30537",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -414,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -462,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9653,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -573,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.8859,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -608,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -656,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.8859,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -738,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,7 +854,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
+      }
+    },
+    {
+      "story_id": "story_d955f6a06190",
+      "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+      "url": "https://www.aibase.com/news/30536",
+      "primary_url": "https://www.aibase.com/news/30536",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_en": null,
+          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30536",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T17:49:14.824039Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_en": null,
+          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30536",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T17:49:14.824039Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T17:49:14.824039Z",
+      "latest_at": "2026-08-21T17:49:14.824039Z",
+      "primary_item": {
+        "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+        "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "title_en": null,
+        "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30536",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -819,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7775,
+        "recency": 0.7675,
         "story_heat": 0.0
       },
       "category": "official",
@@ -854,30 +1019,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
-      "story_id": "story_3e69e9d70dac",
-      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-      "url": "https://www.aibase.com/news/30537",
-      "primary_url": "https://www.aibase.com/news/30537",
+      "story_id": "story_530af6e18d4c",
+      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+      "url": "https://www.aibase.com/news/30535",
+      "primary_url": "https://www.aibase.com/news/30535",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
-          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
           "title_en": null,
-          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30537",
+          "url": "https://www.aibase.com/news/30535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
+          "published_at": "2026-08-21T17:32:14.824039Z"
         }
       ],
       "source_count": 1,
@@ -886,31 +1051,31 @@
       ],
       "items": [
         {
-          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
-          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
           "title_en": null,
-          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30537",
+          "url": "https://www.aibase.com/news/30535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
+          "published_at": "2026-08-21T17:32:14.824039Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9959,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,17 +1083,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T16:55:15.639550Z",
-      "latest_at": "2026-08-21T16:55:15.639550Z",
+      "earliest_at": "2026-08-21T17:32:14.824039Z",
+      "latest_at": "2026-08-21T17:32:14.824039Z",
       "primary_item": {
-        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
-        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-        "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
         "title_en": null,
-        "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30537",
+        "url": "https://www.aibase.com/news/30535",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -936,30 +1101,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
-      "story_id": "story_d955f6a06190",
-      "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-      "url": "https://www.aibase.com/news/30536",
-      "primary_url": "https://www.aibase.com/news/30536",
+      "story_id": "story_79fff4b92bec",
+      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+      "url": "https://www.aibase.com/news/30534",
+      "primary_url": "https://www.aibase.com/news/30534",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "title_en": null,
-          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30536",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
+          "published_at": "2026-08-21T17:26:14.824039Z"
         }
       ],
       "source_count": 1,
@@ -968,31 +1133,31 @@
       ],
       "items": [
         {
-          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "title_en": null,
-          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30536",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
+          "published_at": "2026-08-21T17:26:14.824039Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,17 +1165,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T16:55:15.639550Z",
-      "latest_at": "2026-08-21T16:55:15.639550Z",
+      "earliest_at": "2026-08-21T17:26:14.824039Z",
+      "latest_at": "2026-08-21T17:26:14.824039Z",
       "primary_item": {
-        "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-        "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-        "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+        "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
         "title_en": null,
-        "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30536",
+        "url": "https://www.aibase.com/news/30534",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1018,7 +1183,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -1066,15 +1231,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7169,
+        "recency": 0.7077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1101,89 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
-      }
-    },
-    {
-      "story_id": "story_530af6e18d4c",
-      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-      "url": "https://www.aibase.com/news/30535",
-      "primary_url": "https://www.aibase.com/news/30535",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_en": null,
-          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30535",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_en": null,
-          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30535",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T16:55:15.639550Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T16:55:15.639550Z",
-      "latest_at": "2026-08-21T16:55:15.639550Z",
-      "primary_item": {
-        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-        "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-        "title_en": null,
-        "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30535",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -1206,7 +1289,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:27:15.639550Z"
+          "published_at": "2026-08-21T16:49:14.824039Z"
         }
       ],
       "source_count": 1,
@@ -1226,20 +1309,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T16:27:15.639550Z"
+          "published_at": "2026-08-21T16:49:14.824039Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9933,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1247,8 +1330,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T16:27:15.639550Z",
-      "latest_at": "2026-08-21T16:27:15.639550Z",
+      "earliest_at": "2026-08-21T16:49:14.824039Z",
+      "latest_at": "2026-08-21T16:49:14.824039Z",
       "primary_item": {
         "id": "8b4934413b6222572539508e765a783f252dafa6",
         "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
@@ -1265,7 +1348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -1288,7 +1371,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T15:55:15.639550Z"
+          "published_at": "2026-08-21T15:49:14.824039Z"
         }
       ],
       "source_count": 1,
@@ -1308,171 +1391,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T15:55:15.639550Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T15:55:15.639550Z",
-      "latest_at": "2026-08-21T15:55:15.639550Z",
-      "primary_item": {
-        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "title_en": null,
-        "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30531",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
-      }
-    },
-    {
-      "story_id": "story_73c198965c13",
-      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-      "url": "https://www.aibase.com/news/30530",
-      "primary_url": "https://www.aibase.com/news/30530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T15:55:15.639550Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T15:55:15.639550Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T15:55:15.639550Z",
-      "latest_at": "2026-08-21T15:55:15.639550Z",
-      "primary_item": {
-        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_en": null,
-        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30530",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
-      }
-    },
-    {
-      "story_id": "story_15ad92659081",
-      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-      "url": "https://www.aibase.com/news/30528",
-      "primary_url": "https://www.aibase.com/news/30528",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_en": null,
-          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T14:55:15.639550Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_en": null,
-          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T14:55:15.639550Z"
+          "published_at": "2026-08-21T15:49:14.824039Z"
         }
       ],
       "item_count": 1,
@@ -1493,17 +1412,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T14:55:15.639550Z",
-      "latest_at": "2026-08-21T14:55:15.639550Z",
+      "earliest_at": "2026-08-21T15:49:14.824039Z",
+      "latest_at": "2026-08-21T15:49:14.824039Z",
       "primary_item": {
-        "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-        "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-        "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+        "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
         "title_en": null,
-        "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30528",
+        "url": "https://www.aibase.com/news/30531",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1511,117 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
-      }
-    },
-    {
-      "story_id": "story_634f11907d5e",
-      "title": "我正在变得对人工智能视而不见",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "source": "cymerys.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-          "title": "我正在变得对人工智能视而不见",
-          "title_zh": "我正在变得对人工智能视而不见",
-          "title_en": null,
-          "title_original": "我正在变得对人工智能视而不见",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "cymerys.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T16:37:38.437000Z"
-        },
-        {
-          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
-          "title": "我正在变得对人工智能视而不见 / I'm Becoming AI-Blind",
-          "title_zh": "我正在变得对人工智能视而不见",
-          "title_en": "I'm Becoming AI-Blind",
-          "title_original": "I'm Becoming AI-Blind",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T11:48:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "cymerys.com"
-      ],
-      "items": [
-        {
-          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-          "title": "我正在变得对人工智能视而不见",
-          "title_zh": "我正在变得对人工智能视而不见",
-          "title_en": null,
-          "title_original": "我正在变得对人工智能视而不见",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "cymerys.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T16:37:38.437000Z"
-        },
-        {
-          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
-          "title": "我正在变得对人工智能视而不见 / I'm Becoming AI-Blind",
-          "title_zh": "我正在变得对人工智能视而不见",
-          "title_en": "I'm Becoming AI-Blind",
-          "title_original": "I'm Becoming AI-Blind",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T11:48:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9958,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T11:48:05Z",
-      "latest_at": "2026-08-21T16:37:38.437000Z",
-      "primary_item": {
-        "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-        "title": "我正在变得对人工智能视而不见",
-        "title_zh": "我正在变得对人工智能视而不见",
-        "title_en": null,
-        "title_original": "我正在变得对人工智能视而不见",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://cymerys.com/w/im-becoming-ai-blind",
-        "source": "cymerys.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     },
     {
@@ -1644,12 +1453,26 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-21T16:31:50.459000Z"
+          "published_at": "2026-08-21T17:31:53.537000Z"
+        },
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": null,
+          "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
         },
         {
           "id": "b3cf7db966841b278a436f05c884dd38384c456c",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
           "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
           "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
           "summary": null,
@@ -1659,11 +1482,27 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-08-21T15:25:42Z"
+        },
+        {
+          "id": "be6bf819f97ccf431329ec528f7fc52dd8e96092",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI boosted homework scores, then exam scores dropped: Study",
+          "title_original": "AI boosted homework scores, then exam scores dropped: Study",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:25:42Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
+        "Hacker News (黑客新闻)",
+        "canews24.online",
         "hackernews"
       ],
       "items": [
@@ -1679,12 +1518,26 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-21T16:31:50.459000Z"
+          "published_at": "2026-08-21T17:31:53.537000Z"
+        },
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": null,
+          "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
         },
         {
           "id": "b3cf7db966841b278a436f05c884dd38384c456c",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
           "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
           "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
           "summary": null,
@@ -1694,27 +1547,41 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-08-21T15:25:42Z"
+        },
+        {
+          "id": "be6bf819f97ccf431329ec528f7fc52dd8e96092",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI boosted homework scores, then exam scores dropped: Study",
+          "title_original": "AI boosted homework scores, then exam scores dropped: Study",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:25:42Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.595,
+      "importance": 0.595,
+      "importance_score": 0.595,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9944,
-        "story_heat": 0.25
+        "recency": 0.9958,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-21T15:25:42Z",
-      "latest_at": "2026-08-21T16:31:50.459000Z",
+      "latest_at": "2026-08-21T17:31:53.537000Z",
       "primary_item": {
         "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
         "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
@@ -1731,7 +1598,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:55:54.372962Z"
+        "scored_at": "2026-08-21T17:51:17.947747Z"
+      }
+    },
+    {
+      "story_id": "story_73c198965c13",
+      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+      "url": "https://www.aibase.com/news/30530",
+      "primary_url": "https://www.aibase.com/news/30530",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_en": null,
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30530",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T15:49:14.824039Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_en": null,
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30530",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T15:49:14.824039Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T15:49:14.824039Z",
+      "latest_at": "2026-08-21T15:49:14.824039Z",
+      "primary_item": {
+        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "title_en": null,
+        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30530",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T17:51:17.947747Z"
+      }
+    },
+    {
+      "story_id": "story_15ad92659081",
+      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+      "url": "https://www.aibase.com/news/30528",
+      "primary_url": "https://www.aibase.com/news/30528",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
+          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_en": null,
+          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T14:49:14.824039Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
+          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_en": null,
+          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T14:49:14.824039Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T14:49:14.824039Z",
+      "latest_at": "2026-08-21T14:49:14.824039Z",
+      "primary_item": {
+        "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
+        "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "title_en": null,
+        "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30528",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T17:51:17.947747Z"
       }
     }
   ]
