@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T10:44:30.952493Z",
+  "generated_at": "2026-08-23T11:39:34.277381Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_63917d286fbf",
@@ -64,8 +64,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-23T10:44:30.952493Z",
-      "latest_at": "2026-08-23T10:44:30.952493Z",
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
       "primary_item": {
         "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
         "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -130,21 +130,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-23T04:03:52Z",
       "latest_at": "2026-08-23T04:03:52Z",
@@ -164,7 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -212,15 +211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8674,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,7 +244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -309,8 +308,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-23T10:44:30.952493Z",
-      "latest_at": "2026-08-23T10:44:30.952493Z",
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
       "primary_item": {
         "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
         "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
@@ -327,7 +326,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
+      }
+    },
+    {
+      "story_id": "story_f02c0a256fdb",
+      "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+      "url": "https://www.aibase.com/news/30522",
+      "primary_url": "https://www.aibase.com/news/30522",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
+          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "title_zh": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "title_en": null,
+          "title_original": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30522",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
+          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "title_zh": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "title_en": null,
+          "title_original": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30522",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
+      "primary_item": {
+        "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
+        "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+        "title_zh": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+        "title_en": null,
+        "title_original": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30522",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-23T11:55:46.552469Z"
+      }
+    },
+    {
+      "story_id": "story_580a72f5784e",
+      "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+      "url": "https://www.aibase.com/news/30524",
+      "primary_url": "https://www.aibase.com/news/30524",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2de5185532d8a7ef7eac44ac381866d91f65b4e8",
+          "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_zh": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_en": null,
+          "title_original": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30524",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2de5185532d8a7ef7eac44ac381866d91f65b4e8",
+          "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_zh": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_en": null,
+          "title_original": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30524",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
+      "primary_item": {
+        "id": "2de5185532d8a7ef7eac44ac381866d91f65b4e8",
+        "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+        "title_zh": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+        "title_en": null,
+        "title_original": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30524",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -391,8 +554,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-23T10:44:30.952493Z",
-      "latest_at": "2026-08-23T10:44:30.952493Z",
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
       "primary_item": {
         "id": "d4eece4da88cfb089317c56589fb4a4170ff24bb",
         "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
@@ -409,7 +572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -473,8 +636,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-23T10:44:30.952493Z",
-      "latest_at": "2026-08-23T10:44:30.952493Z",
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
       "primary_item": {
         "id": "bba6b790fdbbc379e94b20948b367ca938c390b6",
         "title": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
@@ -491,7 +654,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
+      }
+    },
+    {
+      "story_id": "story_f31ad306af6f",
+      "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+      "url": "https://www.aibase.com/news/30523",
+      "primary_url": "https://www.aibase.com/news/30523",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "title_zh": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "title_en": null,
+          "title_original": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30523",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "title_zh": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "title_en": null,
+          "title_original": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30523",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
+      "primary_item": {
+        "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+        "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+        "title_zh": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+        "title_en": null,
+        "title_original": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30523",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -555,8 +800,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-23T10:44:30.952493Z",
-      "latest_at": "2026-08-23T10:44:30.952493Z",
+      "earliest_at": "2026-08-23T11:39:34.277381Z",
+      "latest_at": "2026-08-23T11:39:34.277381Z",
       "primary_item": {
         "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
         "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
@@ -573,7 +818,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -650,15 +895,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9926,
+        "recency": 0.9795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -683,7 +928,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -760,15 +1005,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8379,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -793,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -870,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8219,
+        "recency": 0.811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -903,7 +1148,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     },
     {
@@ -980,15 +1225,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7757,
+        "recency": 0.7655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1013,7 +1258,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T10:59:37.429874Z"
+        "scored_at": "2026-08-23T11:55:46.552469Z"
       }
     }
   ]
