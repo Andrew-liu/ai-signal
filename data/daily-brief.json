@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:06:04.059669Z",
+  "generated_at": "2026-08-23T07:49:49.321589Z",
   "window_hours": 24,
   "total_items": 6,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9571,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T07:23:06.252133Z"
+        "scored_at": "2026-08-23T08:07:41.224479Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T07:23:06.252133Z"
+        "scored_at": "2026-08-23T08:07:41.224479Z"
       }
     },
     {
@@ -212,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7756,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,7 +245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T07:23:06.252133Z"
+        "scored_at": "2026-08-23T08:07:41.224479Z"
       }
     },
     {
@@ -271,7 +271,7 @@
           "published_at": "2026-08-22T22:29:26.810000Z"
         },
         {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
           "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
           "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
           "title_en": "Why your local LLM feels dumber than it is",
@@ -279,15 +279,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-22T18:14:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "forum.level1techs.com"
       ],
       "items": [
@@ -306,7 +306,7 @@
           "published_at": "2026-08-22T22:29:26.810000Z"
         },
         {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
           "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
           "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
           "title_en": "Why your local LLM feels dumber than it is",
@@ -314,23 +314,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-22T18:14:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8831,
+        "recency": 0.8738,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -355,7 +355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T07:23:06.252133Z"
+        "scored_at": "2026-08-23T08:07:41.224479Z"
       }
     },
     {
@@ -432,15 +432,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8662,
+        "recency": 0.8571,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -465,7 +465,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T07:23:06.252133Z"
+        "scored_at": "2026-08-23T08:07:41.224479Z"
       }
     },
     {
@@ -542,15 +542,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8176,
+        "recency": 0.809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -575,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T07:23:06.252133Z"
+        "scored_at": "2026-08-23T08:07:41.224479Z"
       }
     }
   ]
