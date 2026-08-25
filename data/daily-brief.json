@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:15:04.886156Z",
+  "generated_at": "2026-08-25T14:09:32.339849Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9772,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,177 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
+      }
+    },
+    {
+      "story_id": "story_451d09e98bb5",
+      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": null,
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:09:57.577000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.apple.com"
+      ],
+      "items": [
+        {
+          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": null,
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:09:57.577000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9934,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T13:01:22Z",
+      "latest_at": "2026-08-25T14:09:57.577000Z",
+      "primary_item": {
+        "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+        "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "title_en": null,
+        "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+        "recommend_reason_zh": null,
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -131,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8258,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -214,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8258,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -272,7 +442,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -292,7 +462,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -313,8 +483,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
         "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
         "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
@@ -331,7 +501,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
+      }
+    },
+    {
+      "story_id": "story_e78ba6d6ecd7",
+      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "source": "Apple：Newsroom（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "900130058d1341061578b56b4d1701a3676a34d7",
+          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:00:23.969000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Apple：Newsroom（RSS）"
+      ],
+      "items": [
+        {
+          "id": "900130058d1341061578b56b4d1701a3676a34d7",
+          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:00:23.969000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-25T13:00:23.969000Z",
+      "latest_at": "2026-08-25T13:00:23.969000Z",
+      "primary_item": {
+        "id": "900130058d1341061578b56b4d1701a3676a34d7",
+        "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+        "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+        "recommend_reason_zh": null,
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+        "source": "Apple：Newsroom（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -354,7 +605,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -374,7 +625,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -395,8 +646,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
         "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
         "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
@@ -413,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -490,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.7157,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -547,7 +798,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -567,7 +818,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -588,8 +839,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
         "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
         "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
@@ -606,7 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -629,7 +880,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -649,7 +900,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -670,8 +921,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
         "id": "31953c88ca0e894418212e00d317e45880d995a7",
         "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
@@ -688,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -711,7 +962,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -731,7 +982,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -752,8 +1003,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
         "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
         "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
@@ -770,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -793,7 +1044,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -813,7 +1064,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -834,8 +1085,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
         "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
         "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
@@ -852,89 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
-      }
-    },
-    {
-      "story_id": "story_7c313959a64a",
-      "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-      "url": "https://www.aibase.com/news/30599",
-      "primary_url": "https://www.aibase.com/news/30599",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
-      "primary_item": {
-        "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-        "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_en": null,
-        "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30599",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -957,7 +1126,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -977,7 +1146,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -998,8 +1167,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
         "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
         "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
@@ -1016,7 +1185,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
+      }
+    },
+    {
+      "story_id": "story_c4b1ff481103",
+      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+      "url": "https://www.aibase.com/news/30605",
+      "primary_url": "https://www.aibase.com/news/30605",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_en": null,
+          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30605",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T14:09:32.339849Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_en": null,
+          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30605",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T14:09:32.339849Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
+      "primary_item": {
+        "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+        "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "title_en": null,
+        "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30605",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -1039,10 +1290,10 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T13:01:56.470000Z"
+          "published_at": "2026-08-25T14:09:57.577000Z"
         },
         {
-          "id": "e044be3b447d0663b93fa66ab0b3b323250c94ce",
+          "id": "d98ea95ebfcfa6ff36f866e219f2c09027cabd49",
           "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
           "title_zh": null,
           "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
@@ -1050,15 +1301,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-25T12:33:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1074,10 +1325,10 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T13:01:56.470000Z"
+          "published_at": "2026-08-25T14:09:57.577000Z"
         },
         {
-          "id": "e044be3b447d0663b93fa66ab0b3b323250c94ce",
+          "id": "d98ea95ebfcfa6ff36f866e219f2c09027cabd49",
           "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
           "title_zh": null,
           "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
@@ -1085,23 +1336,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-25T12:33:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1109,7 +1360,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-25T12:33:00Z",
-      "latest_at": "2026-08-25T13:01:56.470000Z",
+      "latest_at": "2026-08-25T14:09:57.577000Z",
       "primary_item": {
         "id": "24620e97f3bd839f953aa50068fe7a0533dbf434",
         "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
@@ -1126,7 +1377,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -1203,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9573,
+        "recency": 0.9448,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,30 +1487,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
-      "story_id": "story_c4b1ff481103",
-      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-      "url": "https://www.aibase.com/news/30605",
-      "primary_url": "https://www.aibase.com/news/30605",
+      "story_id": "story_82cd7b823da3",
+      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+      "url": "https://www.aibase.com/news/30609",
+      "primary_url": "https://www.aibase.com/news/30609",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
+          "url": "https://www.aibase.com/news/30609",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -1268,18 +1519,18 @@
       ],
       "items": [
         {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
+          "url": "https://www.aibase.com/news/30609",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "published_at": "2026-08-25T14:09:32.339849Z"
         }
       ],
       "item_count": 1,
@@ -1300,17 +1551,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:09:32.339849Z",
+      "latest_at": "2026-08-25T14:09:32.339849Z",
       "primary_item": {
-        "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-        "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
         "title_en": null,
-        "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30605",
+        "url": "https://www.aibase.com/news/30609",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1318,7 +1569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
@@ -1395,15 +1646,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.863,
+        "recency": 0.8518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,112 +1679,140 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
-      "story_id": "story_82cd7b823da3",
-      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-      "url": "https://www.aibase.com/news/30609",
-      "primary_url": "https://www.aibase.com/news/30609",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_77e205d8388b",
+      "title": "The state of AI in 2026: On the road to ROI",
+      "url": "https://news.ycombinator.com/item?id=49433759",
+      "primary_url": "https://news.ycombinator.com/item?id=49433759",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "url": "https://news.ycombinator.com/item?id=49433759",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:09:57.577000Z"
+        },
+        {
+          "id": "34002ddc76b1ecc8265a5e979ce34705d680104e",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:32:52Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T13:15:04.886156Z"
+          "url": "https://news.ycombinator.com/item?id=49433759",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:09:57.577000Z"
+        },
+        {
+          "id": "34002ddc76b1ecc8265a5e979ce34705d680104e",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:32:52Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-25T13:15:04.886156Z",
-      "latest_at": "2026-08-25T13:15:04.886156Z",
+      "earliest_at": "2026-08-25T13:32:52Z",
+      "latest_at": "2026-08-25T14:09:57.577000Z",
       "primary_item": {
-        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-        "title_en": null,
-        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
+        "title": "The state of AI in 2026: On the road to ROI",
+        "title_zh": null,
+        "title_en": "The state of AI in 2026: On the road to ROI",
+        "title_original": "The state of AI in 2026: On the road to ROI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30609",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://news.ycombinator.com/item?id=49433759",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     },
     {
-      "story_id": "story_a6532975a7e9",
-      "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-      "url": "https://www.aibase.com/news/30598",
-      "primary_url": "https://www.aibase.com/news/30598",
+      "story_id": "story_7c313959a64a",
+      "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+      "url": "https://www.aibase.com/news/30599",
+      "primary_url": "https://www.aibase.com/news/30599",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "title_en": null,
-          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30598",
+          "url": "https://www.aibase.com/news/30599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T12:15:04.886156Z"
+          "published_at": "2026-08-25T14:06:32.339849Z"
         }
       ],
       "source_count": 1,
@@ -1542,31 +1821,31 @@
       ],
       "items": [
         {
-          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "title_en": null,
-          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30598",
+          "url": "https://www.aibase.com/news/30599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T12:15:04.886156Z"
+          "published_at": "2026-08-25T14:06:32.339849Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9993,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1574,17 +1853,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T12:15:04.886156Z",
-      "latest_at": "2026-08-25T12:15:04.886156Z",
+      "earliest_at": "2026-08-25T14:06:32.339849Z",
+      "latest_at": "2026-08-25T14:06:32.339849Z",
       "primary_item": {
-        "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-        "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-        "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+        "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+        "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+        "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
         "title_en": null,
-        "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+        "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30598",
+        "url": "https://www.aibase.com/news/30599",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1592,171 +1871,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
-      }
-    },
-    {
-      "story_id": "story_4954fa834dbf",
-      "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-      "url": "https://www.aibase.com/news/30597",
-      "primary_url": "https://www.aibase.com/news/30597",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "50a4ff8105790e75b549e493d81e6d4f0042a365",
-          "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_zh": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_en": null,
-          "title_original": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30597",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T12:15:04.886156Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "50a4ff8105790e75b549e493d81e6d4f0042a365",
-          "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_zh": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_en": null,
-          "title_original": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30597",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T12:15:04.886156Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T12:15:04.886156Z",
-      "latest_at": "2026-08-25T12:15:04.886156Z",
-      "primary_item": {
-        "id": "50a4ff8105790e75b549e493d81e6d4f0042a365",
-        "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-        "title_zh": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-        "title_en": null,
-        "title_original": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30597",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
-      }
-    },
-    {
-      "story_id": "story_ccaf8ce752f5",
-      "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-      "url": "https://www.aibase.com/news/30594",
-      "primary_url": "https://www.aibase.com/news/30594",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "58e1e61198301ce8e0159d00322c8b5b47900fda",
-          "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "title_zh": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "title_en": null,
-          "title_original": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30594",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T11:15:04.886156Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "58e1e61198301ce8e0159d00322c8b5b47900fda",
-          "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "title_zh": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "title_en": null,
-          "title_original": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30594",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T11:15:04.886156Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T11:15:04.886156Z",
-      "latest_at": "2026-08-25T11:15:04.886156Z",
-      "primary_item": {
-        "id": "58e1e61198301ce8e0159d00322c8b5b47900fda",
-        "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-        "title_zh": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-        "title_en": null,
-        "title_original": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30594",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:40:11.539065Z"
+        "scored_at": "2026-08-25T14:34:03.205206Z"
       }
     }
   ]
