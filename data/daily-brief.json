@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:02:16.504813Z",
+  "generated_at": "2026-08-25T19:48:52.244332Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
+      "score": 0.8565,
+      "importance": 0.8565,
+      "importance_score": 0.8565,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9466,
+        "recency": 0.936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8404,
+        "recency": 0.8311,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,30 +196,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
-      "story_id": "story_2ae3bbe5c601",
-      "title": "Push rules in rulesets now support path exceptions",
-      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "story_id": "story_0536ff6c73c5",
+      "title": "Block users directly from security advisories",
+      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "Push rules in rulesets now support path exceptions",
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "Block users directly from security advisories",
           "title_zh": null,
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
+          "published_at": "2026-08-25T18:38:57Z"
         }
       ],
       "source_count": 1,
@@ -228,31 +228,31 @@
       ],
       "items": [
         {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "Push rules in rulesets now support path exceptions",
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "Block users directly from security advisories",
           "title_zh": null,
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
+          "published_at": "2026-08-25T18:38:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9805,
+        "recency": 0.9833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,17 +261,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T17:40:15Z",
-      "latest_at": "2026-08-25T17:40:15Z",
+      "earliest_at": "2026-08-25T18:38:57Z",
+      "latest_at": "2026-08-25T18:38:57Z",
       "primary_item": {
-        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-        "title": "Push rules in rulesets now support path exceptions",
+        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+        "title": "Block users directly from security advisories",
         "title_zh": null,
-        "title_en": "Push rules in rulesets now support path exceptions",
-        "title_original": "Push rules in rulesets now support path exceptions",
+        "title_en": "Block users directly from security advisories",
+        "title_original": "Block users directly from security advisories",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9571,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
+      }
+    },
+    {
+      "story_id": "story_9ae1e7fe3cbc",
+      "title": "Browser extensions, site tools, and cloud sign-in",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "51ed931c2017f8886cbfbea38e595e938427d78b",
+          "title": "Browser extensions, site tools, and cloud sign-in",
+          "title_zh": null,
+          "title_en": "Browser extensions, site tools, and cloud sign-in",
+          "title_original": "Browser extensions, site tools, and cloud sign-in",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "51ed931c2017f8886cbfbea38e595e938427d78b",
+          "title": "Browser extensions, site tools, and cloud sign-in",
+          "title_zh": null,
+          "title_en": "Browser extensions, site tools, and cloud sign-in",
+          "title_original": "Browser extensions, site tools, and cloud sign-in",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7512,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
+      "primary_item": {
+        "id": "51ed931c2017f8886cbfbea38e595e938427d78b",
+        "title": "Browser extensions, site tools, and cloud sign-in",
+        "title_zh": null,
+        "title_en": "Browser extensions, site tools, and cloud sign-in",
+        "title_original": "Browser extensions, site tools, and cloud sign-in",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -410,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8989,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +528,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
+      }
+    },
+    {
+      "story_id": "story_2ae3bbe5c601",
+      "title": "Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "Push rules in rulesets now support path exceptions",
+          "title_zh": null,
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "Push rules in rulesets now support path exceptions",
+          "title_zh": null,
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9695,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T17:40:15Z",
+      "latest_at": "2026-08-25T17:40:15Z",
+      "primary_item": {
+        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+        "title": "Push rules in rulesets now support path exceptions",
+        "title_zh": null,
+        "title_en": "Push rules in rulesets now support path exceptions",
+        "title_original": "Push rules in rulesets now support path exceptions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -493,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7596,
+        "recency": 0.7512,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,7 +694,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
+      }
+    },
+    {
+      "story_id": "story_55a2613433ab",
+      "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ab6c6215adcbb368a6762b0ceeb9f3cc14e167d5",
+          "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+          "title_zh": null,
+          "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+          "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "ab6c6215adcbb368a6762b0ceeb9f3cc14e167d5",
+          "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+          "title_zh": null,
+          "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+          "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7512,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
+      "primary_item": {
+        "id": "ab6c6215adcbb368a6762b0ceeb9f3cc14e167d5",
+        "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+        "title_zh": null,
+        "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+        "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T20:15:06.373690Z"
+      }
+    },
+    {
+      "story_id": "story_01e284861740",
+      "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+      "url": "https://www.aibase.com/news/30608",
+      "primary_url": "https://www.aibase.com/news/30608",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_en": null,
+          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30608",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T17:48:52.244332Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_en": null,
+          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30608",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T17:48:52.244332Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T17:48:52.244332Z",
+      "latest_at": "2026-08-25T17:48:52.244332Z",
+      "primary_item": {
+        "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+        "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "title_en": null,
+        "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30608",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -576,15 +907,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8414,
+        "recency": 0.8321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,89 +942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
-      }
-    },
-    {
-      "story_id": "story_60dddcf38635",
-      "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-      "url": "https://www.aibase.com/news/30607",
-      "primary_url": "https://www.aibase.com/news/30607",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "31953c88ca0e894418212e00d317e45880d995a7",
-          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_en": null,
-          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30607",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T17:02:16.504813Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "31953c88ca0e894418212e00d317e45880d995a7",
-          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_en": null,
-          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30607",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T17:02:16.504813Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T17:02:16.504813Z",
-      "latest_at": "2026-08-25T17:02:16.504813Z",
-      "primary_item": {
-        "id": "31953c88ca0e894418212e00d317e45880d995a7",
-        "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-        "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-        "title_en": null,
-        "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30607",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -741,15 +990,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9519,
+        "recency": 0.9412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,7 +1024,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -823,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7596,
+        "recency": 0.7512,
         "story_heat": 0.0
       },
       "category": "official",
@@ -858,7 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -906,21 +1155,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9889,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T18:16:02Z",
       "latest_at": "2026-08-25T18:16:02Z",
@@ -940,7 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -988,21 +1236,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T18:02:04.743000Z",
       "latest_at": "2026-08-25T18:02:04.743000Z",
@@ -1022,7 +1269,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -1070,15 +1317,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.9403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,30 +1350,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
-      "story_id": "story_01e284861740",
-      "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
-      "url": "https://www.aibase.com/news/30608",
-      "primary_url": "https://www.aibase.com/news/30608",
+      "story_id": "story_82cd7b823da3",
+      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+      "url": "https://www.aibase.com/news/30609",
+      "primary_url": "https://www.aibase.com/news/30609",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
-          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
-          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "title_en": null,
-          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30608",
+          "url": "https://www.aibase.com/news/30609",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T17:02:16.504813Z"
+          "published_at": "2026-08-25T17:48:52.244332Z"
         }
       ],
       "source_count": 1,
@@ -1135,18 +1382,18 @@
       ],
       "items": [
         {
-          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
-          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
-          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "title_en": null,
-          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30608",
+          "url": "https://www.aibase.com/news/30609",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T17:02:16.504813Z"
+          "published_at": "2026-08-25T17:48:52.244332Z"
         }
       ],
       "item_count": 1,
@@ -1167,17 +1414,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T17:02:16.504813Z",
-      "latest_at": "2026-08-25T17:02:16.504813Z",
+      "earliest_at": "2026-08-25T17:48:52.244332Z",
+      "latest_at": "2026-08-25T17:48:52.244332Z",
       "primary_item": {
-        "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
-        "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
-        "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
         "title_en": null,
-        "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30608",
+        "url": "https://www.aibase.com/news/30609",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1185,7 +1432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -1233,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9166,
+        "recency": 0.9064,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,7 +1513,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -1314,15 +1561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7596,
+        "recency": 0.7512,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1349,89 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
-      }
-    },
-    {
-      "story_id": "story_82cd7b823da3",
-      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-      "url": "https://www.aibase.com/news/30609",
-      "primary_url": "https://www.aibase.com/news/30609",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T17:02:16.504813Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T17:02:16.504813Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T17:02:16.504813Z",
-      "latest_at": "2026-08-25T17:02:16.504813Z",
-      "primary_item": {
-        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-        "title_en": null,
-        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30609",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     },
     {
@@ -1454,7 +1619,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:02:16.504813Z"
+          "published_at": "2026-08-25T16:48:52.244332Z"
         }
       ],
       "source_count": 1,
@@ -1474,7 +1639,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:02:16.504813Z"
+          "published_at": "2026-08-25T16:48:52.244332Z"
         }
       ],
       "item_count": 1,
@@ -1495,8 +1660,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:02:16.504813Z",
-      "latest_at": "2026-08-25T16:02:16.504813Z",
+      "earliest_at": "2026-08-25T16:48:52.244332Z",
+      "latest_at": "2026-08-25T16:48:52.244332Z",
       "primary_item": {
         "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
         "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
@@ -1513,171 +1678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
-      }
-    },
-    {
-      "story_id": "story_e0ba1a9f4659",
-      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-      "url": "https://www.aibase.com/news/30603",
-      "primary_url": "https://www.aibase.com/news/30603",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:02:16.504813Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:02:16.504813Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T16:02:16.504813Z",
-      "latest_at": "2026-08-25T16:02:16.504813Z",
-      "primary_item": {
-        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_en": null,
-        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30603",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
-      }
-    },
-    {
-      "story_id": "story_c4b1ff481103",
-      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-      "url": "https://www.aibase.com/news/30605",
-      "primary_url": "https://www.aibase.com/news/30605",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:02:16.504813Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:02:16.504813Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T16:02:16.504813Z",
-      "latest_at": "2026-08-25T16:02:16.504813Z",
-      "primary_item": {
-        "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-        "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "title_en": null,
-        "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30605",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T19:27:29.581210Z"
+        "scored_at": "2026-08-25T20:15:06.373690Z"
       }
     }
   ]
