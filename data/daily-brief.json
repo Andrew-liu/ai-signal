@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:03:14.031475Z",
+  "generated_at": "2026-08-25T16:58:56.271000Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8659,
-      "importance": 0.8659,
-      "importance_score": 0.8659,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9883,
+        "recency": 0.9751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
+      }
+    },
+    {
+      "story_id": "story_e7853aaebb60",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "title_zh": null,
+          "title_en": "5 ways to upgrade your home decor with Google Search",
+          "title_original": "5 ways to upgrade your home decor with Google Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "title_zh": null,
+          "title_en": "5 ways to upgrade your home decor with Google Search",
+          "title_original": "5 ways to upgrade your home decor with Google Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T16:00:00Z",
+      "latest_at": "2026-08-25T16:00:00Z",
+      "primary_item": {
+        "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+        "title": "5 ways to upgrade your home decor with Google Search",
+        "title_zh": null,
+        "title_en": "5 ways to upgrade your home decor with Google Search",
+        "title_original": "5 ways to upgrade your home decor with Google Search",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8785,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9385,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8774,
+        "recency": 0.8658,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,30 +415,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
-      "story_id": "story_60dddcf38635",
-      "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-      "url": "https://www.aibase.com/news/30607",
-      "primary_url": "https://www.aibase.com/news/30607",
+      "story_id": "story_82cd7b823da3",
+      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+      "url": "https://www.aibase.com/news/30609",
+      "primary_url": "https://www.aibase.com/news/30609",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "31953c88ca0e894418212e00d317e45880d995a7",
-          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "title_en": null,
-          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30607",
+          "url": "https://www.aibase.com/news/30609",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:03:14.031475Z"
+          "published_at": "2026-08-25T16:54:56.271000Z"
         }
       ],
       "source_count": 1,
@@ -364,31 +447,31 @@
       ],
       "items": [
         {
-          "id": "31953c88ca0e894418212e00d317e45880d995a7",
-          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "title_en": null,
-          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30607",
+          "url": "https://www.aibase.com/news/30609",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:03:14.031475Z"
+          "published_at": "2026-08-25T16:54:56.271000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.999,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -396,17 +479,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:03:14.031475Z",
-      "latest_at": "2026-08-25T16:03:14.031475Z",
+      "earliest_at": "2026-08-25T16:54:56.271000Z",
+      "latest_at": "2026-08-25T16:54:56.271000Z",
       "primary_item": {
-        "id": "31953c88ca0e894418212e00d317e45880d995a7",
-        "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-        "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
         "title_en": null,
-        "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30607",
+        "url": "https://www.aibase.com/news/30609",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -414,7 +497,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
+      }
+    },
+    {
+      "story_id": "story_e1c25592fe2f",
+      "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+      "url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "primary_url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "title_en": "https://x.com/i/article/2092249927812337664",
+          "title_original": "https://x.com/i/article/2092249927812337664",
+          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2092275116503707733",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:37:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "items": [
+        {
+          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "title_en": "https://x.com/i/article/2092249927812337664",
+          "title_original": "https://x.com/i/article/2092249927812337664",
+          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2092275116503707733",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:37:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9805,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T15:37:15Z",
+      "latest_at": "2026-08-25T15:37:15Z",
+      "primary_item": {
+        "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+        "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+        "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+        "title_en": "https://x.com/i/article/2092249927812337664",
+        "title_original": "https://x.com/i/article/2092249927812337664",
+        "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GoogleAI/status/2092275116503707733",
+        "source": "X：Google AI (@GoogleAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -462,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7931,
+        "recency": 0.7825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -545,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7931,
+        "recency": 0.7825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +745,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
+      }
+    },
+    {
+      "story_id": "story_33fb169ced44",
+      "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "primary_url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:32:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:32:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9795,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-25T15:32:57Z",
+      "latest_at": "2026-08-25T15:32:57Z",
+      "primary_item": {
+        "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+        "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+        "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+        "recommend_reason_zh": null,
+        "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -603,7 +849,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:03:14.031475Z"
+          "published_at": "2026-08-25T16:49:56.271000Z"
         }
       ],
       "source_count": 1,
@@ -623,20 +869,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:03:14.031475Z"
+          "published_at": "2026-08-25T16:49:56.271000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9978,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -644,8 +890,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:03:14.031475Z",
-      "latest_at": "2026-08-25T16:03:14.031475Z",
+      "earliest_at": "2026-08-25T16:49:56.271000Z",
+      "latest_at": "2026-08-25T16:49:56.271000Z",
       "primary_item": {
         "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
         "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
@@ -662,7 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -710,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.957,
+        "recency": 0.9442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,30 +989,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
-      "story_id": "story_82cd7b823da3",
-      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-      "url": "https://www.aibase.com/news/30609",
-      "primary_url": "https://www.aibase.com/news/30609",
+      "story_id": "story_60dddcf38635",
+      "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+      "url": "https://www.aibase.com/news/30607",
+      "primary_url": "https://www.aibase.com/news/30607",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "id": "31953c88ca0e894418212e00d317e45880d995a7",
+          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
+          "url": "https://www.aibase.com/news/30607",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:03:14.031475Z"
+          "published_at": "2026-08-25T16:19:56.271000Z"
         }
       ],
       "source_count": 1,
@@ -775,31 +1021,31 @@
       ],
       "items": [
         {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "id": "31953c88ca0e894418212e00d317e45880d995a7",
+          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
+          "url": "https://www.aibase.com/news/30607",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:03:14.031475Z"
+          "published_at": "2026-08-25T16:19:56.271000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,17 +1053,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:03:14.031475Z",
-      "latest_at": "2026-08-25T16:03:14.031475Z",
+      "earliest_at": "2026-08-25T16:19:56.271000Z",
+      "latest_at": "2026-08-25T16:19:56.271000Z",
       "primary_item": {
-        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "id": "31953c88ca0e894418212e00d317e45880d995a7",
+        "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+        "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
         "title_en": null,
-        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30609",
+        "url": "https://www.aibase.com/news/30607",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -825,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -848,7 +1094,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:00:14.031475Z"
+          "published_at": "2026-08-25T16:00:56.271000Z"
         }
       ],
       "source_count": 1,
@@ -868,20 +1114,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:00:14.031475Z"
+          "published_at": "2026-08-25T16:00:56.271000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9993,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,8 +1135,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:00:14.031475Z",
-      "latest_at": "2026-08-25T16:00:14.031475Z",
+      "earliest_at": "2026-08-25T16:00:56.271000Z",
+      "latest_at": "2026-08-25T16:00:56.271000Z",
       "primary_item": {
         "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
         "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
@@ -907,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -930,7 +1176,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:57:14.031475Z"
+          "published_at": "2026-08-25T15:58:56.271000Z"
         }
       ],
       "source_count": 1,
@@ -950,20 +1196,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:57:14.031475Z"
+          "published_at": "2026-08-25T15:58:56.271000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9986,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,8 +1217,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T15:57:14.031475Z",
-      "latest_at": "2026-08-25T15:57:14.031475Z",
+      "earliest_at": "2026-08-25T15:58:56.271000Z",
+      "latest_at": "2026-08-25T15:58:56.271000Z",
       "primary_item": {
         "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
         "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
@@ -989,7 +1235,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
+      }
+    },
+    {
+      "story_id": "story_e0ba1a9f4659",
+      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+      "url": "https://www.aibase.com/news/30603",
+      "primary_url": "https://www.aibase.com/news/30603",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
+          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_en": null,
+          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30603",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T15:58:56.271000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
+          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_en": null,
+          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30603",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T15:58:56.271000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T15:58:56.271000Z",
+      "latest_at": "2026-08-25T15:58:56.271000Z",
+      "primary_item": {
+        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
+        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+        "title_en": null,
+        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30603",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -1065,15 +1393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.616,
-      "importance": 0.616,
-      "importance_score": 0.616,
+      "score": 0.6137,
+      "importance": 0.6137,
+      "importance_score": 0.6137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.9569,
+        "recency": 0.9441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1098,89 +1426,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
-      }
-    },
-    {
-      "story_id": "story_e0ba1a9f4659",
-      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-      "url": "https://www.aibase.com/news/30603",
-      "primary_url": "https://www.aibase.com/news/30603",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T15:23:14.031475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T15:23:14.031475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T15:23:14.031475Z",
-      "latest_at": "2026-08-25T15:23:14.031475Z",
-      "primary_item": {
-        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_en": null,
-        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30603",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -1203,7 +1449,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:03:14.031475Z"
+          "published_at": "2026-08-25T14:58:56.271000Z"
         }
       ],
       "source_count": 1,
@@ -1223,20 +1469,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:03:14.031475Z"
+          "published_at": "2026-08-25T14:58:56.271000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,8 +1490,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T15:03:14.031475Z",
-      "latest_at": "2026-08-25T15:03:14.031475Z",
+      "earliest_at": "2026-08-25T14:58:56.271000Z",
+      "latest_at": "2026-08-25T14:58:56.271000Z",
       "primary_item": {
         "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
         "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
@@ -1262,7 +1508,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -1285,7 +1531,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T15:42:35.118000Z"
+          "published_at": "2026-08-25T16:42:40.637000Z"
         },
         {
           "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
@@ -1335,7 +1581,7 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T15:42:35.118000Z"
+          "published_at": "2026-08-25T16:42:40.637000Z"
         },
         {
           "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
@@ -1368,15 +1614,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5699,
-      "importance": 0.5699,
-      "importance_score": 0.5699,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.995,
+        "recency": 0.9961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1384,7 +1630,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-25T13:01:22Z",
-      "latest_at": "2026-08-25T15:42:35.118000Z",
+      "latest_at": "2026-08-25T16:42:40.637000Z",
       "primary_item": {
         "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
         "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
@@ -1401,7 +1647,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     },
     {
@@ -1424,7 +1670,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:03:14.031475Z"
+          "published_at": "2026-08-25T14:58:56.271000Z"
         }
       ],
       "source_count": 1,
@@ -1444,20 +1690,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:03:14.031475Z"
+          "published_at": "2026-08-25T14:58:56.271000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1465,8 +1711,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T15:03:14.031475Z",
-      "latest_at": "2026-08-25T15:03:14.031475Z",
+      "earliest_at": "2026-08-25T14:58:56.271000Z",
+      "latest_at": "2026-08-25T14:58:56.271000Z",
       "primary_item": {
         "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
         "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
@@ -1483,309 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
-      }
-    },
-    {
-      "story_id": "story_974793f4f4f9",
-      "title": "复古人工智能：在变得尴尬之前",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-      "primary_url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-      "source": "blog.archive.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-          "title": "复古人工智能：在变得尴尬之前",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": null,
-          "title_original": "复古人工智能：在变得尴尬之前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "blog.archive.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T10:13:48.902000Z"
-        },
-        {
-          "id": "eef2e296c38ee651141b53a15eedbb3c5c1a28a9",
-          "title": "复古人工智能：在变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.archive.org"
-      ],
-      "items": [
-        {
-          "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-          "title": "复古人工智能：在变得尴尬之前",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": null,
-          "title_original": "复古人工智能：在变得尴尬之前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "blog.archive.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T10:13:48.902000Z"
-        },
-        {
-          "id": "eef2e296c38ee651141b53a15eedbb3c5c1a28a9",
-          "title": "复古人工智能：在变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9193,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T21:01:38Z",
-      "latest_at": "2026-08-25T10:13:48.902000Z",
-      "primary_item": {
-        "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-        "title": "复古人工智能：在变得尴尬之前",
-        "title_zh": "复古人工智能：在变得尴尬之前",
-        "title_en": null,
-        "title_original": "复古人工智能：在变得尴尬之前",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-        "source": "blog.archive.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
-      }
-    },
-    {
-      "story_id": "story_82df8058db94",
-      "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-      "url": "https://www.aibase.com/news/30601",
-      "primary_url": "https://www.aibase.com/news/30601",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30601",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T15:03:14.031475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30601",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T15:03:14.031475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T15:03:14.031475Z",
-      "latest_at": "2026-08-25T15:03:14.031475Z",
-      "primary_item": {
-        "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-        "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "title_en": null,
-        "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30601",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
-      }
-    },
-    {
-      "story_id": "story_a382eafa5b52",
-      "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "primary_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "boydkane.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "b564d7c8242be50852b21c315100aee0bbf5704e",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "boydkane.com"
-      ],
-      "items": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "b564d7c8242be50852b21c315100aee0bbf5704e",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8288,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T19:03:06Z",
-      "latest_at": "2026-08-25T03:02:56.442000Z",
-      "primary_item": {
-        "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-        "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "title_en": null,
-        "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "source": "boydkane.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T16:29:31.706609Z"
+        "scored_at": "2026-08-25T17:25:14.535764Z"
       }
     }
   ]
