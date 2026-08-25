@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:48:04.062124Z",
+  "generated_at": "2026-08-25T19:02:16.504813Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.8615,
-      "importance_score": 0.8615,
+      "score": 0.8584,
+      "importance": 0.8584,
+      "importance_score": 0.8584,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9637,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8556,
+        "recency": 0.8404,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
+      }
+    },
+    {
+      "story_id": "story_2ae3bbe5c601",
+      "title": "Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "Push rules in rulesets now support path exceptions",
+          "title_zh": null,
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "Push rules in rulesets now support path exceptions",
+          "title_zh": null,
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9805,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T17:40:15Z",
+      "latest_at": "2026-08-25T17:40:15Z",
+      "primary_item": {
+        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+        "title": "Push rules in rulesets now support path exceptions",
+        "title_zh": null,
+        "title_en": "Push rules in rulesets now support path exceptions",
+        "title_original": "Push rules in rulesets now support path exceptions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -244,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9743,
+        "recency": 0.9571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -327,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9151,
+        "recency": 0.8989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -410,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7733,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -493,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8566,
+        "recency": 0.8414,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,30 +611,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
-      "story_id": "story_82cd7b823da3",
-      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-      "url": "https://www.aibase.com/news/30609",
-      "primary_url": "https://www.aibase.com/news/30609",
+      "story_id": "story_60dddcf38635",
+      "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+      "url": "https://www.aibase.com/news/30607",
+      "primary_url": "https://www.aibase.com/news/30607",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "id": "31953c88ca0e894418212e00d317e45880d995a7",
+          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
+          "url": "https://www.aibase.com/news/30607",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:55:04.062124Z"
+          "published_at": "2026-08-25T17:02:16.504813Z"
         }
       ],
       "source_count": 1,
@@ -560,31 +643,31 @@
       ],
       "items": [
         {
-          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "id": "31953c88ca0e894418212e00d317e45880d995a7",
+          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "title_en": null,
-          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30609",
+          "url": "https://www.aibase.com/news/30607",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:55:04.062124Z"
+          "published_at": "2026-08-25T17:02:16.504813Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9873,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -592,17 +675,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:55:04.062124Z",
-      "latest_at": "2026-08-25T16:55:04.062124Z",
+      "earliest_at": "2026-08-25T17:02:16.504813Z",
+      "latest_at": "2026-08-25T17:02:16.504813Z",
       "primary_item": {
-        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
-        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
-        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "id": "31953c88ca0e894418212e00d317e45880d995a7",
+        "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+        "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
         "title_en": null,
-        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30609",
+        "url": "https://www.aibase.com/news/30607",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -610,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -658,15 +741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.969,
+        "recency": 0.9519,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -740,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7733,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -775,7 +858,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
+      }
+    },
+    {
+      "story_id": "story_6ccc5b93e71a",
+      "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+      "url": "https://x.com/AndrewYNg/status/2092315079576555806",
+      "primary_url": "https://x.com/AndrewYNg/status/2092315079576555806",
+      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d1d7d8b4938352b2de83fe45b4d0d2ec94555d49",
+          "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+          "title_zh": "OpenWorker 新版发布，内置网络安全智能体",
+          "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+          "title_original": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+          "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AndrewYNg/status/2092315079576555806",
+          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T18:16:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
+      ],
+      "items": [
+        {
+          "id": "d1d7d8b4938352b2de83fe45b4d0d2ec94555d49",
+          "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+          "title_zh": "OpenWorker 新版发布，内置网络安全智能体",
+          "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+          "title_original": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+          "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AndrewYNg/status/2092315079576555806",
+          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T18:16:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9889,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T18:16:02Z",
+      "latest_at": "2026-08-25T18:16:02Z",
+      "primary_item": {
+        "id": "d1d7d8b4938352b2de83fe45b4d0d2ec94555d49",
+        "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+        "title_zh": "OpenWorker 新版发布，内置网络安全智能体",
+        "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+        "title_original": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+        "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AndrewYNg/status/2092315079576555806",
+        "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T19:27:29.581210Z"
+      }
+    },
+    {
+      "story_id": "story_fb0dc79a0364",
+      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
+      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "primary_url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a4abeec045a4d6f73b7bd3f023a245e64406b37c",
+          "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
+          "title_zh": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+          "title_en": "Claude's memory works everywhere， and you decide what's in it",
+          "title_original": "Claude's memory works everywhere， and you decide what's in it",
+          "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T18:02:04.743000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "a4abeec045a4d6f73b7bd3f023a245e64406b37c",
+          "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
+          "title_zh": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+          "title_en": "Claude's memory works everywhere， and you decide what's in it",
+          "title_original": "Claude's memory works everywhere， and you decide what's in it",
+          "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T18:02:04.743000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T18:02:04.743000Z",
+      "latest_at": "2026-08-25T18:02:04.743000Z",
+      "primary_item": {
+        "id": "a4abeec045a4d6f73b7bd3f023a245e64406b37c",
+        "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
+        "title_zh": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+        "title_en": "Claude's memory works everywhere， and you decide what's in it",
+        "title_original": "Claude's memory works everywhere， and you decide what's in it",
+        "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -823,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9509,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -879,7 +1126,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:50:04.062124Z"
+          "published_at": "2026-08-25T17:02:16.504813Z"
         }
       ],
       "source_count": 1,
@@ -899,20 +1146,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:50:04.062124Z"
+          "published_at": "2026-08-25T17:02:16.504813Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -920,8 +1167,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:50:04.062124Z",
-      "latest_at": "2026-08-25T16:50:04.062124Z",
+      "earliest_at": "2026-08-25T17:02:16.504813Z",
+      "latest_at": "2026-08-25T17:02:16.504813Z",
       "primary_item": {
         "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
         "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
@@ -938,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -986,15 +1233,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.9166,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -1067,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7733,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1102,7 +1349,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
+      }
+    },
+    {
+      "story_id": "story_82cd7b823da3",
+      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+      "url": "https://www.aibase.com/news/30609",
+      "primary_url": "https://www.aibase.com/news/30609",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_en": null,
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T17:02:16.504813Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_en": null,
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T17:02:16.504813Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T17:02:16.504813Z",
+      "latest_at": "2026-08-25T17:02:16.504813Z",
+      "primary_item": {
+        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_en": null,
+        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30609",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -1125,7 +1454,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:48:04.062124Z"
+          "published_at": "2026-08-25T16:02:16.504813Z"
         }
       ],
       "source_count": 1,
@@ -1145,20 +1474,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T16:48:04.062124Z"
+          "published_at": "2026-08-25T16:02:16.504813Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1166,8 +1495,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T16:48:04.062124Z",
-      "latest_at": "2026-08-25T16:48:04.062124Z",
+      "earliest_at": "2026-08-25T16:02:16.504813Z",
+      "latest_at": "2026-08-25T16:02:16.504813Z",
       "primary_item": {
         "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
         "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
@@ -1184,253 +1513,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
-      }
-    },
-    {
-      "story_id": "story_60dddcf38635",
-      "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-      "url": "https://www.aibase.com/news/30607",
-      "primary_url": "https://www.aibase.com/news/30607",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "31953c88ca0e894418212e00d317e45880d995a7",
-          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_en": null,
-          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30607",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:48:04.062124Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "31953c88ca0e894418212e00d317e45880d995a7",
-          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "title_en": null,
-          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30607",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:48:04.062124Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T16:48:04.062124Z",
-      "latest_at": "2026-08-25T16:48:04.062124Z",
-      "primary_item": {
-        "id": "31953c88ca0e894418212e00d317e45880d995a7",
-        "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-        "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-        "title_en": null,
-        "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30607",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
-      }
-    },
-    {
-      "story_id": "story_c4b1ff481103",
-      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-      "url": "https://www.aibase.com/news/30605",
-      "primary_url": "https://www.aibase.com/news/30605",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:48:04.062124Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T16:48:04.062124Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T16:48:04.062124Z",
-      "latest_at": "2026-08-25T16:48:04.062124Z",
-      "primary_item": {
-        "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-        "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "title_en": null,
-        "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30605",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
-      }
-    },
-    {
-      "story_id": "story_2cdc7641002b",
-      "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-      "url": "https://www.aibase.com/news/30602",
-      "primary_url": "https://www.aibase.com/news/30602",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
-          "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_zh": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_en": null,
-          "title_original": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30602",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T15:48:04.062124Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
-          "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_zh": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_en": null,
-          "title_original": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30602",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T15:48:04.062124Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T15:48:04.062124Z",
-      "latest_at": "2026-08-25T15:48:04.062124Z",
-      "primary_item": {
-        "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
-        "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-        "title_zh": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-        "title_en": null,
-        "title_original": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30602",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     },
     {
@@ -1453,7 +1536,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:48:04.062124Z"
+          "published_at": "2026-08-25T16:02:16.504813Z"
         }
       ],
       "source_count": 1,
@@ -1473,228 +1556,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T15:48:04.062124Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T15:48:04.062124Z",
-      "latest_at": "2026-08-25T15:48:04.062124Z",
-      "primary_item": {
-        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_en": null,
-        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30603",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
-      }
-    },
-    {
-      "story_id": "story_8905d625b3de",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://news.ycombinator.com/item?id=49435147",
-      "primary_url": "https://news.ycombinator.com/item?id=49435147",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": null,
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49435147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T17:48:35.149000Z"
-        },
-        {
-          "id": "1a95ea240a2761611539bbc972387580ecf249dd",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": null,
-          "title_original": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T17:41:24.768000Z"
-        },
-        {
-          "id": "ba2342b04fc57a347d78cda115d2be739a98e141",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-25T14:48:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "arstechnica.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": null,
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49435147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T17:48:35.149000Z"
-        },
-        {
-          "id": "1a95ea240a2761611539bbc972387580ecf249dd",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": null,
-          "title_original": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T17:41:24.768000Z"
-        },
-        {
-          "id": "ba2342b04fc57a347d78cda115d2be739a98e141",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-25T14:48:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T14:48:58Z",
-      "latest_at": "2026-08-25T17:48:35.149000Z",
-      "primary_item": {
-        "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "title_zh": null,
-        "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49435147",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
-      }
-    },
-    {
-      "story_id": "story_a3a30019dba2",
-      "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-      "url": "https://www.aibase.com/news/30600",
-      "primary_url": "https://www.aibase.com/news/30600",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
-          "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_zh": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_en": null,
-          "title_original": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30600",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T14:48:04.062124Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
-          "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_zh": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_en": null,
-          "title_original": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30600",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T14:48:04.062124Z"
+          "published_at": "2026-08-25T16:02:16.504813Z"
         }
       ],
       "item_count": 1,
@@ -1715,17 +1577,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T14:48:04.062124Z",
-      "latest_at": "2026-08-25T14:48:04.062124Z",
+      "earliest_at": "2026-08-25T16:02:16.504813Z",
+      "latest_at": "2026-08-25T16:02:16.504813Z",
       "primary_item": {
-        "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
-        "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-        "title_zh": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
+        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
+        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
         "title_en": null,
-        "title_original": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
+        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30600",
+        "url": "https://www.aibase.com/news/30603",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1733,7 +1595,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T18:12:39.423092Z"
+        "scored_at": "2026-08-25T19:27:29.581210Z"
+      }
+    },
+    {
+      "story_id": "story_c4b1ff481103",
+      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+      "url": "https://www.aibase.com/news/30605",
+      "primary_url": "https://www.aibase.com/news/30605",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_en": null,
+          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30605",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T16:02:16.504813Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_en": null,
+          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30605",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T16:02:16.504813Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T16:02:16.504813Z",
+      "latest_at": "2026-08-25T16:02:16.504813Z",
+      "primary_item": {
+        "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+        "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "title_en": null,
+        "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30605",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T19:27:29.581210Z"
       }
     }
   ]
