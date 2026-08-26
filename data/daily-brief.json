@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-26T11:49:25.265179Z",
+  "generated_at": "2026-08-26T13:26:08.540214Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f59066749bc2",
+      "title": "GitHub Apps can now access enterprise billing data",
+      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps can now access enterprise billing data",
+          "title_zh": null,
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T12:18:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps can now access enterprise billing data",
+          "title_zh": null,
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T12:18:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.984,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:18:59Z",
+      "latest_at": "2026-08-26T12:18:59Z",
+      "primary_item": {
+        "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+        "title": "GitHub Apps can now access enterprise billing data",
+        "title_zh": null,
+        "title_en": "GitHub Apps can now access enterprise billing data",
+        "title_original": "GitHub Apps can now access enterprise billing data",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
     {
       "story_id": "story_4346047ee8ea",
       "title": "How loveholidays is making everyone a builder with Codex",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.843,
+        "recency": 0.8236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
+    {
+      "story_id": "story_7cf7f5b5f125",
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "primary_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9866,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:30:00Z",
+      "latest_at": "2026-08-26T12:52:12Z",
+      "primary_item": {
+        "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+        "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+        "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+        "recommend_reason_zh": null,
+        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -131,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8142,
+        "recency": 0.7954,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -214,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7428,
+        "recency": 0.7257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_72c69d1ef3c2",
-      "title": "GitHub Copilot app Customize tab is generally available",
-      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-          "title": "GitHub Copilot app Customize tab is generally available",
-          "title_zh": null,
-          "title_en": "GitHub Copilot app Customize tab is generally available",
-          "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-          "title": "GitHub Copilot app Customize tab is generally available",
-          "title_zh": null,
-          "title_en": "GitHub Copilot app Customize tab is generally available",
-          "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7968,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T20:05:26Z",
-      "latest_at": "2026-08-25T20:05:26Z",
-      "primary_item": {
-        "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-        "title": "GitHub Copilot app Customize tab is generally available",
-        "title_zh": null,
-        "title_en": "GitHub Copilot app Customize tab is generally available",
-        "title_original": "GitHub Copilot app Customize tab is generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -380,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7511,
+        "recency": 0.7338,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +527,336 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
+    {
+      "story_id": "story_4996502bb406",
+      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_zh": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+          "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_original": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:34:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_zh": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+          "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_original": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:34:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:34:01Z",
+      "latest_at": "2026-08-26T12:34:01Z",
+      "primary_item": {
+        "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+        "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+        "title_zh": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+        "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+        "title_original": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+        "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
+    {
+      "story_id": "story_72c69d1ef3c2",
+      "title": "GitHub Copilot app Customize tab is generally available",
+      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+          "title": "GitHub Copilot app Customize tab is generally available",
+          "title_zh": null,
+          "title_en": "GitHub Copilot app Customize tab is generally available",
+          "title_original": "GitHub Copilot app Customize tab is generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T20:05:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+          "title": "GitHub Copilot app Customize tab is generally available",
+          "title_zh": null,
+          "title_en": "GitHub Copilot app Customize tab is generally available",
+          "title_original": "GitHub Copilot app Customize tab is generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T20:05:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7784,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T20:05:26Z",
+      "latest_at": "2026-08-25T20:05:26Z",
+      "primary_item": {
+        "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+        "title": "GitHub Copilot app Customize tab is generally available",
+        "title_zh": null,
+        "title_en": "GitHub Copilot app Customize tab is generally available",
+        "title_original": "GitHub Copilot app Customize tab is generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
+    {
+      "story_id": "story_5b0c68290664",
+      "title": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+      "url": "https://www.ithome.com/0/994/735.htm",
+      "primary_url": "https://www.ithome.com/0/994/735.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "719505af4ab0f74c108c1b5287d7d6aa8b4ad5b4",
+          "title": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+          "title_zh": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+          "title_en": null,
+          "title_original": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+          "summary": "阿里通义千问团队发布 Qwen3.8-Flash，这是一款 125B 参数的多模态 MoE 模型，每 token 激活 6B 参数，原生支持 262，144 tokens 上下文，并可通过 YaRN 扩展至 1M tokens。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/735.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:39:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "719505af4ab0f74c108c1b5287d7d6aa8b4ad5b4",
+          "title": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+          "title_zh": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+          "title_en": null,
+          "title_original": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+          "summary": "阿里通义千问团队发布 Qwen3.8-Flash，这是一款 125B 参数的多模态 MoE 模型，每 token 激活 6B 参数，原生支持 262，144 tokens 上下文，并可通过 YaRN 扩展至 1M tokens。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/735.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:39:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9889,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:39:50Z",
+      "latest_at": "2026-08-26T12:39:50Z",
+      "primary_item": {
+        "id": "719505af4ab0f74c108c1b5287d7d6aa8b4ad5b4",
+        "title": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+        "title_zh": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+        "title_en": null,
+        "title_original": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+        "summary": "阿里通义千问团队发布 Qwen3.8-Flash，这是一款 125B 参数的多模态 MoE 模型，每 token 激活 6B 参数，原生支持 262，144 tokens 上下文，并可通过 YaRN 扩展至 1M tokens。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/994/735.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
+    {
+      "story_id": "story_04e4cb4fff13",
+      "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+      "url": "https://www.aibase.com/news/30641",
+      "primary_url": "https://www.aibase.com/news/30641",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
+          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_en": null,
+          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30641",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T13:26:08.540214Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
+          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_en": null,
+          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30641",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T13:26:08.540214Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T13:26:08.540214Z",
+      "latest_at": "2026-08-26T13:26:08.540214Z",
+      "primary_item": {
+        "id": "ed095435e215db2390cfbd254edfd2016a91de88",
+        "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+        "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+        "title_en": null,
+        "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30641",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -463,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7968,
+        "recency": 0.7785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,172 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_04e4cb4fff13",
-      "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-      "url": "https://www.aibase.com/news/30641",
-      "primary_url": "https://www.aibase.com/news/30641",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
-          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "title_en": null,
-          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30641",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
-          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "title_en": null,
-          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30641",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
-      "primary_item": {
-        "id": "ed095435e215db2390cfbd254edfd2016a91de88",
-        "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-        "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-        "title_en": null,
-        "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30641",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_0536ff6c73c5",
-      "title": "Block users directly from security advisories",
-      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "Block users directly from security advisories",
-          "title_zh": null,
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "Block users directly from security advisories",
-          "title_zh": null,
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7804,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T18:38:57Z",
-      "latest_at": "2026-08-25T18:38:57Z",
-      "primary_item": {
-        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-        "title": "Block users directly from security advisories",
-        "title_zh": null,
-        "title_en": "Block users directly from security advisories",
-        "title_original": "Block users directly from security advisories",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -686,7 +962,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "source_count": 1,
@@ -706,7 +982,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "item_count": 1,
@@ -727,8 +1003,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
+      "earliest_at": "2026-08-26T13:26:08.540214Z",
+      "latest_at": "2026-08-26T13:26:08.540214Z",
       "primary_item": {
         "id": "fa9973acbcbf885dbcdabeccdb1cdd39977bb2ca",
         "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
@@ -745,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -793,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.747,
+        "recency": 0.7298,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +1102,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
+    {
+      "story_id": "story_0536ff6c73c5",
+      "title": "Block users directly from security advisories",
+      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "Block users directly from security advisories",
+          "title_zh": null,
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T18:38:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "Block users directly from security advisories",
+          "title_zh": null,
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T18:38:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7624,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T18:38:57Z",
+      "latest_at": "2026-08-25T18:38:57Z",
+      "primary_item": {
+        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+        "title": "Block users directly from security advisories",
+        "title_zh": null,
+        "title_en": "Block users directly from security advisories",
+        "title_original": "Block users directly from security advisories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
+      }
+    },
+    {
+      "story_id": "story_922544fb38bf",
+      "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+      "url": "https://www.aibase.com/news/30645",
+      "primary_url": "https://www.aibase.com/news/30645",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "87016dae1dff6437faf8c60013056c4d459a471b",
+          "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+          "title_zh": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+          "title_en": null,
+          "title_original": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30645",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T13:26:08.540214Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "87016dae1dff6437faf8c60013056c4d459a471b",
+          "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+          "title_zh": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+          "title_en": null,
+          "title_original": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30645",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T13:26:08.540214Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T13:26:08.540214Z",
+      "latest_at": "2026-08-26T13:26:08.540214Z",
+      "primary_item": {
+        "id": "87016dae1dff6437faf8c60013056c4d459a471b",
+        "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+        "title_zh": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+        "title_en": null,
+        "title_original": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30645",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -874,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7694,
+        "recency": 0.7517,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,89 +1350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_922544fb38bf",
-      "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-      "url": "https://www.aibase.com/news/30645",
-      "primary_url": "https://www.aibase.com/news/30645",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "87016dae1dff6437faf8c60013056c4d459a471b",
-          "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-          "title_zh": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-          "title_en": null,
-          "title_original": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30645",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "87016dae1dff6437faf8c60013056c4d459a471b",
-          "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-          "title_zh": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-          "title_en": null,
-          "title_original": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30645",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
-      "primary_item": {
-        "id": "87016dae1dff6437faf8c60013056c4d459a471b",
-        "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-        "title_zh": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-        "title_en": null,
-        "title_original": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30645",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -1014,7 +1373,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "source_count": 1,
@@ -1034,7 +1393,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "item_count": 1,
@@ -1055,8 +1414,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
+      "earliest_at": "2026-08-26T13:26:08.540214Z",
+      "latest_at": "2026-08-26T13:26:08.540214Z",
       "primary_item": {
         "id": "bae37707d92e86e5a34c8b499894153366250552",
         "title": "一站式搞定多模型：OpenRouter 推出异步视频生成 API 接入指南",
@@ -1073,7 +1432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -1096,7 +1455,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "source_count": 1,
@@ -1116,7 +1475,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "item_count": 1,
@@ -1137,8 +1496,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
+      "earliest_at": "2026-08-26T13:26:08.540214Z",
+      "latest_at": "2026-08-26T13:26:08.540214Z",
       "primary_item": {
         "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
         "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
@@ -1155,7 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -1232,15 +1591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6332,
-      "importance": 0.6332,
-      "importance_score": 0.6332,
+      "score": 0.6297,
+      "importance": 0.6297,
+      "importance_score": 0.6297,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8443,
+        "recency": 0.8249,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1265,7 +1624,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     },
     {
@@ -1288,7 +1647,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "source_count": 1,
@@ -1308,7 +1667,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
+          "published_at": "2026-08-26T13:26:08.540214Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1688,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
+      "earliest_at": "2026-08-26T13:26:08.540214Z",
+      "latest_at": "2026-08-26T13:26:08.540214Z",
       "primary_item": {
         "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
         "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
@@ -1347,420 +1706,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_c84a4b0b7ec0",
-      "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-      "url": "https://www.aibase.com/news/30644",
-      "primary_url": "https://www.aibase.com/news/30644",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
-          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_en": null,
-          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30644",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
-          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_en": null,
-          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30644",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
-      "primary_item": {
-        "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
-        "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-        "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-        "title_en": null,
-        "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30644",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_c1e51b9fd34f",
-      "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-      "url": "https://www.aibase.com/news/30632",
-      "primary_url": "https://www.aibase.com/news/30632",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_en": null,
-          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30632",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_en": null,
-          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30632",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T11:49:25.265179Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T11:49:25.265179Z",
-      "latest_at": "2026-08-26T11:49:25.265179Z",
-      "primary_item": {
-        "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-        "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-        "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-        "title_en": null,
-        "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30632",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_accc33a180ef",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://news.ycombinator.com/item?id=49446422",
-      "primary_url": "https://news.ycombinator.com/item?id=49446422",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "dbde836d3e920ef195100936857fc3d6d355fe43",
-          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_zh": null,
-          "title_en": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_original": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49446422",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-26T11:51:09.756000Z"
-        },
-        {
-          "id": "16d5d0111ed982263153470e53774e542ba27c4f",
-          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_zh": null,
-          "title_en": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_original": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-26T10:04:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dbde836d3e920ef195100936857fc3d6d355fe43",
-          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_zh": null,
-          "title_en": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_original": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49446422",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-26T11:51:09.756000Z"
-        },
-        {
-          "id": "16d5d0111ed982263153470e53774e542ba27c4f",
-          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_zh": null,
-          "title_en": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "title_original": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-26T10:04:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-26T10:04:55Z",
-      "latest_at": "2026-08-26T11:51:09.756000Z",
-      "primary_item": {
-        "id": "dbde836d3e920ef195100936857fc3d6d355fe43",
-        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-        "title_zh": null,
-        "title_en": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-        "title_original": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49446422",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
-      }
-    },
-    {
-      "story_id": "story_8905d625b3de",
-      "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-      "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-      "primary_url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "6cd295691b18795c82d625afa9d5744e07c9a507",
-          "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_zh": null,
-          "title_en": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_original": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T18:00:00Z"
-        },
-        {
-          "id": "1a95ea240a2761611539bbc972387580ecf249dd",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": null,
-          "title_original": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T17:41:24.768000Z"
-        },
-        {
-          "id": "8e15e0286f1f90d0ab09c82cd4812a541d65332d",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:48:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "6cd295691b18795c82d625afa9d5744e07c9a507",
-          "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_zh": null,
-          "title_en": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_original": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T18:00:00Z"
-        },
-        {
-          "id": "1a95ea240a2761611539bbc972387580ecf249dd",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": null,
-          "title_original": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T17:41:24.768000Z"
-        },
-        {
-          "id": "8e15e0286f1f90d0ab09c82cd4812a541d65332d",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:48:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7731,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T14:48:58Z",
-      "latest_at": "2026-08-25T18:00:00Z",
-      "primary_item": {
-        "id": "6cd295691b18795c82d625afa9d5744e07c9a507",
-        "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-        "title_zh": null,
-        "title_en": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-        "title_original": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T12:19:35.011099Z"
+        "scored_at": "2026-08-26T13:56:45.918650Z"
       }
     }
   ]
