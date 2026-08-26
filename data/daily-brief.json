@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-26T09:06:01.352299Z",
+  "generated_at": "2026-08-26T10:00:31.913013Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_4346047ee8ea",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "primary_url": "https://openai.com/index/loveholidays",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+          "title": "How loveholidays is making everyone a builder with Codex",
+          "title_zh": null,
+          "title_en": "How loveholidays is making everyone a builder with Codex",
+          "title_original": "How loveholidays is making everyone a builder with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/loveholidays",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+          "title": "How loveholidays is making everyone a builder with Codex",
+          "title_zh": null,
+          "title_en": "How loveholidays is making everyone a builder with Codex",
+          "title_original": "How loveholidays is making everyone a builder with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/loveholidays",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8654,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T00:00:00Z",
+      "latest_at": "2026-08-26T00:00:00Z",
+      "primary_item": {
+        "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "title_zh": null,
+        "title_en": "How loveholidays is making everyone a builder with Codex",
+        "title_original": "How loveholidays is making everyone a builder with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/loveholidays",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T10:27:57.361098Z"
+      }
+    },
     {
       "story_id": "story_4b7b151c884e",
       "title": "How to evaluate LLMs before production",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8468,
+        "recency": 0.8358,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7726,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8287,
+        "recency": 0.8179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7812,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8288,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7337,
+        "recency": 0.7241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -521,7 +604,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -541,7 +624,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -562,8 +645,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
         "id": "ed095435e215db2390cfbd254edfd2016a91de88",
         "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
@@ -580,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -628,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8117,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -686,7 +769,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -706,7 +789,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -727,8 +810,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
         "id": "fa9973acbcbf885dbcdabeccdb1cdd39977bb2ca",
         "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
@@ -745,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -793,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7769,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -874,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8003,
+        "recency": 0.7898,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -932,7 +1015,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -952,7 +1035,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -973,8 +1056,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
         "id": "970deee819eb74f62f66cf1aa3fb7d948e150dc1",
         "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
@@ -991,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -1014,7 +1097,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -1034,7 +1117,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -1055,8 +1138,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
         "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
         "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
@@ -1073,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -1096,7 +1179,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -1116,7 +1199,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -1137,8 +1220,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
         "id": "bae37707d92e86e5a34c8b499894153366250552",
         "title": "一站式搞定多模型：OpenRouter 推出异步视频生成 API 接入指南",
@@ -1155,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -1232,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6393,
-      "importance": 0.6393,
-      "importance_score": 0.6393,
+      "score": 0.6373,
+      "importance": 0.6373,
+      "importance_score": 0.6373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8782,
+        "recency": 0.8667,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1265,7 +1348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -1288,7 +1371,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -1308,7 +1391,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1412,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
         "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
         "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
@@ -1347,30 +1430,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
-      "story_id": "story_c1e51b9fd34f",
-      "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-      "url": "https://www.aibase.com/news/30632",
-      "primary_url": "https://www.aibase.com/news/30632",
+      "story_id": "story_b2c58e34aaf2",
+      "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+      "url": "https://www.aibase.com/news/30643",
+      "primary_url": "https://www.aibase.com/news/30643",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
+          "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+          "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
           "title_en": null,
-          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30632",
+          "url": "https://www.aibase.com/news/30643",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -1379,18 +1462,18 @@
       ],
       "items": [
         {
-          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
+          "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+          "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
           "title_en": null,
-          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30632",
+          "url": "https://www.aibase.com/news/30643",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -1411,17 +1494,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
-        "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-        "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-        "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+        "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
+        "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+        "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
         "title_en": null,
-        "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+        "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30632",
+        "url": "https://www.aibase.com/news/30643",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1429,30 +1512,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
-      "story_id": "story_9ac4990f24cf",
-      "title": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
-      "url": "https://www.aibase.com/news/30640",
-      "primary_url": "https://www.aibase.com/news/30640",
+      "story_id": "story_c84a4b0b7ec0",
+      "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+      "url": "https://www.aibase.com/news/30644",
+      "primary_url": "https://www.aibase.com/news/30644",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3ce25d705d0a8b4fd3d222564172a8b11930f9fc",
-          "title": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
-          "title_zh": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
+          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
+          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
           "title_en": null,
-          "title_original": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
+          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30640",
+          "url": "https://www.aibase.com/news/30644",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "source_count": 1,
@@ -1461,18 +1544,18 @@
       ],
       "items": [
         {
-          "id": "3ce25d705d0a8b4fd3d222564172a8b11930f9fc",
-          "title": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
-          "title_zh": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
+          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
+          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
           "title_en": null,
-          "title_original": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
+          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30640",
+          "url": "https://www.aibase.com/news/30644",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:06:01.352299Z"
+          "published_at": "2026-08-26T10:00:31.913013Z"
         }
       ],
       "item_count": 1,
@@ -1493,17 +1576,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:06:01.352299Z",
-      "latest_at": "2026-08-26T09:06:01.352299Z",
+      "earliest_at": "2026-08-26T10:00:31.913013Z",
+      "latest_at": "2026-08-26T10:00:31.913013Z",
       "primary_item": {
-        "id": "3ce25d705d0a8b4fd3d222564172a8b11930f9fc",
-        "title": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
-        "title_zh": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
+        "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
+        "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+        "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
         "title_en": null,
-        "title_original": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
+        "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30640",
+        "url": "https://www.aibase.com/news/30644",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1511,7 +1594,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     },
     {
@@ -1617,15 +1700,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.7936,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1650,117 +1733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
-      }
-    },
-    {
-      "story_id": "story_2947802bd7fb",
-      "title": "Analyzing student votes across AI models for college essay help",
-      "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-      "primary_url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "fa09e62f976193a734e1f277fe68a9d9c96f2f71",
-          "title": "Analyzing student votes across AI models for college essay help",
-          "title_zh": null,
-          "title_en": "Analyzing student votes across AI models for college essay help",
-          "title_original": "Analyzing student votes across AI models for college essay help",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T03:23:50Z"
-        },
-        {
-          "id": "37c2ed55014aa29fd0d69180b08f73fd10c78097",
-          "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-          "title_zh": null,
-          "title_en": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-          "title_original": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-26T03:23:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "fa09e62f976193a734e1f277fe68a9d9c96f2f71",
-          "title": "Analyzing student votes across AI models for college essay help",
-          "title_zh": null,
-          "title_en": "Analyzing student votes across AI models for college essay help",
-          "title_original": "Analyzing student votes across AI models for college essay help",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T03:23:50Z"
-        },
-        {
-          "id": "37c2ed55014aa29fd0d69180b08f73fd10c78097",
-          "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-          "title_zh": null,
-          "title_en": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-          "title_original": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-26T03:23:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9209,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-26T03:23:50Z",
-      "latest_at": "2026-08-26T03:23:50Z",
-      "primary_item": {
-        "id": "fa09e62f976193a734e1f277fe68a9d9c96f2f71",
-        "title": "Analyzing student votes across AI models for college essay help",
-        "title_zh": null,
-        "title_en": "Analyzing student votes across AI models for college essay help",
-        "title_original": "Analyzing student votes across AI models for college essay help",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T09:31:31.700841Z"
+        "scored_at": "2026-08-26T10:27:57.361098Z"
       }
     }
   ]
