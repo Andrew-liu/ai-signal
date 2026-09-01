@@ -1,8 +1,204 @@
 {
-  "generated_at": "2026-09-01T19:57:31.630598Z",
+  "generated_at": "2026-09-01T22:38:28.412432Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_94cad6318b8f",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "primary_url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_zh": null,
+          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T21:39:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_zh": null,
+          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T21:39:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8674,
+      "importance": 0.8674,
+      "importance_score": 0.8674,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9858,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T21:39:07Z",
+      "latest_at": "2026-09-01T21:39:07Z",
+      "primary_item": {
+        "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "title_zh": null,
+        "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/benchmirt",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_0ce11be79fc0",
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "primary_url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra: critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra: critical capabilities and frontier safeguards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T13:00:00Z"
+        },
+        {
+          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra： critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra： critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra： critical capabilities and frontier safeguards",
+          "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T13:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra: critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra: critical capabilities and frontier safeguards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T13:00:00Z"
+        },
+        {
+          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra： critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra： critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra： critical capabilities and frontier safeguards",
+          "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.87,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T13:00:00Z",
+      "latest_at": "2026-09-01T13:00:00Z",
+      "primary_item": {
+        "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
+        "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+        "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+        "title_en": "Path to Astra: critical capabilities and frontier safeguards",
+        "title_original": "Path to Astra: critical capabilities and frontier safeguards",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/path-to-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
     {
       "story_id": "story_944fc7884d19",
       "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
@@ -77,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
+      "score": 0.8525,
+      "importance": 0.8525,
+      "importance_score": 0.8525,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9444,
+        "recency": 0.9086,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +309,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_730fa9d1ab54",
+      "title": "Copilot code review can now approve pull requests",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
+          "title": "Copilot code review can now approve pull requests",
+          "title_zh": null,
+          "title_en": "Copilot code review can now approve pull requests",
+          "title_original": "Copilot code review can now approve pull requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T19:25:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
+          "title": "Copilot code review can now approve pull requests",
+          "title_zh": null,
+          "title_en": "Copilot code review can now approve pull requests",
+          "title_original": "Copilot code review can now approve pull requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T19:25:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9547,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T19:25:57Z",
+      "latest_at": "2026-09-01T19:25:57Z",
+      "primary_item": {
+        "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
+        "title": "Copilot code review can now approve pull requests",
+        "title_zh": null,
+        "title_en": "Copilot code review can now approve pull requests",
+        "title_original": "Copilot code review can now approve pull requests",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_7ec800fd62d3",
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "title_en": "Introducing agentic video understanding with Gemini",
+          "title_original": "Introducing agentic video understanding with Gemini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:08:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "title_en": "Introducing agentic video understanding with Gemini",
+          "title_original": "Introducing agentic video understanding with Gemini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:08:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9237,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T17:08:51Z",
+      "latest_at": "2026-09-01T17:08:51Z",
+      "primary_item": {
+        "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+        "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+        "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+        "title_en": "Introducing agentic video understanding with Gemini",
+        "title_original": "Introducing agentic video understanding with Gemini",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_f7b63d022353",
+      "title": "ChatGPT for iOS 1.2026.237",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
+          "title": "ChatGPT for iOS 1.2026.237",
+          "title_zh": null,
+          "title_en": "ChatGPT for iOS 1.2026.237",
+          "title_original": "ChatGPT for iOS 1.2026.237",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
+          "title": "ChatGPT for iOS 1.2026.237",
+          "title_zh": null,
+          "title_en": "ChatGPT for iOS 1.2026.237",
+          "title_original": "ChatGPT for iOS 1.2026.237",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7211,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
+      "primary_item": {
+        "id": "099b73f8e0c31aac2c3850689319c442f111363e",
+        "title": "ChatGPT for iOS 1.2026.237",
+        "title_zh": null,
+        "title_en": "ChatGPT for iOS 1.2026.237",
+        "title_original": "ChatGPT for iOS 1.2026.237",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
@@ -190,15 +635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.8408,
+      "importance": 0.8408,
+      "importance_score": 0.8408,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7496,
+        "recency": 0.7211,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,63 +671,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
-      "story_id": "story_7ec800fd62d3",
-      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "source": "Google DeepMind",
+      "story_id": "story_8fd24e2f72d6",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-          "title_en": "Introducing agentic video understanding with Gemini",
-          "title_original": "Introducing agentic video understanding with Gemini",
+          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+          "title": "The latest AI news we announced in August 2026",
+          "title_zh": null,
+          "title_en": "The latest AI news we announced in August 2026",
+          "title_original": "The latest AI news we announced in August 2026",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-          "source": "Google DeepMind",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-01T20:45:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-          "title_en": "Introducing agentic video understanding with Gemini",
-          "title_original": "Introducing agentic video understanding with Gemini",
+          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+          "title": "The latest AI news we announced in August 2026",
+          "title_zh": null,
+          "title_en": "The latest AI news we announced in August 2026",
+          "title_original": "The latest AI news we announced in August 2026",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-          "source": "Google DeepMind",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-01T20:45:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9602,
+        "ai_relevance": 0.87,
+        "recency": 0.9731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -291,25 +736,108 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T17:08:51Z",
-      "latest_at": "2026-09-01T17:08:51Z",
+      "earliest_at": "2026-09-01T20:45:00Z",
+      "latest_at": "2026-09-01T20:45:00Z",
       "primary_item": {
-        "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-        "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-        "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-        "title_en": "Introducing agentic video understanding with Gemini",
-        "title_original": "Introducing agentic video understanding with Gemini",
+        "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+        "title": "The latest AI news we announced in August 2026",
+        "title_zh": null,
+        "title_en": "The latest AI news we announced in August 2026",
+        "title_original": "The latest AI news we announced in August 2026",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-        "source": "Google DeepMind",
+        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_5de5820ec3a1",
+      "title": "Set an expiration date for individual user budgets",
+      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "primary_url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "Set an expiration date for individual user budgets",
+          "title_zh": null,
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:23:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "Set an expiration date for individual user budgets",
+          "title_zh": null,
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:23:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T20:23:13Z",
+      "latest_at": "2026-09-01T20:23:13Z",
+      "primary_item": {
+        "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+        "title": "Set an expiration date for individual user budgets",
+        "title_zh": null,
+        "title_en": "Set an expiration date for individual user budgets",
+        "title_original": "Set an expiration date for individual user budgets",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
@@ -357,15 +885,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9582,
+        "recency": 0.9218,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,90 +920,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
-      "story_id": "story_c5bbc19a185e",
-      "title": "Block users from discussion comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-      "primary_url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_8be3f771f410",
+      "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+      "url": "https://www.ithome.com/0/997/193.htm",
+      "primary_url": "https://www.ithome.com/0/997/193.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
-          "title": "Block users from discussion comments in personal repositories",
-          "title_zh": null,
-          "title_en": "Block users from discussion comments in personal repositories",
-          "title_original": "Block users from discussion comments in personal repositories",
-          "summary": null,
+          "id": "b8c0879b654ddacae590cc0f473688991ba5e535",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+          "title_en": null,
+          "title_original": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+          "summary": "Anthropic 于当地时间 9 月 1 日发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者基于同一基础模型，安全防护等级不同，Mythos 5.1 仅向经审核的网络安全和生命科学机构开放。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T16:30:01Z"
+          "url": "https://www.ithome.com/0/997/193.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T22:28:51Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
-          "title": "Block users from discussion comments in personal repositories",
-          "title_zh": null,
-          "title_en": "Block users from discussion comments in personal repositories",
-          "title_original": "Block users from discussion comments in personal repositories",
-          "summary": null,
+          "id": "b8c0879b654ddacae590cc0f473688991ba5e535",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+          "title_en": null,
+          "title_original": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+          "summary": "Anthropic 于当地时间 9 月 1 日发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者基于同一基础模型，安全防护等级不同，Mythos 5.1 仅向经审核的网络安全和生命科学机构开放。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T16:30:01Z"
+          "url": "https://www.ithome.com/0/997/193.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T22:28:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
-      "importance_label": "官方更新",
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9513,
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9977,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T16:30:01Z",
-      "latest_at": "2026-09-01T16:30:01Z",
+      "earliest_at": "2026-09-01T22:28:51Z",
+      "latest_at": "2026-09-01T22:28:51Z",
       "primary_item": {
-        "id": "bf50859f7b602b883e3989337622c9ed804069e9",
-        "title": "Block users from discussion comments in personal repositories",
-        "title_zh": null,
-        "title_en": "Block users from discussion comments in personal repositories",
-        "title_original": "Block users from discussion comments in personal repositories",
-        "summary": null,
+        "id": "b8c0879b654ddacae590cc0f473688991ba5e535",
+        "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+        "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+        "title_en": null,
+        "title_original": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+        "summary": "Anthropic 于当地时间 9 月 1 日发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者基于同一基础模型，安全防护等级不同，Mythos 5.1 仅向经审核的网络安全和生命科学机构开放。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.ithome.com/0/997/193.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_63ad5ad85eb2",
+      "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45% / Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49fd97293c036364e661ee770affbf367a5d4dab",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45% / Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45%",
+          "title_en": "Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+          "title_original": "Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+          "summary": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，回应客户对价格、数据保留和过度安全限制的批评。Fable 5.1 性能强于 Fable 5，通常便宜约 25%，复杂智能体任务因缓存数据降价最高便宜 45%，现已在所有平台可用；Mythos 5.1 仅向 Project Glasswing 参与者开放。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T22:01:36Z"
+        },
+        {
+          "id": "807b8a8ceca8ccb3becc45272bc28db790f2334f",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45% / Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45%",
+          "title_en": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "title_original": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-01T22:01:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "49fd97293c036364e661ee770affbf367a5d4dab",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45% / Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45%",
+          "title_en": "Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+          "title_original": "Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+          "summary": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，回应客户对价格、数据保留和过度安全限制的批评。Fable 5.1 性能强于 Fable 5，通常便宜约 25%，复杂智能体任务因缓存数据降价最高便宜 45%，现已在所有平台可用；Mythos 5.1 仅向 Project Glasswing 参与者开放。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T22:01:36Z"
+        },
+        {
+          "id": "807b8a8ceca8ccb3becc45272bc28db790f2334f",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45% / Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45%",
+          "title_en": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "title_original": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-01T22:01:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9912,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T22:01:36Z",
+      "latest_at": "2026-09-01T22:01:36Z",
+      "primary_item": {
+        "id": "49fd97293c036364e661ee770affbf367a5d4dab",
+        "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45% / Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+        "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45%",
+        "title_en": "Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+        "title_original": "Anthropic launches Claude Fable 5.1 and says it&#8217；s up to 45 percent cheaper for agentic work",
+        "summary": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，回应客户对价格、数据保留和过度安全限制的批评。Fable 5.1 性能强于 Fable 5，通常便宜约 25%，复杂智能体任务因缓存数据降价最高便宜 45%，现已在所有平台可用；Mythos 5.1 仅向 Project Glasswing 参与者开放。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
@@ -523,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7496,
+        "recency": 0.7211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -558,90 +1197,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_d048fe91383f",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_zh": null,
-          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_zh": null,
-          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8914,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T12:00:00Z",
-      "latest_at": "2026-09-01T12:00:00Z",
-      "primary_item": {
-        "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "title_zh": null,
-        "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
@@ -689,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9965,
+        "recency": 0.9587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,63 +1279,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
-      "story_id": "story_d2daab157b0c",
-      "title": "Copilot model access update for GitHub Team plans",
-      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_392cc5c32bd1",
+      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+      "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-          "title": "Copilot model access update for GitHub Team plans",
-          "title_zh": null,
-          "title_en": "Copilot model access update for GitHub Team plans",
-          "title_original": "Copilot model access update for GitHub Team plans",
-          "summary": null,
+          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
+          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+          "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T21:58:46Z"
+          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T20:12:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-          "title": "Copilot model access update for GitHub Team plans",
-          "title_zh": null,
-          "title_en": "Copilot model access update for GitHub Team plans",
-          "title_original": "Copilot model access update for GitHub Team plans",
-          "summary": null,
+          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
+          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+          "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T21:58:46Z"
+          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T20:12:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T20:12:46Z",
+      "latest_at": "2026-09-01T20:12:46Z",
+      "primary_item": {
+        "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
+        "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+        "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+        "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+        "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+        "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_d048fe91383f",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_zh": null,
+          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_zh": null,
+          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.728,
+        "ai_relevance": 0.95,
+        "recency": 0.8576,
         "story_heat": 0.0
       },
       "category": "official",
@@ -788,17 +1426,100 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T21:58:46Z",
-      "latest_at": "2026-08-31T21:58:46Z",
+      "earliest_at": "2026-09-01T12:00:00Z",
+      "latest_at": "2026-09-01T12:00:00Z",
       "primary_item": {
-        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-        "title": "Copilot model access update for GitHub Team plans",
+        "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
         "title_zh": null,
-        "title_en": "Copilot model access update for GitHub Team plans",
-        "title_original": "Copilot model access update for GitHub Team plans",
+        "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T23:05:10.200874Z"
+      }
+    },
+    {
+      "story_id": "story_c5bbc19a185e",
+      "title": "Block users from discussion comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "Block users from discussion comments in personal repositories",
+          "title_zh": null,
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "Block users from discussion comments in personal repositories",
+          "title_zh": null,
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9151,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T16:30:01Z",
+      "latest_at": "2026-09-01T16:30:01Z",
+      "primary_item": {
+        "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+        "title": "Block users from discussion comments in personal repositories",
+        "title_zh": null,
+        "title_en": "Block users from discussion comments in personal repositories",
+        "title_original": "Block users from discussion comments in personal repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -806,7 +1527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
@@ -829,7 +1550,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T19:57:31.630598Z"
+          "published_at": "2026-09-01T22:01:28.412432Z"
         }
       ],
       "source_count": 1,
@@ -849,20 +1570,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T19:57:31.630598Z"
+          "published_at": "2026-09-01T22:01:28.412432Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -870,8 +1591,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T19:57:31.630598Z",
-      "latest_at": "2026-09-01T19:57:31.630598Z",
+      "earliest_at": "2026-09-01T22:01:28.412432Z",
+      "latest_at": "2026-09-01T22:01:28.412432Z",
       "primary_item": {
         "id": "b4d352b739db619879d97925606394587b8ce728",
         "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
@@ -888,89 +1609,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
-      "story_id": "story_0ccf033da9a1",
-      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-      "url": "https://www.ithome.com/0/997/147.htm",
-      "primary_url": "https://www.ithome.com/0/997/147.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_f1c64ea64db1",
+      "title": "GitHub CLI: Media in issues, pull requests, and comments",
+      "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+      "primary_url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5185e25016efc4497b35a35d691c0680728e6658",
-          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_en": null,
-          "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+          "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+          "title": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_zh": null,
+          "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T12:40:19Z"
+          "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:35:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "5185e25016efc4497b35a35d691c0680728e6658",
-          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "title_en": null,
-          "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+          "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+          "title": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_zh": null,
+          "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T12:40:19Z"
+          "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:35:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "行业动态",
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.865,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T12:40:19Z",
-      "latest_at": "2026-09-01T12:40:19Z",
+      "earliest_at": "2026-09-01T12:35:59Z",
+      "latest_at": "2026-09-01T12:35:59Z",
       "primary_item": {
-        "id": "5185e25016efc4497b35a35d691c0680728e6658",
-        "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-        "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-        "title_en": null,
-        "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-        "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+        "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+        "title": "GitHub CLI: Media in issues, pull requests, and comments",
+        "title_zh": null,
+        "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+        "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/997/147.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     },
     {
@@ -993,7 +1715,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T17:57:31.630598Z"
+          "published_at": "2026-09-01T18:38:28.412432Z"
         }
       ],
       "source_count": 1,
@@ -1013,20 +1735,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T17:57:31.630598Z"
+          "published_at": "2026-09-01T18:38:28.412432Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,8 +1756,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T17:57:31.630598Z",
-      "latest_at": "2026-09-01T17:57:31.630598Z",
+      "earliest_at": "2026-09-01T18:38:28.412432Z",
+      "latest_at": "2026-09-01T18:38:28.412432Z",
       "primary_item": {
         "id": "04db91eb090cb2dda69b96925c05a625f622e5bc",
         "title": "炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？",
@@ -1052,661 +1774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_360d8006f7ec",
-      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-      "url": "https://www.ithome.com/0/996/711.htm",
-      "primary_url": "https://www.ithome.com/0/996/711.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_en": null,
-          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/996/711.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:55:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_en": null,
-          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/996/711.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:55:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7488,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T23:55:44Z",
-      "latest_at": "2026-08-31T23:55:44Z",
-      "primary_item": {
-        "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-        "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "title_en": null,
-        "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/996/711.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_c37db48c5752",
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "primary_url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-          "title_zh": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-          "title_en": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-          "title_original": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-          "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:07:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-          "title_zh": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-          "title_en": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-          "title_original": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-          "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:07:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.751,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-01T00:07:51Z",
-      "latest_at": "2026-09-01T00:07:51Z",
-      "primary_item": {
-        "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-        "title": "Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-        "title_zh": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-        "title_en": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-        "title_original": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-        "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_6f36d8876ee7",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "source": "Claude Platform：开发者版本说明（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e2696f8d56951fd0408043550930c79ed5401eb2",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "title_en": "Claude Platform release notes - September 1， 2026",
-          "title_original": "Claude Platform release notes - September 1， 2026",
-          "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
-          "recommend_reason_zh": null,
-          "url": "https://platform.claude.com/docs/en/release-notes/overview",
-          "source": "Claude Platform：开发者版本说明（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude Platform：开发者版本说明（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e2696f8d56951fd0408043550930c79ed5401eb2",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "title_en": "Claude Platform release notes - September 1， 2026",
-          "title_original": "Claude Platform release notes - September 1， 2026",
-          "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
-          "recommend_reason_zh": null,
-          "url": "https://platform.claude.com/docs/en/release-notes/overview",
-          "source": "Claude Platform：开发者版本说明（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7496,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-01T00:00:00Z",
-      "latest_at": "2026-09-01T00:00:00Z",
-      "primary_item": {
-        "id": "e2696f8d56951fd0408043550930c79ed5401eb2",
-        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
-        "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-        "title_en": "Claude Platform release notes - September 1， 2026",
-        "title_original": "Claude Platform release notes - September 1， 2026",
-        "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
-        "recommend_reason_zh": null,
-        "url": "https://platform.claude.com/docs/en/release-notes/overview",
-        "source": "Claude Platform：开发者版本说明（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_00a15fcdfcdb",
-      "title": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-      "url": "https://www.aibase.com/news/30758",
-      "primary_url": "https://www.aibase.com/news/30758",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fd5222fc68ea0d6b1806439fd42b74de839a679c",
-          "title": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-          "title_zh": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-          "title_en": null,
-          "title_original": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30758",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T17:57:31.630598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fd5222fc68ea0d6b1806439fd42b74de839a679c",
-          "title": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-          "title_zh": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-          "title_en": null,
-          "title_original": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30758",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T17:57:31.630598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T17:57:31.630598Z",
-      "latest_at": "2026-09-01T17:57:31.630598Z",
-      "primary_item": {
-        "id": "fd5222fc68ea0d6b1806439fd42b74de839a679c",
-        "title": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-        "title_zh": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-        "title_en": null,
-        "title_original": "韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30758",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_738e46a2b277",
-      "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-      "url": "https://www.aibase.com/news/30754",
-      "primary_url": "https://www.aibase.com/news/30754",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2c5828ccd525985def3b53b56cf619cb18ca0723",
-          "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_zh": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_en": null,
-          "title_original": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30754",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T15:57:31.630598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2c5828ccd525985def3b53b56cf619cb18ca0723",
-          "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_zh": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_en": null,
-          "title_original": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30754",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T15:57:31.630598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T15:57:31.630598Z",
-      "latest_at": "2026-09-01T15:57:31.630598Z",
-      "primary_item": {
-        "id": "2c5828ccd525985def3b53b56cf619cb18ca0723",
-        "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-        "title_zh": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-        "title_en": null,
-        "title_original": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30754",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_08b8473c055e",
-      "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-      "url": "https://www.aibase.com/news/30755",
-      "primary_url": "https://www.aibase.com/news/30755",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee5489ec174cd4fbdbb794774853cb85224c8a04",
-          "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-          "title_zh": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-          "title_en": null,
-          "title_original": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30755",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T15:57:31.630598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee5489ec174cd4fbdbb794774853cb85224c8a04",
-          "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-          "title_zh": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-          "title_en": null,
-          "title_original": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30755",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T15:57:31.630598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T15:57:31.630598Z",
-      "latest_at": "2026-09-01T15:57:31.630598Z",
-      "primary_item": {
-        "id": "ee5489ec174cd4fbdbb794774853cb85224c8a04",
-        "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-        "title_zh": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-        "title_en": null,
-        "title_original": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30755",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_d50e38f3313d",
-      "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-      "url": "https://www.aibase.com/news/30756",
-      "primary_url": "https://www.aibase.com/news/30756",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_zh": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_en": null,
-          "title_original": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30756",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T15:57:31.630598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_zh": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_en": null,
-          "title_original": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30756",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T15:57:31.630598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T15:57:31.630598Z",
-      "latest_at": "2026-09-01T15:57:31.630598Z",
-      "primary_item": {
-        "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-        "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-        "title_zh": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-        "title_en": null,
-        "title_original": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30756",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
-      }
-    },
-    {
-      "story_id": "story_faa62a90bef8",
-      "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-      "url": "https://www.aibase.com/news/30752",
-      "primary_url": "https://www.aibase.com/news/30752",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30752",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T14:57:31.630598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30752",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T14:57:31.630598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T14:57:31.630598Z",
-      "latest_at": "2026-09-01T14:57:31.630598Z",
-      "primary_item": {
-        "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-        "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "title_en": null,
-        "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30752",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T20:20:44.863082Z"
+        "scored_at": "2026-09-01T23:05:10.200874Z"
       }
     }
   ]
