@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-31T20:10:41.115188Z",
+  "generated_at": "2026-08-31T23:54:21.887350Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b69e2792fc70",
+      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.987,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T23:00:05.386000Z",
+      "latest_at": "2026-08-31T23:00:05.386000Z",
+      "primary_item": {
+        "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+        "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+        "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+        "title_en": "Improving our alignment and security efforts",
+        "title_original": "Improving our alignment and security efforts",
+        "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T00:17:32.323329Z"
+      }
+    },
     {
       "story_id": "story_bd6dbcbcc36a",
       "title": "GitHub Copilot in VS Code, August 2026 releases",
@@ -48,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8468,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +165,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
+      }
+    },
+    {
+      "story_id": "story_582378d45ba0",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "primary_url": "https://openai.com/index/polimill",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": null,
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": null,
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7834,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:00:00Z",
+      "latest_at": "2026-08-31T07:00:00Z",
+      "primary_item": {
+        "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+        "title": "Polimill builds Japan's next-generation public AI infrastructure",
+        "title_zh": null,
+        "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+        "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/polimill",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -131,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7917,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -189,7 +354,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
+          "published_at": "2026-08-31T17:54:21.887350Z"
         }
       ],
       "source_count": 1,
@@ -209,20 +374,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
+          "published_at": "2026-08-31T17:54:21.887350Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -230,8 +395,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T17:10:41.115188Z",
-      "latest_at": "2026-08-31T17:10:41.115188Z",
+      "earliest_at": "2026-08-31T17:54:21.887350Z",
+      "latest_at": "2026-08-31T17:54:21.887350Z",
       "primary_item": {
         "id": "2d84a1a39345577f8c5bdba4f81c293fa5f4539a",
         "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
@@ -248,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -296,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8834,
+        "recency": 0.8371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,7 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -378,21 +543,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7472,
+        "recency": 0.708,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-30T23:59:47Z",
       "latest_at": "2026-08-30T23:59:47Z",
@@ -412,7 +576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -460,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.956,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,89 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
-      }
-    },
-    {
-      "story_id": "story_2d9cbccbc345",
-      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-      "url": "https://www.aibase.com/news/30726",
-      "primary_url": "https://www.aibase.com/news/30726",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_en": null,
-          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_en": null,
-          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T17:10:41.115188Z",
-      "latest_at": "2026-08-31T17:10:41.115188Z",
-      "primary_item": {
-        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "title_en": null,
-        "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30726",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -623,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7517,
+        "recency": 0.7123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,88 +738,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
-      "story_id": "story_bb8456f834ab",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_2d9cbccbc345",
+      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+      "url": "https://www.aibase.com/news/30726",
+      "primary_url": "https://www.aibase.com/news/30726",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_en": null,
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:54:21.887350Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_en": null,
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:54:21.887350Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.63,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9334,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-31T15:24:14Z",
-      "latest_at": "2026-08-31T15:24:14Z",
+      "earliest_at": "2026-08-31T16:54:21.887350Z",
+      "latest_at": "2026-08-31T16:54:21.887350Z",
       "primary_item": {
-        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_en": null,
+        "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30726",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
+      }
+    },
+    {
+      "story_id": "story_ef5d81126fd2",
+      "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+      "url": "https://www.aibase.com/news/30725",
+      "primary_url": "https://www.aibase.com/news/30725",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
+          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "title_zh": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "title_en": null,
+          "title_original": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:54:21.887350Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
+          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "title_zh": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "title_en": null,
+          "title_original": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:54:21.887350Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T16:54:21.887350Z",
+      "latest_at": "2026-08-31T16:54:21.887350Z",
+      "primary_item": {
+        "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
+        "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+        "title_zh": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+        "title_en": null,
+        "title_original": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30725",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -760,7 +925,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
+          "published_at": "2026-08-31T16:54:21.887350Z"
         }
       ],
       "source_count": 1,
@@ -780,20 +945,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
+          "published_at": "2026-08-31T16:54:21.887350Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -801,8 +966,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T17:10:41.115188Z",
-      "latest_at": "2026-08-31T17:10:41.115188Z",
+      "earliest_at": "2026-08-31T16:54:21.887350Z",
+      "latest_at": "2026-08-31T16:54:21.887350Z",
       "primary_item": {
         "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
         "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
@@ -819,7 +984,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -842,7 +1007,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
+          "published_at": "2026-08-31T16:54:21.887350Z"
         }
       ],
       "source_count": 1,
@@ -862,20 +1027,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T17:10:41.115188Z"
+          "published_at": "2026-08-31T16:54:21.887350Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,8 +1048,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T17:10:41.115188Z",
-      "latest_at": "2026-08-31T17:10:41.115188Z",
+      "earliest_at": "2026-08-31T16:54:21.887350Z",
+      "latest_at": "2026-08-31T16:54:21.887350Z",
       "primary_item": {
         "id": "1b0ba04e595ae87af4620134a940b64b363bc0db",
         "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
@@ -901,7 +1066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -924,7 +1089,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
+          "published_at": "2026-08-31T15:54:21.887350Z"
         }
       ],
       "source_count": 1,
@@ -944,29 +1109,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
+          "published_at": "2026-08-31T15:54:21.887350Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T16:10:41.115188Z",
-      "latest_at": "2026-08-31T16:10:41.115188Z",
+      "earliest_at": "2026-08-31T15:54:21.887350Z",
+      "latest_at": "2026-08-31T15:54:21.887350Z",
       "primary_item": {
         "id": "ac3d42e757acdf40ddc5ef4762382e2fe7ac959e",
         "title": "Claude遭大规模盗号，大批账号被强制注销",
@@ -983,89 +1147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
-      }
-    },
-    {
-      "story_id": "story_b510ea2a0b4a",
-      "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-      "url": "https://www.aibase.com/news/30724",
-      "primary_url": "https://www.aibase.com/news/30724",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c2dbd33b2641354828e6f449dd76704421772400",
-          "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-          "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-          "title_en": null,
-          "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30724",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c2dbd33b2641354828e6f449dd76704421772400",
-          "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-          "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-          "title_en": null,
-          "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30724",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T16:10:41.115188Z",
-      "latest_at": "2026-08-31T16:10:41.115188Z",
-      "primary_item": {
-        "id": "c2dbd33b2641354828e6f449dd76704421772400",
-        "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-        "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-        "title_en": null,
-        "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30724",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -1141,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6039,
-      "importance": 0.6039,
-      "importance_score": 0.6039,
+      "score": 0.5951,
+      "importance": 0.5951,
+      "importance_score": 0.5951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9358,
+        "recency": 0.8867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1174,30 +1256,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
-      "story_id": "story_ef5d81126fd2",
-      "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-      "url": "https://www.aibase.com/news/30725",
-      "primary_url": "https://www.aibase.com/news/30725",
+      "story_id": "story_afb410df2404",
+      "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+      "url": "https://www.aibase.com/news/30721",
+      "primary_url": "https://www.aibase.com/news/30721",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-          "title_zh": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
           "title_en": null,
-          "title_original": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30725",
+          "url": "https://www.aibase.com/news/30721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
+          "published_at": "2026-08-31T15:54:21.887350Z"
         }
       ],
       "source_count": 1,
@@ -1206,49 +1288,48 @@
       ],
       "items": [
         {
-          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-          "title_zh": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
           "title_en": null,
-          "title_original": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30725",
+          "url": "https://www.aibase.com/news/30721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
+          "published_at": "2026-08-31T15:54:21.887350Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T16:10:41.115188Z",
-      "latest_at": "2026-08-31T16:10:41.115188Z",
+      "earliest_at": "2026-08-31T15:54:21.887350Z",
+      "latest_at": "2026-08-31T15:54:21.887350Z",
       "primary_item": {
-        "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-        "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-        "title_zh": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+        "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+        "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+        "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
         "title_en": null,
-        "title_original": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+        "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30725",
+        "url": "https://www.aibase.com/news/30721",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1256,138 +1337,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
-      "story_id": "story_1820ecd798ef",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://news.ycombinator.com/item?id=49510000",
-      "primary_url": "https://news.ycombinator.com/item?id=49510000",
+      "story_id": "story_0de030a9d5d9",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://news.ycombinator.com/item?id=49508982",
+      "primary_url": "https://news.ycombinator.com/item?id=49508982",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
+          "url": "https://news.ycombinator.com/item?id=49508982",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T19:49:07.264000Z"
+          "published_at": "2026-08-31T23:57:44.590000Z"
         },
         {
-          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
-          "title": "ChatGPT 工作工具与技能参考",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": null,
-          "title_original": "ChatGPT 工作工具与技能参考",
+          "id": "d939518be2259fea47ec2b899497c65553d4778f",
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "codex-tool-reference.simonw.chatgpt.site",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T17:21:15.952000Z"
-        },
-        {
-          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
-          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T14:07:15Z"
+          "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T22:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "codex-tool-reference.simonw.chatgpt.site",
+        "Slashdot",
         "hackernews"
       ],
       "items": [
         {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
+          "url": "https://news.ycombinator.com/item?id=49508982",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T19:49:07.264000Z"
+          "published_at": "2026-08-31T23:57:44.590000Z"
         },
         {
-          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
-          "title": "ChatGPT 工作工具与技能参考",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": null,
-          "title_original": "ChatGPT 工作工具与技能参考",
+          "id": "d939518be2259fea47ec2b899497c65553d4778f",
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "codex-tool-reference.simonw.chatgpt.site",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T17:21:15.952000Z"
-        },
-        {
-          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
-          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T14:07:15Z"
+          "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T22:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5699,
-      "importance": 0.5699,
-      "importance_score": 0.5699,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T14:07:15Z",
-      "latest_at": "2026-08-31T19:49:07.264000Z",
+      "earliest_at": "2026-08-31T22:00:00Z",
+      "latest_at": "2026-08-31T23:57:44.590000Z",
       "primary_item": {
-        "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-        "title": "ChatGPT Work Tool and Skill Reference",
+        "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
         "title_zh": null,
-        "title_en": "ChatGPT Work Tool and Skill Reference",
-        "title_original": "ChatGPT Work Tool and Skill Reference",
+        "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49510000",
+        "url": "https://news.ycombinator.com/item?id=49508982",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1395,30 +1447,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
-      "story_id": "story_d7138df61117",
-      "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-      "url": "https://www.aibase.com/news/30723",
-      "primary_url": "https://www.aibase.com/news/30723",
+      "story_id": "story_b510ea2a0b4a",
+      "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+      "url": "https://www.aibase.com/news/30724",
+      "primary_url": "https://www.aibase.com/news/30724",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "id": "c2dbd33b2641354828e6f449dd76704421772400",
+          "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+          "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
           "title_en": null,
-          "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30723",
+          "url": "https://www.aibase.com/news/30724",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
+          "published_at": "2026-08-31T15:54:21.887350Z"
         }
       ],
       "source_count": 1,
@@ -1427,49 +1479,48 @@
       ],
       "items": [
         {
-          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "id": "c2dbd33b2641354828e6f449dd76704421772400",
+          "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+          "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
           "title_en": null,
-          "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30723",
+          "url": "https://www.aibase.com/news/30724",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-31T16:10:41.115188Z"
+          "published_at": "2026-08-31T15:54:21.887350Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T16:10:41.115188Z",
-      "latest_at": "2026-08-31T16:10:41.115188Z",
+      "earliest_at": "2026-08-31T15:54:21.887350Z",
+      "latest_at": "2026-08-31T15:54:21.887350Z",
       "primary_item": {
-        "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-        "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-        "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+        "id": "c2dbd33b2641354828e6f449dd76704421772400",
+        "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+        "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
         "title_en": null,
-        "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+        "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30723",
+        "url": "https://www.aibase.com/news/30724",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1477,7 +1528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
@@ -1554,15 +1605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1587,227 +1638,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     },
     {
-      "story_id": "story_2f756534b2bf",
-      "title": "如何构建扩散式语言模型",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "primary_url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "source": "kuleshov-group.github.io",
+      "story_id": "story_1820ecd798ef",
+      "title": "ChatGPT 工作工具与技能参考",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "primary_url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "source": "codex-tool-reference.simonw.chatgpt.site",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "如何构建扩散式语言模型",
-          "title_zh": "如何构建扩散式语言模型",
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
+          "title_original": "ChatGPT 工作工具与技能参考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
+          "published_at": "2026-08-31T17:21:15.952000Z"
         },
         {
-          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
-          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
+          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-30T23:41:32Z"
+          "published_at": "2026-08-31T14:07:15Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "kuleshov-group.github.io"
+        "codex-tool-reference.simonw.chatgpt.site"
       ],
       "items": [
         {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "如何构建扩散式语言模型",
-          "title_zh": "如何构建扩散式语言模型",
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
+          "title_original": "ChatGPT 工作工具与技能参考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
+          "published_at": "2026-08-31T17:21:15.952000Z"
         },
         {
-          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
-          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
+          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-30T23:41:32Z"
+          "published_at": "2026-08-31T14:07:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8724,
+        "recency": 0.9097,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T23:41:32Z",
-      "latest_at": "2026-08-31T10:43:39.380000Z",
+      "earliest_at": "2026-08-31T14:07:15Z",
+      "latest_at": "2026-08-31T17:21:15.952000Z",
       "primary_item": {
-        "id": "dc27c896974cd20d87f139540e6288de4871c967",
-        "title": "如何构建扩散式语言模型",
-        "title_zh": "如何构建扩散式语言模型",
+        "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+        "title": "ChatGPT 工作工具与技能参考",
+        "title_zh": "ChatGPT 工作工具与技能参考",
         "title_en": null,
-        "title_original": "如何构建扩散式语言模型",
+        "title_original": "ChatGPT 工作工具与技能参考",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-        "source": "kuleshov-group.github.io",
+        "url": "https://codex-tool-reference.simonw.chatgpt.site",
+        "source": "codex-tool-reference.simonw.chatgpt.site",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
-      }
-    },
-    {
-      "story_id": "story_492835039be8",
-      "title": "OpenClaw 2.0，意外之作",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "source": "openclaw.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openclaw.ai"
-      ],
-      "items": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8691,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T03:38:02Z",
-      "latest_at": "2026-08-31T10:27:50.895000Z",
-      "primary_item": {
-        "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-        "title": "OpenClaw 2.0，意外之作",
-        "title_zh": "OpenClaw 2.0，意外之作",
-        "title_en": null,
-        "title_original": "OpenClaw 2.0，意外之作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-        "source": "openclaw.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:33:10.897317Z"
+        "scored_at": "2026-09-01T00:17:32.323329Z"
       }
     }
   ]
