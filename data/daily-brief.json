@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:53:40.403728Z",
+  "generated_at": "2026-09-03T11:23:16.689769Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9096,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9184,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,7 +224,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
+      }
+    },
+    {
+      "story_id": "story_76c94f0602dc",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "primary_url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
+          "title": "Give Your Coding Agents a Memory You Own",
+          "title_zh": null,
+          "title_en": "Give Your Coding Agents a Memory You Own",
+          "title_original": "Give Your Coding Agents a Memory You Own",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/funes",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
+          "title": "Give Your Coding Agents a Memory You Own",
+          "title_zh": null,
+          "title_en": "Give Your Coding Agents a Memory You Own",
+          "title_original": "Give Your Coding Agents a Memory You Own",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/funes",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8484,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
+      "primary_item": {
+        "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
+        "title": "Give Your Coding Agents a Memory You Own",
+        "title_zh": null,
+        "title_en": "Give Your Coding Agents a Memory You Own",
+        "title_original": "Give Your Coding Agents a Memory You Own",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/funes",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -272,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8451,
+        "recency": 0.7806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,90 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
-      }
-    },
-    {
-      "story_id": "story_e664187f9e97",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_zh": null,
-          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_zh": null,
-          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7929,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T13:49:14Z",
-      "latest_at": "2026-09-02T13:49:14Z",
-      "primary_item": {
-        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "title_zh": null,
-        "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8795,
+        "recency": 0.8124,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8219,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7723,
+        "recency": 0.7134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,7 +639,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
+      }
+    },
+    {
+      "story_id": "story_42b25cdf8d9b",
+      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8484,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
+      "primary_item": {
+        "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+        "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+        "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -687,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8143,
+        "recency": 0.7522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -770,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8526,
+        "recency": 0.7876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -805,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -853,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8422,
+        "recency": 0.778,
         "story_heat": 0.0
       },
       "category": "official",
@@ -888,7 +971,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
+      }
+    },
+    {
+      "story_id": "story_4714a5d58c58",
+      "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+      "url": "https://www.aibase.com/news/30802",
+      "primary_url": "https://www.aibase.com/news/30802",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ec25c2c4a681a5c3bdd0063601048cf09ac17b1f",
+          "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+          "title_zh": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+          "title_en": null,
+          "title_original": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30802",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T11:23:16.689769Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ec25c2c4a681a5c3bdd0063601048cf09ac17b1f",
+          "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+          "title_zh": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+          "title_en": null,
+          "title_original": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30802",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T11:23:16.689769Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T11:23:16.689769Z",
+      "latest_at": "2026-09-03T11:23:16.689769Z",
+      "primary_item": {
+        "id": "ec25c2c4a681a5c3bdd0063601048cf09ac17b1f",
+        "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+        "title_zh": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+        "title_en": null,
+        "title_original": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30802",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -936,15 +1101,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9162,
+        "recency": 0.8463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -970,89 +1135,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
-      }
-    },
-    {
-      "story_id": "story_a14603975d08",
-      "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-      "url": "https://www.aibase.com/news/30793",
-      "primary_url": "https://www.aibase.com/news/30793",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_en": null,
-          "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30793",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T05:53:40.403728Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_en": null,
-          "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30793",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T05:53:40.403728Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T05:53:40.403728Z",
-      "latest_at": "2026-09-03T05:53:40.403728Z",
-      "primary_item": {
-        "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-        "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-        "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-        "title_en": null,
-        "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30793",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -1100,15 +1183,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8879,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,7 +1217,202 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
+      }
+    },
+    {
+      "story_id": "story_bbd546f9bbd7",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T19:06:19Z"
+        },
+        {
+          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-02T19:06:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T19:06:19Z"
+        },
+        {
+          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-02T19:06:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7905,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T19:06:19Z",
+      "latest_at": "2026-09-02T19:06:19Z",
+      "primary_item": {
+        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/claudeai/status/2095226833293685100",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T11:51:01.953342Z"
+      }
+    },
+    {
+      "story_id": "story_e664187f9e97",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "title_zh": null,
+          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T13:49:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "title_zh": null,
+          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T13:49:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7324,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T13:49:14Z",
+      "latest_at": "2026-09-02T13:49:14Z",
+      "primary_item": {
+        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+        "title_zh": null,
+        "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+        "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -1182,21 +1460,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8241,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T16:29:43.634000Z",
       "latest_at": "2026-09-02T16:29:43.634000Z",
@@ -1216,7 +1493,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
+      }
+    },
+    {
+      "story_id": "story_31e02ba82db7",
+      "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+      "url": "https://www.aibase.com/news/30806",
+      "primary_url": "https://www.aibase.com/news/30806",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_en": null,
+          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T11:23:16.689769Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_en": null,
+          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T11:23:16.689769Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T11:23:16.689769Z",
+      "latest_at": "2026-09-03T11:23:16.689769Z",
+      "primary_item": {
+        "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+        "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "title_en": null,
+        "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30806",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -1264,15 +1623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8747,
+        "recency": 0.8079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,7 +1656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     },
     {
@@ -1345,15 +1704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8016,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,332 +1737,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
-      }
-    },
-    {
-      "story_id": "story_bbd546f9bbd7",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8557,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T19:06:19Z",
-      "latest_at": "2026-09-02T19:06:19Z",
-      "primary_item": {
-        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/claudeai/status/2095226833293685100",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
-      }
-    },
-    {
-      "story_id": "story_dcd4b8739e9b",
-      "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-      "url": "https://www.aibase.com/news/30799",
-      "primary_url": "https://www.aibase.com/news/30799",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
-          "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "title_en": null,
-          "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30799",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T05:53:40.403728Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
-          "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "title_en": null,
-          "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30799",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T05:53:40.403728Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T05:53:40.403728Z",
-      "latest_at": "2026-09-03T05:53:40.403728Z",
-      "primary_item": {
-        "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
-        "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-        "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-        "title_en": null,
-        "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30799",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
-      }
-    },
-    {
-      "story_id": "story_889c8bcd825a",
-      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "primary_url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-          "title_zh": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-          "title_en": "What is harness engineering and why should I care？",
-          "title_original": "What is harness engineering and why should I care？",
-          "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T15:28:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-          "title_zh": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-          "title_en": "What is harness engineering and why should I care？",
-          "title_original": "What is harness engineering and why should I care？",
-          "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T15:28:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8119,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T15:28:05Z",
-      "latest_at": "2026-09-02T15:28:05Z",
-      "primary_item": {
-        "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-        "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-        "title_zh": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-        "title_en": "What is harness engineering and why should I care？",
-        "title_original": "What is harness engineering and why should I care？",
-        "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
-        "recommend_reason_zh": null,
-        "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
-      }
-    },
-    {
-      "story_id": "story_3371d4d4c0e4",
-      "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布 / muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-      "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-      "primary_url": "https://x.com/alexandr_wang/status/2095318449602138577",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b548c700051f885f26fea09ea77a698537432d1",
-          "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布 / muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-          "title_zh": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-          "title_en": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-          "title_original": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-          "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T01:10:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "6b548c700051f885f26fea09ea77a698537432d1",
-          "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布 / muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-          "title_zh": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-          "title_en": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-          "title_original": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-          "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T01:10:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9341,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-03T01:10:22Z",
-      "latest_at": "2026-09-03T01:10:22Z",
-      "primary_item": {
-        "id": "6b548c700051f885f26fea09ea77a698537432d1",
-        "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布 / muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-        "title_zh": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-        "title_en": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-        "title_original": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-        "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T06:21:53.168882Z"
+        "scored_at": "2026-09-03T11:51:01.953342Z"
       }
     }
   ]
