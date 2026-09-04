@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:40:19.498064Z",
+  "generated_at": "2026-09-04T22:23:57.326009Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.8533,
+      "importance": 0.8533,
+      "importance_score": 0.8533,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9493,
+        "recency": 0.9127,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,30 +113,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
-      "story_id": "story_a4c37a83ad98",
-      "title": "New API endpoint provides privacy-safe star history data",
-      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "primary_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "story_id": "story_1f3f9b7a140c",
+      "title": "GPT-6 Astra is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
+          "id": "c81991057a853ffe91acd307d388dbac74f1710e",
+          "title": "GPT-6 Astra is generally available in GitHub Copilot",
           "title_zh": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
+          "title_en": "GPT-6 Astra is generally available in GitHub Copilot",
+          "title_original": "GPT-6 Astra is generally available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
+          "published_at": "2026-09-04T18:59:51Z"
         }
       ],
       "source_count": 1,
@@ -145,31 +145,31 @@
       ],
       "items": [
         {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
+          "id": "c81991057a853ffe91acd307d388dbac74f1710e",
+          "title": "GPT-6 Astra is generally available in GitHub Copilot",
           "title_zh": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
+          "title_en": "GPT-6 Astra is generally available in GitHub Copilot",
+          "title_original": "GPT-6 Astra is generally available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
+          "published_at": "2026-09-04T18:59:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9584,
+        "ai_relevance": 0.95,
+        "recency": 0.9521,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,17 +178,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T16:43:56Z",
-      "latest_at": "2026-09-04T16:43:56Z",
+      "earliest_at": "2026-09-04T18:59:51Z",
+      "latest_at": "2026-09-04T18:59:51Z",
       "primary_item": {
-        "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-        "title": "New API endpoint provides privacy-safe star history data",
+        "id": "c81991057a853ffe91acd307d388dbac74f1710e",
+        "title": "GPT-6 Astra is generally available in GitHub Copilot",
         "title_zh": null,
-        "title_en": "New API endpoint provides privacy-safe star history data",
-        "title_original": "New API endpoint provides privacy-safe star history data",
+        "title_en": "GPT-6 Astra is generally available in GitHub Copilot",
+        "title_original": "GPT-6 Astra is generally available in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+        "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -196,7 +196,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
+      }
+    },
+    {
+      "story_id": "story_e7cbcef29db3",
+      "title": "GitHub Copilot weekly releases — August 31",
+      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "primary_url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+          "title": "GitHub Copilot weekly releases — August 31",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — August 31",
+          "title_original": "GitHub Copilot weekly releases — August 31",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T21:05:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+          "title": "GitHub Copilot weekly releases — August 31",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — August 31",
+          "title_original": "GitHub Copilot weekly releases — August 31",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T21:05:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T21:05:01Z",
+      "latest_at": "2026-09-04T21:05:01Z",
+      "primary_item": {
+        "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+        "title": "GitHub Copilot weekly releases — August 31",
+        "title_zh": null,
+        "title_en": "GitHub Copilot weekly releases — August 31",
+        "title_original": "GitHub Copilot weekly releases — August 31",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -244,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7527,
+        "recency": 0.7236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +362,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
+      }
+    },
+    {
+      "story_id": "story_f2dd19138871",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
+          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
+          "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+          "title_en": "Formalizing Fermat's Last Theorem",
+          "title_original": "Formalizing Fermat's Last Theorem",
+          "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:37:00.305000Z"
+        },
+        {
+          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
+          "title": "费马最后定理的形式化",
+          "title_zh": "费马最后定理的形式化",
+          "title_en": null,
+          "title_original": "费马最后定理的形式化",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T19:43:18.339000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
+          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
+          "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+          "title_en": "Formalizing Fermat's Last Theorem",
+          "title_original": "Formalizing Fermat's Last Theorem",
+          "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:37:00.305000Z"
+        },
+        {
+          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
+          "title": "费马最后定理的形式化",
+          "title_zh": "费马最后定理的形式化",
+          "title_en": null,
+          "title_original": "费马最后定理的形式化",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T19:43:18.339000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9468,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T18:37:00.305000Z",
+      "latest_at": "2026-09-04T19:43:18.339000Z",
+      "primary_item": {
+        "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
+        "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
+        "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+        "title_en": "Formalizing Fermat's Last Theorem",
+        "title_original": "Formalizing Fermat's Last Theorem",
+        "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T22:49:01.332510Z"
+      }
+    },
+    {
+      "story_id": "story_fe67d000c4c1",
+      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+      "url": "https://x.com/OpenAI/status/2095968413646737608",
+      "primary_url": "https://x.com/OpenAI/status/2095968413646737608",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b76c44f48f3238177bb1f77d7549bad3d98a6960",
+          "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+          "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+          "title_original": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+          "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2095968413646737608",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T20:13:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "b76c44f48f3238177bb1f77d7549bad3d98a6960",
+          "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+          "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+          "title_original": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+          "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2095968413646737608",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T20:13:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.969,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T20:13:05Z",
+      "latest_at": "2026-09-04T20:13:05Z",
+      "primary_item": {
+        "id": "b76c44f48f3238177bb1f77d7549bad3d98a6960",
+        "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+        "title_zh": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+        "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+        "title_original": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+        "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAI/status/2095968413646737608",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -327,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9676,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,230 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
-      }
-    },
-    {
-      "story_id": "story_f2dd19138871",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
-          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-          "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-          "title_en": "Formalizing Fermat's Last Theorem",
-          "title_original": "Formalizing Fermat's Last Theorem",
-          "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T18:37:00.305000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
-          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-          "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-          "title_en": "Formalizing Fermat's Last Theorem",
-          "title_original": "Formalizing Fermat's Last Theorem",
-          "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T18:37:00.305000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9849,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T18:37:00.305000Z",
-      "latest_at": "2026-09-04T18:37:00.305000Z",
-      "primary_item": {
-        "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
-        "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-        "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-        "title_en": "Formalizing Fermat's Last Theorem",
-        "title_original": "Formalizing Fermat's Last Theorem",
-        "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
-      }
-    },
-    {
-      "story_id": "story_3af91fe6473f",
-      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-      "url": "https://arcprize.org/blog/astra",
-      "primary_url": "https://arcprize.org/blog/astra",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
-          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_en": null,
-          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
-          "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:48.532000Z"
-        },
-        {
-          "id": "a3e9b5238b02867c9479b2bbc573f770ecc91b0a",
-          "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-          "title_zh": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-          "title_en": null,
-          "title_original": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "arcprize.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T00:07:48.532000Z"
-        },
-        {
-          "id": "7d390f02b74e00a25af601b85dceaacab5411929",
-          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_en": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "title_original": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T19:45:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "arcprize.org"
-      ],
-      "items": [
-        {
-          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
-          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_en": null,
-          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
-          "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:48.532000Z"
-        },
-        {
-          "id": "a3e9b5238b02867c9479b2bbc573f770ecc91b0a",
-          "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-          "title_zh": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-          "title_en": null,
-          "title_original": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "arcprize.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T00:07:48.532000Z"
-        },
-        {
-          "id": "7d390f02b74e00a25af601b85dceaacab5411929",
-          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_en": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "title_original": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T19:45:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7541,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T19:45:00Z",
-      "latest_at": "2026-09-04T00:07:48.532000Z",
-      "primary_item": {
-        "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
-        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-        "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-        "title_en": null,
-        "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
-        "recommend_reason_zh": null,
-        "url": "https://arcprize.org/blog/astra",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -632,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9712,
+        "recency": 0.9337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,7 +720,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
+      }
+    },
+    {
+      "story_id": "story_a4c37a83ad98",
+      "title": "New API endpoint provides privacy-safe star history data",
+      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "primary_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+          "title": "New API endpoint provides privacy-safe star history data",
+          "title_zh": null,
+          "title_en": "New API endpoint provides privacy-safe star history data",
+          "title_original": "New API endpoint provides privacy-safe star history data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T16:43:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+          "title": "New API endpoint provides privacy-safe star history data",
+          "title_zh": null,
+          "title_en": "New API endpoint provides privacy-safe star history data",
+          "title_original": "New API endpoint provides privacy-safe star history data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T16:43:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9214,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T16:43:56Z",
+      "latest_at": "2026-09-04T16:43:56Z",
+      "primary_item": {
+        "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+        "title": "New API endpoint provides privacy-safe star history data",
+        "title_zh": null,
+        "title_en": "New API endpoint provides privacy-safe star history data",
+        "title_original": "New API endpoint provides privacy-safe star history data",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -714,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,7 +885,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -796,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -830,7 +967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -878,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.8986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -912,113 +1049,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
-      "story_id": "story_4d7213bd28e2",
-      "title": "Multiple trusted publishing configurations for npm",
-      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-      "primary_url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bca5d6f0470bcdd4ec63c2492a192a3082d9d57e",
-          "title": "Multiple trusted publishing configurations for npm",
-          "title_zh": null,
-          "title_en": "Multiple trusted publishing configurations for npm",
-          "title_original": "Multiple trusted publishing configurations for npm",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T20:34:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bca5d6f0470bcdd4ec63c2492a192a3082d9d57e",
-          "title": "Multiple trusted publishing configurations for npm",
-          "title_zh": null,
-          "title_en": "Multiple trusted publishing configurations for npm",
-          "title_original": "Multiple trusted publishing configurations for npm",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T20:34:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7164,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T20:34:34Z",
-      "latest_at": "2026-09-03T20:34:34Z",
-      "primary_item": {
-        "id": "bca5d6f0470bcdd4ec63c2492a192a3082d9d57e",
-        "title": "Multiple trusted publishing configurations for npm",
-        "title_zh": null,
-        "title_en": "Multiple trusted publishing configurations for npm",
-        "title_original": "Multiple trusted publishing configurations for npm",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
-      }
-    },
-    {
-      "story_id": "story_1ba27897b662",
-      "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-      "url": "https://www.aibase.com/news/30849",
-      "primary_url": "https://www.aibase.com/news/30849",
+      "story_id": "story_e92f9b15b9d9",
+      "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+      "url": "https://www.aibase.com/news/30850",
+      "primary_url": "https://www.aibase.com/news/30850",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
+          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "title_zh": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
           "title_en": null,
-          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_original": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30849",
+          "url": "https://www.aibase.com/news/30850",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T17:40:19.498064Z"
+          "published_at": "2026-09-04T18:23:57.326009Z"
         }
       ],
       "source_count": 1,
@@ -1027,31 +1081,31 @@
       ],
       "items": [
         {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
+          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "title_zh": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
           "title_en": null,
-          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_original": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30849",
+          "url": "https://www.aibase.com/news/30850",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T17:40:19.498064Z"
+          "published_at": "2026-09-04T18:23:57.326009Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1059,17 +1113,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T17:40:19.498064Z",
-      "latest_at": "2026-09-04T17:40:19.498064Z",
+      "earliest_at": "2026-09-04T18:23:57.326009Z",
+      "latest_at": "2026-09-04T18:23:57.326009Z",
       "primary_item": {
-        "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-        "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+        "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
+        "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+        "title_zh": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
         "title_en": null,
-        "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+        "title_original": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30849",
+        "url": "https://www.aibase.com/news/30850",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1077,7 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -1154,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8839,
+        "recency": 0.8498,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1189,194 +1243,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
-      "story_id": "story_3c27fe9d9468",
-      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-      "url": "https://x.com/fchollet/status/2095598451115614371",
-      "primary_url": "https://x.com/fchollet/status/2095598451115614371",
-      "source": "X：Francois Chollet (@fchollet)",
+      "story_id": "story_2456070438da",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+      "url": "https://arcprize.org/blog/astra",
+      "primary_url": "https://arcprize.org/blog/astra",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
-          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-          "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_en": null,
+          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/fchollet/status/2095598451115614371",
-          "source": "X：Francois Chollet (@fchollet)",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T19:42:59Z"
+          "published_at": "2026-09-04T00:07:48.532000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Francois Chollet (@fchollet)"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
-          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-          "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "title_en": null,
+          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/fchollet/status/2095598451115614371",
-          "source": "X：Francois Chollet (@fchollet)",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T19:42:59Z"
+          "published_at": "2026-09-04T00:07:48.532000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7076,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-03T19:42:59Z",
-      "latest_at": "2026-09-03T19:42:59Z",
+      "earliest_at": "2026-09-04T00:07:48.532000Z",
+      "latest_at": "2026-09-04T00:07:48.532000Z",
       "primary_item": {
-        "id": "b87959710df4082dbf6573c19b9167a1210a7221",
-        "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-        "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-        "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-        "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-        "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+        "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "title_en": null,
+        "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/fchollet/status/2095598451115614371",
-        "source": "X：Francois Chollet (@fchollet)",
+        "url": "https://arcprize.org/blog/astra",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
-      "story_id": "story_be890a131a37",
-      "title": "GitHub Actions: Early September 2026 updates",
-      "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-      "primary_url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ebc42fbc430d42269ded61f864f82896342098c",
-          "title": "GitHub Actions: Early September 2026 updates",
-          "title_zh": null,
-          "title_en": "GitHub Actions: Early September 2026 updates",
-          "title_original": "GitHub Actions: Early September 2026 updates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T20:30:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4ebc42fbc430d42269ded61f864f82896342098c",
-          "title": "GitHub Actions: Early September 2026 updates",
-          "title_zh": null,
-          "title_en": "GitHub Actions: Early September 2026 updates",
-          "title_original": "GitHub Actions: Early September 2026 updates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T20:30:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7158,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T20:30:53Z",
-      "latest_at": "2026-09-03T20:30:53Z",
-      "primary_item": {
-        "id": "4ebc42fbc430d42269ded61f864f82896342098c",
-        "title": "GitHub Actions: Early September 2026 updates",
-        "title_zh": null,
-        "title_en": "GitHub Actions: Early September 2026 updates",
-        "title_original": "GitHub Actions: Early September 2026 updates",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
-      }
-    },
-    {
-      "story_id": "story_e92f9b15b9d9",
-      "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-      "url": "https://www.aibase.com/news/30850",
-      "primary_url": "https://www.aibase.com/news/30850",
+      "story_id": "story_1ba27897b662",
+      "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+      "url": "https://www.aibase.com/news/30849",
+      "primary_url": "https://www.aibase.com/news/30849",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
-          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-          "title_zh": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
           "title_en": null,
-          "title_original": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30850",
+          "url": "https://www.aibase.com/news/30849",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T17:40:19.498064Z"
+          "published_at": "2026-09-04T17:23:57.326009Z"
         }
       ],
       "source_count": 1,
@@ -1385,31 +1356,31 @@
       ],
       "items": [
         {
-          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
-          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-          "title_zh": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
           "title_en": null,
-          "title_original": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30850",
+          "url": "https://www.aibase.com/news/30849",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T17:40:19.498064Z"
+          "published_at": "2026-09-04T17:23:57.326009Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1417,17 +1388,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T17:40:19.498064Z",
-      "latest_at": "2026-09-04T17:40:19.498064Z",
+      "earliest_at": "2026-09-04T17:23:57.326009Z",
+      "latest_at": "2026-09-04T17:23:57.326009Z",
       "primary_item": {
-        "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
-        "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-        "title_zh": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+        "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+        "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+        "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
         "title_en": null,
-        "title_original": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+        "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30850",
+        "url": "https://www.aibase.com/news/30849",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1435,88 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
-      }
-    },
-    {
-      "story_id": "story_1d05bae08894",
-      "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑 / Hot take on GPT-6 Astra",
-      "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-      "primary_url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91c0336d9c9de7141ac868de55e40e88b8a35713",
-          "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑 / Hot take on GPT-6 Astra",
-          "title_zh": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
-          "title_en": "Hot take on GPT-6 Astra",
-          "title_original": "Hot take on GPT-6 Astra",
-          "summary": "Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T23:24:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "91c0336d9c9de7141ac868de55e40e88b8a35713",
-          "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑 / Hot take on GPT-6 Astra",
-          "title_zh": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
-          "title_en": "Hot take on GPT-6 Astra",
-          "title_original": "Hot take on GPT-6 Astra",
-          "summary": "Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T23:24:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7464,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-03T23:24:50Z",
-      "latest_at": "2026-09-03T23:24:50Z",
-      "primary_item": {
-        "id": "91c0336d9c9de7141ac868de55e40e88b8a35713",
-        "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑 / Hot take on GPT-6 Astra",
-        "title_zh": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
-        "title_en": "Hot take on GPT-6 Astra",
-        "title_original": "Hot take on GPT-6 Astra",
-        "summary": "Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -1564,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7541,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1597,88 +1487,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
-      }
-    },
-    {
-      "story_id": "story_62857399069a",
-      "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现 / Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-      "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "02ee83fd257807ae53e2ccd7322431a802eedb7a",
-          "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现 / Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-          "title_zh": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
-          "title_en": "Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-          "title_original": "Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-          "summary": "Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T20:55:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "02ee83fd257807ae53e2ccd7322431a802eedb7a",
-          "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现 / Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-          "title_zh": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
-          "title_en": "Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-          "title_original": "Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-          "summary": "Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T20:55:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7201,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-03T20:55:50Z",
-      "latest_at": "2026-09-03T20:55:50Z",
-      "primary_item": {
-        "id": "02ee83fd257807ae53e2ccd7322431a802eedb7a",
-        "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现 / Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-        "title_zh": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
-        "title_en": "Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-        "title_original": "Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
-        "summary": "Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     },
     {
@@ -1701,7 +1510,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:40:19.498064Z"
+          "published_at": "2026-09-04T16:23:57.326009Z"
         }
       ],
       "source_count": 1,
@@ -1721,20 +1530,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:40:19.498064Z"
+          "published_at": "2026-09-04T16:23:57.326009Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1742,8 +1551,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T16:40:19.498064Z",
-      "latest_at": "2026-09-04T16:40:19.498064Z",
+      "earliest_at": "2026-09-04T16:23:57.326009Z",
+      "latest_at": "2026-09-04T16:23:57.326009Z",
       "primary_item": {
         "id": "ee9492dc97f652f29c46ae615417722ccdc14409",
         "title": "AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应",
@@ -1760,7 +1569,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T20:05:56.167408Z"
+        "scored_at": "2026-09-04T22:49:01.332510Z"
+      }
+    },
+    {
+      "story_id": "story_8115bcb8cd61",
+      "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+      "url": "https://www.aibase.com/news/30844",
+      "primary_url": "https://www.aibase.com/news/30844",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
+          "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+          "title_zh": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+          "title_en": null,
+          "title_original": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T16:23:57.326009Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
+          "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+          "title_zh": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+          "title_en": null,
+          "title_original": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T16:23:57.326009Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T16:23:57.326009Z",
+      "latest_at": "2026-09-04T16:23:57.326009Z",
+      "primary_item": {
+        "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
+        "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+        "title_zh": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+        "title_en": null,
+        "title_original": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30844",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T22:49:01.332510Z"
+      }
+    },
+    {
+      "story_id": "story_6b803ff234d6",
+      "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+      "url": "https://www.aibase.com/news/30846",
+      "primary_url": "https://www.aibase.com/news/30846",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5501c51cc190b2468879d74ce31150335cd41eb",
+          "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+          "title_zh": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+          "title_en": null,
+          "title_original": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30846",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T16:23:57.326009Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a5501c51cc190b2468879d74ce31150335cd41eb",
+          "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+          "title_zh": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+          "title_en": null,
+          "title_original": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30846",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T16:23:57.326009Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T16:23:57.326009Z",
+      "latest_at": "2026-09-04T16:23:57.326009Z",
+      "primary_item": {
+        "id": "a5501c51cc190b2468879d74ce31150335cd41eb",
+        "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+        "title_zh": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+        "title_en": null,
+        "title_original": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30846",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T22:49:01.332510Z"
       }
     }
   ]
