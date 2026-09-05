@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T19:05:30.919570Z",
+  "generated_at": "2026-09-05T21:19:42.328444Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_e1e7a08cca0d",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9543,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -224,90 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
-      }
-    },
-    {
-      "story_id": "story_e7cbcef29db3",
-      "title": "GitHub Copilot weekly releases — August 31",
-      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "primary_url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-          "title": "GitHub Copilot weekly releases — August 31",
-          "title_zh": null,
-          "title_en": "GitHub Copilot weekly releases — August 31",
-          "title_original": "GitHub Copilot weekly releases — August 31",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T21:05:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-          "title": "GitHub Copilot weekly releases — August 31",
-          "title_zh": null,
-          "title_en": "GitHub Copilot weekly releases — August 31",
-          "title_original": "GitHub Copilot weekly releases — August 31",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T21:05:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7277,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T21:05:01Z",
-      "latest_at": "2026-09-04T21:05:01Z",
-      "primary_item": {
-        "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-        "title": "GitHub Copilot weekly releases — August 31",
-        "title_zh": null,
-        "title_en": "GitHub Copilot weekly releases — August 31",
-        "title_original": "GitHub Copilot weekly releases — August 31",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -355,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9906,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -389,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -437,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -471,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -519,15 +436,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9227,
+        "recency": 0.8933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,119 +470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
-      }
-    },
-    {
-      "story_id": "story_fe67d000c4c1",
-      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-      "url": "https://x.com/OpenAI/status/2095968413646737608",
-      "primary_url": "https://x.com/OpenAI/status/2095968413646737608",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b76c44f48f3238177bb1f77d7549bad3d98a6960",
-          "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-          "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-          "title_original": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-          "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2095968413646737608",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T20:13:05Z"
-        },
-        {
-          "id": "d4573f202c9f3ab09bb1001bf544578eba8fef12",
-          "title": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
-          "title_original": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2095973658867171733",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-04T20:33:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "b76c44f48f3238177bb1f77d7549bad3d98a6960",
-          "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-          "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-          "title_original": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-          "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2095968413646737608",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T20:13:05Z"
-        },
-        {
-          "id": "d4573f202c9f3ab09bb1001bf544578eba8fef12",
-          "title": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
-          "title_original": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2095973658867171733",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-04T20:33:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7187,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T20:13:05Z",
-      "latest_at": "2026-09-04T20:33:56Z",
-      "primary_item": {
-        "id": "b76c44f48f3238177bb1f77d7549bad3d98a6960",
-        "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-        "title_zh": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-        "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-        "title_original": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-        "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2095968413646737608",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -713,15 +518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8983,
+        "recency": 0.8697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,7 +552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -795,15 +600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.8243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,7 +634,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -877,15 +682,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8506,
+        "recency": 0.8235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,7 +716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -959,15 +764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7468,
+        "recency": 0.7231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,7 +797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1040,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8481,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1122,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7464,
+        "recency": 0.7227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +960,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1203,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7468,
+        "recency": 0.7231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1042,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1285,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7668,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,7 +1124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1367,21 +1172,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7519,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-04T23:20:46Z",
       "latest_at": "2026-09-04T23:20:46Z",
@@ -1401,7 +1205,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1478,15 +1282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8807,
+        "recency": 0.8527,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1511,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1537,7 +1341,7 @@
           "published_at": "2026-09-05T07:26:09.234000Z"
         },
         {
-          "id": "b49035344b6193dfe35ee03e3bcd765be33079ce",
+          "id": "066bcabe93cb9be7f4b1cf7c28fa404af874b6f9",
           "title": "Spotify的Portal将我的Claude Code代币使用量减少了90% / Portal by Spotify cut my Claude Code token usage by 90%",
           "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
           "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -1545,15 +1349,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-04T23:38:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "engineering.atspotify.com"
       ],
       "items": [
@@ -1572,7 +1376,7 @@
           "published_at": "2026-09-05T07:26:09.234000Z"
         },
         {
-          "id": "b49035344b6193dfe35ee03e3bcd765be33079ce",
+          "id": "066bcabe93cb9be7f4b1cf7c28fa404af874b6f9",
           "title": "Spotify的Portal将我的Claude Code代币使用量减少了90% / Portal by Spotify cut my Claude Code token usage by 90%",
           "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
           "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -1580,23 +1384,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-04T23:38:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8451,
+        "recency": 0.8182,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1621,7 +1425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     },
     {
@@ -1698,15 +1502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8353,
+        "recency": 0.8088,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1731,117 +1535,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
-      }
-    },
-    {
-      "story_id": "story_903604aee596",
-      "title": "OpenRouter 上的 GPT-6 Astra",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "primary_url": "https://openrouter.ai/openai/gpt-6-astra",
-      "source": "openrouter.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e09384b824f805a4b429fd03de75627d5b4b085a",
-          "title": "OpenRouter 上的 GPT-6 Astra",
-          "title_zh": "OpenRouter 上的 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "OpenRouter 上的 GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T00:47:17.607000Z"
-        },
-        {
-          "id": "df024b869b604f7154a9b7ea2eaf17c93dc582ea",
-          "title": "OpenRouter 上的 GPT-6 Astra / GPT-6 Astra on OpenRouter",
-          "title_zh": "OpenRouter 上的 GPT-6 Astra",
-          "title_en": "GPT-6 Astra on OpenRouter",
-          "title_original": "GPT-6 Astra on OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T21:39:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "openrouter.ai"
-      ],
-      "items": [
-        {
-          "id": "e09384b824f805a4b429fd03de75627d5b4b085a",
-          "title": "OpenRouter 上的 GPT-6 Astra",
-          "title_zh": "OpenRouter 上的 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "OpenRouter 上的 GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T00:47:17.607000Z"
-        },
-        {
-          "id": "df024b869b604f7154a9b7ea2eaf17c93dc582ea",
-          "title": "OpenRouter 上的 GPT-6 Astra / GPT-6 Astra on OpenRouter",
-          "title_zh": "OpenRouter 上的 GPT-6 Astra",
-          "title_en": "GPT-6 Astra on OpenRouter",
-          "title_original": "GPT-6 Astra on OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T21:39:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7677,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T21:39:19Z",
-      "latest_at": "2026-09-05T00:47:17.607000Z",
-      "primary_item": {
-        "id": "e09384b824f805a4b429fd03de75627d5b4b085a",
-        "title": "OpenRouter 上的 GPT-6 Astra",
-        "title_zh": "OpenRouter 上的 GPT-6 Astra",
-        "title_en": null,
-        "title_original": "OpenRouter 上的 GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/openai/gpt-6-astra",
-        "source": "openrouter.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T19:22:44.688730Z"
+        "scored_at": "2026-09-05T21:35:59.599563Z"
       }
     }
   ]
