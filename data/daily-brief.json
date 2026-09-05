@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:53:48.099419Z",
+  "generated_at": "2026-09-05T16:51:41.037406Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9224,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,120 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
-      }
-    },
-    {
-      "story_id": "story_0f3277bac9d6",
-      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_en": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:04:14Z"
-        },
-        {
-          "id": "6566ef8a87cc0287e3b9e392afb77dec635dc956",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_en": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T16:04:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_en": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:04:14Z"
-        },
-        {
-          "id": "6566ef8a87cc0287e3b9e392afb77dec635dc956",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_en": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T16:04:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7297,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T16:04:14Z",
-      "latest_at": "2026-09-04T16:04:14Z",
-      "primary_item": {
-        "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-        "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-        "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-        "title_en": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -273,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7612,
+        "recency": 0.7293,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -356,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -390,89 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
-      }
-    },
-    {
-      "story_id": "story_a23ce047f1f9",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9945,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
-      "primary_item": {
-        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -520,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7844,
+        "recency": 0.7516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -555,7 +360,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
+      }
+    },
+    {
+      "story_id": "story_a23ce047f1f9",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9529,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T13:31:04Z",
+      "latest_at": "2026-09-05T13:31:04Z",
+      "primary_item": {
+        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -632,15 +519,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.7422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -715,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,119 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
-      }
-    },
-    {
-      "story_id": "story_f2dd19138871",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
-          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-          "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-          "title_en": "Formalizing Fermat's Last Theorem",
-          "title_original": "Formalizing Fermat's Last Theorem",
-          "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T18:37:00.305000Z"
-        },
-        {
-          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
-          "title": "费马最后定理的形式化",
-          "title_zh": "费马最后定理的形式化",
-          "title_en": null,
-          "title_original": "费马最后定理的形式化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T19:43:18.339000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
-          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-          "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-          "title_en": "Formalizing Fermat's Last Theorem",
-          "title_original": "Formalizing Fermat's Last Theorem",
-          "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T18:37:00.305000Z"
-        },
-        {
-          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
-          "title": "费马最后定理的形式化",
-          "title_zh": "费马最后定理的形式化",
-          "title_en": null,
-          "title_original": "费马最后定理的形式化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T19:43:18.339000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.757,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T18:37:00.305000Z",
-      "latest_at": "2026-09-04T19:43:18.339000Z",
-      "primary_item": {
-        "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
-        "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
-        "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-        "title_en": "Formalizing Fermat's Last Theorem",
-        "title_original": "Formalizing Fermat's Last Theorem",
-        "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -909,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.8792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -943,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -991,15 +766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -1073,21 +848,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.805,
+        "recency": 0.7713,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-04T22:52:29Z",
       "latest_at": "2026-09-04T22:52:29Z",
@@ -1107,7 +881,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -1155,15 +929,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -1237,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7465,
+        "recency": 0.7152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,90 +1044,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
-      "story_id": "story_a4c37a83ad98",
-      "title": "New API endpoint provides privacy-safe star history data",
-      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "primary_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5110803ce212",
+      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+      "url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "primary_url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
-          "title_zh": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
-          "summary": null,
+          "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
+          "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_zh": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+          "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_original": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
+          "url": "https://x.com/kimmonismus/status/2096007967749349844",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:50:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Kim (@kimmonismus)"
       ],
       "items": [
         {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
-          "title_zh": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
-          "summary": null,
+          "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
+          "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_zh": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+          "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_original": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
+          "url": "https://x.com/kimmonismus/status/2096007967749349844",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:50:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
-      "importance_label": "官方更新",
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7367,
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T16:43:56Z",
-      "latest_at": "2026-09-04T16:43:56Z",
+      "earliest_at": "2026-09-04T22:50:16Z",
+      "latest_at": "2026-09-04T22:50:16Z",
       "primary_item": {
-        "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-        "title": "New API endpoint provides privacy-safe star history data",
-        "title_zh": null,
-        "title_en": "New API endpoint provides privacy-safe star history data",
-        "title_original": "New API endpoint provides privacy-safe star history data",
-        "summary": null,
+        "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
+        "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+        "title_zh": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+        "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+        "title_original": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+        "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/kimmonismus/status/2096007967749349844",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
+      }
+    },
+    {
+      "story_id": "story_9e01fe141645",
+      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "primary_url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a516c5265ccd6420ab31342b93dcaef5466b09b3",
+          "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_zh": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+          "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_original": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:50:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "a516c5265ccd6420ab31342b93dcaef5466b09b3",
+          "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_zh": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+          "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_original": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:50:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7277,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T18:50:48Z",
+      "latest_at": "2026-09-04T18:50:48Z",
+      "primary_item": {
+        "id": "a516c5265ccd6420ab31342b93dcaef5466b09b3",
+        "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+        "title_zh": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+        "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+        "title_original": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+        "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -1401,15 +1254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7476,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1434,88 +1287,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
-      }
-    },
-    {
-      "story_id": "story_1ba27897b662",
-      "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-      "url": "https://www.aibase.com/news/30849",
-      "primary_url": "https://www.aibase.com/news/30849",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_en": null,
-          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30849",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T17:53:48.099419Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_en": null,
-          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30849",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T17:53:48.099419Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7492,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T17:53:48.099419Z",
-      "latest_at": "2026-09-04T17:53:48.099419Z",
-      "primary_item": {
-        "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-        "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "title_en": null,
-        "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30849",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -1563,15 +1335,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.805,
+        "recency": 0.7713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1597,7 +1369,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -1645,15 +1417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9072,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1678,7 +1450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     },
     {
@@ -1726,21 +1498,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7437,
+        "recency": 0.7126,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-04T17:23:35Z",
       "latest_at": "2026-09-04T17:23:35Z",
@@ -1760,7 +1531,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T14:16:18.154854Z"
+        "scored_at": "2026-09-05T17:11:47.676980Z"
+      }
+    },
+    {
+      "story_id": "story_5cd952bee704",
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "url": "https://www.ithome.com/0/998/661.htm",
+      "primary_url": "https://www.ithome.com/0/998/661.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_en": null,
+          "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "title_en": null,
+          "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7919,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T00:42:24Z",
+      "latest_at": "2026-09-05T00:42:24Z",
+      "primary_item": {
+        "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "title_zh": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "title_en": null,
+        "title_original": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/661.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T17:11:47.676980Z"
+      }
+    },
+    {
+      "story_id": "story_80b4b38cc5dc",
+      "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+      "url": "https://www.ithome.com/0/998/638.htm",
+      "primary_url": "https://www.ithome.com/0/998/638.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
+          "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_zh": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_en": null,
+          "title_original": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/638.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T23:20:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
+          "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_zh": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_en": null,
+          "title_original": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/638.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T23:20:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7765,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T23:20:46Z",
+      "latest_at": "2026-09-04T23:20:46Z",
+      "primary_item": {
+        "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
+        "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+        "title_zh": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+        "title_en": null,
+        "title_original": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+        "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/638.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T17:11:47.676980Z"
       }
     }
   ]
