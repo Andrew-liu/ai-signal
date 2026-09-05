@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:23:57.326009Z",
+  "generated_at": "2026-09-05T01:03:05.773608Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9127,
+        "recency": 0.8784,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9521,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9812,
+        "recency": 0.9443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,90 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
-      }
-    },
-    {
-      "story_id": "story_e76115a5a946",
-      "title": "Codex CLI 0.153.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "Codex CLI 0.153.3",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.153.3",
-          "title_original": "Codex CLI 0.153.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "Codex CLI 0.153.3",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.153.3",
-          "title_original": "Codex CLI 0.153.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7236,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T00:00:00Z",
-      "latest_at": "2026-09-04T00:00:00Z",
-      "primary_item": {
-        "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-        "title": "Codex CLI 0.153.3",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.153.3",
-        "title_original": "Codex CLI 0.153.3",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -439,15 +356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9113,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -474,7 +391,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
+      }
+    },
+    {
+      "story_id": "story_20abcae7f739",
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "url": "https://www.ithome.com/0/998/630.htm",
+      "primary_url": "https://www.ithome.com/0/998/630.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/630.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/630.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9691,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T22:52:38Z",
+      "latest_at": "2026-09-04T22:52:38Z",
+      "primary_item": {
+        "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+        "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "title_en": null,
+        "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/630.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T01:26:19.380234Z"
+      }
+    },
+    {
+      "story_id": "story_013a8ac40c9d",
+      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+      "url": "https://x.com/sama/status/2096008528834244741",
+      "primary_url": "https://x.com/sama/status/2096008528834244741",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
+          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+          "title_zh": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+          "title_en": "Now out to all Plus and Business users. Happy building！",
+          "title_original": "Now out to all Plus and Business users. Happy building！",
+          "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2096008528834244741",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
+          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+          "title_zh": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+          "title_en": "Now out to all Plus and Business users. Happy building！",
+          "title_original": "Now out to all Plus and Business users. Happy building！",
+          "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2096008528834244741",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9691,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T22:52:29Z",
+      "latest_at": "2026-09-04T22:52:29Z",
+      "primary_item": {
+        "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
+        "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+        "title_zh": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+        "title_en": "Now out to all Plus and Business users. Happy building！",
+        "title_original": "Now out to all Plus and Business users. Happy building！",
+        "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sama/status/2096008528834244741",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -522,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.969,
+        "recency": 0.9326,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,7 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -604,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -686,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9337,
+        "recency": 0.8986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -768,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9214,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -803,7 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -851,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9351,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -885,7 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -933,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8552,
+        "recency": 0.823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -967,89 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
-      }
-    },
-    {
-      "story_id": "story_0967e2ddb4a9",
-      "title": "英伟达两年从零建起近千亿美元股权投资组合",
-      "url": "https://www.ithome.com/0/998/620.htm",
-      "primary_url": "https://www.ithome.com/0/998/620.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
-          "title": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_en": null,
-          "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
-          "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/620.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T14:59:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
-          "title": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_en": null,
-          "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
-          "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/620.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T14:59:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8986,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T14:59:33Z",
-      "latest_at": "2026-09-04T14:59:33Z",
-      "primary_item": {
-        "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
-        "title": "英伟达两年从零建起近千亿美元股权投资组合",
-        "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
-        "title_en": null,
-        "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
-        "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/620.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -1072,7 +1071,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T18:23:57.326009Z"
+          "published_at": "2026-09-04T18:03:05.773608Z"
         }
       ],
       "source_count": 1,
@@ -1092,20 +1091,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T18:23:57.326009Z"
+          "published_at": "2026-09-04T18:03:05.773608Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,8 +1112,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T18:23:57.326009Z",
-      "latest_at": "2026-09-04T18:23:57.326009Z",
+      "earliest_at": "2026-09-04T18:03:05.773608Z",
+      "latest_at": "2026-09-04T18:03:05.773608Z",
       "primary_item": {
         "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
         "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
@@ -1131,7 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -1208,15 +1207,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8498,
+        "recency": 0.8178,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1243,88 +1242,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
-      "story_id": "story_2456070438da",
-      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-      "url": "https://arcprize.org/blog/astra",
-      "primary_url": "https://arcprize.org/blog/astra",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_0967e2ddb4a9",
+      "title": "英伟达两年从零建起近千亿美元股权投资组合",
+      "url": "https://www.ithome.com/0/998/620.htm",
+      "primary_url": "https://www.ithome.com/0/998/620.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
-          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
+          "title": "英伟达两年从零建起近千亿美元股权投资组合",
+          "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
           "title_en": null,
-          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+          "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
+          "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
           "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://www.ithome.com/0/998/620.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:48.532000Z"
+          "published_at": "2026-09-04T14:59:33Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
-          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
+          "title": "英伟达两年从零建起近千亿美元股权投资组合",
+          "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
           "title_en": null,
-          "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-          "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+          "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
+          "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
           "recommend_reason_zh": null,
-          "url": "https://arcprize.org/blog/astra",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://www.ithome.com/0/998/620.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:48.532000Z"
+          "published_at": "2026-09-04T14:59:33Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-04T00:07:48.532000Z",
-      "latest_at": "2026-09-04T00:07:48.532000Z",
+      "earliest_at": "2026-09-04T14:59:33Z",
+      "latest_at": "2026-09-04T14:59:33Z",
       "primary_item": {
-        "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
-        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-        "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
+        "title": "英伟达两年从零建起近千亿美元股权投资组合",
+        "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
         "title_en": null,
-        "title_original": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+        "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
+        "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
         "recommend_reason_zh": null,
-        "url": "https://arcprize.org/blog/astra",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://www.ithome.com/0/998/620.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -1347,7 +1347,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T17:23:57.326009Z"
+          "published_at": "2026-09-04T17:03:05.773608Z"
         }
       ],
       "source_count": 1,
@@ -1367,29 +1367,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T17:23:57.326009Z"
+          "published_at": "2026-09-04T17:03:05.773608Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T17:23:57.326009Z",
-      "latest_at": "2026-09-04T17:23:57.326009Z",
+      "earliest_at": "2026-09-04T17:03:05.773608Z",
+      "latest_at": "2026-09-04T17:03:05.773608Z",
       "primary_item": {
         "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
         "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
@@ -1406,88 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
-      }
-    },
-    {
-      "story_id": "story_1570a7972a70",
-      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "primary_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
-          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_en": null,
-          "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:47.851000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
-          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_en": null,
-          "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:47.851000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.725,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T00:07:47.851000Z",
-      "latest_at": "2026-09-04T00:07:47.851000Z",
-      "primary_item": {
-        "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
-        "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-        "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-        "title_en": null,
-        "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-        "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-        "recommend_reason_zh": null,
-        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -1510,7 +1428,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:23:57.326009Z"
+          "published_at": "2026-09-04T16:03:05.773608Z"
         }
       ],
       "source_count": 1,
@@ -1530,29 +1448,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:23:57.326009Z"
+          "published_at": "2026-09-04T16:03:05.773608Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T16:23:57.326009Z",
-      "latest_at": "2026-09-04T16:23:57.326009Z",
+      "earliest_at": "2026-09-04T16:03:05.773608Z",
+      "latest_at": "2026-09-04T16:03:05.773608Z",
       "primary_item": {
         "id": "ee9492dc97f652f29c46ae615417722ccdc14409",
         "title": "AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应",
@@ -1569,7 +1486,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
+      }
+    },
+    {
+      "story_id": "story_e99ea3b4476e",
+      "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+      "url": "https://www.aibase.com/news/30841",
+      "primary_url": "https://www.aibase.com/news/30841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
+          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "title_zh": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "title_en": null,
+          "title_original": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T16:03:05.773608Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
+          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "title_zh": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "title_en": null,
+          "title_original": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T16:03:05.773608Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T16:03:05.773608Z",
+      "latest_at": "2026-09-04T16:03:05.773608Z",
+      "primary_item": {
+        "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
+        "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+        "title_zh": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+        "title_en": null,
+        "title_original": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30841",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -1592,7 +1590,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:23:57.326009Z"
+          "published_at": "2026-09-04T16:03:05.773608Z"
         }
       ],
       "source_count": 1,
@@ -1612,29 +1610,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:23:57.326009Z"
+          "published_at": "2026-09-04T16:03:05.773608Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T16:23:57.326009Z",
-      "latest_at": "2026-09-04T16:23:57.326009Z",
+      "earliest_at": "2026-09-04T16:03:05.773608Z",
+      "latest_at": "2026-09-04T16:03:05.773608Z",
       "primary_item": {
         "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
         "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
@@ -1651,7 +1648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     },
     {
@@ -1674,7 +1671,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:23:57.326009Z"
+          "published_at": "2026-09-04T16:03:05.773608Z"
         }
       ],
       "source_count": 1,
@@ -1694,29 +1691,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T16:23:57.326009Z"
+          "published_at": "2026-09-04T16:03:05.773608Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T16:23:57.326009Z",
-      "latest_at": "2026-09-04T16:23:57.326009Z",
+      "earliest_at": "2026-09-04T16:03:05.773608Z",
+      "latest_at": "2026-09-04T16:03:05.773608Z",
       "primary_item": {
         "id": "a5501c51cc190b2468879d74ce31150335cd41eb",
         "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
@@ -1733,7 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T22:49:01.332510Z"
+        "scored_at": "2026-09-05T01:26:19.380234Z"
       }
     }
   ]
