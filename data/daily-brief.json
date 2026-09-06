@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T09:30:03.229762Z",
+  "generated_at": "2026-09-06T13:42:57.595268Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_e1e7a08cca0d",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7867,
-      "importance": 0.7867,
-      "importance_score": 0.7867,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7532,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,119 +112,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
-      "story_id": "story_a8e8b77962fd",
-      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_762214826a97",
+      "title": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+      "url": "https://www.aibase.com/news/30830",
+      "primary_url": "https://www.aibase.com/news/30830",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'",
-          "title_zh": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "title_en": "OpenAI admits to German wiki 'incident'",
-          "title_original": "OpenAI admits to German wiki 'incident'",
-          "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:15:55Z"
-        },
-        {
-          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
-          "title_zh": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "title_en": "OpenAI admits to German wiki ‘incident’",
-          "title_original": "OpenAI admits to German wiki ‘incident’",
+          "id": "47d7afb62f34a7c82952672754ebad79c11e925e",
+          "title": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+          "title_zh": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+          "title_en": null,
+          "title_original": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T11:15:55Z"
+          "url": "https://www.aibase.com/news/30830",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'",
-          "title_zh": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "title_en": "OpenAI admits to German wiki 'incident'",
-          "title_original": "OpenAI admits to German wiki 'incident'",
-          "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:15:55Z"
-        },
-        {
-          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
-          "title_zh": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "title_en": "OpenAI admits to German wiki ‘incident’",
-          "title_original": "OpenAI admits to German wiki ‘incident’",
+          "id": "47d7afb62f34a7c82952672754ebad79c11e925e",
+          "title": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+          "title_zh": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+          "title_en": null,
+          "title_original": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T11:15:55Z"
+          "url": "https://www.aibase.com/news/30830",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.84,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7254,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-05T11:15:55Z",
-      "latest_at": "2026-09-05T11:15:55Z",
+      "earliest_at": "2026-09-06T13:42:57.595268Z",
+      "latest_at": "2026-09-06T13:42:57.595268Z",
       "primary_item": {
-        "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-        "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'",
-        "title_zh": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-        "title_en": "OpenAI admits to German wiki 'incident'",
-        "title_original": "OpenAI admits to German wiki 'incident'",
-        "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+        "id": "47d7afb62f34a7c82952672754ebad79c11e925e",
+        "title": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+        "title_zh": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+        "title_en": null,
+        "title_original": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30830",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
@@ -272,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9046,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -306,7 +276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
@@ -354,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8045,
+        "recency": 0.757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,7 +358,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
@@ -436,21 +406,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8413,
+        "recency": 0.7916,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T21:31:52Z",
       "latest_at": "2026-09-05T21:31:52Z",
@@ -470,250 +439,335 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
-      "story_id": "story_a23ce047f1f9",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_f8ef0e477867",
+      "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+      "url": "https://www.aibase.com/news/30834",
+      "primary_url": "https://www.aibase.com/news/30834",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "id": "92cdb83d11cbee93d12fe4e829c9f760ec352f9a",
+          "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+          "title_zh": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+          "title_en": null,
+          "title_original": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
+          "url": "https://www.aibase.com/news/30834",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "id": "92cdb83d11cbee93d12fe4e829c9f760ec352f9a",
+          "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+          "title_zh": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+          "title_en": null,
+          "title_original": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
+          "url": "https://www.aibase.com/news/30834",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7493,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
+      "earliest_at": "2026-09-06T13:42:57.595268Z",
+      "latest_at": "2026-09-06T13:42:57.595268Z",
       "primary_item": {
-        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
-      }
-    },
-    {
-      "story_id": "story_f827ef6f6cea",
-      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_en": null,
-          "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_en": null,
-          "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7295,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T11:39:52Z",
-      "latest_at": "2026-09-05T11:39:52Z",
-      "primary_item": {
-        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "id": "92cdb83d11cbee93d12fe4e829c9f760ec352f9a",
+        "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+        "title_zh": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
         "title_en": null,
-        "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
+        "title_original": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30834",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
-      "story_id": "story_697ba474c4bb",
-      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-      "url": "https://www.ithome.com/0/998/814.htm",
-      "primary_url": "https://www.ithome.com/0/998/814.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b2998f2c7e47",
+      "title": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
+      "url": "https://www.aibase.com/news/30831",
+      "primary_url": "https://www.aibase.com/news/30831",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "id": "a5fd65c5a2cf3806f70aa5fc51bc5e2ecfd8b6d6",
+          "title": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
+          "title_zh": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
           "title_en": null,
-          "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+          "title_original": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
+          "url": "https://www.aibase.com/news/30831",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "id": "a5fd65c5a2cf3806f70aa5fc51bc5e2ecfd8b6d6",
+          "title": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
+          "title_zh": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
           "title_en": null,
-          "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+          "title_original": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
+          "url": "https://www.aibase.com/news/30831",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7301,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-05T11:43:16Z",
-      "latest_at": "2026-09-05T11:43:16Z",
+      "earliest_at": "2026-09-06T13:42:57.595268Z",
+      "latest_at": "2026-09-06T13:42:57.595268Z",
       "primary_item": {
-        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "id": "a5fd65c5a2cf3806f70aa5fc51bc5e2ecfd8b6d6",
+        "title": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
+        "title_zh": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
         "title_en": null,
-        "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+        "title_original": "半年狂揽57亿：95后前商汤与MiniMax元老创业打造AI 3D独角兽VAST",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/814.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30831",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
+      }
+    },
+    {
+      "story_id": "story_21a0f27a8727",
+      "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+      "url": "https://www.aibase.com/news/30833",
+      "primary_url": "https://www.aibase.com/news/30833",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "748f7c3edd72716df0eacae2c7e47136785a0b5e",
+          "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+          "title_zh": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+          "title_en": null,
+          "title_original": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30833",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "748f7c3edd72716df0eacae2c7e47136785a0b5e",
+          "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+          "title_zh": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+          "title_en": null,
+          "title_original": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30833",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T13:42:57.595268Z",
+      "latest_at": "2026-09-06T13:42:57.595268Z",
+      "primary_item": {
+        "id": "748f7c3edd72716df0eacae2c7e47136785a0b5e",
+        "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+        "title_zh": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+        "title_en": null,
+        "title_original": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30833",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-06T13:56:52.202062Z"
+      }
+    },
+    {
+      "story_id": "story_6db44412a8b9",
+      "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+      "url": "https://www.aibase.com/news/30832",
+      "primary_url": "https://www.aibase.com/news/30832",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "899df97767cd01ac3f5c21fb849bc94949754eb8",
+          "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+          "title_zh": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+          "title_en": null,
+          "title_original": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30832",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "899df97767cd01ac3f5c21fb849bc94949754eb8",
+          "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+          "title_zh": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+          "title_en": null,
+          "title_original": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30832",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T13:42:57.595268Z",
+      "latest_at": "2026-09-06T13:42:57.595268Z",
+      "primary_item": {
+        "id": "899df97767cd01ac3f5c21fb849bc94949754eb8",
+        "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+        "title_zh": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+        "title_en": null,
+        "title_original": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30832",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
@@ -739,7 +793,7 @@
           "published_at": "2026-09-06T04:56:10.649000Z"
         },
         {
-          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
           "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
           "title_zh": "安装在机械臂上的GPT-6 Astra",
           "title_en": "GPT-6 Astra on robot arms",
@@ -747,15 +801,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "openai.robocurve.org"
       ],
       "items": [
@@ -774,7 +828,7 @@
           "published_at": "2026-09-06T04:56:10.649000Z"
         },
         {
-          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
           "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
           "title_zh": "安装在机械臂上的GPT-6 Astra",
           "title_en": "GPT-6 Astra on robot arms",
@@ -782,23 +836,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9362,
+        "recency": 0.8809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,7 +877,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     },
     {
@@ -900,15 +954,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8511,
+        "recency": 0.8008,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -933,7 +987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T09:43:59.468530Z"
+        "scored_at": "2026-09-06T13:56:52.202062Z"
       }
     }
   ]
