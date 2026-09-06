@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-09-06T17:07:41.071348Z",
+  "generated_at": "2026-09-06T19:16:07.957599Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_612a2e0c0069",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "primary_url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "07df97fa324316a3761be85953d935f46ac91560",
+          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
+          "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+          "title_en": "An Alien Mind",
+          "title_original": "An Alien Mind",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
+          "title": "《外星人的思维》",
+          "title_zh": "《外星人的思维》",
+          "title_en": null,
+          "title_original": "《外星人的思维》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T18:33:46.745000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "07df97fa324316a3761be85953d935f46ac91560",
+          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
+          "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+          "title_en": "An Alien Mind",
+          "title_original": "An Alien Mind",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
+          "title": "《外星人的思维》",
+          "title_zh": "《外星人的思维》",
+          "title_en": null,
+          "title_original": "《外星人的思维》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T18:33:46.745000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8522,
+      "importance": 0.8522,
+      "importance_score": 0.8522,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8622,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T09:00:00Z",
+      "latest_at": "2026-09-06T18:33:46.745000Z",
+      "primary_item": {
+        "id": "07df97fa324316a3761be85953d935f46ac91560",
+        "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
+        "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+        "title_en": "An Alien Mind",
+        "title_original": "An Alien Mind",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/an-alien-mind",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-06T19:28:18.678469Z"
+      }
+    },
     {
       "story_id": "story_cc153614bc7c",
       "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
@@ -77,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8548,
-      "importance": 0.8548,
-      "importance_score": 0.8548,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8765,
+        "recency": 0.8498,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,202 +226,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
-      "story_id": "story_612a2e0c0069",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f2dfaec2b3ca",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "title_en": "An Alien Mind",
-          "title_original": "An Alien Mind",
-          "summary": null,
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+          "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+          "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+          "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "07df97fa324316a3761be85953d935f46ac91560",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-          "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "title_en": "An Alien Mind",
-          "title_original": "An Alien Mind",
-          "summary": null,
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+          "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+          "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+          "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T09:00:00Z"
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8893,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T09:00:00Z",
-      "latest_at": "2026-09-06T09:00:00Z",
-      "primary_item": {
-        "id": "07df97fa324316a3761be85953d935f46ac91560",
-        "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-        "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-        "title_en": "An Alien Mind",
-        "title_original": "An Alien Mind",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/an-alien-mind",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
-      }
-    },
-    {
-      "story_id": "story_e1e7a08cca0d",
-      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-      "primary_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
-          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-          "title_zh": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
-          "title_en": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-          "title_original": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-          "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T18:05:27Z"
-        },
-        {
-          "id": "47aaf60fb1df1d8dddce9401a1e5c859e7a9571b",
-          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "title_zh": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
-          "title_en": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "title_original": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T18:05:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
-          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-          "title_zh": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
-          "title_en": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-          "title_original": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-          "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T18:05:27Z"
-        },
-        {
-          "id": "47aaf60fb1df1d8dddce9401a1e5c859e7a9571b",
-          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "title_zh": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
-          "title_en": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "title_original": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T18:05:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.717,
-        "story_heat": 0.25
+        "recency": 0.9873,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-05T18:05:27Z",
-      "latest_at": "2026-09-05T18:05:27Z",
+      "earliest_at": "2026-09-06T18:23:14Z",
+      "latest_at": "2026-09-06T18:23:14Z",
       "primary_item": {
-        "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
-        "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-        "title_zh": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
-        "title_en": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-        "title_original": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-        "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
+        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+        "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+        "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+        "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+        "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-        "source": "TechCrunch：AI（RSS）",
+        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -372,8 +372,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "0c968cc49aba7c4ae7142d53f90163c750dc48b2",
         "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -472,89 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
-      }
-    },
-    {
-      "story_id": "story_d13713a4e40b",
-      "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-      "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "786836d98ac997152df84d9f9ed173eda62be199",
-          "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-          "title_zh": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
-          "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-          "title_original": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-          "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T18:26:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "786836d98ac997152df84d9f9ed173eda62be199",
-          "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-          "title_zh": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
-          "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-          "title_original": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-          "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T18:26:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7206,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T18:26:17Z",
-      "latest_at": "2026-09-05T18:26:17Z",
-      "primary_item": {
-        "id": "786836d98ac997152df84d9f9ed173eda62be199",
-        "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-        "title_zh": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
-        "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-        "title_original": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-        "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -618,8 +536,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "ee9492dc97f652f29c46ae615417722ccdc14409",
         "title": "AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应",
@@ -636,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -684,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7535,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -717,7 +635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -781,8 +699,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "097869ebd618616645e8421be69d3f270cc7f985",
         "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
@@ -799,7 +717,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -863,8 +781,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
         "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
@@ -881,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -945,8 +863,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
         "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
@@ -963,7 +881,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1027,8 +945,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "47d7afb62f34a7c82952672754ebad79c11e925e",
         "title": "Meta 改了 AI 考核标准：不再看 Token 用量，93% 代码变更已由智能体辅助完成",
@@ -1045,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1109,8 +1027,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "92cdb83d11cbee93d12fe4e829c9f760ec352f9a",
         "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
@@ -1127,7 +1045,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1233,15 +1151,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9567,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1266,7 +1184,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1330,8 +1248,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
         "title": "Vara获全球首个自主乳腺癌筛查AI认证",
@@ -1348,7 +1266,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
+      }
+    },
+    {
+      "story_id": "story_2e625774c329",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4981e765bf968135eb3dda4c7cc5c231b3410655",
+          "title": "How we monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "How we monitor internal coding agents for misalignment",
+          "title_original": "How we monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "4981e765bf968135eb3dda4c7cc5c231b3410655",
+          "title": "How we monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "How we monitor internal coding agents for misalignment",
+          "title_original": "How we monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_zh": null,
+          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
+          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9626,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T16:37:55Z",
+      "latest_at": "2026-09-06T16:37:55Z",
+      "primary_item": {
+        "id": "4981e765bf968135eb3dda4c7cc5c231b3410655",
+        "title": "How we monitor internal coding agents for misalignment",
+        "title_zh": null,
+        "title_en": "How we monitor internal coding agents for misalignment",
+        "title_original": "How we monitor internal coding agents for misalignment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1425,15 +1453,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9759,
+        "recency": 0.9462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,7 +1486,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1484,7 +1512,7 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "13b8eae4cc6359941073f2142dff6e8ccd6ecc22",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "人工智能、工具与转型 / AI, Tools and Transformation",
           "title_zh": "人工智能、工具与转型",
           "title_en": "AI, Tools and Transformation",
@@ -1492,15 +1520,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.ben-evans.com"
       ],
       "items": [
@@ -1519,7 +1547,7 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "13b8eae4cc6359941073f2142dff6e8ccd6ecc22",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "人工智能、工具与转型 / AI, Tools and Transformation",
           "title_zh": "人工智能、工具与转型",
           "title_en": "AI, Tools and Transformation",
@@ -1527,23 +1555,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.961,
+        "recency": 0.9317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1568,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1632,8 +1660,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-06T17:07:41.071348Z",
-      "latest_at": "2026-09-06T17:07:41.071348Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
         "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
         "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
@@ -1650,7 +1678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
@@ -1727,15 +1755,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8386,
+        "recency": 0.813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1760,117 +1788,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     },
     {
-      "story_id": "story_f0b96624cb5e",
-      "title": "大语言模型作为认知病毒",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "primary_url": "https://arxiv.org/abs/2609.03344",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_834bf9c0a65b",
+      "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+      "url": "https://www.aibase.com/news/30837",
+      "primary_url": "https://www.aibase.com/news/30837",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "title_zh": "大语言模型作为认知病毒",
+          "id": "e2ce92006f274e5a2b54888d8ad1162674864dc4",
+          "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+          "title_zh": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
           "title_en": null,
-          "title_original": "大语言模型作为认知病毒",
+          "title_original": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
-        },
-        {
-          "id": "99c4961efc5cdd3dafa4e1dd11aff6b0b36c2ea1",
-          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
-          "title_zh": "大语言模型作为认知病毒",
-          "title_en": "LLMs as a Cognitive Virus",
-          "title_original": "LLMs as a Cognitive Virus",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T20:02:35Z"
+          "url": "https://www.aibase.com/news/30837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "title_zh": "大语言模型作为认知病毒",
+          "id": "e2ce92006f274e5a2b54888d8ad1162674864dc4",
+          "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+          "title_zh": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
           "title_en": null,
-          "title_original": "大语言模型作为认知病毒",
+          "title_original": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
-        },
-        {
-          "id": "99c4961efc5cdd3dafa4e1dd11aff6b0b36c2ea1",
-          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
-          "title_zh": "大语言模型作为认知病毒",
-          "title_en": "LLMs as a Cognitive Virus",
-          "title_original": "LLMs as a Cognitive Virus",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T20:02:35Z"
+          "url": "https://www.aibase.com/news/30837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.503,
-      "importance": 0.503,
-      "importance_score": 0.503,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7623,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-05T20:02:35Z",
-      "latest_at": "2026-09-05T22:19:59.965000Z",
+      "earliest_at": "2026-09-06T19:16:07.957599Z",
+      "latest_at": "2026-09-06T19:16:07.957599Z",
       "primary_item": {
-        "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-        "title": "大语言模型作为认知病毒",
-        "title_zh": "大语言模型作为认知病毒",
+        "id": "e2ce92006f274e5a2b54888d8ad1162674864dc4",
+        "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+        "title_zh": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
         "title_en": null,
-        "title_original": "大语言模型作为认知病毒",
+        "title_original": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2609.03344",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/30837",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T17:21:10.497116Z"
+        "scored_at": "2026-09-06T19:28:18.678469Z"
       }
     }
   ]
