@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:47:41.385135Z",
+  "generated_at": "2026-09-08T14:37:22.713148Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8813,
-      "importance": 0.8813,
-      "importance_score": 0.8813,
+      "score": 0.8699,
+      "importance": 0.8699,
+      "importance_score": 0.8699,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9463,
+        "recency": 0.8826,
         "story_heat": 0.75
       },
       "category": "official",
@@ -170,7 +170,339 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_e9c8b7eef4d1",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8594,
+      "importance": 0.8594,
+      "importance_score": 0.8594,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9966,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:23:07Z",
+      "latest_at": "2026-09-08T14:23:07Z",
+      "primary_item": {
+        "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_zh": null,
+        "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_be047988843b",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9768,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T13:00:00Z",
+      "latest_at": "2026-09-08T13:00:00Z",
+      "primary_item": {
+        "id": "0c225103d8bbdb274acb89884cf1925952614089",
+        "title": "The Work Now Within Reach",
+        "title_zh": null,
+        "title_en": "The Work Now Within Reach",
+        "title_original": "The Work Now Within Reach",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_a927f6f1604a",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": null,
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": null,
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9911,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:00:15Z",
+      "latest_at": "2026-09-08T14:00:15Z",
+      "primary_item": {
+        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_zh": null,
+        "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_bac4ec48b080",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8096,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T00:00:00Z",
+      "latest_at": "2026-09-08T00:00:00Z",
+      "primary_item": {
+        "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_zh": null,
+        "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -218,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9651,
+        "recency": 0.9001,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,30 +584,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
-      "story_id": "story_ec24c847b7a7",
-      "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-      "url": "https://www.aibase.com/news/30897",
-      "primary_url": "https://www.aibase.com/news/30897",
+      "story_id": "story_bbef342e3266",
+      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+      "url": "https://www.aibase.com/news/30908",
+      "primary_url": "https://www.aibase.com/news/30908",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "title_zh": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "title_en": null,
-          "title_original": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30897",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:37:22.713148Z"
         }
       ],
       "source_count": 1,
@@ -284,18 +616,18 @@
       ],
       "items": [
         {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "title_zh": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "title_en": null,
-          "title_original": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30897",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:37:22.713148Z"
         }
       ],
       "item_count": 1,
@@ -316,17 +648,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
+      "earliest_at": "2026-09-08T14:37:22.713148Z",
+      "latest_at": "2026-09-08T14:37:22.713148Z",
       "primary_item": {
-        "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-        "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-        "title_zh": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
         "title_en": null,
-        "title_original": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
+        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30897",
+        "url": "https://www.aibase.com/news/30908",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -334,7 +666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -382,21 +714,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8717,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T00:17:23Z",
       "latest_at": "2026-09-08T00:17:23Z",
@@ -416,7 +747,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_2a18f45ec375",
+      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+      "url": "https://www.aibase.com/news/30905",
+      "primary_url": "https://www.aibase.com/news/30905",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_en": null,
+          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:37:22.713148Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "title_en": null,
+          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:37:22.713148Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:37:22.713148Z",
+      "latest_at": "2026-09-08T14:37:22.713148Z",
+      "primary_item": {
+        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "title_en": null,
+        "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30905",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -464,15 +877,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7985,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,30 +910,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
-      "story_id": "story_0fcfe3e87cad",
-      "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-      "url": "https://www.aibase.com/news/30899",
-      "primary_url": "https://www.aibase.com/news/30899",
+      "story_id": "story_613d849d5200",
+      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+      "url": "https://www.aibase.com/news/30911",
+      "primary_url": "https://www.aibase.com/news/30911",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-          "title_zh": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
-          "title_original": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30899",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:37:22.713148Z"
         }
       ],
       "source_count": 1,
@@ -529,18 +942,18 @@
       ],
       "items": [
         {
-          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-          "title_zh": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
-          "title_original": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30899",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:37:22.713148Z"
         }
       ],
       "item_count": 1,
@@ -561,17 +974,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
+      "earliest_at": "2026-09-08T14:37:22.713148Z",
+      "latest_at": "2026-09-08T14:37:22.713148Z",
       "primary_item": {
-        "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-        "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-        "title_zh": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+        "id": "fca343610ea50224e783418e5186b3f2329bff06",
+        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+        "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
         "title_en": null,
-        "title_original": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
+        "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30899",
+        "url": "https://www.aibase.com/news/30911",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -579,335 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_5c01fc225873",
-      "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-      "url": "https://www.aibase.com/news/30894",
-      "primary_url": "https://www.aibase.com/news/30894",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
-          "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "title_zh": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "title_en": null,
-          "title_original": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
-          "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "title_zh": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "title_en": null,
-          "title_original": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30894",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "7c6ced8167e4c79e4d3d7f61df4d53729f9f6b90",
-        "title": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-        "title_zh": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-        "title_en": null,
-        "title_original": "Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30894",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_1bff838f4feb",
-      "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-      "url": "https://www.aibase.com/news/30898",
-      "primary_url": "https://www.aibase.com/news/30898",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "title_zh": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "title_en": null,
-          "title_original": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30898",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "title_zh": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "title_en": null,
-          "title_original": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30898",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-        "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-        "title_zh": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-        "title_en": null,
-        "title_original": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30898",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_bbef342e3266",
-      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-      "url": "https://www.aibase.com/news/30908",
-      "primary_url": "https://www.aibase.com/news/30908",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_en": null,
-        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30908",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_2a18f45ec375",
-      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-      "url": "https://www.aibase.com/news/30905",
-      "primary_url": "https://www.aibase.com/news/30905",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_en": null,
-          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_en": null,
-          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "title_en": null,
-        "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30905",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -930,7 +1015,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:37:22.713148Z"
         }
       ],
       "source_count": 1,
@@ -950,7 +1035,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:37:22.713148Z"
         }
       ],
       "item_count": 1,
@@ -971,8 +1056,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
+      "earliest_at": "2026-09-08T14:37:22.713148Z",
+      "latest_at": "2026-09-08T14:37:22.713148Z",
       "primary_item": {
         "id": "547a898a428bde7c6214d47235a5d3149578eec7",
         "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
@@ -989,7 +1074,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_c2b11cb2bdaf",
+      "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+      "url": "https://www.aibase.com/news/30909",
+      "primary_url": "https://www.aibase.com/news/30909",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
+          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "title_en": null,
+          "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:37:22.713148Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
+          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "title_en": null,
+          "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:37:22.713148Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:37:22.713148Z",
+      "latest_at": "2026-09-08T14:37:22.713148Z",
+      "primary_item": {
+        "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
+        "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+        "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+        "title_en": null,
+        "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30909",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_540d9571c139",
+      "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+      "url": "https://www.aibase.com/news/30907",
+      "primary_url": "https://www.aibase.com/news/30907",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_en": null,
+          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:37:22.713148Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "title_en": null,
+          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:37:22.713148Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:37:22.713148Z",
+      "latest_at": "2026-09-08T14:37:22.713148Z",
+      "primary_item": {
+        "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+        "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+        "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+        "title_en": null,
+        "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30907",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -1012,7 +1261,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:29:22.713148Z"
         }
       ],
       "source_count": 1,
@@ -1032,20 +1281,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T14:29:22.713148Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1053,8 +1302,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
+      "earliest_at": "2026-09-08T14:29:22.713148Z",
+      "latest_at": "2026-09-08T14:29:22.713148Z",
       "primary_item": {
         "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
         "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
@@ -1071,7 +1320,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_02408f2e99e2",
+      "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+      "url": "https://www.aibase.com/news/30903",
+      "primary_url": "https://www.aibase.com/news/30903",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
+          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "title_en": null,
+          "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30903",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:06:22.713148Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
+          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "title_en": null,
+          "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30903",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:06:22.713148Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9926,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:06:22.713148Z",
+      "latest_at": "2026-09-08T14:06:22.713148Z",
+      "primary_item": {
+        "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
+        "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+        "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+        "title_en": null,
+        "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30903",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
+      }
+    },
+    {
+      "story_id": "story_b8ab7c1cffe5",
+      "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+      "url": "https://www.aibase.com/news/30902",
+      "primary_url": "https://www.aibase.com/news/30902",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
+          "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+          "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+          "title_en": null,
+          "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30902",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:03:22.713148Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
+          "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+          "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+          "title_en": null,
+          "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30902",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:03:22.713148Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9919,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:03:22.713148Z",
+      "latest_at": "2026-09-08T14:03:22.713148Z",
+      "primary_item": {
+        "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
+        "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+        "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+        "title_en": null,
+        "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30902",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -1148,15 +1561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9542,
+        "recency": 0.89,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,7 +1594,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -1258,15 +1671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9048,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1291,417 +1704,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_b8ab7c1cffe5",
-      "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-      "url": "https://www.aibase.com/news/30902",
-      "primary_url": "https://www.aibase.com/news/30902",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
-          "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_en": null,
-          "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30902",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
-          "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_en": null,
-          "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30902",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
-        "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-        "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-        "title_en": null,
-        "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30902",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_a08e65cb4732",
-      "title": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-      "url": "https://www.aibase.com/news/30900",
-      "primary_url": "https://www.aibase.com/news/30900",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "29d3b74dd1231ec064d14787948fbbab89b87c3c",
-          "title": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-          "title_zh": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-          "title_en": null,
-          "title_original": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30900",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "29d3b74dd1231ec064d14787948fbbab89b87c3c",
-          "title": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-          "title_zh": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-          "title_en": null,
-          "title_original": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30900",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "29d3b74dd1231ec064d14787948fbbab89b87c3c",
-        "title": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-        "title_zh": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-        "title_en": null,
-        "title_original": "可灵AI正式官宣亮相2026多伦多国际电影节市场",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30900",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_b8a91b58333f",
-      "title": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-      "url": "https://www.aibase.com/news/30893",
-      "primary_url": "https://www.aibase.com/news/30893",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "301d1fb3f962dcc2af28a9eebe53d944f94b0409",
-          "title": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-          "title_zh": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-          "title_en": null,
-          "title_original": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30893",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:46:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "301d1fb3f962dcc2af28a9eebe53d944f94b0409",
-          "title": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-          "title_zh": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-          "title_en": null,
-          "title_original": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30893",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:46:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9998,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:46:41.385135Z",
-      "latest_at": "2026-09-08T09:46:41.385135Z",
-      "primary_item": {
-        "id": "301d1fb3f962dcc2af28a9eebe53d944f94b0409",
-        "title": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-        "title_zh": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-        "title_en": null,
-        "title_original": "小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30893",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_2791ef2d9ffb",
-      "title": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-      "url": "https://www.aibase.com/news/30895",
-      "primary_url": "https://www.aibase.com/news/30895",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e2a25d5a041bb3123cdb2841e39ac858b9938dc8",
-          "title": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-          "title_zh": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-          "title_en": null,
-          "title_original": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30895",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e2a25d5a041bb3123cdb2841e39ac858b9938dc8",
-          "title": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-          "title_zh": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-          "title_en": null,
-          "title_original": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30895",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "e2a25d5a041bb3123cdb2841e39ac858b9938dc8",
-        "title": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-        "title_zh": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-        "title_en": null,
-        "title_original": "微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30895",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
-      }
-    },
-    {
-      "story_id": "story_c2b11cb2bdaf",
-      "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-      "url": "https://www.aibase.com/news/30909",
-      "primary_url": "https://www.aibase.com/news/30909",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
-          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_en": null,
-          "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30909",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
-          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_en": null,
-          "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30909",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
-      "primary_item": {
-        "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
-        "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-        "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-        "title_en": null,
-        "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30909",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     },
     {
@@ -1724,7 +1727,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T12:37:22.713148Z"
         }
       ],
       "source_count": 1,
@@ -1744,20 +1747,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T09:47:41.385135Z"
+          "published_at": "2026-09-08T12:37:22.713148Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1765,8 +1768,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T09:47:41.385135Z",
-      "latest_at": "2026-09-08T09:47:41.385135Z",
+      "earliest_at": "2026-09-08T12:37:22.713148Z",
+      "latest_at": "2026-09-08T12:37:22.713148Z",
       "primary_item": {
         "id": "78e7f8614074a411c527f9f104ab069b75403db5",
         "title": "抬眼就能完成支付！微信支付智能眼镜 SDK 正式上线，Rokid 成首家适配品牌",
@@ -1783,7 +1786,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T10:04:57.699694Z"
+        "scored_at": "2026-09-08T14:54:18.099213Z"
       }
     }
   ]
