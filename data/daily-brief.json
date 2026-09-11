@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T19:47:59.144742Z",
+  "generated_at": "2026-09-11T22:39:13.521621Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8655,
-      "importance": 0.8655,
-      "importance_score": 0.8655,
+      "score": 0.8584,
+      "importance": 0.8584,
+      "importance_score": 0.8584,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9805,
+        "recency": 0.9409,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_adeb9fe0ee2f",
+      "title": "Add VS Code Agents to Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "title_zh": null,
+          "title_en": "Add VS Code Agents to Copilot usage metrics",
+          "title_original": "Add VS Code Agents to Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T21:30:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "title_zh": null,
+          "title_en": "Add VS Code Agents to Copilot usage metrics",
+          "title_original": "Add VS Code Agents to Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T21:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9836,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T21:30:30Z",
+      "latest_at": "2026-09-11T21:30:30Z",
+      "primary_item": {
+        "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+        "title": "Add VS Code Agents to Copilot usage metrics",
+        "title_zh": null,
+        "title_en": "Add VS Code Agents to Copilot usage metrics",
+        "title_original": "Add VS Code Agents to Copilot usage metrics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.868,
+        "recency": 0.833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +279,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_443601b34cf8",
+      "title": "Quick chats with Pets and Appshots on Windows 26.908",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_zh": null,
+          "title_en": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_original": "Quick chats with Pets and Appshots on Windows 26.908",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_zh": null,
+          "title_en": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_original": "Quick chats with Pets and Appshots on Windows 26.908",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.721,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T00:00:00Z",
+      "latest_at": "2026-09-11T00:00:00Z",
+      "primary_item": {
+        "id": "7117458f518f885fe141d11b2560556284fc84d8",
+        "title": "Quick chats with Pets and Appshots on Windows 26.908",
+        "title_zh": null,
+        "title_en": "Quick chats with Pets and Appshots on Windows 26.908",
+        "title_original": "Quick chats with Pets and Appshots on Windows 26.908",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_bbf03c6dd45c",
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "title_zh": null,
+          "title_en": "Auto-resolution and analysis updates in Copilot code review",
+          "title_original": "Auto-resolution and analysis updates in Copilot code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "title_zh": null,
+          "title_en": "Auto-resolution and analysis updates in Copilot code review",
+          "title_original": "Auto-resolution and analysis updates in Copilot code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9624,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T20:00:07Z",
+      "latest_at": "2026-09-11T20:00:07Z",
+      "primary_item": {
+        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+        "title": "Auto-resolution and analysis updates in Copilot code review",
+        "title_zh": null,
+        "title_en": "Auto-resolution and analysis updates in Copilot code review",
+        "title_original": "Auto-resolution and analysis updates in Copilot code review",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -273,15 +522,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.8805,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -308,7 +557,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_f62bfdadd23e",
+      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+      "url": "https://www.aibase.com/news/31003",
+      "primary_url": "https://www.aibase.com/news/31003",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_en": null,
+          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:39:13.521621Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_en": null,
+          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:39:13.521621Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T22:39:13.521621Z",
+      "latest_at": "2026-09-11T22:39:13.521621Z",
+      "primary_item": {
+        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "title_en": null,
+        "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31003",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -356,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7397,
+        "recency": 0.7098,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,367 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_01060d22a981",
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_zh": null,
-          "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:31:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_zh": null,
-          "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:31:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7249,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:31:19Z",
-      "latest_at": "2026-09-10T21:31:19Z",
-      "primary_item": {
-        "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-        "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "title_zh": null,
-        "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_f3588b8a4eb3",
-      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-      "url": "https://www.aibase.com/news/31002",
-      "primary_url": "https://www.aibase.com/news/31002",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_en": null,
-          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T19:47:59.144742Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_en": null,
-          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T19:47:59.144742Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T19:47:59.144742Z",
-      "latest_at": "2026-09-11T19:47:59.144742Z",
-      "primary_item": {
-        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "title_en": null,
-        "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31002",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_f77d111a864e",
-      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "primary_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T20:57:30Z"
-        },
-        {
-          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T20:57:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T20:57:30Z"
-        },
-        {
-          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T20:57:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.719,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T20:57:30Z",
-      "latest_at": "2026-09-10T20:57:30Z",
-      "primary_item": {
-        "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-        "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-        "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-        "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-        "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-        "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_b2b031fb6942",
-      "title": "Refreshed repository pull requests page in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "Refreshed repository pull requests page in public preview",
-          "title_zh": null,
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "Refreshed repository pull requests page in public preview",
-          "title_zh": null,
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7242,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:27:17Z",
-      "latest_at": "2026-09-10T21:27:17Z",
-      "primary_item": {
-        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-        "title": "Refreshed repository pull requests page in public preview",
-        "title_zh": null,
-        "title_en": "Refreshed repository pull requests page in public preview",
-        "title_original": "Refreshed repository pull requests page in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -799,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8007,
+        "recency": 0.7684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +803,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_f3588b8a4eb3",
+      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+      "url": "https://www.aibase.com/news/31002",
+      "primary_url": "https://www.aibase.com/news/31002",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_en": null,
+          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:17:13.521621Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_en": null,
+          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:17:13.521621Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T22:17:13.521621Z",
+      "latest_at": "2026-09-11T22:17:13.521621Z",
+      "primary_item": {
+        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "title_en": null,
+        "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31002",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -880,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9531,
+        "recency": 0.9146,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,172 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_f62bfdadd23e",
-      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-      "url": "https://www.aibase.com/news/31003",
-      "primary_url": "https://www.aibase.com/news/31003",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_en": null,
-          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T19:47:59.144742Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_en": null,
-          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T19:47:59.144742Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T19:47:59.144742Z",
-      "latest_at": "2026-09-11T19:47:59.144742Z",
-      "primary_item": {
-        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "title_en": null,
-        "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31003",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_353d7797f4fb",
-      "title": "AI Scan for pull request APIs in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI Scan for pull request APIs in public preview",
-          "title_zh": null,
-          "title_en": "AI Scan for pull request APIs in public preview",
-          "title_original": "AI Scan for pull request APIs in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI Scan for pull request APIs in public preview",
-          "title_zh": null,
-          "title_en": "AI Scan for pull request APIs in public preview",
-          "title_original": "AI Scan for pull request APIs in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7127,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T20:20:58Z",
-      "latest_at": "2026-09-10T20:20:58Z",
-      "primary_item": {
-        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-        "title": "AI Scan for pull request APIs in public preview",
-        "title_zh": null,
-        "title_en": "AI Scan for pull request APIs in public preview",
-        "title_original": "AI Scan for pull request APIs in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -1101,7 +989,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T18:47:59.144742Z"
+          "published_at": "2026-09-11T18:39:13.521621Z"
         }
       ],
       "source_count": 1,
@@ -1121,20 +1009,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T18:47:59.144742Z"
+          "published_at": "2026-09-11T18:39:13.521621Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1142,8 +1030,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T18:47:59.144742Z",
-      "latest_at": "2026-09-11T18:47:59.144742Z",
+      "earliest_at": "2026-09-11T18:39:13.521621Z",
+      "latest_at": "2026-09-11T18:39:13.521621Z",
       "primary_item": {
         "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
         "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
@@ -1160,7 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -1183,7 +1071,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T17:47:59.144742Z"
+          "published_at": "2026-09-11T17:39:13.521621Z"
         }
       ],
       "source_count": 1,
@@ -1203,20 +1091,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T17:47:59.144742Z"
+          "published_at": "2026-09-11T17:39:13.521621Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1224,8 +1112,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T17:47:59.144742Z",
-      "latest_at": "2026-09-11T17:47:59.144742Z",
+      "earliest_at": "2026-09-11T17:39:13.521621Z",
+      "latest_at": "2026-09-11T17:39:13.521621Z",
       "primary_item": {
         "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
         "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
@@ -1242,7 +1130,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_af7463ba7929",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f350545885690297233c2f6244ab2de359b1991c",
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "title_zh": null,
+          "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "title_original": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T20:59:47Z"
+        },
+        {
+          "id": "157e40196f3ae3f12dbe37d79de590b017ae54a1",
+          "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "title_zh": null,
+          "title_en": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "title_original": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T20:59:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "f350545885690297233c2f6244ab2de359b1991c",
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "title_zh": null,
+          "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "title_original": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T20:59:47Z"
+        },
+        {
+          "id": "157e40196f3ae3f12dbe37d79de590b017ae54a1",
+          "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "title_zh": null,
+          "title_en": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "title_original": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T20:59:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6445,
+      "importance": 0.6445,
+      "importance_score": 0.6445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9764,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T20:59:47Z",
+      "latest_at": "2026-09-11T20:59:47Z",
+      "primary_item": {
+        "id": "f350545885690297233c2f6244ab2de359b1991c",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "title_zh": null,
+        "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "title_original": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -1265,7 +1263,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T16:47:59.144742Z"
+          "published_at": "2026-09-11T16:39:13.521621Z"
         }
       ],
       "source_count": 1,
@@ -1285,20 +1283,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T16:47:59.144742Z"
+          "published_at": "2026-09-11T16:39:13.521621Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1306,8 +1304,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T16:47:59.144742Z",
-      "latest_at": "2026-09-11T16:47:59.144742Z",
+      "earliest_at": "2026-09-11T16:39:13.521621Z",
+      "latest_at": "2026-09-11T16:39:13.521621Z",
       "primary_item": {
         "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
         "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
@@ -1324,7 +1322,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_605db3706162",
+      "title": "Feeling sad about AI",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
+      "primary_url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
+          "title": "Feeling sad about AI",
+          "title_zh": null,
+          "title_en": "Feeling sad about AI",
+          "title_original": "Feeling sad about AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T17:28:37Z"
+        },
+        {
+          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
+          "title": "对人工智能感到难过",
+          "title_zh": "对人工智能感到难过",
+          "title_en": null,
+          "title_original": "对人工智能感到难过",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
+          "source": "artificialworlds.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:00.960000Z"
+        },
+        {
+          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
+          "title": "对人工智能感到难过 / Feeling Sad about AI",
+          "title_zh": "对人工智能感到难过",
+          "title_en": "Feeling Sad about AI",
+          "title_original": "Feeling Sad about AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:50:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Simon Willison",
+        "artificialworlds.net"
+      ],
+      "items": [
+        {
+          "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
+          "title": "Feeling sad about AI",
+          "title_zh": null,
+          "title_en": "Feeling sad about AI",
+          "title_original": "Feeling sad about AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T17:28:37Z"
+        },
+        {
+          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
+          "title": "对人工智能感到难过",
+          "title_zh": "对人工智能感到难过",
+          "title_en": null,
+          "title_original": "对人工智能感到难过",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
+          "source": "artificialworlds.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:00.960000Z"
+        },
+        {
+          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
+          "title": "对人工智能感到难过 / Feeling Sad about AI",
+          "title_zh": "对人工智能感到难过",
+          "title_en": "Feeling Sad about AI",
+          "title_original": "Feeling Sad about AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:50:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6058,
+      "importance": 0.6058,
+      "importance_score": 0.6058,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.928,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T16:50:51Z",
+      "latest_at": "2026-09-11T17:48:00.960000Z",
+      "primary_item": {
+        "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
+        "title": "Feeling sad about AI",
+        "title_zh": null,
+        "title_en": "Feeling sad about AI",
+        "title_original": "Feeling sad about AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -1347,7 +1484,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T15:47:59.144742Z"
+          "published_at": "2026-09-11T15:39:13.521621Z"
         }
       ],
       "source_count": 1,
@@ -1367,20 +1504,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T15:47:59.144742Z"
+          "published_at": "2026-09-11T15:39:13.521621Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1388,8 +1525,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T15:47:59.144742Z",
-      "latest_at": "2026-09-11T15:47:59.144742Z",
+      "earliest_at": "2026-09-11T15:39:13.521621Z",
+      "latest_at": "2026-09-11T15:39:13.521621Z",
       "primary_item": {
         "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
         "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
@@ -1406,116 +1543,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
-      "story_id": "story_7dcbe59ddef0",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "primary_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_918720d3acdd",
+      "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+      "url": "https://www.aibase.com/news/30994",
+      "primary_url": "https://www.aibase.com/news/30994",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "title_zh": null,
-          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_en": null,
+          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T14:25:21Z"
+          "url": "https://www.aibase.com/news/30994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:39:13.521621Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_en": null,
+          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:39:13.521621Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T15:39:13.521621Z",
+      "latest_at": "2026-09-11T15:39:13.521621Z",
+      "primary_item": {
+        "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+        "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "title_en": null,
+        "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30994",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T23:05:05.271389Z"
+      }
+    },
+    {
+      "story_id": "story_aff72a9138aa",
+      "title": "Hacker News 降低了人工智能驱动内容的优先级",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "primary_url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "source": "sprinklz.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
         },
         {
-          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
-          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "title_zh": null,
-          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:25:21Z"
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "Hacker News · 24h最热",
+        "sprinklz.io"
       ],
       "items": [
         {
-          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "title_zh": null,
-          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T14:25:21Z"
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
         },
         {
-          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
-          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "title_zh": null,
-          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:25:21Z"
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.602,
-      "importance": 0.602,
-      "importance_score": 0.602,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.9253,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9912,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T14:25:21Z",
-      "latest_at": "2026-09-11T14:25:21Z",
+      "earliest_at": "2026-09-11T15:52:49Z",
+      "latest_at": "2026-09-11T22:02:28.525000Z",
       "primary_item": {
-        "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-        "title_zh": null,
-        "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-        "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+        "title": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_en": null,
+        "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://sprinklz.io/public/pdwt4dve5uai",
+        "source": "sprinklz.io",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     },
     {
@@ -1538,7 +1758,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T15:47:59.144742Z"
+          "published_at": "2026-09-11T15:39:13.521621Z"
         }
       ],
       "source_count": 1,
@@ -1558,20 +1778,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T15:47:59.144742Z"
+          "published_at": "2026-09-11T15:39:13.521621Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1579,8 +1799,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T15:47:59.144742Z",
-      "latest_at": "2026-09-11T15:47:59.144742Z",
+      "earliest_at": "2026-09-11T15:39:13.521621Z",
+      "latest_at": "2026-09-11T15:39:13.521621Z",
       "primary_item": {
         "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
         "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
@@ -1597,228 +1817,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_97c60c12a061",
-      "title": "Show HN: Hacker News，不含人工智能",
-      "url": "https://hcker.news/?ai=exclude",
-      "primary_url": "https://hcker.news/?ai=exclude",
-      "source": "hcker.news",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ab898550e7375019bb0328481497522fbf2efbc8",
-          "title": "Show HN: Hacker News，不含人工智能",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": null,
-          "title_original": "Show HN: Hacker News，不含人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "hcker.news",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:01:02.180000Z"
-        },
-        {
-          "id": "71d705b08990ca0079691c70fdfebb071af947c0",
-          "title": "Show HN: Hacker News, Without AI",
-          "title_zh": null,
-          "title_en": "Show HN: Hacker News, Without AI",
-          "title_original": "Show HN: Hacker News, Without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.unslop.news",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T16:08:50Z"
-        },
-        {
-          "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
-          "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": "Show HN: Hacker News, without AI",
-          "title_original": "Show HN: Hacker News, without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T15:01:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hcker.news"
-      ],
-      "items": [
-        {
-          "id": "ab898550e7375019bb0328481497522fbf2efbc8",
-          "title": "Show HN: Hacker News，不含人工智能",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": null,
-          "title_original": "Show HN: Hacker News，不含人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "hcker.news",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:01:02.180000Z"
-        },
-        {
-          "id": "71d705b08990ca0079691c70fdfebb071af947c0",
-          "title": "Show HN: Hacker News, Without AI",
-          "title_zh": null,
-          "title_en": "Show HN: Hacker News, Without AI",
-          "title_original": "Show HN: Hacker News, Without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.unslop.news",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T16:08:50Z"
-        },
-        {
-          "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
-          "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": "Show HN: Hacker News, without AI",
-          "title_original": "Show HN: Hacker News, without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T15:01:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9606,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T15:01:19Z",
-      "latest_at": "2026-09-11T17:01:02.180000Z",
-      "primary_item": {
-        "id": "ab898550e7375019bb0328481497522fbf2efbc8",
-        "title": "Show HN: Hacker News，不含人工智能",
-        "title_zh": "Show HN: Hacker News，不含人工智能",
-        "title_en": null,
-        "title_original": "Show HN: Hacker News，不含人工智能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hcker.news/?ai=exclude",
-        "source": "hcker.news",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
-      }
-    },
-    {
-      "story_id": "story_039615a643b2",
-      "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-      "url": "https://www.aibase.com/news/30997",
-      "primary_url": "https://www.aibase.com/news/30997",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_en": null,
-          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:47:59.144742Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_en": null,
-          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:47:59.144742Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T15:47:59.144742Z",
-      "latest_at": "2026-09-11T15:47:59.144742Z",
-      "primary_item": {
-        "id": "055f63e0db2587418529124abc009ae1b04238f7",
-        "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "title_en": null,
-        "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30997",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T20:15:56.297600Z"
+        "scored_at": "2026-09-11T23:05:05.271389Z"
       }
     }
   ]
