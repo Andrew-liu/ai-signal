@@ -1,62 +1,174 @@
 {
-  "generated_at": "2026-09-11T11:30:37.032284Z",
+  "generated_at": "2026-09-11T16:34:40.111548Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_5719390a8fd1",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "primary_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI News",
+      "story_id": "story_190cbcad46f4",
+      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+      "primary_url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+          "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+          "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+          "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T13:50:28Z"
+        },
+        {
+          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T13:50:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+          "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+          "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+          "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T13:50:28Z"
+        },
+        {
+          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T13:50:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9613,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T13:50:28Z",
+      "latest_at": "2026-09-11T13:50:28Z",
+      "primary_item": {
+        "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
+        "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+        "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+        "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+        "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+        "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T16:59:08.160873Z"
+      }
+    },
+    {
+      "story_id": "story_34d4cb4529b2",
+      "title": "GitHub Copilot weekly releases — September 7",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "primary_url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
-          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot weekly releases — September 7",
           "title_zh": null,
-          "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "title_en": "GitHub Copilot weekly releases — September 7",
+          "title_original": "GitHub Copilot weekly releases — September 7",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T16:00:00Z"
+          "published_at": "2026-09-10T22:55:07Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
-          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot weekly releases — September 7",
           "title_zh": null,
-          "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "title_en": "GitHub Copilot weekly releases — September 7",
+          "title_original": "GitHub Copilot weekly releases — September 7",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T16:00:00Z"
+          "published_at": "2026-09-10T22:55:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7545,
+        "ai_relevance": 0.91,
+        "recency": 0.7749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,25 +177,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T16:00:00Z",
-      "latest_at": "2026-09-10T16:00:00Z",
+      "earliest_at": "2026-09-10T22:55:07Z",
+      "latest_at": "2026-09-10T22:55:07Z",
       "primary_item": {
-        "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
-        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+        "title": "GitHub Copilot weekly releases — September 7",
         "title_zh": null,
-        "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-        "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "title_en": "GitHub Copilot weekly releases — September 7",
+        "title_original": "GitHub Copilot weekly releases — September 7",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
@@ -131,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8171,
+        "recency": 0.7594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,173 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
-      }
-    },
-    {
-      "story_id": "story_b2b031fb6942",
-      "title": "Refreshed repository pull requests page in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "Refreshed repository pull requests page in public preview",
-          "title_zh": null,
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "Refreshed repository pull requests page in public preview",
-          "title_zh": null,
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8163,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:27:17Z",
-      "latest_at": "2026-09-10T21:27:17Z",
-      "primary_item": {
-        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-        "title": "Refreshed repository pull requests page in public preview",
-        "title_zh": null,
-        "title_en": "Refreshed repository pull requests page in public preview",
-        "title_original": "Refreshed repository pull requests page in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
-      }
-    },
-    {
-      "story_id": "story_d977d81c5d9f",
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
-          "title": "3 ways to prep for your next big race with Search",
-          "title_zh": null,
-          "title_en": "3 ways to prep for your next big race with Search",
-          "title_original": "3 ways to prep for your next big race with Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
-          "title": "3 ways to prep for your next big race with Search",
-          "title_zh": null,
-          "title_en": "3 ways to prep for your next big race with Search",
-          "title_original": "3 ways to prep for your next big race with Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7545,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T16:00:00Z",
-      "latest_at": "2026-09-10T16:00:00Z",
-      "primary_item": {
-        "id": "d17100a4d67001021e880928e59782b6ce602ba4",
-        "title": "3 ways to prep for your next big race with Search",
-        "title_zh": null,
-        "title_en": "3 ways to prep for your next big race with Search",
-        "title_original": "3 ways to prep for your next big race with Search",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
@@ -409,15 +355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8105,
+        "recency": 0.7533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,30 +390,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_353d7797f4fb",
-      "title": "AI Scan for pull request APIs in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "story_id": "story_b2b031fb6942",
+      "title": "Refreshed repository pull requests page in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI Scan for pull request APIs in public preview",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "Refreshed repository pull requests page in public preview",
           "title_zh": null,
-          "title_en": "AI Scan for pull request APIs in public preview",
-          "title_original": "AI Scan for pull request APIs in public preview",
+          "title_en": "Refreshed repository pull requests page in public preview",
+          "title_original": "Refreshed repository pull requests page in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "source_count": 1,
@@ -476,31 +422,31 @@
       ],
       "items": [
         {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI Scan for pull request APIs in public preview",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "Refreshed repository pull requests page in public preview",
           "title_zh": null,
-          "title_en": "AI Scan for pull request APIs in public preview",
-          "title_original": "AI Scan for pull request APIs in public preview",
+          "title_en": "Refreshed repository pull requests page in public preview",
+          "title_original": "Refreshed repository pull requests page in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8034,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,17 +455,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T20:20:58Z",
-      "latest_at": "2026-09-10T20:20:58Z",
+      "earliest_at": "2026-09-10T21:27:17Z",
+      "latest_at": "2026-09-10T21:27:17Z",
       "primary_item": {
-        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-        "title": "AI Scan for pull request APIs in public preview",
+        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+        "title": "Refreshed repository pull requests page in public preview",
         "title_zh": null,
-        "title_en": "AI Scan for pull request APIs in public preview",
-        "title_original": "AI Scan for pull request APIs in public preview",
+        "title_en": "Refreshed repository pull requests page in public preview",
+        "title_original": "Refreshed repository pull requests page in public preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -527,225 +473,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_b2726331d325",
-      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "primary_url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-          "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-          "title_en": "Now everyone can put data to work",
-          "title_original": "Now everyone can put data to work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-          "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-          "title_en": "Now everyone can put data to work",
-          "title_original": "Now everyone can put data to work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7437,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T15:00:00Z",
-      "latest_at": "2026-09-10T15:00:00Z",
-      "primary_item": {
-        "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-        "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-        "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-        "title_en": "Now everyone can put data to work",
-        "title_original": "Now everyone can put data to work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/put-data-to-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
-      }
-    },
-    {
-      "story_id": "story_b31c189fce1b",
-      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-      "primary_url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ed6f9168097df117f4ffdb78a15e9d8518365d1f",
-          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-          "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-          "title_original": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-          "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T16:33:44Z"
-        },
-        {
-          "id": "2fcf8a0be61949c0ab1188c8f492aac58a2e353e",
-          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-          "title_en": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-          "title_original": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T16:33:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ed6f9168097df117f4ffdb78a15e9d8518365d1f",
-          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-          "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-          "title_original": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-          "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T16:33:44Z"
-        },
-        {
-          "id": "2fcf8a0be61949c0ab1188c8f492aac58a2e353e",
-          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-          "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-          "title_en": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-          "title_original": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T16:33:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7606,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T16:33:44Z",
-      "latest_at": "2026-09-10T16:33:44Z",
-      "primary_item": {
-        "id": "ed6f9168097df117f4ffdb78a15e9d8518365d1f",
-        "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-        "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-        "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-        "title_original": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-        "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
-      }
-    },
-    {
-      "story_id": "story_c6c0b210dfe0",
-      "title": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
-      "url": "https://www.aibase.com/news/30988",
-      "primary_url": "https://www.aibase.com/news/30988",
+      "story_id": "story_f3588b8a4eb3",
+      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+      "url": "https://www.aibase.com/news/31002",
+      "primary_url": "https://www.aibase.com/news/31002",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5dcfba74053544c31cb84f7c655b125fc5f4b969",
-          "title": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
-          "title_zh": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
           "title_en": null,
-          "title_original": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
+          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30988",
+          "url": "https://www.aibase.com/news/31002",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T11:30:37.032284Z"
+          "published_at": "2026-09-11T16:34:40.111548Z"
         }
       ],
       "source_count": 1,
@@ -754,18 +505,18 @@
       ],
       "items": [
         {
-          "id": "5dcfba74053544c31cb84f7c655b125fc5f4b969",
-          "title": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
-          "title_zh": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
           "title_en": null,
-          "title_original": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
+          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30988",
+          "url": "https://www.aibase.com/news/31002",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T11:30:37.032284Z"
+          "published_at": "2026-09-11T16:34:40.111548Z"
         }
       ],
       "item_count": 1,
@@ -786,17 +537,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T11:30:37.032284Z",
-      "latest_at": "2026-09-11T11:30:37.032284Z",
+      "earliest_at": "2026-09-11T16:34:40.111548Z",
+      "latest_at": "2026-09-11T16:34:40.111548Z",
       "primary_item": {
-        "id": "5dcfba74053544c31cb84f7c655b125fc5f4b969",
-        "title": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
-        "title_zh": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
+        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
         "title_en": null,
-        "title_original": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
+        "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30988",
+        "url": "https://www.aibase.com/news/31002",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -804,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
@@ -852,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9025,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -886,111 +637,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_92e4d9f147fc",
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "url": "https://shopify.engineering/back-to-native",
-      "primary_url": "https://shopify.engineering/back-to-native",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_en": null,
-          "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-          "recommend_reason_zh": null,
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_en": null,
-          "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-          "recommend_reason_zh": null,
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7445,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T15:04:41.487000Z",
-      "latest_at": "2026-09-10T15:04:41.487000Z",
-      "primary_item": {
-        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "title_en": null,
-        "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-        "recommend_reason_zh": null,
-        "url": "https://shopify.engineering/back-to-native",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
-      }
-    },
-    {
-      "story_id": "story_d376123c7d4c",
-      "title": "Control GitHub Actions cache access with cache-mode",
-      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-      "primary_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "story_id": "story_353d7797f4fb",
+      "title": "AI Scan for pull request APIs in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-          "title": "Control GitHub Actions cache access with cache-mode",
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI Scan for pull request APIs in public preview",
           "title_zh": null,
-          "title_en": "Control GitHub Actions cache access with cache-mode",
-          "title_original": "Control GitHub Actions cache access with cache-mode",
+          "title_en": "AI Scan for pull request APIs in public preview",
+          "title_original": "AI Scan for pull request APIs in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T17:26:59Z"
+          "published_at": "2026-09-10T20:20:58Z"
         }
       ],
       "source_count": 1,
@@ -999,31 +669,31 @@
       ],
       "items": [
         {
-          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-          "title": "Control GitHub Actions cache access with cache-mode",
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI Scan for pull request APIs in public preview",
           "title_zh": null,
-          "title_en": "Control GitHub Actions cache access with cache-mode",
-          "title_original": "Control GitHub Actions cache access with cache-mode",
+          "title_en": "AI Scan for pull request APIs in public preview",
+          "title_original": "AI Scan for pull request APIs in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T17:26:59Z"
+          "published_at": "2026-09-10T20:20:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7704,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1032,17 +702,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T17:26:59Z",
-      "latest_at": "2026-09-10T17:26:59Z",
+      "earliest_at": "2026-09-10T20:20:58Z",
+      "latest_at": "2026-09-10T20:20:58Z",
       "primary_item": {
-        "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-        "title": "Control GitHub Actions cache access with cache-mode",
+        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+        "title": "AI Scan for pull request APIs in public preview",
         "title_zh": null,
-        "title_en": "Control GitHub Actions cache access with cache-mode",
-        "title_original": "Control GitHub Actions cache access with cache-mode",
+        "title_en": "AI Scan for pull request APIs in public preview",
+        "title_original": "AI Scan for pull request APIs in public preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1050,7 +720,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
+      }
+    },
+    {
+      "story_id": "story_f62bfdadd23e",
+      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+      "url": "https://www.aibase.com/news/31003",
+      "primary_url": "https://www.aibase.com/news/31003",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_en": null,
+          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T16:34:40.111548Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_en": null,
+          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T16:34:40.111548Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T16:34:40.111548Z",
+      "latest_at": "2026-09-11T16:34:40.111548Z",
+      "primary_item": {
+        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "title_en": null,
+        "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31003",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
@@ -1098,15 +850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7708,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,30 +883,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_39d2731bcaac",
-      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-      "url": "https://www.aibase.com/news/30999",
-      "primary_url": "https://www.aibase.com/news/30999",
+      "story_id": "story_fe90ca3f92b8",
+      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+      "url": "https://www.aibase.com/news/31001",
+      "primary_url": "https://www.aibase.com/news/31001",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
+          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
           "title_en": null,
-          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30999",
+          "url": "https://www.aibase.com/news/31001",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T11:30:37.032284Z"
+          "published_at": "2026-09-11T16:34:40.111548Z"
         }
       ],
       "source_count": 1,
@@ -1163,18 +915,18 @@
       ],
       "items": [
         {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
+          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
           "title_en": null,
-          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30999",
+          "url": "https://www.aibase.com/news/31001",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T11:30:37.032284Z"
+          "published_at": "2026-09-11T16:34:40.111548Z"
         }
       ],
       "item_count": 1,
@@ -1195,17 +947,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T11:30:37.032284Z",
-      "latest_at": "2026-09-11T11:30:37.032284Z",
+      "earliest_at": "2026-09-11T16:34:40.111548Z",
+      "latest_at": "2026-09-11T16:34:40.111548Z",
       "primary_item": {
-        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-        "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
+        "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+        "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
         "title_en": null,
-        "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30999",
+        "url": "https://www.aibase.com/news/31001",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1213,169 +965,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_70812b09fc4a",
-      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-      "url": "https://cursor.com/blog/projects",
-      "primary_url": "https://cursor.com/blog/projects",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
+      "story_id": "story_d376123c7d4c",
+      "title": "Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "primary_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
-          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-          "title_en": "Introducing Projects",
-          "title_original": "Introducing Projects",
-          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "Control GitHub Actions cache access with cache-mode",
+          "title_zh": null,
+          "title_en": "Control GitHub Actions cache access with cache-mode",
+          "title_original": "Control GitHub Actions cache access with cache-mode",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/projects",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T12:00:00Z"
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T17:26:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Cursor Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
-          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-          "title_en": "Introducing Projects",
-          "title_original": "Introducing Projects",
-          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "Control GitHub Actions cache access with cache-mode",
+          "title_zh": null,
+          "title_en": "Control GitHub Actions cache access with cache-mode",
+          "title_original": "Control GitHub Actions cache access with cache-mode",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/projects",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T12:00:00Z"
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T17:26:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7121,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7161,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-10T12:00:00Z",
-      "latest_at": "2026-09-10T12:00:00Z",
+      "earliest_at": "2026-09-10T17:26:59Z",
+      "latest_at": "2026-09-10T17:26:59Z",
       "primary_item": {
-        "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
-        "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-        "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-        "title_en": "Introducing Projects",
-        "title_original": "Introducing Projects",
-        "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+        "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+        "title": "Control GitHub Actions cache access with cache-mode",
+        "title_zh": null,
+        "title_en": "Control GitHub Actions cache access with cache-mode",
+        "title_original": "Control GitHub Actions cache access with cache-mode",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://cursor.com/blog/projects",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_5026558c852c",
-      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-      "url": "https://x.com/elonmusk/status/2098217236771295567",
-      "primary_url": "https://x.com/elonmusk/status/2098217236771295567",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_7301a10f9389",
+      "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+      "url": "https://www.aibase.com/news/31000",
+      "primary_url": "https://www.aibase.com/news/31000",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f9183098768f67ec68f0e13db499958386d6c247",
-          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-          "title_en": "Grok @Bot summary of SpaceX CFO talk",
-          "title_original": "Grok @Bot summary of SpaceX CFO talk",
-          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_en": null,
+          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2098217236771295567",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T01:09:06Z"
+          "url": "https://www.aibase.com/news/31000",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T16:34:40.111548Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f9183098768f67ec68f0e13db499958386d6c247",
-          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-          "title_en": "Grok @Bot summary of SpaceX CFO talk",
-          "title_original": "Grok @Bot summary of SpaceX CFO talk",
-          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_en": null,
+          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2098217236771295567",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T01:09:06Z"
+          "url": "https://www.aibase.com/news/31000",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T16:34:40.111548Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-11T01:09:06Z",
-      "latest_at": "2026-09-11T01:09:06Z",
+      "earliest_at": "2026-09-11T16:34:40.111548Z",
+      "latest_at": "2026-09-11T16:34:40.111548Z",
       "primary_item": {
-        "id": "f9183098768f67ec68f0e13db499958386d6c247",
-        "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-        "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-        "title_en": "Grok @Bot summary of SpaceX CFO talk",
-        "title_original": "Grok @Bot summary of SpaceX CFO talk",
-        "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+        "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+        "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "title_en": null,
+        "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2098217236771295567",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31000",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
@@ -1423,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7643,
+        "recency": 0.7104,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1458,111 +1213,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_6c68adbdb622",
-      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-      "primary_url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f82edb2c6b58716870b18a16535bf8e316799e81",
-          "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-          "title_zh": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-          "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-          "title_original": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-          "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T12:40:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f82edb2c6b58716870b18a16535bf8e316799e81",
-          "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-          "title_zh": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-          "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-          "title_original": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-          "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T12:40:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7192,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T12:40:51Z",
-      "latest_at": "2026-09-10T12:40:51Z",
-      "primary_item": {
-        "id": "f82edb2c6b58716870b18a16535bf8e316799e81",
-        "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-        "title_zh": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-        "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-        "title_original": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-        "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
-      }
-    },
-    {
-      "story_id": "story_d50940abf29c",
-      "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-      "url": "https://www.aibase.com/news/30993",
-      "primary_url": "https://www.aibase.com/news/30993",
+      "story_id": "story_39d2731bcaac",
+      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+      "url": "https://www.aibase.com/news/30999",
+      "primary_url": "https://www.aibase.com/news/30999",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
-          "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "title_zh": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "title_en": null,
-          "title_original": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30993",
+          "url": "https://www.aibase.com/news/30999",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T11:30:37.032284Z"
+          "published_at": "2026-09-11T16:29:40.111548Z"
         }
       ],
       "source_count": 1,
@@ -1571,31 +1245,31 @@
       ],
       "items": [
         {
-          "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
-          "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-          "title_zh": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "title_en": null,
-          "title_original": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30993",
+          "url": "https://www.aibase.com/news/30999",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T11:30:37.032284Z"
+          "published_at": "2026-09-11T16:29:40.111548Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9988,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1603,17 +1277,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T11:30:37.032284Z",
-      "latest_at": "2026-09-11T11:30:37.032284Z",
+      "earliest_at": "2026-09-11T16:29:40.111548Z",
+      "latest_at": "2026-09-11T16:29:40.111548Z",
       "primary_item": {
-        "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
-        "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
-        "title_zh": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
+        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
         "title_en": null,
-        "title_original": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
+        "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30993",
+        "url": "https://www.aibase.com/news/30999",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1621,90 +1295,501 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     },
     {
-      "story_id": "story_3c58fa4bee9b",
-      "title": "Xcode 27 runner image now runs on macOS 27",
-      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7ab17fbcb607",
+      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+      "url": "https://www.aibase.com/news/30995",
+      "primary_url": "https://www.aibase.com/news/30995",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 runner image now runs on macOS 27",
-          "title_zh": null,
-          "title_en": "Xcode 27 runner image now runs on macOS 27",
-          "title_original": "Xcode 27 runner image now runs on macOS 27",
+          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
+          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+          "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+          "title_en": null,
+          "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
+          "url": "https://www.aibase.com/news/30995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:34:40.111548Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 runner image now runs on macOS 27",
-          "title_zh": null,
-          "title_en": "Xcode 27 runner image now runs on macOS 27",
-          "title_original": "Xcode 27 runner image now runs on macOS 27",
+          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
+          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+          "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+          "title_en": null,
+          "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
+          "url": "https://www.aibase.com/news/30995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:34:40.111548Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
-      "importance_label": "官方更新",
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7465,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T15:15:36Z",
-      "latest_at": "2026-09-10T15:15:36Z",
+      "earliest_at": "2026-09-11T15:34:40.111548Z",
+      "latest_at": "2026-09-11T15:34:40.111548Z",
       "primary_item": {
-        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-        "title": "Xcode 27 runner image now runs on macOS 27",
-        "title_zh": null,
-        "title_en": "Xcode 27 runner image now runs on macOS 27",
-        "title_original": "Xcode 27 runner image now runs on macOS 27",
+        "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
+        "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+        "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+        "title_en": null,
+        "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/30995",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T11:59:49.502709Z"
+        "scored_at": "2026-09-11T16:59:08.160873Z"
+      }
+    },
+    {
+      "story_id": "story_7dcbe59ddef0",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "primary_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_zh": null,
+          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T14:25:21Z"
+        },
+        {
+          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
+          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_zh": null,
+          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T14:25:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_zh": null,
+          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T14:25:21Z"
+        },
+        {
+          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
+          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_zh": null,
+          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T14:25:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9694,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T14:25:21Z",
+      "latest_at": "2026-09-11T14:25:21Z",
+      "primary_item": {
+        "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "title_zh": null,
+        "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T16:59:08.160873Z"
+      }
+    },
+    {
+      "story_id": "story_918720d3acdd",
+      "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+      "url": "https://www.aibase.com/news/30994",
+      "primary_url": "https://www.aibase.com/news/30994",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_en": null,
+          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:34:40.111548Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_en": null,
+          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:34:40.111548Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T15:34:40.111548Z",
+      "latest_at": "2026-09-11T15:34:40.111548Z",
+      "primary_item": {
+        "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+        "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "title_en": null,
+        "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30994",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T16:59:08.160873Z"
+      }
+    },
+    {
+      "story_id": "story_288c45a0c613",
+      "title": "克劳德不再为未成年人提供服务",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "primary_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "support.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+          "title": "克劳德不再为未成年人提供服务",
+          "title_zh": "克劳德不再为未成年人提供服务",
+          "title_en": null,
+          "title_original": "克劳德不再为未成年人提供服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T12:14:15.973000Z"
+        },
+        {
+          "id": "1818f8ae8dc89bac84c02cbdab5e6121a4dee1f0",
+          "title": "Claude不再为未成年人提供服务 / Claude is no longer available for minors",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is no longer available for minors",
+          "title_original": "Claude is no longer available for minors",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T10:48:00Z"
+        },
+        {
+          "id": "7e541fb1561924944995ac316fd1a18d75c4d83c",
+          "title": "Claude不再为未成年人提供服务 / Claude is only available to people over 18 years",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is only available to people over 18 years",
+          "title_original": "Claude is only available to people over 18 years",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T10:48:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "support.claude.com"
+      ],
+      "items": [
+        {
+          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+          "title": "克劳德不再为未成年人提供服务",
+          "title_zh": "克劳德不再为未成年人提供服务",
+          "title_en": null,
+          "title_original": "克劳德不再为未成年人提供服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T12:14:15.973000Z"
+        },
+        {
+          "id": "1818f8ae8dc89bac84c02cbdab5e6121a4dee1f0",
+          "title": "Claude不再为未成年人提供服务 / Claude is no longer available for minors",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is no longer available for minors",
+          "title_original": "Claude is no longer available for minors",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T10:48:00Z"
+        },
+        {
+          "id": "7e541fb1561924944995ac316fd1a18d75c4d83c",
+          "title": "Claude不再为未成年人提供服务 / Claude is only available to people over 18 years",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is only available to people over 18 years",
+          "title_original": "Claude is only available to people over 18 years",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T10:48:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9393,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T10:48:00Z",
+      "latest_at": "2026-09-11T12:14:15.973000Z",
+      "primary_item": {
+        "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+        "title": "克劳德不再为未成年人提供服务",
+        "title_zh": "克劳德不再为未成年人提供服务",
+        "title_en": null,
+        "title_original": "克劳德不再为未成年人提供服务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "source": "support.claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T16:59:08.160873Z"
+      }
+    },
+    {
+      "story_id": "story_c91d2c26bdc2",
+      "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+      "url": "https://www.aibase.com/news/30996",
+      "primary_url": "https://www.aibase.com/news/30996",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
+          "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+          "title_zh": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+          "title_en": null,
+          "title_original": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30996",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:34:40.111548Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
+          "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+          "title_zh": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+          "title_en": null,
+          "title_original": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30996",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:34:40.111548Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T15:34:40.111548Z",
+      "latest_at": "2026-09-11T15:34:40.111548Z",
+      "primary_item": {
+        "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
+        "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+        "title_zh": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+        "title_en": null,
+        "title_original": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30996",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T16:59:08.160873Z"
       }
     }
   ]
