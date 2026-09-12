@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T10:54:54.884765Z",
+  "generated_at": "2026-09-12T14:12:34.430946Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T10:54:54.884765Z",
-      "latest_at": "2026-09-12T10:54:54.884765Z",
+      "earliest_at": "2026-09-12T14:12:34.430946Z",
+      "latest_at": "2026-09-12T14:12:34.430946Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7882,
+        "recency": 0.7516,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.824,
+        "recency": 0.7857,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -319,7 +319,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "03b4e1c91262e99e34781147780f95781e3efbc9",
+          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -327,15 +327,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.rubyhack.ai"
       ],
@@ -369,7 +369,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "03b4e1c91262e99e34781147780f95781e3efbc9",
+          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -377,23 +377,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.8193,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -526,15 +526,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8464,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -561,90 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
-      }
-    },
-    {
-      "story_id": "story_bbf03c6dd45c",
-      "title": "Auto-resolution and analysis updates in Copilot code review",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": null,
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": null,
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8063,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T20:00:07Z",
-      "latest_at": "2026-09-11T20:00:07Z",
-      "primary_item": {
-        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-        "title": "Auto-resolution and analysis updates in Copilot code review",
-        "title_zh": null,
-        "title_en": "Auto-resolution and analysis updates in Copilot code review",
-        "title_original": "Auto-resolution and analysis updates in Copilot code review",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -692,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.761,
+        "recency": 0.7256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,119 +644,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
-      "story_id": "story_190cbcad46f4",
-      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "primary_url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_bbf03c6dd45c",
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T13:50:28Z"
-        },
-        {
-          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "title_zh": null,
+          "title_en": "Auto-resolution and analysis updates in Copilot code review",
+          "title_original": "Auto-resolution and analysis updates in Copilot code review",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T13:50:28Z"
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T13:50:28Z"
-        },
-        {
-          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "title_zh": null,
+          "title_en": "Auto-resolution and analysis updates in Copilot code review",
+          "title_original": "Auto-resolution and analysis updates in Copilot code review",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T13:50:28Z"
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7376,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7688,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T13:50:28Z",
-      "latest_at": "2026-09-11T13:50:28Z",
+      "earliest_at": "2026-09-11T20:00:07Z",
+      "latest_at": "2026-09-11T20:00:07Z",
       "primary_item": {
-        "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
-        "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-        "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-        "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-        "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-        "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+        "title": "Auto-resolution and analysis updates in Copilot code review",
+        "title_zh": null,
+        "title_en": "Auto-resolution and analysis updates in Copilot code review",
+        "title_original": "Auto-resolution and analysis updates in Copilot code review",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -887,21 +775,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8465,
+        "recency": 0.8072,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-11T23:22:39Z",
       "latest_at": "2026-09-11T23:22:39Z",
@@ -921,7 +808,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -944,7 +831,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T22:54:54.884765Z"
+          "published_at": "2026-09-11T23:12:34.430946Z"
         }
       ],
       "source_count": 1,
@@ -964,28 +851,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T22:54:54.884765Z"
+          "published_at": "2026-09-11T23:12:34.430946Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T22:54:54.884765Z",
-      "latest_at": "2026-09-11T22:54:54.884765Z",
+      "earliest_at": "2026-09-11T23:12:34.430946Z",
+      "latest_at": "2026-09-11T23:12:34.430946Z",
       "primary_item": {
         "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
         "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
@@ -1002,7 +889,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -1079,15 +966,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7306,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1113,7 +1000,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -1136,7 +1023,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T22:54:54.884765Z"
+          "published_at": "2026-09-11T23:12:34.430946Z"
         }
       ],
       "source_count": 1,
@@ -1156,28 +1043,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T22:54:54.884765Z"
+          "published_at": "2026-09-11T23:12:34.430946Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T22:54:54.884765Z",
-      "latest_at": "2026-09-11T22:54:54.884765Z",
+      "earliest_at": "2026-09-11T23:12:34.430946Z",
+      "latest_at": "2026-09-11T23:12:34.430946Z",
       "primary_item": {
         "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
         "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
@@ -1194,7 +1081,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -1217,7 +1104,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T18:54:54.884765Z"
+          "published_at": "2026-09-11T18:12:34.430946Z"
         }
       ],
       "source_count": 1,
@@ -1237,28 +1124,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T18:54:54.884765Z"
+          "published_at": "2026-09-11T18:12:34.430946Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T18:54:54.884765Z",
-      "latest_at": "2026-09-11T18:54:54.884765Z",
+      "earliest_at": "2026-09-11T18:12:34.430946Z",
+      "latest_at": "2026-09-11T18:12:34.430946Z",
       "primary_item": {
         "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
         "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
@@ -1275,30 +1162,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
-      "story_id": "story_7301a10f9389",
-      "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-      "url": "https://www.aibase.com/news/31000",
-      "primary_url": "https://www.aibase.com/news/31000",
+      "story_id": "story_39d2731bcaac",
+      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+      "url": "https://www.aibase.com/news/30999",
+      "primary_url": "https://www.aibase.com/news/30999",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "title_en": null,
-          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31000",
+          "url": "https://www.aibase.com/news/30999",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T17:54:54.884765Z"
+          "published_at": "2026-09-11T17:12:34.430946Z"
         }
       ],
       "source_count": 1,
@@ -1307,48 +1194,48 @@
       ],
       "items": [
         {
-          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "title_en": null,
-          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31000",
+          "url": "https://www.aibase.com/news/30999",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T17:54:54.884765Z"
+          "published_at": "2026-09-11T17:12:34.430946Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T17:54:54.884765Z",
-      "latest_at": "2026-09-11T17:54:54.884765Z",
+      "earliest_at": "2026-09-11T17:12:34.430946Z",
+      "latest_at": "2026-09-11T17:12:34.430946Z",
       "primary_item": {
-        "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-        "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-        "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
         "title_en": null,
-        "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31000",
+        "url": "https://www.aibase.com/news/30999",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1356,7 +1243,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -1433,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.616,
-      "importance": 0.616,
-      "importance_score": 0.616,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8179,
+        "recency": 0.7799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1466,30 +1353,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
-      "story_id": "story_39d2731bcaac",
-      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-      "url": "https://www.aibase.com/news/30999",
-      "primary_url": "https://www.aibase.com/news/30999",
+      "story_id": "story_7301a10f9389",
+      "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+      "url": "https://www.aibase.com/news/31000",
+      "primary_url": "https://www.aibase.com/news/31000",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
           "title_en": null,
-          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30999",
+          "url": "https://www.aibase.com/news/31000",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T16:54:54.884765Z"
+          "published_at": "2026-09-11T17:12:34.430946Z"
         }
       ],
       "source_count": 1,
@@ -1498,48 +1385,48 @@
       ],
       "items": [
         {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
           "title_en": null,
-          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30999",
+          "url": "https://www.aibase.com/news/31000",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T16:54:54.884765Z"
+          "published_at": "2026-09-11T17:12:34.430946Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T16:54:54.884765Z",
-      "latest_at": "2026-09-11T16:54:54.884765Z",
+      "earliest_at": "2026-09-11T17:12:34.430946Z",
+      "latest_at": "2026-09-11T17:12:34.430946Z",
       "primary_item": {
-        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-        "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+        "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
         "title_en": null,
-        "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30999",
+        "url": "https://www.aibase.com/news/31000",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1547,88 +1434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
-      }
-    },
-    {
-      "story_id": "story_c91d2c26bdc2",
-      "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-      "url": "https://www.aibase.com/news/30996",
-      "primary_url": "https://www.aibase.com/news/30996",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
-          "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-          "title_zh": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-          "title_en": null,
-          "title_original": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30996",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:54:54.884765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
-          "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-          "title_zh": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-          "title_en": null,
-          "title_original": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30996",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:54:54.884765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T15:54:54.884765Z",
-      "latest_at": "2026-09-11T15:54:54.884765Z",
-      "primary_item": {
-        "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
-        "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-        "title_zh": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-        "title_en": null,
-        "title_original": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30996",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -1705,15 +1511,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5536,
-      "importance": 0.5536,
-      "importance_score": 0.5536,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7774,
+        "recency": 0.7413,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,88 +1544,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
-      }
-    },
-    {
-      "story_id": "story_039615a643b2",
-      "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-      "url": "https://www.aibase.com/news/30997",
-      "primary_url": "https://www.aibase.com/news/30997",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_en": null,
-          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:54:54.884765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_en": null,
-          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:54:54.884765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T15:54:54.884765Z",
-      "latest_at": "2026-09-11T15:54:54.884765Z",
-      "primary_item": {
-        "id": "055f63e0db2587418529124abc009ae1b04238f7",
-        "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "title_en": null,
-        "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30997",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     },
     {
@@ -1896,15 +1621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8889,
+        "recency": 0.8476,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1929,7 +1654,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T11:20:17.885630Z"
+        "scored_at": "2026-09-12T14:38:48.061276Z"
+      }
+    },
+    {
+      "story_id": "story_aff72a9138aa",
+      "title": "Hacker News 降低了人工智能驱动内容的优先级",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "primary_url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "source": "sprinklz.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
+        },
+        {
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "sprinklz.io"
+      ],
+      "items": [
+        {
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
+        },
+        {
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7918,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T15:52:49Z",
+      "latest_at": "2026-09-11T22:02:28.525000Z",
+      "primary_item": {
+        "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+        "title": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_en": null,
+        "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://sprinklz.io/public/pdwt4dve5uai",
+        "source": "sprinklz.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T14:38:48.061276Z"
       }
     }
   ]
