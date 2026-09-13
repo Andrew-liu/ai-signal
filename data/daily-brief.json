@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:25:45.173791Z",
+  "generated_at": "2026-09-13T19:31:07.497934Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,89 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
-      "story_id": "story_462f3ecf41bf",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "story_id": "story_7e7a8cf3aa37",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "primary_url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "title_en": "https://x.com/i/article/2098531824528220160",
-          "title_original": "https://x.com/i/article/2098531824528220160",
-          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
+          "published_at": "2026-09-13T14:15:40Z"
+        },
+        {
+          "id": "144fcecd03d83e78d373a11af8be21ea668d2ae0",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T14:15:40Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "Hacker News",
+        "Hacker News：AI 热帖"
       ],
       "items": [
         {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "title_en": "https://x.com/i/article/2098531824528220160",
-          "title_original": "https://x.com/i/article/2098531824528220160",
-          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
+          "published_at": "2026-09-13T14:15:40Z"
+        },
+        {
+          "id": "144fcecd03d83e78d373a11af8be21ea668d2ae0",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T14:15:40Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 1.0,
+        "editorial": 0.85,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7187,
-        "story_heat": 0.0
+        "recency": 0.9269,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T17:33:23Z",
-      "latest_at": "2026-09-12T17:33:23Z",
+      "earliest_at": "2026-09-13T14:15:40Z",
+      "latest_at": "2026-09-13T14:15:40Z",
       "primary_item": {
-        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-        "title_en": "https://x.com/i/article/2098531824528220160",
-        "title_original": "https://x.com/i/article/2098531824528220160",
-        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+        "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+        "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -229,8 +259,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
         "id": "5dcfba74053544c31cb84f7c655b125fc5f4b969",
         "title": "Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”",
@@ -247,7 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -295,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,118 +359,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
-      "story_id": "story_964468d18cc3",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-      "url": "https://x.com/sama/status/2098811563415150910",
-      "primary_url": "https://x.com/sama/status/2098811563415150910",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
+      "story_id": "story_39d2731bcaac",
+      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+      "url": "https://www.aibase.com/news/30999",
+      "primary_url": "https://www.aibase.com/news/30999",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        },
-        {
-          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_en": null,
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T16:30:45Z"
+          "url": "https://www.aibase.com/news/30999",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        },
-        {
-          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_en": null,
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T16:30:45Z"
+          "url": "https://www.aibase.com/news/30999",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.708,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-12T16:30:45Z",
-      "latest_at": "2026-09-12T16:30:45Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
-        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_en": null,
+        "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2098811563415150910",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30999",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -517,15 +518,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7422,
+        "recency": 0.7098,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -551,7 +552,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
+      }
+    },
+    {
+      "story_id": "story_e5571e6173d7",
+      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "primary_url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "title_en": "Two cheers （out of three） for Dario Amodei",
+          "title_original": "Two cheers （out of three） for Dario Amodei",
+          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T18:34:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "title_en": "Two cheers （out of three） for Dario Amodei",
+          "title_original": "Two cheers （out of three） for Dario Amodei",
+          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T18:34:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9865,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-13T18:34:31Z",
+      "latest_at": "2026-09-13T18:34:31Z",
+      "primary_item": {
+        "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+        "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+        "title_en": "Two cheers （out of three） for Dario Amodei",
+        "title_original": "Two cheers （out of three） for Dario Amodei",
+        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -615,8 +697,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
         "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
         "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
@@ -633,88 +715,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
-      }
-    },
-    {
-      "story_id": "story_03bcedfbcc62",
-      "title": "英伟达是人工智能领域的\"中央银行\"",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-          "title": "英伟达是人工智能领域的\"中央银行\"",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的\"中央银行\"",
-          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-          "title": "英伟达是人工智能领域的\"中央银行\"",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的\"中央银行\"",
-          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:37:21.932000Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
-      "primary_item": {
-        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-        "title": "英伟达是人工智能领域的\"中央银行\"",
-        "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-        "title_en": null,
-        "title_original": "英伟达是人工智能领域的\"中央银行\"",
-        "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -778,8 +779,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
         "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
         "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
@@ -796,7 +797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -860,8 +861,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
         "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
         "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
@@ -878,7 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -942,8 +943,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
         "id": "a69fb32cb6749cbaf502d72f6fbc98eb1df074ad",
         "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
@@ -960,89 +961,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
-      }
-    },
-    {
-      "story_id": "story_bbc70bd00c12",
-      "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-      "url": "https://www.aibase.com/news/30983",
-      "primary_url": "https://www.aibase.com/news/30983",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1c1ecde74402d4a49eb021721d9112cb60be4660",
-          "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-          "title_zh": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-          "title_en": null,
-          "title_original": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1c1ecde74402d4a49eb021721d9112cb60be4660",
-          "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-          "title_zh": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-          "title_en": null,
-          "title_original": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
-      "primary_item": {
-        "id": "1c1ecde74402d4a49eb021721d9112cb60be4660",
-        "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-        "title_zh": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-        "title_en": null,
-        "title_original": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30983",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -1119,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6159,
-      "importance": 0.6159,
-      "importance_score": 0.6159,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.748,
+        "recency": 0.7153,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1152,7 +1071,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
+      }
+    },
+    {
+      "story_id": "story_bbc70bd00c12",
+      "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+      "url": "https://www.aibase.com/news/30983",
+      "primary_url": "https://www.aibase.com/news/30983",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1c1ecde74402d4a49eb021721d9112cb60be4660",
+          "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+          "title_zh": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+          "title_en": null,
+          "title_original": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1c1ecde74402d4a49eb021721d9112cb60be4660",
+          "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+          "title_zh": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+          "title_en": null,
+          "title_original": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
+      "primary_item": {
+        "id": "1c1ecde74402d4a49eb021721d9112cb60be4660",
+        "title": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+        "title_zh": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+        "title_en": null,
+        "title_original": "OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30983",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -1216,8 +1217,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
         "id": "2891e8e95ee7b147691fc3d81a7d9952325787d6",
         "title": "告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1",
@@ -1234,281 +1235,309 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
-      "story_id": "story_7ff6a26b8a4f",
-      "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-      "url": "https://www.aibase.com/news/30989",
-      "primary_url": "https://www.aibase.com/news/30989",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a09fc5265239",
+      "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "primary_url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ae021271c8ab2498b677932a53ce32f7a62c480c",
-          "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-          "title_zh": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "title_en": null,
-          "title_original": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
+          "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30989",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ae021271c8ab2498b677932a53ce32f7a62c480c",
-          "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-          "title_zh": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-          "title_en": null,
-          "title_original": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30989",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
-      "primary_item": {
-        "id": "ae021271c8ab2498b677932a53ce32f7a62c480c",
-        "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-        "title_zh": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-        "title_en": null,
-        "title_original": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30989",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
-      }
-    },
-    {
-      "story_id": "story_b742f6d04ab5",
-      "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-      "url": "https://www.aibase.com/news/30986",
-      "primary_url": "https://www.aibase.com/news/30986",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f54421461362a30e542fce27404033ad4da98107",
-          "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-          "title_zh": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-          "title_en": null,
-          "title_original": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30986",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f54421461362a30e542fce27404033ad4da98107",
-          "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-          "title_zh": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-          "title_en": null,
-          "title_original": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30986",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-13T16:25:45.173791Z",
-      "latest_at": "2026-09-13T16:25:45.173791Z",
-      "primary_item": {
-        "id": "f54421461362a30e542fce27404033ad4da98107",
-        "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-        "title_zh": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-        "title_en": null,
-        "title_original": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30986",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
-      }
-    },
-    {
-      "story_id": "story_85eb23d49a16",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c3ea68f5e63ee7809315874db485f829bedc38bf",
-          "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": null,
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T08:07:36Z"
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T18:45:18.039000Z"
         },
         {
-          "id": "7a169d441a67991a51904134e1a940d1e441d651",
-          "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": null,
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_original": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-12T17:28:53Z"
+          "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热"
+        "Hacker News",
+        "twitter.com"
       ],
       "items": [
         {
-          "id": "c3ea68f5e63ee7809315874db485f829bedc38bf",
-          "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": null,
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": null,
+          "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T08:07:36Z"
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T18:45:18.039000Z"
         },
         {
-          "id": "7a169d441a67991a51904134e1a940d1e441d651",
-          "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": null,
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_original": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-12T17:28:53Z"
+          "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.887,
+        "recency": 0.989,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T17:28:53Z",
-      "latest_at": "2026-09-13T08:07:36Z",
+      "earliest_at": "2026-09-13T16:52:33Z",
+      "latest_at": "2026-09-13T18:45:18.039000Z",
       "primary_item": {
-        "id": "c3ea68f5e63ee7809315874db485f829bedc38bf",
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "title_zh": null,
-        "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+        "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+        "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+        "title_en": null,
+        "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
+      }
+    },
+    {
+      "story_id": "story_9cf69f2e378a",
+      "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": null,
+          "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_original": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": null,
+          "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_original": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9742,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T15:44:38Z",
+      "latest_at": "2026-09-13T17:42:38.853000Z",
+      "primary_item": {
+        "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+        "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "title_en": null,
+        "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "source": "techcrunch.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T19:47:51.639508Z"
+      }
+    },
+    {
+      "story_id": "story_fe90ca3f92b8",
+      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+      "url": "https://www.aibase.com/news/31001",
+      "primary_url": "https://www.aibase.com/news/31001",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
+          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "title_en": null,
+          "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31001",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
+          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "title_en": null,
+          "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31001",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
+      "primary_item": {
+        "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
+        "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+        "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+        "title_en": null,
+        "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31001",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
@@ -1585,15 +1614,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8763,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,227 +1647,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
-      "story_id": "story_759bdd7a2753",
-      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "source": "xeiaso.net",
-      "source_name": "Buzzing",
+      "story_id": "story_7ff6a26b8a4f",
+      "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
+      "url": "https://www.aibase.com/news/30989",
+      "primary_url": "https://www.aibase.com/news/30989",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "id": "ae021271c8ab2498b677932a53ce32f7a62c480c",
+          "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
+          "title_zh": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
           "title_en": null,
-          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_original": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "aa2fb7216570cba7eb97afbfe18fbc6a90dbb4c7",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_en": "Everyone should slow down AI development except for me",
-          "title_original": "Everyone should slow down AI development except for me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T00:30:44Z"
+          "url": "https://www.aibase.com/news/30989",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "xeiaso.net"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "id": "ae021271c8ab2498b677932a53ce32f7a62c480c",
+          "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
+          "title_zh": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
           "title_en": null,
-          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_original": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "aa2fb7216570cba7eb97afbfe18fbc6a90dbb4c7",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "title_en": "Everyone should slow down AI development except for me",
-          "title_original": "Everyone should slow down AI development except for me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T00:30:44Z"
+          "url": "https://www.aibase.com/news/30989",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8129,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-13T00:30:44Z",
-      "latest_at": "2026-09-13T02:05:04.827000Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
-        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-        "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "id": "ae021271c8ab2498b677932a53ce32f7a62c480c",
+        "title": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
+        "title_zh": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
         "title_en": null,
-        "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "title_original": "支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-        "source": "xeiaso.net",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/30989",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     },
     {
-      "story_id": "story_4484533bd9b1",
-      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "primary_url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "withspecific.com",
-      "source_name": "Buzzing",
+      "story_id": "story_b742f6d04ab5",
+      "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
+      "url": "https://www.aibase.com/news/30986",
+      "primary_url": "https://www.aibase.com/news/30986",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "id": "f54421461362a30e542fce27404033ad4da98107",
+          "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
+          "title_zh": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
           "title_en": null,
-          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_original": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
-        },
-        {
-          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:25:48Z"
+          "url": "https://www.aibase.com/news/30986",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "withspecific.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "id": "f54421461362a30e542fce27404033ad4da98107",
+          "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
+          "title_zh": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
           "title_en": null,
-          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_original": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
-        },
-        {
-          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T20:25:48Z"
+          "url": "https://www.aibase.com/news/30986",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8039,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-12T20:25:48Z",
-      "latest_at": "2026-09-13T01:18:53.561000Z",
+      "earliest_at": "2026-09-13T19:31:07.497934Z",
+      "latest_at": "2026-09-13T19:31:07.497934Z",
       "primary_item": {
-        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-        "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "id": "f54421461362a30e542fce27404033ad4da98107",
+        "title": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
+        "title_zh": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
         "title_en": null,
-        "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "title_original": "支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://withspecific.com/benchmarks/real-swe",
-        "source": "withspecific.com",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/30986",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T16:42:41.289935Z"
+        "scored_at": "2026-09-13T19:47:51.639508Z"
       }
     }
   ]
