@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:06:08.696660Z",
+  "generated_at": "2026-09-16T20:13:00.557265Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -40,23 +40,23 @@
           "published_at": "2026-09-16T16:06:24.581000Z"
         },
         {
-          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "id": "17fd4a48ecfbec862337d0627282c178c703d764",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI expands ChatGPT ads with Sponsored Agents",
           "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "title_en": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
-          "title_original": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_en": "OpenAI expands ChatGPT ads with Sponsored Agents",
+          "title_original": "OpenAI expands ChatGPT ads with Sponsored Agents",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-16T13:51:15Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "OpenAI News",
         "openai.com"
       ],
@@ -90,31 +90,31 @@
           "published_at": "2026-09-16T16:06:24.581000Z"
         },
         {
-          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "id": "17fd4a48ecfbec862337d0627282c178c703d764",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI expands ChatGPT ads with Sponsored Agents",
           "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "title_en": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
-          "title_original": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_en": "OpenAI expands ChatGPT ads with Sponsored Agents",
+          "title_original": "OpenAI expands ChatGPT ads with Sponsored Agents",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-16T13:51:15Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8916,
-      "importance": 0.8916,
-      "importance_score": 0.8916,
+      "score": 0.8842,
+      "importance": 0.8842,
+      "importance_score": 0.8842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9425,
+        "recency": 0.901,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,177 +142,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
-      "story_id": "story_b7506bc123b9",
-      "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": "代码扫描 AI Scan 不再需要 CodeQL 默认设置",
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": "代码扫描 AI Scan 不再需要 CodeQL 默认设置",
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9484,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T13:26:06Z",
-      "latest_at": "2026-09-16T13:26:06Z",
-      "primary_item": {
-        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-        "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_zh": "代码扫描 AI Scan 不再需要 CodeQL 默认设置",
-        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
-      }
-    },
-    {
-      "story_id": "story_8ce36e5af566",
-      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人在日常生活中使用人工智能",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人在日常生活中使用人工智能",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9842,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:00:00Z",
-      "latest_at": "2026-09-16T16:00:00Z",
-      "primary_item": {
-        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-        "title_zh": "帮助老年人在日常生活中使用人工智能",
-        "title_en": "Helping older adults use AI in everyday life",
-        "title_original": "Helping older adults use AI in everyday life",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
-      }
-    },
-    {
-      "story_id": "story_a3ab3422578f",
+      "story_id": "story_37963f2af389",
       "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
       "url": "https://claude.com/blog/cowork-is-now-claude",
       "primary_url": "https://claude.com/blog/cowork-is-now-claude",
@@ -332,11 +166,56 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-16T16:51:45.914000Z"
+        },
+        {
+          "id": "f75dea1184ff397ff69eebf652150cde9dd9549b",
+          "title": "Claude Cowork and chat are now one Claude",
+          "title_zh": null,
+          "title_en": "Claude Cowork and chat are now one Claude",
+          "title_original": "Claude Cowork and chat are now one Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/16/one-claude",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T18:09:49Z"
+        },
+        {
+          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
+          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "title_en": null,
+          "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T18:28:45.023000Z"
+        },
+        {
+          "id": "902969921d3d4bbccf89d89e731a2091584c51f8",
+          "title": "Claude Cowork and chat are now one Claude",
+          "title_zh": null,
+          "title_en": "Claude Cowork and chat are now one Claude",
+          "title_original": "Claude Cowork and chat are now one Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49729412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T16:26:25Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "Claude：Blog（网页）"
+        "Claude：Blog（网页）",
+        "Simon Willison",
+        "claude.com",
+        "hackernews"
       ],
       "items": [
         {
@@ -352,28 +231,71 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-16T16:51:45.914000Z"
+        },
+        {
+          "id": "f75dea1184ff397ff69eebf652150cde9dd9549b",
+          "title": "Claude Cowork and chat are now one Claude",
+          "title_zh": null,
+          "title_en": "Claude Cowork and chat are now one Claude",
+          "title_original": "Claude Cowork and chat are now one Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/16/one-claude",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T18:09:49Z"
+        },
+        {
+          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
+          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "title_en": null,
+          "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T18:28:45.023000Z"
+        },
+        {
+          "id": "902969921d3d4bbccf89d89e731a2091584c51f8",
+          "title": "Claude Cowork and chat are now one Claude",
+          "title_zh": null,
+          "title_en": "Claude Cowork and chat are now one Claude",
+          "title_original": "Claude Cowork and chat are now one Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49729412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T16:26:25Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9965,
-        "story_heat": 0.0
+        "recency": 0.9527,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T16:51:45.914000Z",
-      "latest_at": "2026-09-16T16:51:45.914000Z",
+      "earliest_at": "2026-09-16T16:26:25Z",
+      "latest_at": "2026-09-16T18:28:45.023000Z",
       "primary_item": {
         "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
         "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
@@ -390,30 +312,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
-      "story_id": "story_47bd15dd2064",
-      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "story_id": "story_b7506bc123b9",
+      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "title_zh": "GitHub Copilot 建议自定义属性定义",
-          "title_en": "GitHub Copilot suggests custom properties definitions",
-          "title_original": "GitHub Copilot suggests custom properties definitions",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "source_count": 1,
@@ -422,31 +344,31 @@
       ],
       "items": [
         {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "title_zh": "GitHub Copilot 建议自定义属性定义",
-          "title_en": "GitHub Copilot suggests custom properties definitions",
-          "title_original": "GitHub Copilot suggests custom properties definitions",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7281,
+        "ai_relevance": 0.87,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,17 +377,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:07:47Z",
-      "latest_at": "2026-09-15T19:07:47Z",
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
       "primary_item": {
-        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-        "title_zh": "GitHub Copilot 建议自定义属性定义",
-        "title_en": "GitHub Copilot suggests custom properties definitions",
-        "title_original": "GitHub Copilot suggests custom properties definitions",
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_zh": null,
+        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -473,30 +395,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
-      "story_id": "story_20d27da6a9f4",
-      "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "story_id": "story_8ce36e5af566",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "工人如何开启新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "Helping older adults use AI in everyday life",
+          "title_zh": null,
+          "title_en": "Helping older adults use AI in everyday life",
+          "title_original": "Helping older adults use AI in everyday life",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -505,31 +427,31 @@
       ],
       "items": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "工人如何开启新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "Helping older adults use AI in everyday life",
+          "title_zh": null,
+          "title_en": "Helping older adults use AI in everyday life",
+          "title_original": "Helping older adults use AI in everyday life",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8896,
+        "recency": 0.9409,
         "story_heat": 0.0
       },
       "category": "official",
@@ -538,17 +460,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
+      "earliest_at": "2026-09-16T16:00:00Z",
+      "latest_at": "2026-09-16T16:00:00Z",
       "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-        "title_zh": "工人如何开启新的工作方式",
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
+        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+        "title": "Helping older adults use AI in everyday life",
+        "title_zh": null,
+        "title_en": "Helping older adults use AI in everyday life",
+        "title_original": "Helping older adults use AI in everyday life",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -556,30 +478,113 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
-      "story_id": "story_0170c995a4dd",
-      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-      "url": "https://www.aibase.com/news/31101",
-      "primary_url": "https://www.aibase.com/news/31101",
+      "story_id": "story_8c35cf0772a6",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "How to connect AI usage to business value",
+          "title_zh": null,
+          "title_en": "How to connect AI usage to business value",
+          "title_original": "How to connect AI usage to business value",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "How to connect AI usage to business value",
+          "title_zh": null,
+          "title_en": "How to connect AI usage to business value",
+          "title_original": "How to connect AI usage to business value",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8881,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T12:00:00Z",
+      "latest_at": "2026-09-16T12:00:00Z",
+      "primary_item": {
+        "id": "240870ecd56cd902b085ad5440133358690656e0",
+        "title": "How to connect AI usage to business value",
+        "title_zh": null,
+        "title_en": "How to connect AI usage to business value",
+        "title_original": "How to connect AI usage to business value",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T20:40:32.977591Z"
+      }
+    },
+    {
+      "story_id": "story_5a9af6f84852",
+      "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+      "url": "https://www.aibase.com/news/31103",
+      "primary_url": "https://www.aibase.com/news/31103",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
+          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
           "title_en": null,
-          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31101",
+          "url": "https://www.aibase.com/news/31103",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:06:08.696660Z"
+          "published_at": "2026-09-16T18:13:00.557265Z"
         }
       ],
       "source_count": 1,
@@ -588,31 +593,31 @@
       ],
       "items": [
         {
-          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
+          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
           "title_en": null,
-          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31101",
+          "url": "https://www.aibase.com/news/31103",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:06:08.696660Z"
+          "published_at": "2026-09-16T18:13:00.557265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,17 +625,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T17:06:08.696660Z",
-      "latest_at": "2026-09-16T17:06:08.696660Z",
+      "earliest_at": "2026-09-16T18:13:00.557265Z",
+      "latest_at": "2026-09-16T18:13:00.557265Z",
       "primary_item": {
-        "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-        "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-        "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
+        "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+        "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
         "title_en": null,
-        "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31101",
+        "url": "https://www.aibase.com/news/31103",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -638,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
@@ -686,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
@@ -768,21 +773,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-16T16:28:29Z",
       "latest_at": "2026-09-16T16:28:29Z",
@@ -802,7 +806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
@@ -850,15 +854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9566,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,145 +887,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
-      "story_id": "story_5a9af6f84852",
-      "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-      "url": "https://www.aibase.com/news/31103",
-      "primary_url": "https://www.aibase.com/news/31103",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "title_en": null,
-          "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31103",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:06:08.696660Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "title_en": null,
-          "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31103",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:06:08.696660Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:06:08.696660Z",
-      "latest_at": "2026-09-16T17:06:08.696660Z",
-      "primary_item": {
-        "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-        "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-        "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-        "title_en": null,
-        "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31103",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
-      }
-    },
-    {
-      "story_id": "story_9d2155aa5b6f",
-      "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "source": "GitHub Changelog",
+      "story_id": "story_20d27da6a9f4",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-          "title_zh": "强制执行 GitHub 高级安全配置",
-          "title_en": "Enforce GitHub Advanced Security configurations",
-          "title_original": "Enforce GitHub Advanced Security configurations",
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "How workers are unlocking new ways of working",
+          "title_zh": null,
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-16T09:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-          "title_zh": "强制执行 GitHub 高级安全配置",
-          "title_en": "Enforce GitHub Advanced Security configurations",
-          "title_original": "Enforce GitHub Advanced Security configurations",
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "How workers are unlocking new ways of working",
+          "title_zh": null,
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-16T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7324,
+        "ai_relevance": 0.91,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1030,25 +952,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:31:58Z",
-      "latest_at": "2026-09-15T19:31:58Z",
+      "earliest_at": "2026-09-16T09:00:00Z",
+      "latest_at": "2026-09-16T09:00:00Z",
       "primary_item": {
-        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-        "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-        "title_zh": "强制执行 GitHub 高级安全配置",
-        "title_en": "Enforce GitHub Advanced Security configurations",
-        "title_original": "Enforce GitHub Advanced Security configurations",
+        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+        "title": "How workers are unlocking new ways of working",
+        "title_zh": null,
+        "title_en": "How workers are unlocking new ways of working",
+        "title_original": "How workers are unlocking new ways of working",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
@@ -1071,7 +993,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:06:08.696660Z"
+          "published_at": "2026-09-16T18:13:00.557265Z"
         }
       ],
       "source_count": 1,
@@ -1091,20 +1013,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:06:08.696660Z"
+          "published_at": "2026-09-16T18:13:00.557265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1112,8 +1034,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T17:06:08.696660Z",
-      "latest_at": "2026-09-16T17:06:08.696660Z",
+      "earliest_at": "2026-09-16T18:13:00.557265Z",
+      "latest_at": "2026-09-16T18:13:00.557265Z",
       "primary_item": {
         "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
         "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
@@ -1130,253 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
-      }
-    },
-    {
-      "story_id": "story_518b2b8d3d74",
-      "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-      "url": "https://www.aibase.com/news/31100",
-      "primary_url": "https://www.aibase.com/news/31100",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_en": null,
-          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:58:08.696660Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_en": null,
-          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:58:08.696660Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9981,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:58:08.696660Z",
-      "latest_at": "2026-09-16T16:58:08.696660Z",
-      "primary_item": {
-        "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-        "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "title_en": null,
-        "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31100",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
-      }
-    },
-    {
-      "story_id": "story_d140633e4958",
-      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-      "url": "https://www.aibase.com/news/31099",
-      "primary_url": "https://www.aibase.com/news/31099",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:45:08.696660Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:45:08.696660Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:45:08.696660Z",
-      "latest_at": "2026-09-16T16:45:08.696660Z",
-      "primary_item": {
-        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_en": null,
-        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31099",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
-      }
-    },
-    {
-      "story_id": "story_13603bf46f67",
-      "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-      "url": "https://www.aibase.com/news/31098",
-      "primary_url": "https://www.aibase.com/news/31098",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_en": null,
-          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31098",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:08.696660Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_en": null,
-          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31098",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:08.696660Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.993,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:37:08.696660Z",
-      "latest_at": "2026-09-16T16:37:08.696660Z",
-      "primary_item": {
-        "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-        "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-        "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-        "title_en": null,
-        "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31098",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
@@ -1399,7 +1075,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:33:08.696660Z"
+          "published_at": "2026-09-16T17:13:00.557265Z"
         }
       ],
       "source_count": 1,
@@ -1419,20 +1095,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:33:08.696660Z"
+          "published_at": "2026-09-16T17:13:00.557265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,8 +1116,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T16:33:08.696660Z",
-      "latest_at": "2026-09-16T16:33:08.696660Z",
+      "earliest_at": "2026-09-16T17:13:00.557265Z",
+      "latest_at": "2026-09-16T17:13:00.557265Z",
       "primary_item": {
         "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
         "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
@@ -1458,146 +1134,474 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
-      "story_id": "story_0fde9b3c225c",
-      "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "primary_url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "source": "enclave.ai",
+      "story_id": "story_d140633e4958",
+      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+      "url": "https://www.aibase.com/news/31099",
+      "primary_url": "https://www.aibase.com/news/31099",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_en": null,
+          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_en": null,
+          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:13:00.557265Z",
+      "latest_at": "2026-09-16T17:13:00.557265Z",
+      "primary_item": {
+        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_en": null,
+        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31099",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T20:40:32.977591Z"
+      }
+    },
+    {
+      "story_id": "story_13603bf46f67",
+      "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+      "url": "https://www.aibase.com/news/31098",
+      "primary_url": "https://www.aibase.com/news/31098",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
+          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_en": null,
+          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31098",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
+          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_en": null,
+          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31098",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:13:00.557265Z",
+      "latest_at": "2026-09-16T17:13:00.557265Z",
+      "primary_item": {
+        "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
+        "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+        "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+        "title_en": null,
+        "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31098",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T20:40:32.977591Z"
+      }
+    },
+    {
+      "story_id": "story_0170c995a4dd",
+      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+      "url": "https://www.aibase.com/news/31101",
+      "primary_url": "https://www.aibase.com/news/31101",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_en": null,
+          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31101",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_en": null,
+          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31101",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:13:00.557265Z",
+      "latest_at": "2026-09-16T17:13:00.557265Z",
+      "primary_item": {
+        "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+        "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "title_en": null,
+        "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31101",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T20:40:32.977591Z"
+      }
+    },
+    {
+      "story_id": "story_518b2b8d3d74",
+      "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+      "url": "https://www.aibase.com/news/31100",
+      "primary_url": "https://www.aibase.com/news/31100",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
+          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "title_en": null,
+          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
+          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "title_en": null,
+          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T17:13:00.557265Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:13:00.557265Z",
+      "latest_at": "2026-09-16T17:13:00.557265Z",
+      "primary_item": {
+        "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
+        "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+        "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+        "title_en": null,
+        "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31100",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T20:40:32.977591Z"
+      }
+    },
+    {
+      "story_id": "story_e505711c206e",
+      "title": "在大语言模型时代学习编程",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "source": "blog.ploeh.dk",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
           "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
+          "title_original": "在大语言模型时代学习编程",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
+          "published_at": "2026-09-16T12:57:28.012000Z"
         },
         {
-          "id": "2ebbbe172ee3b75c9591babb9b7a38994b80626e",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "5991f78d5e29458304763aafb16178643f72d25f",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T12:19:55Z"
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T09:12:34Z"
         },
         {
-          "id": "f6850e6d171b5eab4d58a46f382718e53ba50e97",
-          "title": "DeepSeek v4.1 Flash 现在是我们最好的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现在是我们最好的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "Learning Programming in an Age of LLMs",
+          "title_zh": null,
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49725800",
+          "url": "https://news.ycombinator.com/item?id=49723873",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-16T12:19:55Z"
+          "published_at": "2026-09-16T09:12:34Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "enclave.ai",
+        "Hacker News (黑客新闻)",
+        "blog.ploeh.dk",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
           "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
+          "title_original": "在大语言模型时代学习编程",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
+          "published_at": "2026-09-16T12:57:28.012000Z"
         },
         {
-          "id": "2ebbbe172ee3b75c9591babb9b7a38994b80626e",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "5991f78d5e29458304763aafb16178643f72d25f",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T12:19:55Z"
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T09:12:34Z"
         },
         {
-          "id": "f6850e6d171b5eab4d58a46f382718e53ba50e97",
-          "title": "DeepSeek v4.1 Flash 现在是我们最好的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现在是我们最好的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "Learning Programming in an Age of LLMs",
+          "title_zh": null,
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49725800",
+          "url": "https://news.ycombinator.com/item?id=49723873",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-16T12:19:55Z"
+          "published_at": "2026-09-16T09:12:34Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.997,
+        "recency": 0.9005,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-16T12:19:55Z",
-      "latest_at": "2026-09-16T16:53:38.011000Z",
+      "earliest_at": "2026-09-16T09:12:34Z",
+      "latest_at": "2026-09-16T12:57:28.012000Z",
       "primary_item": {
-        "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-        "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
+        "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+        "title": "在大语言模型时代学习编程",
+        "title_zh": "在大语言模型时代学习编程",
         "title_en": null,
-        "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
+        "title_original": "在大语言模型时代学习编程",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-        "source": "enclave.ai",
+        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+        "source": "blog.ploeh.dk",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
@@ -1638,8 +1642,8 @@
         },
         {
           "id": "09c4997e42c5a9f8e4e831c36b3173e585f3cf0b",
-          "title": "Mistral X Mozilla：私密、多语言 AI ​​浏览 / Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "title_zh": "Mistral X Mozilla：私密、多语言 AI ​​浏览",
+          "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+          "title_zh": null,
           "title_en": "Mistral X Mozilla: Private, Multilingual AI Browsing",
           "title_original": "Mistral X Mozilla: Private, Multilingual AI Browsing",
           "summary": null,
@@ -1688,8 +1692,8 @@
         },
         {
           "id": "09c4997e42c5a9f8e4e831c36b3173e585f3cf0b",
-          "title": "Mistral X Mozilla：私密、多语言 AI ​​浏览 / Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "title_zh": "Mistral X Mozilla：私密、多语言 AI ​​浏览",
+          "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+          "title_zh": null,
           "title_en": "Mistral X Mozilla: Private, Multilingual AI Browsing",
           "title_original": "Mistral X Mozilla: Private, Multilingual AI Browsing",
           "summary": null,
@@ -1703,15 +1707,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5578,
-      "importance": 0.5578,
-      "importance_score": 0.5578,
+      "score": 0.5505,
+      "importance": 0.5505,
+      "importance_score": 0.5505,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9279,
+        "recency": 0.8871,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1736,7 +1740,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     },
     {
@@ -1759,7 +1763,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:06:08.696660Z"
+          "published_at": "2026-09-16T16:13:00.557265Z"
         }
       ],
       "source_count": 1,
@@ -1779,20 +1783,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:06:08.696660Z"
+          "published_at": "2026-09-16T16:13:00.557265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1800,8 +1804,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T16:06:08.696660Z",
-      "latest_at": "2026-09-16T16:06:08.696660Z",
+      "earliest_at": "2026-09-16T16:13:00.557265Z",
+      "latest_at": "2026-09-16T16:13:00.557265Z",
       "primary_item": {
         "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
         "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
@@ -1818,7 +1822,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T17:06:58.204093Z"
+        "scored_at": "2026-09-16T20:40:32.977591Z"
+      }
+    },
+    {
+      "story_id": "story_b4c1fca3a752",
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "primary_url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "e36afa73eeb1aa5793b99d726fec6324e1fe24d3",
+          "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_zh": null,
+          "title_en": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_original": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T18:59:42Z"
+        },
+        {
+          "id": "fa4d43e0d779eb1f0193d11db0e7e32856e314c0",
+          "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_zh": null,
+          "title_en": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_original": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49731395",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T18:59:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e36afa73eeb1aa5793b99d726fec6324e1fe24d3",
+          "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_zh": null,
+          "title_en": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_original": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T18:59:42Z"
+        },
+        {
+          "id": "fa4d43e0d779eb1f0193d11db0e7e32856e314c0",
+          "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_zh": null,
+          "title_en": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "title_original": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49731395",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T18:59:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9825,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T18:59:42Z",
+      "latest_at": "2026-09-16T18:59:42Z",
+      "primary_item": {
+        "id": "e36afa73eeb1aa5793b99d726fec6324e1fe24d3",
+        "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+        "title_zh": null,
+        "title_en": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+        "title_original": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T20:40:32.977591Z"
       }
     }
   ]
