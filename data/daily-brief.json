@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:08:59.272191Z",
+  "generated_at": "2026-09-19T14:29:39.755178Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8069,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7475,
+        "recency": 0.7123,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,173 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
-      }
-    },
-    {
-      "story_id": "story_4013441011f2",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "primary_url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "title_zh": null,
-          "title_en": "Introducing the Australian Youth Safety Blueprint",
-          "title_original": "Introducing the Australian Youth Safety Blueprint",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/australian-youth-safety-blueprint",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "title_zh": null,
-          "title_en": "Introducing the Australian Youth Safety Blueprint",
-          "title_original": "Introducing the Australian Youth Safety Blueprint",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/australian-youth-safety-blueprint",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7158,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T12:00:00Z",
-      "latest_at": "2026-09-18T12:00:00Z",
-      "primary_item": {
-        "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
-        "title": "Introducing the Australian Youth Safety Blueprint",
-        "title_zh": null,
-        "title_en": "Introducing the Australian Youth Safety Blueprint",
-        "title_original": "Introducing the Australian Youth Safety Blueprint",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/australian-youth-safety-blueprint",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
-      }
-    },
-    {
-      "story_id": "story_0147a5930960",
-      "title": "New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-          "title": "New experts join Google’s AI & Economy team",
-          "title_zh": null,
-          "title_en": "New experts join Google’s AI & Economy team",
-          "title_original": "New experts join Google’s AI & Economy team",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-          "title": "New experts join Google’s AI & Economy team",
-          "title_zh": null,
-          "title_en": "New experts join Google’s AI & Economy team",
-          "title_original": "New experts join Google’s AI & Economy team",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7368,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T14:00:00Z",
-      "latest_at": "2026-09-18T14:00:00Z",
-      "primary_item": {
-        "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-        "title": "New experts join Google’s AI & Economy team",
-        "title_zh": null,
-        "title_en": "New experts join Google’s AI & Economy team",
-        "title_original": "New experts join Google’s AI & Economy team",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -380,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7961,
+        "recency": 0.7585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -463,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -545,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7746,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,90 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
-      }
-    },
-    {
-      "story_id": "story_b9fbb585a4b2",
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
-          "title": "Co-creating the future of fashion with Google",
-          "title_zh": null,
-          "title_en": "Co-creating the future of fashion with Google",
-          "title_original": "Co-creating the future of fashion with Google",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
-          "title": "Co-creating the future of fashion with Google",
-          "title_zh": null,
-          "title_en": "Co-creating the future of fashion with Google",
-          "title_original": "Co-creating the future of fashion with Google",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7263,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T13:00:00Z",
-      "latest_at": "2026-09-18T13:00:00Z",
-      "primary_item": {
-        "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
-        "title": "Co-creating the future of fashion with Google",
-        "title_zh": null,
-        "title_en": "Co-creating the future of fashion with Google",
-        "title_original": "Co-creating the future of fashion with Google",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -710,21 +461,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8527,
+        "recency": 0.8125,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-19T00:07:04Z",
       "latest_at": "2026-09-19T00:07:04Z",
@@ -744,7 +494,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -792,21 +542,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8488,
+        "recency": 0.8088,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T23:47:57Z",
       "latest_at": "2026-09-18T23:47:57Z",
@@ -826,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -874,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.792,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -957,21 +706,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7525,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T15:27:29Z",
       "latest_at": "2026-09-18T15:27:29Z",
@@ -991,7 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -1039,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7696,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1072,7 +820,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -1120,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8865,
+        "recency": 0.8447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,7 +901,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -1176,7 +924,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T17:08:59.272191Z"
+          "published_at": "2026-09-18T17:29:39.755178Z"
         }
       ],
       "source_count": 1,
@@ -1196,28 +944,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T17:08:59.272191Z"
+          "published_at": "2026-09-18T17:29:39.755178Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-18T17:08:59.272191Z",
-      "latest_at": "2026-09-18T17:08:59.272191Z",
+      "earliest_at": "2026-09-18T17:29:39.755178Z",
+      "latest_at": "2026-09-18T17:29:39.755178Z",
       "primary_item": {
         "id": "994e38441a65fd36c1cbe96f47e7d708751aa006",
         "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
@@ -1234,7 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -1282,21 +1030,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.802,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T23:13:06Z",
       "latest_at": "2026-09-18T23:13:06Z",
@@ -1316,7 +1063,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -1364,15 +1111,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7965,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1399,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -1422,7 +1169,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T17:08:59.272191Z"
+          "published_at": "2026-09-18T17:29:39.755178Z"
         }
       ],
       "source_count": 1,
@@ -1442,28 +1189,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T17:08:59.272191Z"
+          "published_at": "2026-09-18T17:29:39.755178Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-18T17:08:59.272191Z",
-      "latest_at": "2026-09-18T17:08:59.272191Z",
+      "earliest_at": "2026-09-18T17:29:39.755178Z",
+      "latest_at": "2026-09-18T17:29:39.755178Z",
       "primary_item": {
         "id": "9990cad73a4a69096508248f27e2e8142f681f22",
         "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
@@ -1480,7 +1227,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
@@ -1528,15 +1275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7653,
+        "recency": 0.7293,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1563,88 +1310,506 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     },
     {
-      "story_id": "story_7baafd3b56cd",
-      "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-      "url": "https://www.aibase.com/news/31168",
-      "primary_url": "https://www.aibase.com/news/31168",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8c99f7e036fd",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+      "primary_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
-          "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_en": null,
-          "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+          "id": "ac25a8d44244c25c07ef068a98f90daa1947f480",
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_zh": null,
+          "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_original": "Anthropic’s first embedded evaluator is … Accenture?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31168",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T16:08:59.272191Z"
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T21:44:33Z"
+        },
+        {
+          "id": "918432b5ee51c9cc084f0f6d35cf7d3cb1108c98",
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_zh": null,
+          "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_original": "Anthropic’s first embedded evaluator is … Accenture?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T21:44:33Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
-          "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_en": null,
-          "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+          "id": "ac25a8d44244c25c07ef068a98f90daa1947f480",
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_zh": null,
+          "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_original": "Anthropic’s first embedded evaluator is … Accenture?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31168",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T16:08:59.272191Z"
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T21:44:33Z"
+        },
+        {
+          "id": "918432b5ee51c9cc084f0f6d35cf7d3cb1108c98",
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_zh": null,
+          "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+          "title_original": "Anthropic’s first embedded evaluator is … Accenture?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T21:44:33Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6309,
+      "importance": 0.6309,
+      "importance_score": 0.6309,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.7851,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-18T16:08:59.272191Z",
-      "latest_at": "2026-09-18T16:08:59.272191Z",
+      "earliest_at": "2026-09-18T21:44:33Z",
+      "latest_at": "2026-09-18T21:44:33Z",
       "primary_item": {
-        "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
-        "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-        "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-        "title_en": null,
-        "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+        "id": "ac25a8d44244c25c07ef068a98f90daa1947f480",
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "title_zh": null,
+        "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+        "title_original": "Anthropic’s first embedded evaluator is … Accenture?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31168",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T11:42:14.450710Z"
+        "scored_at": "2026-09-19T14:58:36.498431Z"
+      }
+    },
+    {
+      "story_id": "story_1b4175524ae8",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+      "primary_url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "1daa7bfa76bec3f78f74addda8bfcd0b4fe603fc",
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "title_zh": null,
+          "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T23:57:57Z"
+        },
+        {
+          "id": "fe7af3ec9a5686403a56cf669928ce129657af46",
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "title_zh": null,
+          "title_en": "Gemini hacked three companies in first known breakout by Google's AI",
+          "title_original": "Gemini hacked three companies in first known breakout by Google's AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T01:40:35Z"
+        },
+        {
+          "id": "a9605f48985cce7effa736572178da8f2f62251e",
+          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title_zh": null,
+          "title_en": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title_original": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/news/comments/1wk5kv1/gemini_hacked_three_companies_in_first_known",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T23:13:52Z"
+        },
+        {
+          "id": "61645a226635386454db02a4cf3a3af3fc422d82",
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "title_zh": null,
+          "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T22:17:19Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Reddit (热门)",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "1daa7bfa76bec3f78f74addda8bfcd0b4fe603fc",
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "title_zh": null,
+          "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T23:57:57Z"
+        },
+        {
+          "id": "fe7af3ec9a5686403a56cf669928ce129657af46",
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "title_zh": null,
+          "title_en": "Gemini hacked three companies in first known breakout by Google's AI",
+          "title_original": "Gemini hacked three companies in first known breakout by Google's AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T01:40:35Z"
+        },
+        {
+          "id": "a9605f48985cce7effa736572178da8f2f62251e",
+          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title_zh": null,
+          "title_en": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title_original": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/news/comments/1wk5kv1/gemini_hacked_three_companies_in_first_known",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T23:13:52Z"
+        },
+        {
+          "id": "61645a226635386454db02a4cf3a3af3fc422d82",
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "title_zh": null,
+          "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T22:17:19Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6263,
+      "importance": 0.6263,
+      "importance_score": 0.6263,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.8107,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T22:17:19Z",
+      "latest_at": "2026-09-19T01:40:35Z",
+      "primary_item": {
+        "id": "1daa7bfa76bec3f78f74addda8bfcd0b4fe603fc",
+        "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+        "title_zh": null,
+        "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+        "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T14:58:36.498431Z"
+      }
+    },
+    {
+      "story_id": "story_441122723a77",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "primary_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "title_zh": null,
+          "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "title_original": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T23:25:01Z"
+        },
+        {
+          "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
+          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "title_zh": null,
+          "title_en": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "title_original": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T23:25:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "title_zh": null,
+          "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "title_original": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T23:25:01Z"
+        },
+        {
+          "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
+          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "title_zh": null,
+          "title_en": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "title_original": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T23:25:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8043,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T23:25:01Z",
+      "latest_at": "2026-09-18T23:25:01Z",
+      "primary_item": {
+        "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "title_zh": null,
+        "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "title_original": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T14:58:36.498431Z"
+      }
+    },
+    {
+      "story_id": "story_77dcce9e2385",
+      "title": "AI生成的海报未必就难看",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "primary_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "john.hartnup.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+          "title": "AI生成的海报未必就难看",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": null,
+          "title_original": "AI生成的海报未必就难看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "john.hartnup.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T10:53:16.305000Z"
+        },
+        {
+          "id": "1fadbc14c31082af91bca2dbc7fec952dda35a2e",
+          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": "AI-generated posters don’t have to be horrible",
+          "title_original": "AI-generated posters don’t have to be horrible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T09:20:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "john.hartnup.uk"
+      ],
+      "items": [
+        {
+          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+          "title": "AI生成的海报未必就难看",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": null,
+          "title_original": "AI生成的海报未必就难看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "john.hartnup.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T10:53:16.305000Z"
+        },
+        {
+          "id": "1fadbc14c31082af91bca2dbc7fec952dda35a2e",
+          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": "AI-generated posters don’t have to be horrible",
+          "title_original": "AI-generated posters don’t have to be horrible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T09:20:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9493,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T09:20:58Z",
+      "latest_at": "2026-09-19T10:53:16.305000Z",
+      "primary_item": {
+        "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+        "title": "AI生成的海报未必就难看",
+        "title_zh": "AI生成的海报未必就难看",
+        "title_en": null,
+        "title_original": "AI生成的海报未必就难看",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "source": "john.hartnup.uk",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T14:58:36.498431Z"
       }
     }
   ]
