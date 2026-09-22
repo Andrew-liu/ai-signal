@@ -1,11 +1,94 @@
 {
-  "generated_at": "2026-09-22T05:07:05.283715Z",
+  "generated_at": "2026-09-22T10:04:13.929367Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_ac443b4e8681",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "primary_url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_zh": null,
+          "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_original": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_zh": null,
+          "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "title_original": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8647,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
+        "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "title_zh": null,
+        "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "title_original": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/omlx",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:23.863570Z"
+      }
+    },
+    {
       "story_id": "story_c1fb35598aba",
-      "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+      "title": "Refreshed repository pull requests page generally available",
       "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog",
@@ -13,8 +96,8 @@
       "sources": [
         {
           "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+          "title": "Refreshed repository pull requests page generally available",
+          "title_zh": null,
           "title_en": "Refreshed repository pull requests page generally available",
           "title_original": "Refreshed repository pull requests page generally available",
           "summary": null,
@@ -33,8 +116,8 @@
       "items": [
         {
           "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+          "title": "Refreshed repository pull requests page generally available",
+          "title_zh": null,
           "title_en": "Refreshed repository pull requests page generally available",
           "title_original": "Refreshed repository pull requests page generally available",
           "summary": null,
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9482,
+        "recency": 0.8827,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +152,8 @@
       "latest_at": "2026-09-22T01:25:53Z",
       "primary_item": {
         "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-        "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-        "title_zh": "刷新的代码仓库拉取请求页面现已可用",
+        "title": "Refreshed repository pull requests page generally available",
+        "title_zh": null,
         "title_en": "Refreshed repository pull requests page generally available",
         "title_original": "Refreshed repository pull requests page generally available",
         "summary": null,
@@ -83,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
-      }
-    },
-    {
-      "story_id": "story_017e418e0a89",
-      "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
-          "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
-          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T13:44:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
-          "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
-          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T13:44:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8009,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T13:44:34Z",
-      "latest_at": "2026-09-21T13:44:34Z",
-      "primary_item": {
-        "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
-        "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-        "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
-        "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-        "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.781,
+        "recency": 0.7271,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
+      }
+    },
+    {
+      "story_id": "story_017e418e0a89",
+      "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
+          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
+          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7456,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T13:44:34Z",
+      "latest_at": "2026-09-21T13:44:34Z",
+      "primary_item": {
+        "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+        "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
+        "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8144,
+        "recency": 0.7582,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.781,
+        "recency": 0.7271,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -438,7 +521,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T05:07:05.283715Z"
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "source_count": 1,
@@ -458,7 +541,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T05:07:05.283715Z"
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "item_count": 1,
@@ -479,8 +562,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T05:07:05.283715Z",
-      "latest_at": "2026-09-22T05:07:05.283715Z",
+      "earliest_at": "2026-09-22T10:04:13.929367Z",
+      "latest_at": "2026-09-22T10:04:13.929367Z",
       "primary_item": {
         "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
         "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
@@ -497,12 +580,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
+      }
+    },
+    {
+      "story_id": "story_d28e7788d36a",
+      "title": "何夕2077 AI 深度信号周报 2026 W38",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+          "title": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W38",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-22T07:16:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+          "title": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W38",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-22T07:16:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9604,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T07:16:08Z",
+      "latest_at": "2026-09-22T07:16:08Z",
+      "primary_item": {
+        "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
+        "title": "何夕2077 AI 深度信号周报 2026 W38",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W38",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
       "story_id": "story_b01d49929f03",
-      "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+      "title": "GitHub Enterprise adds credential inventory exports",
       "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
       "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
       "source": "GitHub Changelog",
@@ -510,8 +675,8 @@
       "sources": [
         {
           "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 添加凭证库存导出",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "title_zh": null,
           "title_en": "GitHub Enterprise adds credential inventory exports",
           "title_original": "GitHub Enterprise adds credential inventory exports",
           "summary": null,
@@ -530,8 +695,8 @@
       "items": [
         {
           "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 添加凭证库存导出",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "title_zh": null,
           "title_en": "GitHub Enterprise adds credential inventory exports",
           "title_original": "GitHub Enterprise adds credential inventory exports",
           "summary": null,
@@ -545,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8922,
+        "recency": 0.8307,
         "story_heat": 0.0
       },
       "category": "official",
@@ -566,8 +731,8 @@
       "latest_at": "2026-09-21T21:13:18Z",
       "primary_item": {
         "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-        "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
-        "title_zh": "GitHub Enterprise 添加凭证库存导出",
+        "title": "GitHub Enterprise adds credential inventory exports",
+        "title_zh": null,
         "title_en": "GitHub Enterprise adds credential inventory exports",
         "title_original": "GitHub Enterprise adds credential inventory exports",
         "summary": null,
@@ -580,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -628,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8791,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -710,21 +875,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.8904,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T02:02:03Z",
       "latest_at": "2026-09-22T02:02:03Z",
@@ -744,7 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -792,21 +956,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8806,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T20:18:52Z",
       "latest_at": "2026-09-21T20:18:52Z",
@@ -826,7 +989,147 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
+      }
+    },
+    {
+      "story_id": "story_d2839bd2c6ab",
+      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "primary_url": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "Linear：Now（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear：Now（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T12:26:00Z"
+        },
+        {
+          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
+          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_en": null,
+          "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T23:17:19.633000Z"
+        },
+        {
+          "id": "78bc289f9e781eb5e16d9e3b7421ecb2452666a7",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T19:23:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Linear：Now（RSS）",
+        "linear.app"
+      ],
+      "items": [
+        {
+          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+          "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear：Now（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T12:26:00Z"
+        },
+        {
+          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
+          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_en": null,
+          "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T23:17:19.633000Z"
+        },
+        {
+          "id": "78bc289f9e781eb5e16d9e3b7421ecb2452666a7",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "title_en": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "title_original": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T19:23:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7316,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T12:26:00Z",
+      "latest_at": "2026-09-21T23:17:19.633000Z",
+      "primary_item": {
+        "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+        "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+        "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+        "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+        "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+        "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+        "recommend_reason_zh": null,
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "source": "Linear：Now（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -874,21 +1177,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8262,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T20:51:03Z",
       "latest_at": "2026-09-21T20:51:03Z",
@@ -908,230 +1210,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
-      "story_id": "story_d2839bd2c6ab",
-      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "primary_url": "https://linear.app/now/ci-bottleneck-reworked",
-      "source": "Linear：Now（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_53fa6be86a25",
+      "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+      "url": "https://www.aibase.com/news/31271",
+      "primary_url": "https://www.aibase.com/news/31271",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
-          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
-          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
-          "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-          "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-          "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
-          "source": "Linear：Now（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T12:26:00Z"
-        },
-        {
-          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
-          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
-          "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
+          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
           "title_en": null,
-          "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
-          "source": "linear.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T23:17:19.633000Z"
-        },
-        {
-          "id": "b246d1ce428cc62d7fc56ab560435ab5917626ef",
-          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
-          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
-          "title_en": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-          "title_original": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T19:23:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Linear：Now（RSS）",
-        "linear.app"
-      ],
-      "items": [
-        {
-          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
-          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
-          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
-          "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-          "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-          "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
-          "source": "Linear：Now（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T12:26:00Z"
-        },
-        {
-          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
-          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
-          "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
-          "title_en": null,
-          "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
-          "source": "linear.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T23:17:19.633000Z"
-        },
-        {
-          "id": "b246d1ce428cc62d7fc56ab560435ab5917626ef",
-          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
-          "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
-          "title_en": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-          "title_original": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T19:23:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7859,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T12:26:00Z",
-      "latest_at": "2026-09-21T23:17:19.633000Z",
-      "primary_item": {
-        "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
-        "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
-        "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
-        "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-        "title_original": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-        "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
-        "recommend_reason_zh": null,
-        "url": "https://linear.app/now/ci-bottleneck-reworked",
-        "source": "Linear：Now（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
-      }
-    },
-    {
-      "story_id": "story_576291cb875d",
-      "title": "为人工智能下一阶段制定标准 / Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "primary_url": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
-          "title": "为人工智能下一阶段制定标准 / Building standards for the next phase of AI",
-          "title_zh": "为人工智能下一阶段制定标准",
-          "title_en": "Building standards for the next phase of AI",
-          "title_original": "Building standards for the next phase of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-standards-next-phase-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T10:00:00Z"
+          "url": "https://www.aibase.com/news/31271",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
-          "title": "为人工智能下一阶段制定标准 / Building standards for the next phase of AI",
-          "title_zh": "为人工智能下一阶段制定标准",
-          "title_en": "Building standards for the next phase of AI",
-          "title_original": "Building standards for the next phase of AI",
+          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
+          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+          "title_en": null,
+          "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-standards-next-phase-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T10:00:00Z"
+          "url": "https://www.aibase.com/news/31271",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7588,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T10:00:00Z",
-      "latest_at": "2026-09-21T10:00:00Z",
+      "earliest_at": "2026-09-22T10:04:13.929367Z",
+      "latest_at": "2026-09-22T10:04:13.929367Z",
       "primary_item": {
-        "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
-        "title": "为人工智能下一阶段制定标准 / Building standards for the next phase of AI",
-        "title_zh": "为人工智能下一阶段制定标准",
-        "title_en": "Building standards for the next phase of AI",
-        "title_original": "Building standards for the next phase of AI",
+        "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
+        "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+        "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
+        "title_en": null,
+        "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/building-standards-next-phase-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31271",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -1179,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7796,
+        "recency": 0.7258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,7 +1373,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -1260,15 +1421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8902,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,7 +1454,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
@@ -1341,15 +1502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.8877,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1374,30 +1535,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
-      "story_id": "story_93ae6596d014",
-      "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-      "url": "https://www.aibase.com/news/31252",
-      "primary_url": "https://www.aibase.com/news/31252",
+      "story_id": "story_2e1abb5f9e0d",
+      "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
+      "url": "https://www.aibase.com/news/31264",
+      "primary_url": "https://www.aibase.com/news/31264",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
-          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "id": "2b91f39be33bfccf8a791f77000d27f13040dad6",
+          "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
+          "title_zh": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
           "title_en": null,
-          "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "title_original": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31252",
+          "url": "https://www.aibase.com/news/31264",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T05:07:05.283715Z"
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "source_count": 1,
@@ -1406,18 +1567,18 @@
       ],
       "items": [
         {
-          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
-          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-          "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "id": "2b91f39be33bfccf8a791f77000d27f13040dad6",
+          "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
+          "title_zh": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
           "title_en": null,
-          "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "title_original": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31252",
+          "url": "https://www.aibase.com/news/31264",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T05:07:05.283715Z"
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "item_count": 1,
@@ -1438,17 +1599,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T05:07:05.283715Z",
-      "latest_at": "2026-09-22T05:07:05.283715Z",
+      "earliest_at": "2026-09-22T10:04:13.929367Z",
+      "latest_at": "2026-09-22T10:04:13.929367Z",
       "primary_item": {
-        "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
-        "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
-        "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+        "id": "2b91f39be33bfccf8a791f77000d27f13040dad6",
+        "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
+        "title_zh": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
         "title_en": null,
-        "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+        "title_original": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31252",
+        "url": "https://www.aibase.com/news/31264",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1456,250 +1617,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     },
     {
-      "story_id": "story_c9d6a68e7d5b",
-      "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-      "url": "https://x.com/arena/status/2102142912943489220",
-      "primary_url": "https://x.com/arena/status/2102142912943489220",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_ec8391fd6c37",
+      "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+      "url": "https://www.aibase.com/news/31268",
+      "primary_url": "https://www.aibase.com/news/31268",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+          "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
+          "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_zh": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_en": null,
+          "title_original": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102142912943489220",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T21:08:21Z"
+          "url": "https://www.aibase.com/news/31268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+          "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
+          "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_zh": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "title_en": null,
+          "title_original": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102142912943489220",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T21:08:21Z"
+          "url": "https://www.aibase.com/news/31268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T10:04:13.929367Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-21T21:08:21Z",
-      "latest_at": "2026-09-21T21:08:21Z",
+      "earliest_at": "2026-09-22T10:04:13.929367Z",
+      "latest_at": "2026-09-22T10:04:13.929367Z",
       "primary_item": {
-        "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-        "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-        "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-        "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-        "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-        "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+        "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
+        "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+        "title_zh": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+        "title_en": null,
+        "title_original": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102142912943489220",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31268",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
-      }
-    },
-    {
-      "story_id": "story_9500d7b13974",
-      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-      "url": "https://x.com/elonmusk/status/2102082011233931762",
-      "primary_url": "https://x.com/elonmusk/status/2102082011233931762",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
-          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-          "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2102082011233931762",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T17:06:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
-          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-          "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-          "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2102082011233931762",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T17:06:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8407,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T17:06:20Z",
-      "latest_at": "2026-09-21T17:06:20Z",
-      "primary_item": {
-        "id": "6795ace021f7be53c5997a411c80eadae2e86061",
-        "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-        "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-        "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-        "title_original": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-        "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2102082011233931762",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
-      }
-    },
-    {
-      "story_id": "story_ae766cda486d",
-      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "title_en": "Benchmarking Grok 4.7",
-          "title_original": "Benchmarking Grok 4.7",
-          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "items": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "title_en": "Benchmarking Grok 4.7",
-          "title_original": "Benchmarking Grok 4.7",
-          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8727,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T19:41:25.079000Z",
-      "latest_at": "2026-09-21T19:41:25.079000Z",
-      "primary_item": {
-        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-        "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-        "title_en": "Benchmarking Grok 4.7",
-        "title_original": "Benchmarking Grok 4.7",
-        "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-        "source": "Artificial Analysis 完整文章（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T05:07:50.059167Z"
+        "scored_at": "2026-09-22T10:12:23.863570Z"
       }
     }
   ]
