@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-25T07:56:29.995269Z",
+  "generated_at": "2026-09-25T13:54:42.316226Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c64a4fb7a68e",
+      "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "primary_url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa72032807585186751d05c49f31bb0f1172175a",
+          "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_zh": null,
+          "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T09:55:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fa72032807585186751d05c49f31bb0f1172175a",
+          "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_zh": null,
+          "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T09:55:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T09:55:23Z",
+      "latest_at": "2026-09-25T09:55:23Z",
+      "primary_item": {
+        "id": "fa72032807585186751d05c49f31bb0f1172175a",
+        "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+        "title_zh": null,
+        "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+        "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T14:24:20.858729Z"
+      }
+    },
     {
       "story_id": "story_7625d6ca7283",
       "title": "Codex CLI 0.157.0",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8916,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,95 +166,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
-      }
-    },
-    {
-      "story_id": "story_adf2dec60ff2",
-      "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
-          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
-          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9341,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T03:13:23Z",
-      "latest_at": "2026-09-25T03:13:23Z",
-      "primary_item": {
-        "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-        "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
-        "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
       "story_id": "story_9edda83740af",
-      "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "source": "Hugging Face Blog",
@@ -179,8 +179,8 @@
       "sources": [
         {
           "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-          "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_zh": "使用 LFM2.5-VL-DSpark 加速视觉语言模型",
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_zh": null,
           "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
           "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
           "summary": null,
@@ -199,8 +199,8 @@
       "items": [
         {
           "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-          "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "title_zh": "使用 LFM2.5-VL-DSpark 加速视觉语言模型",
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_zh": null,
           "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
           "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
           "summary": null,
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7734,
+        "recency": 0.7095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -235,8 +235,8 @@
       "latest_at": "2026-09-24T14:08:57Z",
       "primary_item": {
         "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
-        "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "title_zh": "使用 LFM2.5-VL-DSpark 加速视觉语言模型",
+        "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "title_zh": null,
         "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
         "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
         "summary": null,
@@ -249,12 +249,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
       "story_id": "story_c5257387fdcf",
-      "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
       "primary_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
       "source": "Google DeepMind",
@@ -262,8 +262,8 @@
       "sources": [
         {
           "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-          "title_zh": "隆重推出 Gemini 3.8 Live with Live Avatar",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "title_zh": null,
           "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
           "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
           "summary": null,
@@ -282,8 +282,8 @@
       "items": [
         {
           "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-          "title_zh": "隆重推出 Gemini 3.8 Live with Live Avatar",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "title_zh": null,
           "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
           "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
           "summary": null,
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7983,
+        "recency": 0.7324,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,8 +318,8 @@
       "latest_at": "2026-09-24T16:20:39Z",
       "primary_item": {
         "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-        "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-        "title_zh": "隆重推出 Gemini 3.8 Live with Live Avatar",
+        "title": "Introducing Gemini 3.8 Live with Live Avatar",
+        "title_zh": null,
         "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
         "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
         "summary": null,
@@ -332,12 +332,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
       "story_id": "story_edc9f4dfe188",
-      "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
+      "title": "When chat is the wrong UI",
       "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
       "primary_url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
       "source": "GitHub AI & ML",
@@ -345,8 +345,8 @@
       "sources": [
         {
           "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "title_zh": "当聊天是错误的 UI 时",
+          "title": "When chat is the wrong UI",
+          "title_zh": null,
           "title_en": "When chat is the wrong UI",
           "title_original": "When chat is the wrong UI",
           "summary": null,
@@ -365,8 +365,8 @@
       "items": [
         {
           "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "title_zh": "当聊天是错误的 UI 时",
+          "title": "When chat is the wrong UI",
+          "title_zh": null,
           "title_en": "When chat is the wrong UI",
           "title_original": "When chat is the wrong UI",
           "summary": null,
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8416,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,8 +401,8 @@
       "latest_at": "2026-09-24T20:00:00Z",
       "primary_item": {
         "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-        "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-        "title_zh": "当聊天是错误的 UI 时",
+        "title": "When chat is the wrong UI",
+        "title_zh": null,
         "title_en": "When chat is the wrong UI",
         "title_original": "When chat is the wrong UI",
         "summary": null,
@@ -415,171 +415,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
-      "story_id": "story_aae1244e06d2",
-      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_f0b280c7fe21",
+      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "primary_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
           "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
+          "published_at": "2026-09-25T11:00:28Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "medium.com"
+        "Ars Technica：AI（RSS）"
       ],
       "items": [
         {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": null,
-          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+          "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+          "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
           "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "title_en": null,
-          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
-        },
-        {
-          "id": "c10e11d64959985781eb3c464198bb3aa7ec6333",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T11:54:38Z"
+          "published_at": "2026-09-25T11:00:28Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8097,
-        "story_heat": 0.5
+        "recency": 0.9589,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T11:54:38Z",
-      "latest_at": "2026-09-24T17:19:34.716000Z",
+      "earliest_at": "2026-09-25T11:00:28Z",
+      "latest_at": "2026-09-25T11:00:28Z",
       "primary_item": {
-        "id": "c74455d54f10d39149f3f83e221935d572452878",
-        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "title_en": null,
-        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+        "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
+        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_zh": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+        "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "title_original": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
         "recommend_reason_zh": null,
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
-      "story_id": "story_3bb099e6ac71",
-      "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "story_id": "story_adf2dec60ff2",
+      "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "title_zh": "需要提供存在证明才能进行高影响力的行动",
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
+          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
+          "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_zh": null,
+          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
+          "published_at": "2026-09-25T03:13:23Z"
         }
       ],
       "source_count": 1,
@@ -588,31 +529,31 @@
       ],
       "items": [
         {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "title_zh": "需要提供存在证明才能进行高影响力的行动",
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
+          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
+          "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_zh": null,
+          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
+          "published_at": "2026-09-25T03:13:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8474,
+        "ai_relevance": 0.91,
+        "recency": 0.857,
         "story_heat": 0.0
       },
       "category": "official",
@@ -621,17 +562,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T20:28:33Z",
-      "latest_at": "2026-09-24T20:28:33Z",
+      "earliest_at": "2026-09-25T03:13:23Z",
+      "latest_at": "2026-09-25T03:13:23Z",
       "primary_item": {
-        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-        "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-        "title_zh": "需要提供存在证明才能进行高影响力的行动",
-        "title_en": "Require proof of presence for high-impact actions",
-        "title_original": "Require proof of presence for high-impact actions",
+        "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
+        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "title_zh": null,
+        "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -639,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -687,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -769,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8228,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -804,89 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
-      }
-    },
-    {
-      "story_id": "story_072908c15f30",
-      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T12:54:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.89,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7597,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T12:54:19Z",
-      "latest_at": "2026-09-24T12:54:19Z",
-      "primary_item": {
-        "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
-        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -934,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.772,
+        "recency": 0.7082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,89 +827,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
-      "story_id": "story_1c02ab45228c",
-      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-      "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-      "primary_url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "story_id": "story_ff8c712f94de",
+      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+      "url": "https://x.com/satyanadella/status/2103455884366188544",
+      "primary_url": "https://x.com/satyanadella/status/2103455884366188544",
+      "source": "X：Satya Nadella (@satyanadella)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "url": "https://x.com/satyanadella/status/2103455884366188544",
+          "source": "X：Satya Nadella (@satyanadella)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T09:32:14Z"
+          "published_at": "2026-09-25T12:05:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+        "X：Satya Nadella (@satyanadella)"
       ],
       "items": [
         {
-          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "url": "https://x.com/satyanadella/status/2103455884366188544",
+          "source": "X：Satya Nadella (@satyanadella)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T09:32:14Z"
+          "published_at": "2026-09-25T12:05:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7236,
+        "recency": 0.9741,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T09:32:14Z",
-      "latest_at": "2026-09-24T09:32:14Z",
+      "earliest_at": "2026-09-25T12:05:37Z",
+      "latest_at": "2026-09-25T12:05:37Z",
       "primary_item": {
-        "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-        "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-        "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-        "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
-        "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+        "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
+        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+        "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "url": "https://x.com/satyanadella/status/2103455884366188544",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
+      }
+    },
+    {
+      "story_id": "story_3bb099e6ac71",
+      "title": "Require proof of presence for high-impact actions",
+      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+          "title": "Require proof of presence for high-impact actions",
+          "title_zh": null,
+          "title_en": "Require proof of presence for high-impact actions",
+          "title_original": "Require proof of presence for high-impact actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:28:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+          "title": "Require proof of presence for high-impact actions",
+          "title_zh": null,
+          "title_en": "Require proof of presence for high-impact actions",
+          "title_original": "Require proof of presence for high-impact actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:28:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7774,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T20:28:33Z",
+      "latest_at": "2026-09-24T20:28:33Z",
+      "primary_item": {
+        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+        "title": "Require proof of presence for high-impact actions",
+        "title_zh": null,
+        "title_en": "Require proof of presence for high-impact actions",
+        "title_original": "Require proof of presence for high-impact actions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T14:24:20.858729Z"
+      }
+    },
+    {
+      "story_id": "story_e0fa10f7de75",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7428,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-24T17:19:34.716000Z",
+      "latest_at": "2026-09-24T17:19:34.716000Z",
+      "primary_item": {
+        "id": "c74455d54f10d39149f3f83e221935d572452878",
+        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_en": null,
+        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+        "recommend_reason_zh": null,
+        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -1073,7 +1095,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T18:56:29.995269Z"
+          "published_at": "2026-09-24T18:54:42.316226Z"
         }
       ],
       "source_count": 1,
@@ -1093,28 +1115,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T18:56:29.995269Z"
+          "published_at": "2026-09-24T18:54:42.316226Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T18:56:29.995269Z",
-      "latest_at": "2026-09-24T18:56:29.995269Z",
+      "earliest_at": "2026-09-24T18:54:42.316226Z",
+      "latest_at": "2026-09-24T18:54:42.316226Z",
       "primary_item": {
         "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
         "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
@@ -1131,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -1179,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8018,
+        "recency": 0.7356,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,7 +1234,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -1235,7 +1257,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T17:56:29.995269Z"
+          "published_at": "2026-09-24T17:54:42.316226Z"
         }
       ],
       "source_count": 1,
@@ -1255,28 +1277,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T17:56:29.995269Z"
+          "published_at": "2026-09-24T17:54:42.316226Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T17:56:29.995269Z",
-      "latest_at": "2026-09-24T17:56:29.995269Z",
+      "earliest_at": "2026-09-24T17:54:42.316226Z",
+      "latest_at": "2026-09-24T17:54:42.316226Z",
       "primary_item": {
         "id": "a55e3521f908dfe43db6e15e26501a671158c5a9",
         "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
@@ -1293,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -1316,7 +1338,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T16:56:29.995269Z"
+          "published_at": "2026-09-24T16:54:42.316226Z"
         }
       ],
       "source_count": 1,
@@ -1336,28 +1358,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T16:56:29.995269Z"
+          "published_at": "2026-09-24T16:54:42.316226Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T16:56:29.995269Z",
-      "latest_at": "2026-09-24T16:56:29.995269Z",
+      "earliest_at": "2026-09-24T16:54:42.316226Z",
+      "latest_at": "2026-09-24T16:54:42.316226Z",
       "primary_item": {
         "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
         "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
@@ -1374,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
@@ -1397,7 +1419,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T16:56:29.995269Z"
+          "published_at": "2026-09-24T16:54:42.316226Z"
         }
       ],
       "source_count": 1,
@@ -1417,28 +1439,28 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T16:56:29.995269Z"
+          "published_at": "2026-09-24T16:54:42.316226Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T16:56:29.995269Z",
-      "latest_at": "2026-09-24T16:56:29.995269Z",
+      "earliest_at": "2026-09-24T16:54:42.316226Z",
+      "latest_at": "2026-09-24T16:54:42.316226Z",
       "primary_item": {
         "id": "06a1213616f76992ac99bf001d4ee953188e1667",
         "title": "腾讯混元推出\"腾讯 Hy 翻译\"App：支持 33 种语言互译，覆盖 5 种民族语言",
@@ -1455,93 +1477,122 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
-      "story_id": "story_27bb8427bd36",
-      "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-      "url": "https://www.aibase.com/news/31352",
-      "primary_url": "https://www.aibase.com/news/31352",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a90d479b81db",
+      "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+      "url": "https://waytoagi.feishu.cn/wiki/W4A8wRWa2iXFyrkVWrrcXRUgnLg?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/W4A8wRWa2iXFyrkVWrrcXRUgnLg?from=from_copylink",
+      "source": "社区更新 · 2026-09-22",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-          "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
+          "id": "0748dfdf36ebe3201c37858deb3981a86ef4582f",
+          "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "title_zh": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
           "title_en": null,
-          "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
+          "title_original": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "summary": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/W4A8wRWa2iXFyrkVWrrcXRUgnLg?from=from_copylink",
+          "source": "社区更新 · 2026-09-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-25T13:54:42.316226Z"
+        },
+        {
+          "id": "b201930ecef9104edbc98189df313633c65f6438",
+          "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "title_zh": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "title_en": null,
+          "title_original": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T15:56:29.995269Z"
+          "url": "https://juejin.cn/post/7688333234086150178",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T13:34:05.956000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "juejin",
+        "社区更新 · 2026-09-22"
       ],
       "items": [
         {
-          "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-          "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
+          "id": "0748dfdf36ebe3201c37858deb3981a86ef4582f",
+          "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "title_zh": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
           "title_en": null,
-          "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
+          "title_original": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "summary": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/W4A8wRWa2iXFyrkVWrrcXRUgnLg?from=from_copylink",
+          "source": "社区更新 · 2026-09-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-25T13:54:42.316226Z"
+        },
+        {
+          "id": "b201930ecef9104edbc98189df313633c65f6438",
+          "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "title_zh": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+          "title_en": null,
+          "title_original": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T15:56:29.995269Z"
+          "url": "https://juejin.cn/post/7688333234086150178",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T13:34:05.956000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7937,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-24T15:56:29.995269Z",
-      "latest_at": "2026-09-24T15:56:29.995269Z",
+      "earliest_at": "2026-09-25T13:34:05.956000Z",
+      "latest_at": "2026-09-25T13:54:42.316226Z",
       "primary_item": {
-        "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-        "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
+        "id": "0748dfdf36ebe3201c37858deb3981a86ef4582f",
+        "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+        "title_zh": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
         "title_en": null,
-        "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "summary": null,
+        "title_original": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+        "summary": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31352",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://waytoagi.feishu.cn/wiki/W4A8wRWa2iXFyrkVWrrcXRUgnLg?from=from_copylink",
+        "source": "社区更新 · 2026-09-22",
+        "source_name": "WaytoAGI"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     },
     {
       "story_id": "story_f3e1f68c842f",
-      "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
       "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "primary_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "source": "The Verge",
@@ -1549,8 +1600,8 @@
       "sources": [
         {
           "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "title_zh": null,
           "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
           "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
           "summary": null,
@@ -1563,8 +1614,8 @@
         },
         {
           "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
+          "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+          "title_zh": null,
           "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
           "title_original": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
           "summary": null,
@@ -1583,8 +1634,8 @@
       "items": [
         {
           "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "title_zh": null,
           "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
           "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
           "summary": null,
@@ -1597,8 +1648,8 @@
         },
         {
           "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
+          "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+          "title_zh": null,
           "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
           "title_original": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
           "summary": null,
@@ -1612,15 +1663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5994,
-      "importance": 0.5994,
-      "importance_score": 0.5994,
+      "score": 0.5869,
+      "importance": 0.5869,
+      "importance_score": 0.5869,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8415,
+        "recency": 0.772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1631,8 +1682,8 @@
       "latest_at": "2026-09-24T19:59:26Z",
       "primary_item": {
         "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-        "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "title_zh": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔",
+        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+        "title_zh": null,
         "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
         "title_original": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
         "summary": null,
@@ -1645,88 +1696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
-      }
-    },
-    {
-      "story_id": "story_934b364d86d6",
-      "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-      "url": "https://www.aibase.com/news/31351",
-      "primary_url": "https://www.aibase.com/news/31351",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fdf55639b5cd5a7724dc4d12cc7fc3a6f46e7eda",
-          "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_zh": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_en": null,
-          "title_original": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T15:56:29.995269Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fdf55639b5cd5a7724dc4d12cc7fc3a6f46e7eda",
-          "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_zh": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "title_en": null,
-          "title_original": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T15:56:29.995269Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7937,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T15:56:29.995269Z",
-      "latest_at": "2026-09-24T15:56:29.995269Z",
-      "primary_item": {
-        "id": "fdf55639b5cd5a7724dc4d12cc7fc3a6f46e7eda",
-        "title": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-        "title_zh": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-        "title_en": null,
-        "title_original": "消息称DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31351",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T07:57:17.451149Z"
+        "scored_at": "2026-09-25T14:24:20.858729Z"
       }
     }
   ]
