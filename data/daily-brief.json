@@ -1,178 +1,8 @@
 {
-  "generated_at": "2026-09-26T19:57:01.103267Z",
+  "generated_at": "2026-09-26T22:56:41.596211Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_5b20c5b40350",
-      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "ef0ee82d9438820e1607189ce9c19e9fa103346f",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": null,
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "swarmtraces.org"
-      ],
-      "items": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "ef0ee82d9438820e1607189ce9c19e9fa103346f",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": null,
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7497,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:27Z",
-      "latest_at": "2026-09-25T23:59:47.248000Z",
-      "primary_item": {
-        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_en": null,
-        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-        "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
-      }
-    },
     {
       "story_id": "story_1b2804dac47a",
       "title": "Codex CLI 0.157.1",
@@ -218,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7497,
+        "recency": 0.718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -330,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9185,
+        "recency": 0.8797,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -365,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -413,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7434,
+        "recency": 0.7119,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,89 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
-      }
-    },
-    {
-      "story_id": "story_0c49918f9a48",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "primary_url": "https://www.ithome.com/1/007/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.941,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
-      "primary_item": {
-        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_en": null,
-        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/007/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -578,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8551,
+        "recency": 0.8189,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,7 +360,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
+      }
+    },
+    {
+      "story_id": "story_0c49918f9a48",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "primary_url": "https://www.ithome.com/1/007/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_en": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_en": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9011,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T15:44:10Z",
+      "latest_at": "2026-09-26T15:44:10Z",
+      "primary_item": {
+        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_en": null,
+        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/007/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -660,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9589,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -758,8 +588,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
         "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
@@ -776,90 +606,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
-      "story_id": "story_d32b9e9d97fb",
-      "title": "Usage metrics API adds pull request review stages",
-      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_21d746909977",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
-          "title_zh": null,
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": null,
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
-          "title_zh": null,
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": null,
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
-      "importance_label": "官方更新",
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7196,
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-25T21:09:40Z",
-      "latest_at": "2026-09-25T21:09:40Z",
+      "earliest_at": "2026-09-25T23:59:47.248000Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
       "primary_item": {
-        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-        "title": "Usage metrics API adds pull request review stages",
-        "title_zh": null,
-        "title_en": "Usage metrics API adds pull request review stages",
-        "title_original": "Usage metrics API adds pull request review stages",
-        "summary": null,
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_en": null,
+        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -907,21 +735,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8047,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-26T04:54:05Z",
       "latest_at": "2026-09-26T04:54:05Z",
@@ -941,88 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
-      }
-    },
-    {
-      "story_id": "story_5bff6ef02926",
-      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Yuchen Jin (@Yuchenj_UW)"
-      ],
-      "items": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7171,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T20:55:22Z",
-      "latest_at": "2026-09-25T20:55:22Z",
-      "primary_item": {
-        "id": "b2755019347db8d310898ae0261ef557c5468804",
-        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-        "source": "X：Yuchen Jin (@Yuchenj_UW)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -1086,8 +832,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
         "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
@@ -1104,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -1168,8 +914,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "245c318705eb80e431da2cd6507dbc63b4eda95f",
         "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
@@ -1186,7 +932,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -1250,8 +996,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "90ce9f84b627eda47df99dc0f98635ebf9c8b6ff",
         "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
@@ -1268,7 +1014,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -1332,8 +1078,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "802526543c016938251409bbf0b4e02c560e55ab",
         "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
@@ -1350,7 +1096,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -1414,8 +1160,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
         "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
@@ -1432,7 +1178,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -1496,8 +1242,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
         "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
@@ -1514,7 +1260,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
+      }
+    },
+    {
+      "story_id": "story_16720037ed48",
+      "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "discourse.haskell.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": null,
+          "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "title_zh": null,
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "discourse.haskell.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": null,
+          "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "title_zh": null,
+          "title_en": "How to keep enjoying programming in a world of LLMs",
+          "title_original": "How to keep enjoying programming in a world of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5642,
+      "importance": 0.5642,
+      "importance_score": 0.5642,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9635,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:41:58Z",
+      "latest_at": "2026-09-26T20:22:03.489000Z",
+      "primary_item": {
+        "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+        "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "title_zh": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "title_en": null,
+        "title_original": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "source": "discourse.haskell.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
@@ -1578,8 +1463,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T19:57:01.103267Z",
-      "latest_at": "2026-09-26T19:57:01.103267Z",
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
       "primary_item": {
         "id": "9ad973906a7d3b7f658d86b698e722f1b5ed2d98",
         "title": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
@@ -1596,183 +1481,154 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
-      "story_id": "story_82fc2b5e21b8",
-      "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "primary_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "source": "allanrbo.blogspot.com",
+      "story_id": "story_100d2be86f26",
+      "title": "Copilot 电脑品牌已不复存在",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "www.windowscentral.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "title_zh": "Copilot 电脑品牌已不复存在",
           "title_en": null,
-          "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_original": "Copilot 电脑品牌已不复存在",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "allanrbo.blogspot.com",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-26T13:01:20.496000Z"
+          "published_at": "2026-09-26T21:55:10.332000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
-          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": null,
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:20:58Z"
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "allanrbo.blogspot.com",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "www.windowscentral.com"
       ],
       "items": [
         {
-          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "title_zh": "Copilot 电脑品牌已不复存在",
           "title_en": null,
-          "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_original": "Copilot 电脑品牌已不复存在",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "allanrbo.blogspot.com",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-26T13:01:20.496000Z"
+          "published_at": "2026-09-26T21:55:10.332000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
-          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": null,
-          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:20:58Z"
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9048,
-        "story_heat": 0.5
+        "recency": 0.9853,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T04:20:58Z",
-      "latest_at": "2026-09-26T13:01:20.496000Z",
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T21:55:10.332000Z",
       "primary_item": {
-        "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-        "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-        "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+        "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+        "title": "Copilot 电脑品牌已不复存在",
+        "title_zh": "Copilot 电脑品牌已不复存在",
         "title_en": null,
-        "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+        "title_original": "Copilot 电脑品牌已不复存在",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "source": "allanrbo.blogspot.com",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "source": "www.windowscentral.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     },
     {
-      "story_id": "story_2d4d3338bea1",
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
+      "story_id": "story_20112bdf4907",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "url": "https://arxiv.org/abs/2609.22978",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T18:22:41Z"
         },
         {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857528",
+          "url": "https://news.ycombinator.com/item?id=49859112",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T18:22:41Z"
         }
       ],
       "source_count": 2,
@@ -1782,62 +1638,62 @@
       ],
       "items": [
         {
-          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "url": "https://arxiv.org/abs/2609.22978",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T18:22:41Z"
         },
         {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
           "title_zh": null,
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857528",
+          "url": "https://news.ycombinator.com/item?id=49859112",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
+          "published_at": "2026-09-26T18:22:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9389,
+        "recency": 0.9362,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:34:53Z",
-      "latest_at": "2026-09-26T15:34:53Z",
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T18:22:41Z",
       "primary_item": {
-        "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+        "title": "DeepSeek Elastic Compute (DSec)",
         "title_zh": null,
-        "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-        "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+        "title_en": "DeepSeek Elastic Compute (DSec)",
+        "title_original": "DeepSeek Elastic Compute (DSec)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "url": "https://arxiv.org/abs/2609.22978",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1845,7 +1701,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:15:23.837410Z"
+        "scored_at": "2026-09-26T23:12:21.264768Z"
+      }
+    },
+    {
+      "story_id": "story_1e92608c2cdf",
+      "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+      "url": "https://www.aibase.com/news/31343",
+      "primary_url": "https://www.aibase.com/news/31343",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cbcb2ee88fda7851441f217f0f274c8494629fc5",
+          "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "title_zh": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "title_en": null,
+          "title_original": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31343",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cbcb2ee88fda7851441f217f0f274c8494629fc5",
+          "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "title_zh": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "title_en": null,
+          "title_original": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31343",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T22:56:41.596211Z",
+      "latest_at": "2026-09-26T22:56:41.596211Z",
+      "primary_item": {
+        "id": "cbcb2ee88fda7851441f217f0f274c8494629fc5",
+        "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+        "title_zh": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+        "title_en": null,
+        "title_original": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31343",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T23:12:21.264768Z"
       }
     }
   ]
