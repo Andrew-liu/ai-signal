@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T19:01:52.955553Z",
+  "generated_at": "2026-09-27T22:17:39.667130Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_48f316f122e1",
@@ -52,28 +52,13 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_zh": "作者诉微软/OpenAI 案中未密封的内情",
-          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "authorsguild.org",
-        "hackernews"
+        "authorsguild.org"
       ],
       "items": [
         {
@@ -117,34 +102,20 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_zh": "作者诉微软/OpenAI 案中未密封的内情",
-          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
-        "story_heat": 0.75
+        "recency": 0.8308,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -170,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
+        "scored_at": "2026-09-27T22:18:17.824015Z"
       }
     },
     {
@@ -218,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7511,
+        "recency": 0.7166,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,7 +223,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
+        "scored_at": "2026-09-27T22:18:17.824015Z"
       }
     },
     {
@@ -300,15 +271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8236,
+        "recency": 0.7857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -333,7 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
+        "scored_at": "2026-09-27T22:18:17.824015Z"
       }
     },
     {
@@ -371,26 +342,11 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-27T17:32:02Z"
-        },
-        {
-          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868831",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:32:02Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews",
         "www.youtube.com"
       ],
       "items": [
@@ -421,36 +377,22 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-27T17:32:02Z"
-        },
-        {
-          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868831",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:32:02Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5705,
-      "importance": 0.5705,
-      "importance_score": 0.5705,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9982,
-        "story_heat": 0.5
+        "recency": 0.9522,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
@@ -472,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
+        "scored_at": "2026-09-27T22:18:17.824015Z"
       }
     },
     {
@@ -510,27 +452,12 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-27T16:19:46Z"
-        },
-        {
-          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“流氓”人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868083",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:19:46Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News",
-        "eoinhiggins.substack.com",
-        "hackernews"
+        "eoinhiggins.substack.com"
       ],
       "items": [
         {
@@ -560,36 +487,22 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-27T16:19:46Z"
-        },
-        {
-          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“流氓”人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868083",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:19:46Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9831,
-        "story_heat": 0.5
+        "recency": 0.9378,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
@@ -611,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
+        "scored_at": "2026-09-27T22:18:17.824015Z"
       }
     },
     {
@@ -688,15 +601,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9768,
+        "recency": 0.9318,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,7 +634,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
+        "scored_at": "2026-09-27T22:18:17.824015Z"
       }
     },
     {
@@ -798,15 +711,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9552,
+        "recency": 0.9112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -831,117 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
-      }
-    },
-    {
-      "story_id": "story_f08a56d3c5d0",
-      "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "primary_url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "title_zh": "llama.cpp 中更快的提示查找起草",
-          "title_en": "Faster prompt lookup drafting in llama.cpp",
-          "title_original": "Faster prompt lookup drafting in llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:57:24Z"
-        },
-        {
-          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "title_zh": "llama.cpp 中更快的提示查找起草",
-          "title_en": "Faster prompt lookup drafting in llama.cpp",
-          "title_original": "Faster prompt lookup drafting in llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49859982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T19:57:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "title_zh": "llama.cpp 中更快的提示查找起草",
-          "title_en": "Faster prompt lookup drafting in llama.cpp",
-          "title_original": "Faster prompt lookup drafting in llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:57:24Z"
-        },
-        {
-          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
-          "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-          "title_zh": "llama.cpp 中更快的提示查找起草",
-          "title_en": "Faster prompt lookup drafting in llama.cpp",
-          "title_original": "Faster prompt lookup drafting in llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49859982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T19:57:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4948,
-      "importance": 0.4948,
-      "importance_score": 0.4948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7166,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T19:57:24Z",
-      "latest_at": "2026-09-26T19:57:24Z",
-      "primary_item": {
-        "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-        "title": "llama.cpp 中更快的提示查找起草 / Faster prompt lookup drafting in llama.cpp",
-        "title_zh": "llama.cpp 中更快的提示查找起草",
-        "title_en": "Faster prompt lookup drafting in llama.cpp",
-        "title_original": "Faster prompt lookup drafting in llama.cpp",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T19:02:33.432930Z"
+        "scored_at": "2026-09-27T22:18:17.824015Z"
       }
     }
   ]
