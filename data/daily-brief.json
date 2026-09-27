@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-09-26T22:56:41.596211Z",
+  "generated_at": "2026-09-27T01:32:42.891114Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 14,
   "items": [
-    {
-      "story_id": "story_1b2804dac47a",
-      "title": "Codex CLI 0.157.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-          "title": "Codex CLI 0.157.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.1",
-          "title_original": "Codex CLI 0.157.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-26T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-          "title": "Codex CLI 0.157.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.1",
-          "title_original": "Codex CLI 0.157.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-26T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.718,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T00:00:00Z",
-      "latest_at": "2026-09-26T00:00:00Z",
-      "primary_item": {
-        "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-        "title": "Codex CLI 0.157.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.157.1",
-        "title_original": "Codex CLI 0.157.1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
-      }
-    },
     {
       "story_id": "story_a7326ac13231",
       "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
@@ -109,24 +26,24 @@
           "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": null,
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_en": null,
+          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News：AI 热帖",
-        "hackernews"
+        "www.bbc.com"
       ],
       "items": [
         {
@@ -144,31 +61,31 @@
           "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": null,
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_en": null,
+          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8472,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -178,7 +95,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-27T00:34:02.450000Z",
       "primary_item": {
         "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
         "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
@@ -195,90 +112,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
-      "story_id": "story_07c3181c791a",
-      "title": "Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "primary_url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_29d461ab8b07",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "primary_url": "https://www.ithome.com/1/007/447.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "title_zh": null,
-          "title_en": "Enterprise managed settings in-product validator",
-          "title_original": "Enterprise managed settings in-product validator",
-          "summary": null,
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_en": null,
+          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T23:24:57Z"
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "title_zh": null,
-          "title_en": "Enterprise managed settings in-product validator",
-          "title_original": "Enterprise managed settings in-product validator",
-          "summary": null,
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "title_en": null,
+          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T23:24:57Z"
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
-      "importance_label": "官方更新",
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7119,
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9669,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T23:24:57Z",
-      "latest_at": "2026-09-25T23:24:57Z",
+      "earliest_at": "2026-09-26T23:12:53Z",
+      "latest_at": "2026-09-26T23:12:53Z",
       "primary_item": {
-        "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-        "title": "Enterprise managed settings in-product validator",
-        "title_zh": null,
-        "title_en": "Enterprise managed settings in-product validator",
-        "title_original": "Enterprise managed settings in-product validator",
-        "summary": null,
+        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "title_en": null,
+        "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.ithome.com/1/007/447.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
@@ -326,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8189,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,89 +276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
-      }
-    },
-    {
-      "story_id": "story_0c49918f9a48",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "primary_url": "https://www.ithome.com/1/007/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9011,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
-      "primary_item": {
-        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_en": null,
-        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/007/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
@@ -490,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,170 +358,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
-      "story_id": "story_e6d6f5c7088b",
-      "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-      "url": "https://www.aibase.com/news/31338",
-      "primary_url": "https://www.aibase.com/news/31338",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
-          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_en": null,
-          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31338",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
-          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "title_en": null,
-          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31338",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
-      "primary_item": {
-        "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
-        "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-        "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-        "title_en": null,
-        "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31338",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
-      }
-    },
-    {
-      "story_id": "story_21d746909977",
-      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_5bb17e238644",
+      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "primary_url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
           "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
+          "published_at": "2026-09-26T23:55:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
       "items": [
         {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
           "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
+          "published_at": "2026-09-26T23:55:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7179,
+        "recency": 0.9769,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-25T23:59:47.248000Z",
-      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "earliest_at": "2026-09-26T23:55:49Z",
+      "latest_at": "2026-09-26T23:55:49Z",
       "primary_item": {
-        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_en": null,
-        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+        "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+        "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+        "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
+        "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
         "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
@@ -735,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7706,
+        "recency": 0.7422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,63 +520,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
-      "story_id": "story_c8560cd1bebf",
-      "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-      "url": "https://www.aibase.com/news/31347",
-      "primary_url": "https://www.aibase.com/news/31347",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0c49918f9a48",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "primary_url": "https://www.ithome.com/1/007/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
           "title_en": null,
-          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "summary": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
           "title_en": null,
-          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "summary": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,435 +584,274 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
+      "earliest_at": "2026-09-26T15:44:10Z",
+      "latest_at": "2026-09-26T15:44:10Z",
       "primary_item": {
-        "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-        "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
         "title_en": null,
-        "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "summary": null,
+        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31347",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.ithome.com/1/007/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
-      "story_id": "story_62d09ee666d6",
-      "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
-      "url": "https://www.aibase.com/news/31337",
-      "primary_url": "https://www.aibase.com/news/31337",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a21828da2aae",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "245c318705eb80e431da2cd6507dbc63b4eda95f",
-          "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
-          "title_zh": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
-          "title_en": null,
-          "title_original": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its ‘most capable models’",
+          "title_original": "OpenAI pauses training of its ‘most capable models’",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31337",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T16:34:59Z"
+        },
+        {
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its 'most capable models'",
+          "title_original": "OpenAI pauses training of its 'most capable models'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T21:07:08Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "The Verge"
       ],
       "items": [
         {
-          "id": "245c318705eb80e431da2cd6507dbc63b4eda95f",
-          "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
-          "title_zh": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
-          "title_en": null,
-          "title_original": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its ‘most capable models’",
+          "title_original": "OpenAI pauses training of its ‘most capable models’",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31337",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T16:34:59Z"
+        },
+        {
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its 'most capable models'",
+          "title_original": "OpenAI pauses training of its 'most capable models'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T21:07:08Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6061,
+      "importance": 0.6061,
+      "importance_score": 0.6061,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.8786,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
+      "earliest_at": "2026-09-26T16:34:59Z",
+      "latest_at": "2026-09-26T21:07:08Z",
       "primary_item": {
-        "id": "245c318705eb80e431da2cd6507dbc63b4eda95f",
-        "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
-        "title_zh": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
-        "title_en": null,
-        "title_original": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+        "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+        "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+        "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+        "title_en": "OpenAI pauses training of its ‘most capable models’",
+        "title_original": "OpenAI pauses training of its ‘most capable models’",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31337",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
-      "story_id": "story_57778852def4",
-      "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-      "url": "https://www.aibase.com/news/31348",
-      "primary_url": "https://www.aibase.com/news/31348",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_20112bdf4907",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "90ce9f84b627eda47df99dc0f98635ebf9c8b6ff",
-          "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "title_zh": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
           "title_en": null,
-          "title_original": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+          "title_original": "DeepSeek 弹性计算 (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31348",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "arxiv.org",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "90ce9f84b627eda47df99dc0f98635ebf9c8b6ff",
-          "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "title_zh": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
           "title_en": null,
-          "title_original": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+          "title_original": "DeepSeek 弹性计算 (DSec)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31348",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5642,
+      "importance": 0.5642,
+      "importance_score": 0.5642,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9635,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T22:58:22.682000Z",
       "primary_item": {
-        "id": "90ce9f84b627eda47df99dc0f98635ebf9c8b6ff",
-        "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-        "title_zh": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+        "title": "DeepSeek 弹性计算 (DSec)",
+        "title_zh": "DeepSeek 弹性计算 (DSec)",
         "title_en": null,
-        "title_original": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+        "title_original": "DeepSeek 弹性计算 (DSec)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31348",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://arxiv.org/abs/2609.22978",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
-      }
-    },
-    {
-      "story_id": "story_24868f144755",
-      "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-      "url": "https://www.aibase.com/news/31346",
-      "primary_url": "https://www.aibase.com/news/31346",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "802526543c016938251409bbf0b4e02c560e55ab",
-          "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "title_en": null,
-          "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "802526543c016938251409bbf0b4e02c560e55ab",
-          "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "title_en": null,
-          "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
-      "primary_item": {
-        "id": "802526543c016938251409bbf0b4e02c560e55ab",
-        "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-        "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-        "title_en": null,
-        "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31346",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
-      }
-    },
-    {
-      "story_id": "story_7013a64c530f",
-      "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-      "url": "https://www.aibase.com/news/31353",
-      "primary_url": "https://www.aibase.com/news/31353",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
-          "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31353",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
-          "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31353",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
-      "primary_item": {
-        "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
-        "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-        "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-        "title_en": null,
-        "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31353",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
-      }
-    },
-    {
-      "story_id": "story_27bb8427bd36",
-      "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-      "url": "https://www.aibase.com/news/31352",
-      "primary_url": "https://www.aibase.com/news/31352",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-          "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_en": null,
-          "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-          "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "title_en": null,
-          "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
-      "primary_item": {
-        "id": "1a3d579f56c3b2266af9b9f08fc823d9ba4ad1a6",
-        "title": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "title_zh": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "title_en": null,
-        "title_original": "​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31352",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
@@ -1301,8 +892,8 @@
         },
         {
           "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
-          "title": "How to keep enjoying programming in a world of LLMs",
-          "title_zh": null,
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
           "title_en": "How to keep enjoying programming in a world of LLMs",
           "title_original": "How to keep enjoying programming in a world of LLMs",
           "summary": null,
@@ -1351,8 +942,8 @@
         },
         {
           "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
-          "title": "How to keep enjoying programming in a world of LLMs",
-          "title_zh": null,
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
           "title_en": "How to keep enjoying programming in a world of LLMs",
           "title_original": "How to keep enjoying programming in a world of LLMs",
           "summary": null,
@@ -1366,15 +957,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.928,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1399,89 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
-      }
-    },
-    {
-      "story_id": "story_18b95bbd79f7",
-      "title": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-      "url": "https://www.aibase.com/news/31342",
-      "primary_url": "https://www.aibase.com/news/31342",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9ad973906a7d3b7f658d86b698e722f1b5ed2d98",
-          "title": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-          "title_zh": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-          "title_en": null,
-          "title_original": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31342",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9ad973906a7d3b7f658d86b698e722f1b5ed2d98",
-          "title": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-          "title_zh": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-          "title_en": null,
-          "title_original": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31342",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
-      "primary_item": {
-        "id": "9ad973906a7d3b7f658d86b698e722f1b5ed2d98",
-        "title": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-        "title_zh": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-        "title_en": null,
-        "title_original": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31342",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
@@ -1558,15 +1067,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9853,
+        "recency": 0.949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1591,199 +1100,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
-      "story_id": "story_20112bdf4907",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "primary_url": "https://arxiv.org/abs/2609.22978",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_a19c19544491",
+      "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
       "sources": [
         {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+          "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+          "title_zh": "OpenAI 代理使用 DNS 来访问外部聊天机器人",
+          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
+          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T15:43:46Z"
         },
         {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "id": "bc83fcebc7c8ce3fa36b6e7234091346508178f4",
+          "title": "代理使用 DNS 来访问外部聊天机器人 / An agent used DNS to reach an external chatbot",
+          "title_zh": "代理使用 DNS 来访问外部聊天机器人",
+          "title_en": "An agent used DNS to reach an external chatbot",
+          "title_original": "An agent used DNS to reach an external chatbot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T04:14:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+          "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+          "title_zh": "OpenAI 代理使用 DNS 来访问外部聊天机器人",
+          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
+          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T15:43:46Z"
         },
         {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "id": "bc83fcebc7c8ce3fa36b6e7234091346508178f4",
+          "title": "代理使用 DNS 来访问外部聊天机器人 / An agent used DNS to reach an external chatbot",
+          "title_zh": "代理使用 DNS 来访问外部聊天机器人",
+          "title_en": "An agent used DNS to reach an external chatbot",
+          "title_original": "An agent used DNS to reach an external chatbot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T04:14:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9362,
+        "recency": 0.8678,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T18:22:41Z",
-      "latest_at": "2026-09-26T18:22:41Z",
+      "earliest_at": "2026-09-26T04:14:11Z",
+      "latest_at": "2026-09-26T15:43:46Z",
       "primary_item": {
-        "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "title_zh": null,
-        "title_en": "DeepSeek Elastic Compute (DSec)",
-        "title_original": "DeepSeek Elastic Compute (DSec)",
+        "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+        "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+        "title_zh": "OpenAI 代理使用 DNS 来访问外部聊天机器人",
+        "title_en": "An OpenAI agent used DNS to reach an external chatbot",
+        "title_original": "An OpenAI agent used DNS to reach an external chatbot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2609.22978",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     },
     {
-      "story_id": "story_1e92608c2cdf",
-      "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
-      "url": "https://www.aibase.com/news/31343",
-      "primary_url": "https://www.aibase.com/news/31343",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e1a03d4d85a7",
+      "title": "没有AI的一个月",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "primary_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source": "blog.bustikiller.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cbcb2ee88fda7851441f217f0f274c8494629fc5",
-          "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
-          "title_zh": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "title_zh": "没有AI的一个月",
           "title_en": null,
-          "title_original": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "title_original": "没有AI的一个月",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        },
+        {
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
+          "title": "没有AI的一个月 / One Month Without AI",
+          "title_zh": "没有AI的一个月",
+          "title_en": "One Month Without AI",
+          "title_original": "One Month Without AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T10:08:21Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "blog.bustikiller.com"
       ],
       "items": [
         {
-          "id": "cbcb2ee88fda7851441f217f0f274c8494629fc5",
-          "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
-          "title_zh": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "title_zh": "没有AI的一个月",
           "title_en": null,
-          "title_original": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+          "title_original": "没有AI的一个月",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": null
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        },
+        {
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
+          "title": "没有AI的一个月 / One Month Without AI",
+          "title_zh": "没有AI的一个月",
+          "title_en": "One Month Without AI",
+          "title_original": "One Month Without AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T10:08:21Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.844,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-26T22:56:41.596211Z",
-      "latest_at": "2026-09-26T22:56:41.596211Z",
+      "earliest_at": "2026-09-26T10:08:21Z",
+      "latest_at": "2026-09-26T13:48:03.398000Z",
       "primary_item": {
-        "id": "cbcb2ee88fda7851441f217f0f274c8494629fc5",
-        "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
-        "title_zh": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+        "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+        "title": "没有AI的一个月",
+        "title_zh": "没有AI的一个月",
         "title_en": null,
-        "title_original": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+        "title_original": "没有AI的一个月",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31343",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "source": "blog.bustikiller.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:12:21.264768Z"
+        "scored_at": "2026-09-27T01:33:24.064183Z"
+      }
+    },
+    {
+      "story_id": "story_82fc2b5e21b8",
+      "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "primary_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "source": "allanrbo.blogspot.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_en": null,
+          "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "allanrbo.blogspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:01:20.496000Z"
+        },
+        {
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
+          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T04:20:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "allanrbo.blogspot.com"
+      ],
+      "items": [
+        {
+          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_en": null,
+          "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "allanrbo.blogspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:01:20.496000Z"
+        },
+        {
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
+          "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T04:20:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8346,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T04:20:58Z",
+      "latest_at": "2026-09-26T13:01:20.496000Z",
+      "primary_item": {
+        "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
+        "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+        "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+        "title_en": null,
+        "title_original": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "source": "allanrbo.blogspot.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T01:33:24.064183Z"
       }
     }
   ]
