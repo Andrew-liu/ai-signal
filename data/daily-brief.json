@@ -1,8 +1,285 @@
 {
-  "generated_at": "2026-09-28T08:46:16.514705Z",
+  "generated_at": "2026-09-28T17:42:25.848018Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_299644506077",
+      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "primary_url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
+          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
+          "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
+          "title_en": "Holo4: powering generalist computer-use agents",
+          "title_original": "Holo4: powering generalist computer-use agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/holo4",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T09:44:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
+          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
+          "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
+          "title_en": "Holo4: powering generalist computer-use agents",
+          "title_original": "Holo4: powering generalist computer-use agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/holo4",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T09:44:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8913,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:44:05Z",
+      "latest_at": "2026-09-28T09:44:05Z",
+      "primary_item": {
+        "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
+        "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
+        "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
+        "title_en": "Holo4: powering generalist computer-use agents",
+        "title_original": "Holo4: powering generalist computer-use agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Hcompany/holo4",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_d7df3ea255b1",
+      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "primary_url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
+          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
+          "title_zh": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+          "title_en": "Prompting Claude Opus 5.5",
+          "title_original": "Prompting Claude Opus 5.5",
+          "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T07:33:29Z"
+        },
+        {
+          "id": "be66ec51177d2f5947e2b4727fa370c623136537",
+          "title": "向Claude Opus 5.5提供提示",
+          "title_zh": "向Claude Opus 5.5提供提示",
+          "title_en": null,
+          "title_original": "向Claude Opus 5.5提供提示",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T10:51:57.660000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "platform.claude.com"
+      ],
+      "items": [
+        {
+          "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
+          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
+          "title_zh": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+          "title_en": "Prompting Claude Opus 5.5",
+          "title_original": "Prompting Claude Opus 5.5",
+          "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T07:33:29Z"
+        },
+        {
+          "id": "be66ec51177d2f5947e2b4727fa370c623136537",
+          "title": "向Claude Opus 5.5提供提示",
+          "title_zh": "向Claude Opus 5.5提供提示",
+          "title_en": null,
+          "title_original": "向Claude Opus 5.5提供提示",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T10:51:57.660000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8637,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T07:33:29Z",
+      "latest_at": "2026-09-28T10:51:57.660000Z",
+      "primary_item": {
+        "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
+        "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
+        "title_zh": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+        "title_en": "Prompting Claude Opus 5.5",
+        "title_original": "Prompting Claude Opus 5.5",
+        "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
+        "recommend_reason_zh": null,
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_3622c48a5055",
+      "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+      "url": "https://x.com/JensenHuang/status/2104499465055023424",
+      "primary_url": "https://x.com/JensenHuang/status/2104499465055023424",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
+          "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_zh": "英伟达联合超100家伙伴推出开放代理安全平台",
+          "title_en": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_original": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "summary": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2104499465055023424",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:12:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jensen Huang (@JensenHuang)"
+      ],
+      "items": [
+        {
+          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
+          "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_zh": "英伟达联合超100家伙伴推出开放代理安全平台",
+          "title_en": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_original": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "summary": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2104499465055023424",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:12:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8845,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:12:26Z",
+      "latest_at": "2026-09-28T09:12:26Z",
+      "primary_item": {
+        "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
+        "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+        "title_zh": "英伟达联合超100家伙伴推出开放代理安全平台",
+        "title_en": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+        "title_original": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+        "summary": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/JensenHuang/status/2104499465055023424",
+        "source": "X：Jensen Huang (@JensenHuang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
     {
       "story_id": "story_bef5ab52913d",
       "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
@@ -48,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9744,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +359,417 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_e4e54fd17b80",
+      "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+      "url": "https://www.ithome.com/1/007/937.htm",
+      "primary_url": "https://www.ithome.com/1/007/937.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
+          "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_zh": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_en": null,
+          "title_original": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "summary": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:33:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
+          "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_zh": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_en": null,
+          "title_original": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "summary": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:33:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8891,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:33:59Z",
+      "latest_at": "2026-09-28T09:33:59Z",
+      "primary_item": {
+        "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
+        "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+        "title_zh": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+        "title_en": null,
+        "title_original": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+        "summary": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/007/937.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_8b8dccd9434b",
+      "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+      "url": "https://x.com/arena/status/2104617283679379704",
+      "primary_url": "https://x.com/arena/status/2104617283679379704",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
+          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+          "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104617283679379704",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:00:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
+          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+          "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+          "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104617283679379704",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:00:36Z",
+      "latest_at": "2026-09-28T17:00:36Z",
+      "primary_item": {
+        "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
+        "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+        "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+        "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+        "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+        "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2104617283679379704",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_abbedb558ed1",
+      "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+      "url": "https://www.aibase.com/news/31388",
+      "primary_url": "https://www.aibase.com/news/31388",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9ea2012906cba087958d8f7e2f886b2dac013daf",
+          "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+          "title_zh": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+          "title_en": null,
+          "title_original": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31388",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T17:42:25.848018Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9ea2012906cba087958d8f7e2f886b2dac013daf",
+          "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+          "title_zh": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+          "title_en": null,
+          "title_original": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31388",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T17:42:25.848018Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:42:25.848018Z",
+      "latest_at": "2026-09-28T17:42:25.848018Z",
+      "primary_item": {
+        "id": "9ea2012906cba087958d8f7e2f886b2dac013daf",
+        "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+        "title_zh": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+        "title_en": null,
+        "title_original": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31388",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_4f391ee4a3e0",
+      "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+      "url": "https://x.com/thexpin/status/2104508227451027712",
+      "primary_url": "https://x.com/thexpin/status/2104508227451027712",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3877773b71cf936e256b42874a5c47327929d03e",
+          "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+          "title_zh": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗",
+          "title_en": "Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+          "title_original": "Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+          "summary": "据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thexpin/status/2104508227451027712",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:47:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "items": [
+        {
+          "id": "3877773b71cf936e256b42874a5c47327929d03e",
+          "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+          "title_zh": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗",
+          "title_en": "Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+          "title_original": "Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+          "summary": "据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thexpin/status/2104508227451027712",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:47:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8919,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:47:15Z",
+      "latest_at": "2026-09-28T09:47:15Z",
+      "primary_item": {
+        "id": "3877773b71cf936e256b42874a5c47327929d03e",
+        "title": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+        "title_zh": "北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗",
+        "title_en": "Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+        "title_original": "Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...",
+        "summary": "据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thexpin/status/2104508227451027712",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_bdc6459bc2b0",
+      "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "primary_url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "source": "MIT News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
+          "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+          "title_zh": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+          "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+          "title_original": "New formulation helps RNA vaccines withstand high temperatures",
+          "summary": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。",
+          "recommend_reason_zh": null,
+          "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+          "source": "MIT News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MIT News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
+          "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+          "title_zh": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+          "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+          "title_original": "New formulation helps RNA vaccines withstand high temperatures",
+          "summary": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。",
+          "recommend_reason_zh": null,
+          "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+          "source": "MIT News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8818,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:00:00Z",
+      "latest_at": "2026-09-28T09:00:00Z",
+      "primary_item": {
+        "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
+        "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+        "title_zh": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+        "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+        "title_original": "New formulation helps RNA vaccines withstand high temperatures",
+        "summary": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。",
+        "recommend_reason_zh": null,
+        "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+        "source": "MIT News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
@@ -130,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9801,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +851,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_6f46b8dc8785",
+      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁 / Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+      "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+      "primary_url": "https://x.com/AravSrinivas/status/2104597362475708781",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
+          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁 / Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+          "title_zh": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+          "title_en": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+          "title_original": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+          "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T15:41:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
+          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁 / Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+          "title_zh": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+          "title_en": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+          "title_original": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+          "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T15:41:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9713,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T15:41:27Z",
+      "latest_at": "2026-09-28T15:41:27Z",
+      "primary_item": {
+        "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
+        "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁 / Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+        "title_zh": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+        "title_en": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+        "title_original": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+        "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_9179b625ac18",
+      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+      "url": "https://x.com/arena/status/2104618173966504429",
+      "primary_url": "https://x.com/arena/status/2104618173966504429",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
+          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+          "title_en": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_original": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104618173966504429",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:04:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
+          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+          "title_en": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "title_original": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+          "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104618173966504429",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:04:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9908,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:04:09Z",
+      "latest_at": "2026-09-28T17:04:09Z",
+      "primary_item": {
+        "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
+        "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+        "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+        "title_en": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+        "title_original": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+        "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2104618173966504429",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
+      }
+    },
+    {
+      "story_id": "story_333b2456cba5",
+      "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+      "url": "https://www.aibase.com/news/31389",
+      "primary_url": "https://www.aibase.com/news/31389",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
+          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+          "title_zh": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+          "title_en": null,
+          "title_original": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T17:42:25.848018Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
+          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+          "title_zh": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+          "title_en": null,
+          "title_original": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T17:42:25.848018Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:42:25.848018Z",
+      "latest_at": "2026-09-28T17:42:25.848018Z",
+      "primary_item": {
+        "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
+        "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+        "title_zh": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+        "title_en": null,
+        "title_original": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31389",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
@@ -212,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9404,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,30 +1179,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
-      "story_id": "story_6d078001cab1",
-      "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-      "url": "https://www.aibase.com/news/31369",
-      "primary_url": "https://www.aibase.com/news/31369",
+      "story_id": "story_07f54f217147",
+      "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+      "url": "https://www.aibase.com/news/31387",
+      "primary_url": "https://www.aibase.com/news/31387",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1cf54eb685191e1126885935413909fa93768f1e",
-          "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-          "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "id": "24c35998e786f8bf0d4bb34f67391d61977dd44f",
+          "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+          "title_zh": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "title_en": null,
-          "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_original": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31369",
+          "url": "https://www.aibase.com/news/31387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T16:47:25.848018Z"
         }
       ],
       "source_count": 1,
@@ -278,31 +1211,31 @@
       ],
       "items": [
         {
-          "id": "1cf54eb685191e1126885935413909fa93768f1e",
-          "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-          "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "id": "24c35998e786f8bf0d4bb34f67391d61977dd44f",
+          "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+          "title_zh": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "title_en": null,
-          "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_original": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31369",
+          "url": "https://www.aibase.com/news/31387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T16:47:25.848018Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -310,17 +1243,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
+      "earliest_at": "2026-09-28T16:47:25.848018Z",
+      "latest_at": "2026-09-28T16:47:25.848018Z",
       "primary_item": {
-        "id": "1cf54eb685191e1126885935413909fa93768f1e",
-        "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-        "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+        "id": "24c35998e786f8bf0d4bb34f67391d61977dd44f",
+        "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+        "title_zh": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
         "title_en": null,
-        "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+        "title_original": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31369",
+        "url": "https://www.aibase.com/news/31387",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -328,30 +1261,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
-      "story_id": "story_bce9104a595a",
-      "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-      "url": "https://www.aibase.com/news/31368",
-      "primary_url": "https://www.aibase.com/news/31368",
+      "story_id": "story_939d4ba70b3b",
+      "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+      "url": "https://www.aibase.com/news/31386",
+      "primary_url": "https://www.aibase.com/news/31386",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
-          "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-          "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "id": "82af95aecd7ee918a361416c6d451cda6b3afa66",
+          "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+          "title_zh": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_original": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31368",
+          "url": "https://www.aibase.com/news/31386",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T16:42:25.848018Z"
         }
       ],
       "source_count": 1,
@@ -360,31 +1293,31 @@
       ],
       "items": [
         {
-          "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
-          "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-          "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "id": "82af95aecd7ee918a361416c6d451cda6b3afa66",
+          "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+          "title_zh": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_original": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31368",
+          "url": "https://www.aibase.com/news/31386",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T16:42:25.848018Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -392,17 +1325,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
+      "earliest_at": "2026-09-28T16:42:25.848018Z",
+      "latest_at": "2026-09-28T16:42:25.848018Z",
       "primary_item": {
-        "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
-        "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-        "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+        "id": "82af95aecd7ee918a361416c6d451cda6b3afa66",
+        "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+        "title_zh": "千问App接入夸克网盘，AI直接翻文件成新内容",
         "title_en": null,
-        "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+        "title_original": "千问App接入夸克网盘，AI直接翻文件成新内容",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31368",
+        "url": "https://www.aibase.com/news/31386",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -410,111 +1343,140 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
-      "story_id": "story_f24ebd079ef8",
-      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_235ccfd8376d",
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "17d3afe5be918a4976449e35beeb04120851926c",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_en": null,
-          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
+          "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": null,
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15.061000Z"
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "da49eff293d2e7f21680633deed887a752c5ef90",
+          "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": null,
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T17:33:34Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News (黑客新闻)",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "17d3afe5be918a4976449e35beeb04120851926c",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_en": null,
-          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
+          "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": null,
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15.061000Z"
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "da49eff293d2e7f21680633deed887a752c5ef90",
+          "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": null,
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T17:33:34Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6598,
+      "importance": 0.6598,
+      "importance_score": 0.6598,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7141,
-        "story_heat": 0.0
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.992,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-27T09:27:15.061000Z",
-      "latest_at": "2026-09-27T09:27:15.061000Z",
+      "earliest_at": "2026-09-28T17:09:02Z",
+      "latest_at": "2026-09-28T17:33:34Z",
       "primary_item": {
-        "id": "17d3afe5be918a4976449e35beeb04120851926c",
-        "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "title_en": null,
-        "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+        "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
+        "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_zh": null,
+        "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
-      "story_id": "story_fa12ad6964c1",
-      "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-      "url": "https://www.aibase.com/news/31372",
-      "primary_url": "https://www.aibase.com/news/31372",
+      "story_id": "story_0b17a2bb6448",
+      "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+      "url": "https://www.aibase.com/news/31384",
+      "primary_url": "https://www.aibase.com/news/31384",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
+          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "title_zh": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_original": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31372",
+          "url": "https://www.aibase.com/news/31384",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T16:42:25.848018Z"
         }
       ],
       "source_count": 1,
@@ -523,31 +1485,31 @@
       ],
       "items": [
         {
-          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
+          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "title_zh": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_original": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31372",
+          "url": "https://www.aibase.com/news/31384",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T16:42:25.848018Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,17 +1517,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
+      "earliest_at": "2026-09-28T16:42:25.848018Z",
+      "latest_at": "2026-09-28T16:42:25.848018Z",
       "primary_item": {
-        "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-        "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-        "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+        "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
+        "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+        "title_zh": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
         "title_en": null,
-        "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+        "title_original": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31372",
+        "url": "https://www.aibase.com/news/31384",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -573,253 +1535,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_2c83075dc370",
-      "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-      "url": "https://www.aibase.com/news/31371",
-      "primary_url": "https://www.aibase.com/news/31371",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_en": null,
-          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31371",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_en": null,
-          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31371",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
-      "primary_item": {
-        "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-        "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-        "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-        "title_en": null,
-        "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31371",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_1bb2feafc8a4",
-      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-      "url": "https://www.aibase.com/news/31379",
-      "primary_url": "https://www.aibase.com/news/31379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_en": null,
-          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_en": null,
-          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
-      "primary_item": {
-        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "title_en": null,
-        "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31379",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_a070fed18463",
-      "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-      "url": "https://www.aibase.com/news/31366",
-      "primary_url": "https://www.aibase.com/news/31366",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
-          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "title_en": null,
-          "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
-          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "title_en": null,
-          "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
-      "primary_item": {
-        "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
-        "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-        "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-        "title_en": null,
-        "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31366",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
@@ -842,7 +1558,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T15:42:25.848018Z"
         }
       ],
       "source_count": 1,
@@ -862,20 +1578,20 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T15:42:25.848018Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,8 +1599,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
+      "earliest_at": "2026-09-28T15:42:25.848018Z",
+      "latest_at": "2026-09-28T15:42:25.848018Z",
       "primary_item": {
         "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
         "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
@@ -901,30 +1617,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     },
     {
-      "story_id": "story_d9ee2b9f2468",
-      "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-      "url": "https://www.aibase.com/news/31367",
-      "primary_url": "https://www.aibase.com/news/31367",
+      "story_id": "story_1bb2feafc8a4",
+      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+      "url": "https://www.aibase.com/news/31379",
+      "primary_url": "https://www.aibase.com/news/31379",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
           "title_en": null,
-          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31367",
+          "url": "https://www.aibase.com/news/31379",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T14:42:25.848018Z"
         }
       ],
       "source_count": 1,
@@ -933,31 +1649,31 @@
       ],
       "items": [
         {
-          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
           "title_en": null,
-          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31367",
+          "url": "https://www.aibase.com/news/31379",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
+          "published_at": "2026-09-28T14:42:25.848018Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,17 +1681,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
+      "earliest_at": "2026-09-28T14:42:25.848018Z",
+      "latest_at": "2026-09-28T14:42:25.848018Z",
       "primary_item": {
-        "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-        "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-        "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
         "title_en": null,
-        "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+        "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31367",
+        "url": "https://www.aibase.com/news/31379",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -983,888 +1699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_ce201f4e3030",
-      "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "primary_url": "https://arxiv.org/abs/2110.01834",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "bd759afec60026bd52f458365fdcf654371f656b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "badd62fc0bd047ba3770957d078dc63ebe54b32b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 (2021) / Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "56338bb7c3345b97b5f5030be4e018fd9be341e7",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 (2021) / Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49873241",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T03:23:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bd759afec60026bd52f458365fdcf654371f656b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "badd62fc0bd047ba3770957d078dc63ebe54b32b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 (2021) / Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "56338bb7c3345b97b5f5030be4e018fd9be341e7",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 (2021) / Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49873241",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T03:23:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9253,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-28T03:23:53Z",
-      "latest_at": "2026-09-28T03:23:53Z",
-      "primary_item": {
-        "id": "bd759afec60026bd52f458365fdcf654371f656b",
-        "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-        "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-        "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-        "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2110.01834",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_f856ac65e0b0",
-      "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-      "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-      "primary_url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a49df21d97655247cf384fc1e99006464a325091",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": null,
-          "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T05:36:13.514000Z"
-        },
-        {
-          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_original": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T01:30:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "a49df21d97655247cf384fc1e99006464a325091",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": null,
-          "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T05:36:13.514000Z"
-        },
-        {
-          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_original": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T01:30:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9553,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-28T01:30:17Z",
-      "latest_at": "2026-09-28T05:36:13.514000Z",
-      "primary_item": {
-        "id": "a49df21d97655247cf384fc1e99006464a325091",
-        "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-        "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-        "title_en": null,
-        "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_c9d61f225fe5",
-      "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-      "url": "https://tinyaiarena.com",
-      "primary_url": "https://tinyaiarena.com",
-      "source": "tinyaiarena.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": null,
-          "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "tinyaiarena.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T02:12:19.167000Z"
-        },
-        {
-          "id": "7baaee475f83ead0438562951c8d6fe93df3dacc",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "tinyaiarena.com"
-      ],
-      "items": [
-        {
-          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": null,
-          "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "tinyaiarena.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T02:12:19.167000Z"
-        },
-        {
-          "id": "7baaee475f83ead0438562951c8d6fe93df3dacc",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9095,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T15:51:28Z",
-      "latest_at": "2026-09-28T02:12:19.167000Z",
-      "primary_item": {
-        "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-        "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-        "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-        "title_en": null,
-        "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://tinyaiarena.com",
-        "source": "tinyaiarena.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_7b1fb44b3b80",
-      "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-      "url": "https://www.aibase.com/news/31378",
-      "primary_url": "https://www.aibase.com/news/31378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
-          "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_en": null,
-          "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
-          "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "title_en": null,
-          "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:46:16.514705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:46:16.514705Z",
-      "latest_at": "2026-09-28T08:46:16.514705Z",
-      "primary_item": {
-        "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
-        "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-        "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-        "title_en": null,
-        "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_47a080855edb",
-      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_en": null,
-          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T23:49:58.724000Z"
-        },
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_en": null,
-          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T23:49:58.724000Z"
-        },
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8789,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T10:26:25Z",
-      "latest_at": "2026-09-27T23:49:58.724000Z",
-      "primary_item": {
-        "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-        "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-        "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-        "title_en": null,
-        "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2609.25021",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_bd3437a26999",
-      "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "primary_url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": null,
-          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T18:54:12.868000Z"
-        },
-        {
-          "id": "11734242c012203d263f84a75a25ce6f03cdc6ae",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:32:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": null,
-          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T18:54:12.868000Z"
-        },
-        {
-          "id": "11734242c012203d263f84a75a25ce6f03cdc6ae",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "title_original": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:32:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5131,
-      "importance": 0.5131,
-      "importance_score": 0.5131,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8185,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T17:32:02Z",
-      "latest_at": "2026-09-27T18:54:12.868000Z",
-      "primary_item": {
-        "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
-        "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-        "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-        "title_en": null,
-        "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_dc50d791f8d7",
-      "title": "不存在“失控”的人工智能代理",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "primary_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "eoinhiggins.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-          "title": "不存在“失控”的人工智能代理",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": null,
-          "title_original": "不存在“失控”的人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "eoinhiggins.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:51:03.203000Z"
-        },
-        {
-          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
-          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T16:19:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "eoinhiggins.substack.com"
-      ],
-      "items": [
-        {
-          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-          "title": "不存在“失控”的人工智能代理",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": null,
-          "title_original": "不存在“失控”的人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "eoinhiggins.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:51:03.203000Z"
-        },
-        {
-          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
-          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T16:19:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8062,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T16:19:46Z",
-      "latest_at": "2026-09-27T17:51:03.203000Z",
-      "primary_item": {
-        "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-        "title": "不存在“失控”的人工智能代理",
-        "title_zh": "不存在“失控”的人工智能代理",
-        "title_en": null,
-        "title_original": "不存在“失控”的人工智能代理",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "source": "eoinhiggins.substack.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
-      }
-    },
-    {
-      "story_id": "story_7d6798ae2447",
-      "title": "微软从其新笔记本电脑中删除了 Copilot+ 品牌 / Microsoft drops Copilot+ branding from its new laptops",
-      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "primary_url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "9da290e1c96f455447aaeccc6d2db192b621eb93",
-          "title": "微软从其新笔记本电脑中删除了 Copilot+ 品牌 / Microsoft drops Copilot+ branding from its new laptops",
-          "title_zh": "微软从其新笔记本电脑中删除了 Copilot+ 品牌",
-          "title_en": "Microsoft drops Copilot+ branding from its new laptops",
-          "title_original": "Microsoft drops Copilot+ branding from its new laptops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T02:46:27Z"
-        },
-        {
-          "id": "7a1b4011e2110798450c08b4679468ad6f684705",
-          "title": "微软从其新笔记本电脑中删除了 Copilot+ 品牌 / Microsoft drops Copilot+ branding from its new laptops",
-          "title_zh": "微软从其新笔记本电脑中删除了 Copilot+ 品牌",
-          "title_en": "Microsoft drops Copilot+ branding from its new laptops",
-          "title_original": "Microsoft drops Copilot+ branding from its new laptops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T02:46:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "9da290e1c96f455447aaeccc6d2db192b621eb93",
-          "title": "微软从其新笔记本电脑中删除了 Copilot+ 品牌 / Microsoft drops Copilot+ branding from its new laptops",
-          "title_zh": "微软从其新笔记本电脑中删除了 Copilot+ 品牌",
-          "title_en": "Microsoft drops Copilot+ branding from its new laptops",
-          "title_original": "Microsoft drops Copilot+ branding from its new laptops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T02:46:27Z"
-        },
-        {
-          "id": "7a1b4011e2110798450c08b4679468ad6f684705",
-          "title": "微软从其新笔记本电脑中删除了 Copilot+ 品牌 / Microsoft drops Copilot+ branding from its new laptops",
-          "title_zh": "微软从其新笔记本电脑中删除了 Copilot+ 品牌",
-          "title_en": "Microsoft drops Copilot+ branding from its new laptops",
-          "title_original": "Microsoft drops Copilot+ branding from its new laptops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T02:46:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.917,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-28T02:46:27Z",
-      "latest_at": "2026-09-28T02:46:27Z",
-      "primary_item": {
-        "id": "9da290e1c96f455447aaeccc6d2db192b621eb93",
-        "title": "微软从其新笔记本电脑中删除了 Copilot+ 品牌 / Microsoft drops Copilot+ branding from its new laptops",
-        "title_zh": "微软从其新笔记本电脑中删除了 Copilot+ 品牌",
-        "title_en": "Microsoft drops Copilot+ branding from its new laptops",
-        "title_original": "Microsoft drops Copilot+ branding from its new laptops",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:47:02.936121Z"
+        "scored_at": "2026-09-28T17:53:56.823356Z"
       }
     }
   ]
