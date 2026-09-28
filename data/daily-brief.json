@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T22:17:39.667130Z",
+  "generated_at": "2026-09-28T01:44:16.679586Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_48f316f122e1",
@@ -26,20 +26,6 @@
           "published_at": "2026-09-27T09:27:15.061000Z"
         },
         {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": null,
-          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
           "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
@@ -54,11 +40,10 @@
           "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "authorsguild.org"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
@@ -76,20 +61,6 @@
           "published_at": "2026-09-27T09:27:15.061000Z"
         },
         {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": null,
-          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
           "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
@@ -104,20 +75,20 @@
           "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8308,
-        "story_heat": 0.5
+        "recency": 0.7905,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
@@ -141,63 +112,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:18:17.824015Z"
+        "scored_at": "2026-09-28T01:44:59.763943Z"
       }
     },
     {
-      "story_id": "story_29d461ab8b07",
-      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-      "url": "https://www.ithome.com/1/007/447.htm",
-      "primary_url": "https://www.ithome.com/1/007/447.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_93e932ee2580",
+      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+      "url": "https://www.aibase.com/news/31359",
+      "primary_url": "https://www.aibase.com/news/31359",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "title_zh": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
           "title_en": null,
-          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+          "title_original": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "title_zh": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
           "title_en": null,
-          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+          "title_original": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7166,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -205,25 +176,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T23:12:53Z",
-      "latest_at": "2026-09-26T23:12:53Z",
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
       "primary_item": {
-        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+        "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+        "title_zh": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
         "title_en": null,
-        "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+        "title_original": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/007/447.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31359",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:18:17.824015Z"
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_01af939bdd21",
+      "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+      "url": "https://www.aibase.com/news/31358",
+      "primary_url": "https://www.aibase.com/news/31358",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_zh": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_en": null,
+          "title_original": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_zh": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_en": null,
+          "title_original": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+        "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+        "title_zh": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+        "title_en": null,
+        "title_original": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31358",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
       }
     },
     {
@@ -271,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7857,
+        "recency": 0.7476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -304,7 +357,609 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:18:17.824015Z"
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_a070fed18463",
+      "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+      "url": "https://www.aibase.com/news/31366",
+      "primary_url": "https://www.aibase.com/news/31366",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_en": null,
+          "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_en": null,
+          "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+        "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+        "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+        "title_en": null,
+        "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31366",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_7cbf1cb3c6f2",
+      "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+      "url": "https://www.aibase.com/news/31365",
+      "primary_url": "https://www.aibase.com/news/31365",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "87eb2d2c032f2eaba430ccc192d4b7dd1915a48c",
+          "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_zh": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_en": null,
+          "title_original": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "87eb2d2c032f2eaba430ccc192d4b7dd1915a48c",
+          "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_zh": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_en": null,
+          "title_original": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "87eb2d2c032f2eaba430ccc192d4b7dd1915a48c",
+        "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+        "title_zh": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+        "title_en": null,
+        "title_original": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31365",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_1382854eb443",
+      "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+      "url": "https://www.aibase.com/news/31363",
+      "primary_url": "https://www.aibase.com/news/31363",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "title_zh": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "title_en": null,
+          "title_original": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "title_zh": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "title_en": null,
+          "title_original": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+        "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+        "title_zh": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+        "title_en": null,
+        "title_original": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31363",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_4b94e12b2d6e",
+      "title": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+      "url": "https://www.aibase.com/news/31364",
+      "primary_url": "https://www.aibase.com/news/31364",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7f6f04428c53e3e3b70adb50560fd74d2da23d5a",
+          "title": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+          "title_zh": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+          "title_en": null,
+          "title_original": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31364",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7f6f04428c53e3e3b70adb50560fd74d2da23d5a",
+          "title": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+          "title_zh": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+          "title_en": null,
+          "title_original": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31364",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "7f6f04428c53e3e3b70adb50560fd74d2da23d5a",
+        "title": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+        "title_zh": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+        "title_en": null,
+        "title_original": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31364",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_f4e177eed887",
+      "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+      "url": "https://www.aibase.com/news/31360",
+      "primary_url": "https://www.aibase.com/news/31360",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "title_zh": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "title_en": null,
+          "title_original": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "title_zh": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "title_en": null,
+          "title_original": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+        "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+        "title_zh": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+        "title_en": null,
+        "title_original": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31360",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_feeca9123757",
+      "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+      "url": "https://www.aibase.com/news/31361",
+      "primary_url": "https://www.aibase.com/news/31361",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "title_zh": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "title_en": null,
+          "title_original": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "title_zh": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "title_en": null,
+          "title_original": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+        "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+        "title_zh": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+        "title_en": null,
+        "title_original": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31361",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_47a080855edb",
+      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "primary_url": "https://arxiv.org/abs/2609.25021",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": null,
+          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T23:49:58.724000Z"
+        },
+        {
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": null,
+          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T23:49:58.724000Z"
+        },
+        {
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9729,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:26:25Z",
+      "latest_at": "2026-09-27T23:49:58.724000Z",
+      "primary_item": {
+        "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+        "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "title_en": null,
+        "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2609.25021",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
       }
     },
     {
@@ -381,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9522,
+        "recency": 0.906,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -414,7 +1069,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:18:17.824015Z"
+        "scored_at": "2026-09-28T01:44:59.763943Z"
+      }
+    },
+    {
+      "story_id": "story_8c0a4fa554eb",
+      "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+      "url": "https://www.aibase.com/news/31362",
+      "primary_url": "https://www.aibase.com/news/31362",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "title_zh": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "title_en": null,
+          "title_original": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "title_zh": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "title_en": null,
+          "title_original": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:44:16.679586Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:44:16.679586Z",
+      "latest_at": "2026-09-28T01:44:16.679586Z",
+      "primary_item": {
+        "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+        "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+        "title_zh": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+        "title_en": null,
+        "title_original": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31362",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T01:44:59.763943Z"
       }
     },
     {
@@ -440,7 +1177,7 @@
           "published_at": "2026-09-27T17:51:03.203000Z"
         },
         {
-          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
           "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
           "title_zh": "不存在“失控”的人工智能代理",
           "title_en": "There are no \"rogue\" AI agents",
@@ -448,15 +1185,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T16:19:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "eoinhiggins.substack.com"
       ],
       "items": [
@@ -475,7 +1212,7 @@
           "published_at": "2026-09-27T17:51:03.203000Z"
         },
         {
-          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
           "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
           "title_zh": "不存在“失控”的人工智能代理",
           "title_en": "There are no \"rogue\" AI agents",
@@ -483,23 +1220,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T16:19:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.8924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -524,117 +1261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:18:17.824015Z"
-      }
-    },
-    {
-      "story_id": "story_2ab0f3547302",
-      "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "url": "https://earnanhonestdollar.com/bench",
-      "primary_url": "https://earnanhonestdollar.com/bench",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_zh": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_zh": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:24:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_zh": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_zh": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:24:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9318,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T17:24:17Z",
-      "latest_at": "2026-09-27T17:24:17Z",
-      "primary_item": {
-        "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-        "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "title_zh": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20%",
-        "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://earnanhonestdollar.com/bench",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:18:17.824015Z"
+        "scored_at": "2026-09-28T01:44:59.763943Z"
       }
     },
     {
@@ -642,11 +1269,11 @@
       "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com",
       "primary_url": "https://tinyaiarena.com",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
           "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
@@ -654,9 +1281,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://tinyaiarena.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-27T15:51:28Z"
         },
         {
@@ -676,12 +1303,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
           "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
@@ -689,9 +1316,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://tinyaiarena.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-27T15:51:28Z"
         },
         {
@@ -711,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9112,
+        "recency": 0.867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -729,7 +1356,7 @@
       "earliest_at": "2026-09-27T15:51:28Z",
       "latest_at": "2026-09-27T15:51:28Z",
       "primary_item": {
-        "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+        "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
         "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
         "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
         "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
@@ -737,14 +1364,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://tinyaiarena.com",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:18:17.824015Z"
+        "scored_at": "2026-09-28T01:44:59.763943Z"
       }
     }
   ]
