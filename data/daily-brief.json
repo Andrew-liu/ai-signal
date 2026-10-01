@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:51:19.284994Z",
+  "generated_at": "2026-10-01T00:35:59.043468Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9881,
+        "recency": 0.9361,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +83,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
-      "story_id": "story_a67dcb1766e6",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "story_id": "story_3dc27c9fc0cd",
+      "title": "Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_zh": null,
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
+          "published_at": "2026-09-30T21:03:09Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +115,31 @@
       ],
       "items": [
         {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_zh": null,
-          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+          "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
+          "published_at": "2026-09-30T21:03:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9126,
+        "ai_relevance": 0.87,
+        "recency": 0.9501,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +148,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T14:31:19Z",
-      "latest_at": "2026-09-30T14:31:19Z",
+      "earliest_at": "2026-09-30T21:03:09Z",
+      "latest_at": "2026-09-30T21:03:09Z",
       "primary_item": {
-        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-        "title": "HydraFusion in VS Code and the GitHub Copilot app",
+        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+        "title": "Opt-in dist-tag permissions for npm trusted publishing",
         "title_zh": null,
-        "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
-        "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
+        "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+        "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8611,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,113 +249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
-      "story_id": "story_855109885f33",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "primary_url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": null,
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": null,
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.74,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T00:00:00Z",
-      "latest_at": "2026-09-30T00:00:00Z",
-      "primary_item": {
-        "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-        "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_zh": null,
-        "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/open-tts-leaderboard",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
-      }
-    },
-    {
-      "story_id": "story_0cb3c1ba901d",
-      "title": "GitHub Advanced Security trials for GitHub Team",
-      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "story_id": "story_a67dcb1766e6",
+      "title": "HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
           "title_zh": null,
-          "title_en": "GitHub Advanced Security trials for GitHub Team",
-          "title_original": "GitHub Advanced Security trials for GitHub Team",
+          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-09-30T14:31:19Z"
         }
       ],
       "source_count": 1,
@@ -364,31 +281,31 @@
       ],
       "items": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
           "title_zh": null,
-          "title_en": "GitHub Advanced Security trials for GitHub Team",
-          "title_original": "GitHub Advanced Security trials for GitHub Team",
+          "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
+          "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-09-30T14:31:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9432,
+        "ai_relevance": 0.91,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "official",
@@ -397,17 +314,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T16:48:24Z",
-      "latest_at": "2026-09-30T16:48:24Z",
+      "earliest_at": "2026-09-30T14:31:19Z",
+      "latest_at": "2026-09-30T14:31:19Z",
       "primary_item": {
-        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub Advanced Security trials for GitHub Team",
+        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+        "title": "HydraFusion in VS Code and the GitHub Copilot app",
         "title_zh": null,
-        "title_en": "GitHub Advanced Security trials for GitHub Team",
-        "title_original": "GitHub Advanced Security trials for GitHub Team",
+        "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
+        "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -415,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -463,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9196,
+        "recency": 0.8712,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -546,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8549,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,63 +498,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
-      "story_id": "story_5d1c15f30792",
-      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "story_id": "story_543034a71340",
+      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+      "url": "https://x.com/arena/status/2105411271525052418",
+      "primary_url": "https://x.com/arena/status/2105411271525052418",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
+          "published_at": "2026-09-30T21:35:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
+          "published_at": "2026-09-30T21:35:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,25 +562,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T20:21:32Z",
-      "latest_at": "2026-09-30T20:21:32Z",
+      "earliest_at": "2026-09-30T21:35:38Z",
+      "latest_at": "2026-09-30T21:35:38Z",
       "primary_item": {
-        "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-        "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-        "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+        "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "url": "https://x.com/arena/status/2105411271525052418",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
+      }
+    },
+    {
+      "story_id": "story_bb25c57ef66e",
+      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:09:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:09:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9515,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T21:09:24Z",
+      "latest_at": "2026-09-30T21:09:24Z",
+      "primary_item": {
+        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+        "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+        "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+        "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+        "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -711,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9368,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,89 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
-      }
-    },
-    {
-      "story_id": "story_f6fd9117b396",
-      "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
-          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-          "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:47:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
-          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-          "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:47:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9705,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T18:47:01Z",
-      "latest_at": "2026-09-30T18:47:01Z",
-      "primary_item": {
-        "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
-        "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-        "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-        "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-        "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-        "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -891,8 +808,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T20:51:19.284994Z",
-      "latest_at": "2026-09-30T20:51:19.284994Z",
+      "earliest_at": "2026-10-01T00:35:59.043468Z",
+      "latest_at": "2026-10-01T00:35:59.043468Z",
       "primary_item": {
         "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
         "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
@@ -909,7 +826,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
+      }
+    },
+    {
+      "story_id": "story_f6fd9117b396",
+      "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
+          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+          "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:47:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
+          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+          "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:47:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9194,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T18:47:01Z",
+      "latest_at": "2026-09-30T18:47:01Z",
+      "primary_item": {
+        "id": "5eb3791a3aca4973cdffda35bf2dbc5dc82baf93",
+        "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+        "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+        "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+        "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+        "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T01:06:54.671889Z"
+      }
+    },
+    {
+      "story_id": "story_0cb3c1ba901d",
+      "title": "GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "title_zh": null,
+          "title_en": "GitHub Advanced Security trials for GitHub Team",
+          "title_original": "GitHub Advanced Security trials for GitHub Team",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T16:48:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "title_zh": null,
+          "title_en": "GitHub Advanced Security trials for GitHub Team",
+          "title_original": "GitHub Advanced Security trials for GitHub Team",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T16:48:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8936,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T16:48:24Z",
+      "latest_at": "2026-09-30T16:48:24Z",
+      "primary_item": {
+        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+        "title": "GitHub Advanced Security trials for GitHub Team",
+        "title_zh": null,
+        "title_en": "GitHub Advanced Security trials for GitHub Team",
+        "title_original": "GitHub Advanced Security trials for GitHub Team",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -957,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7595,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,195 +1073,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
-      "story_id": "story_a919a86617b9",
-      "title": "X25519-only TLS ends for GHE.com on October 7",
-      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "title_zh": null,
-          "title_en": "X25519-only TLS ends for GHE.com on October 7",
-          "title_original": "X25519-only TLS ends for GHE.com on October 7",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "title_zh": null,
-          "title_en": "X25519-only TLS ends for GHE.com on October 7",
-          "title_original": "X25519-only TLS ends for GHE.com on October 7",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8993,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T13:30:24Z",
-      "latest_at": "2026-09-30T13:30:24Z",
-      "primary_item": {
-        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-        "title": "X25519-only TLS ends for GHE.com on October 7",
-        "title_zh": null,
-        "title_en": "X25519-only TLS ends for GHE.com on October 7",
-        "title_original": "X25519-only TLS ends for GHE.com on October 7",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
-      }
-    },
-    {
-      "story_id": "story_024f628f3f4f",
-      "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-      "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-      "primary_url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
-          "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-          "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
-          "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-          "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7318,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T23:13:59Z",
-      "latest_at": "2026-09-29T23:13:59Z",
-      "primary_item": {
-        "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
-        "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-        "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-        "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-        "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-        "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
-      }
-    },
-    {
-      "story_id": "story_9e7bb553a8f9",
-      "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
-      "url": "https://www.aibase.com/news/31442",
-      "primary_url": "https://www.aibase.com/news/31442",
+      "story_id": "story_0c0b9c719450",
+      "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+      "url": "https://www.aibase.com/news/31444",
+      "primary_url": "https://www.aibase.com/news/31444",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
-          "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
-          "title_zh": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+          "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
           "title_en": null,
-          "title_original": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "title_original": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31442",
+          "url": "https://www.aibase.com/news/31444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-30T17:51:19.284994Z"
+          "published_at": "2026-09-30T18:35:59.043468Z"
         }
       ],
       "source_count": 1,
@@ -1188,31 +1105,31 @@
       ],
       "items": [
         {
-          "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
-          "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
-          "title_zh": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+          "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
           "title_en": null,
-          "title_original": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "title_original": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31442",
+          "url": "https://www.aibase.com/news/31444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-30T17:51:19.284994Z"
+          "published_at": "2026-09-30T18:35:59.043468Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1220,17 +1137,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T17:51:19.284994Z",
-      "latest_at": "2026-09-30T17:51:19.284994Z",
+      "earliest_at": "2026-09-30T18:35:59.043468Z",
+      "latest_at": "2026-09-30T18:35:59.043468Z",
       "primary_item": {
-        "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
-        "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
-        "title_zh": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+        "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+        "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+        "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
         "title_en": null,
-        "title_original": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+        "title_original": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31442",
+        "url": "https://www.aibase.com/news/31444",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1238,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -1286,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8888,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1320,89 +1237,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
-      "story_id": "story_9b1abafadbef",
-      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-      "url": "https://x.com/arena/status/2105367591174995999",
-      "primary_url": "https://x.com/arena/status/2105367591174995999",
-      "source": "X：Arena (@arena)",
+      "story_id": "story_5dd29c996a75",
+      "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+      "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
+          "published_at": "2026-10-01T00:09:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
+          "published_at": "2026-10-01T00:09:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.9936,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T18:42:04Z",
-      "latest_at": "2026-09-30T18:42:04Z",
+      "earliest_at": "2026-10-01T00:09:22Z",
+      "latest_at": "2026-10-01T00:09:22Z",
       "primary_item": {
-        "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-        "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
+        "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+        "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+        "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+        "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+        "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+        "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2105367591174995999",
-        "source": "X：Arena (@arena)",
+        "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -1450,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7582,
+        "recency": 0.7183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1483,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -1531,15 +1447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1564,7 +1480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     },
     {
@@ -1612,15 +1528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9517,
+        "recency": 0.9016,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1645,7 +1561,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T21:21:23.510105Z"
+        "scored_at": "2026-10-01T01:06:54.671889Z"
+      }
+    },
+    {
+      "story_id": "story_a919a86617b9",
+      "title": "X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": null,
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": null,
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.852,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T13:30:24Z",
+      "latest_at": "2026-09-30T13:30:24Z",
+      "primary_item": {
+        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+        "title": "X25519-only TLS ends for GHE.com on October 7",
+        "title_zh": null,
+        "title_en": "X25519-only TLS ends for GHE.com on October 7",
+        "title_original": "X25519-only TLS ends for GHE.com on October 7",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T01:06:54.671889Z"
       }
     }
   ]
