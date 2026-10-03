@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:23:09.993568Z",
+  "generated_at": "2026-10-02T23:50:29.870354Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9557,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
+      }
+    },
+    {
+      "story_id": "story_cc4a44476dc4",
+      "title": "Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot code review: API support and new default effort level",
+          "title_zh": null,
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot code review: API support and new default effort level",
+          "title_zh": null,
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9356,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:13:50Z",
+      "latest_at": "2026-10-02T19:13:50Z",
+      "primary_item": {
+        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+        "title": "Copilot code review: API support and new default effort level",
+        "title_zh": null,
+        "title_en": "Copilot code review: API support and new default effort level",
+        "title_original": "Copilot code review: API support and new default effort level",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9431,
+        "recency": 0.8843,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
-      }
-    },
-    {
-      "story_id": "story_aef691a327ab",
-      "title": "Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "Selected models in GitHub Copilot deprecated",
-          "title_zh": null,
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "Selected models in GitHub Copilot deprecated",
-          "title_zh": null,
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8495,
-      "importance": 0.8495,
-      "importance_score": 0.8495,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9859,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T18:24:19Z",
-      "latest_at": "2026-10-02T18:24:19Z",
-      "primary_item": {
-        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "Selected models in GitHub Copilot deprecated",
-        "title_zh": null,
-        "title_en": "Selected models in GitHub Copilot deprecated",
-        "title_original": "Selected models in GitHub Copilot deprecated",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9386,
+        "recency": 0.8801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9386,
+        "recency": 0.8801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,30 +415,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
-      "story_id": "story_14dc0c8581ff",
-      "title": "New fields for SecurityAdvisory GraphQL API",
-      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
-      "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "story_id": "story_3f3282702712",
+      "title": "Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "New fields for SecurityAdvisory GraphQL API",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "Stateless GitHub App installation tokens rolled out",
           "title_zh": null,
-          "title_en": "New fields for SecurityAdvisory GraphQL API",
-          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "title_en": "Stateless GitHub App installation tokens rolled out",
+          "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:18:00Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "source_count": 1,
@@ -447,31 +447,31 @@
       ],
       "items": [
         {
-          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "New fields for SecurityAdvisory GraphQL API",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "Stateless GitHub App installation tokens rolled out",
           "title_zh": null,
-          "title_en": "New fields for SecurityAdvisory GraphQL API",
-          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "title_en": "Stateless GitHub App installation tokens rolled out",
+          "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:18:00Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9159,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,17 +480,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T13:18:00Z",
-      "latest_at": "2026-10-02T13:18:00Z",
+      "earliest_at": "2026-10-02T22:18:23Z",
+      "latest_at": "2026-10-02T22:18:23Z",
       "primary_item": {
-        "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-        "title": "New fields for SecurityAdvisory GraphQL API",
+        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+        "title": "Stateless GitHub App installation tokens rolled out",
         "title_zh": null,
-        "title_en": "New fields for SecurityAdvisory GraphQL API",
-        "title_original": "New fields for SecurityAdvisory GraphQL API",
+        "title_en": "Stateless GitHub App installation tokens rolled out",
+        "title_original": "Stateless GitHub App installation tokens rolled out",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8011,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +581,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
+      }
+    },
+    {
+      "story_id": "story_6ea06168ae24",
+      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+      "url": "https://x.com/AIatMeta/status/2106099776035152231",
+      "primary_url": "https://x.com/AIatMeta/status/2106099776035152231",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
+          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AIatMeta/status/2106099776035152231",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T19:11:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
+          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AIatMeta/status/2106099776035152231",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T19:11:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9351,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:11:30Z",
+      "latest_at": "2026-10-02T19:11:30Z",
+      "primary_item": {
+        "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
+        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+        "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+        "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+        "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+        "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AIatMeta/status/2106099776035152231",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -645,8 +727,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:23:09.993568Z",
-      "latest_at": "2026-10-02T19:23:09.993568Z",
+      "earliest_at": "2026-10-02T23:50:29.870354Z",
+      "latest_at": "2026-10-02T23:50:29.870354Z",
       "primary_item": {
         "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
         "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
@@ -663,63 +745,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
-      "story_id": "story_3f2245b761ea",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "primary_url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
+      "story_id": "story_aef691a327ab",
+      "title": "Selected models in GitHub Copilot deprecated",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "Selected models in GitHub Copilot deprecated",
           "title_zh": null,
-          "title_en": "Chatham scales its capital markets expertise with OpenAI",
-          "title_original": "Chatham scales its capital markets expertise with OpenAI",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T00:00:00Z"
+          "published_at": "2026-10-02T18:24:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "Selected models in GitHub Copilot deprecated",
           "title_zh": null,
-          "title_en": "Chatham scales its capital markets expertise with OpenAI",
-          "title_original": "Chatham scales its capital markets expertise with OpenAI",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T00:00:00Z"
+          "published_at": "2026-10-02T18:24:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7558,
+        "recency": 0.9245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -728,25 +810,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T00:00:00Z",
-      "latest_at": "2026-10-02T00:00:00Z",
+      "earliest_at": "2026-10-02T18:24:19Z",
+      "latest_at": "2026-10-02T18:24:19Z",
       "primary_item": {
-        "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+        "title": "Selected models in GitHub Copilot deprecated",
         "title_zh": null,
-        "title_en": "Chatham scales its capital markets expertise with OpenAI",
-        "title_original": "Chatham scales its capital markets expertise with OpenAI",
+        "title_en": "Selected models in GitHub Copilot deprecated",
+        "title_original": "Selected models in GitHub Copilot deprecated",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatham-financial",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -810,8 +892,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:23:09.993568Z",
-      "latest_at": "2026-10-02T19:23:09.993568Z",
+      "earliest_at": "2026-10-02T23:50:29.870354Z",
+      "latest_at": "2026-10-02T23:50:29.870354Z",
       "primary_item": {
         "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
         "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
@@ -828,63 +910,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
-      "story_id": "story_7ba973037a20",
-      "title": "Confidential comments on repository security advisories",
-      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "source": "GitHub Changelog",
+      "story_id": "story_3f2245b761ea",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "primary_url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
+          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+          "title": "Chatham scales its capital markets expertise with OpenAI",
           "title_zh": null,
-          "title_en": "Confidential comments on repository security advisories",
-          "title_original": "Confidential comments on repository security advisories",
+          "title_en": "Chatham scales its capital markets expertise with OpenAI",
+          "title_original": "Chatham scales its capital markets expertise with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
+          "published_at": "2026-10-02T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
+          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+          "title": "Chatham scales its capital markets expertise with OpenAI",
           "title_zh": null,
-          "title_en": "Confidential comments on repository security advisories",
-          "title_original": "Confidential comments on repository security advisories",
+          "title_en": "Chatham scales its capital markets expertise with OpenAI",
+          "title_original": "Chatham scales its capital markets expertise with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
+          "published_at": "2026-10-02T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9154,
+        "ai_relevance": 0.91,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -893,25 +975,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T13:15:40Z",
-      "latest_at": "2026-10-02T13:15:40Z",
+      "earliest_at": "2026-10-02T00:00:00Z",
+      "latest_at": "2026-10-02T00:00:00Z",
       "primary_item": {
-        "id": "75d3ae652733e012708727418c039e9c82d67827",
-        "title": "Confidential comments on repository security advisories",
+        "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+        "title": "Chatham scales its capital markets expertise with OpenAI",
         "title_zh": null,
-        "title_en": "Confidential comments on repository security advisories",
-        "title_original": "Confidential comments on repository security advisories",
+        "title_en": "Chatham scales its capital markets expertise with OpenAI",
+        "title_original": "Chatham scales its capital markets expertise with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/chatham-financial",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -975,8 +1057,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:23:09.993568Z",
-      "latest_at": "2026-10-02T19:23:09.993568Z",
+      "earliest_at": "2026-10-02T23:50:29.870354Z",
+      "latest_at": "2026-10-02T23:50:29.870354Z",
       "primary_item": {
         "id": "4236c13677e945b950afc5ec5b7246fe7aebe6a0",
         "title": "Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力",
@@ -993,63 +1075,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
-      "story_id": "story_841ba4d3786c",
-      "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-      "url": "https://x.com/ChatGPT/status/2106083595433791573",
-      "primary_url": "https://x.com/ChatGPT/status/2106083595433791573",
-      "source": "X：ChatGPT (@ChatGPT)",
+      "story_id": "story_cca0a3c50eed",
+      "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+      "url": "https://x.com/arena/status/2106109027923140928",
+      "primary_url": "https://x.com/arena/status/2106109027923140928",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
-          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
-          "title_en": "With Finances in ChatGPT, you can:",
-          "title_original": "With Finances in ChatGPT, you can:",
-          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ChatGPT/status/2106083595433791573",
-          "source": "X：ChatGPT (@ChatGPT)",
+          "url": "https://x.com/arena/status/2106109027923140928",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T18:07:12Z"
+          "published_at": "2026-10-02T19:48:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：ChatGPT (@ChatGPT)"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
-          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
-          "title_en": "With Finances in ChatGPT, you can:",
-          "title_original": "With Finances in ChatGPT, you can:",
-          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ChatGPT/status/2106083595433791573",
-          "source": "X：ChatGPT (@ChatGPT)",
+          "url": "https://x.com/arena/status/2106109027923140928",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T18:07:12Z"
+          "published_at": "2026-10-02T19:48:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9819,
+        "recency": 0.9434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1057,25 +1139,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T18:07:12Z",
-      "latest_at": "2026-10-02T18:07:12Z",
+      "earliest_at": "2026-10-02T19:48:16Z",
+      "latest_at": "2026-10-02T19:48:16Z",
       "primary_item": {
-        "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
-        "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-        "title_zh": "ChatGPT 推出 Finances 财务管理功能",
-        "title_en": "With Finances in ChatGPT, you can:",
-        "title_original": "With Finances in ChatGPT, you can:",
-        "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+        "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/ChatGPT/status/2106083595433791573",
-        "source": "X：ChatGPT (@ChatGPT)",
+        "url": "https://x.com/arena/status/2106109027923140928",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -1139,8 +1221,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:23:09.993568Z",
-      "latest_at": "2026-10-02T19:23:09.993568Z",
+      "earliest_at": "2026-10-02T23:50:29.870354Z",
+      "latest_at": "2026-10-02T23:50:29.870354Z",
       "primary_item": {
         "id": "10475e511695c99db79c08d74b401b4da02fb238",
         "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
@@ -1157,7 +1239,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
+      }
+    },
+    {
+      "story_id": "story_841ba4d3786c",
+      "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+      "url": "https://x.com/ChatGPT/status/2106083595433791573",
+      "primary_url": "https://x.com/ChatGPT/status/2106083595433791573",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
+          "title_en": "With Finances in ChatGPT, you can:",
+          "title_original": "With Finances in ChatGPT, you can:",
+          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ChatGPT/status/2106083595433791573",
+          "source": "X：ChatGPT (@ChatGPT)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T18:07:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：ChatGPT (@ChatGPT)"
+      ],
+      "items": [
+        {
+          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
+          "title_en": "With Finances in ChatGPT, you can:",
+          "title_original": "With Finances in ChatGPT, you can:",
+          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ChatGPT/status/2106083595433791573",
+          "source": "X：ChatGPT (@ChatGPT)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T18:07:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9207,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T18:07:12Z",
+      "latest_at": "2026-10-02T18:07:12Z",
+      "primary_item": {
+        "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+        "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+        "title_zh": "ChatGPT 推出 Finances 财务管理功能",
+        "title_en": "With Finances in ChatGPT, you can:",
+        "title_original": "With Finances in ChatGPT, you can:",
+        "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ChatGPT/status/2106083595433791573",
+        "source": "X：ChatGPT (@ChatGPT)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -1205,21 +1369,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.7885,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T07:23:13Z",
       "latest_at": "2026-10-02T07:23:13Z",
@@ -1239,252 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
-      }
-    },
-    {
-      "story_id": "story_fb1107e372ac",
-      "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "primary_url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T15:53:39Z",
-      "latest_at": "2026-10-02T15:53:39Z",
-      "primary_item": {
-        "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-        "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-        "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-        "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-        "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-        "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GoogleAI/status/2106049984164463069",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
-      }
-    },
-    {
-      "story_id": "story_9dc6b9f84706",
-      "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-      "url": "https://www.ithome.com/1/009/204.htm",
-      "primary_url": "https://www.ithome.com/1/009/204.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
-          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "title_zh": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "title_en": null,
-          "title_original": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/204.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:06:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
-          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "title_zh": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "title_en": null,
-          "title_original": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/204.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:06:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.757,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T00:06:15Z",
-      "latest_at": "2026-10-02T00:06:15Z",
-      "primary_item": {
-        "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
-        "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-        "title_zh": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-        "title_en": null,
-        "title_original": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-        "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/204.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
-      }
-    },
-    {
-      "story_id": "story_8251eed32ade",
-      "title": "Repository security advisory comments API in public preview",
-      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "Repository security advisory comments API in public preview",
-          "title_zh": null,
-          "title_en": "Repository security advisory comments API in public preview",
-          "title_original": "Repository security advisory comments API in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "Repository security advisory comments API in public preview",
-          "title_zh": null,
-          "title_en": "Repository security advisory comments API in public preview",
-          "title_original": "Repository security advisory comments API in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9153,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T13:15:25Z",
-      "latest_at": "2026-10-02T13:15:25Z",
-      "primary_item": {
-        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-        "title": "Repository security advisory comments API in public preview",
-        "title_zh": null,
-        "title_en": "Repository security advisory comments API in public preview",
-        "title_original": "Repository security advisory comments API in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
@@ -1548,8 +1466,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:23:09.993568Z",
-      "latest_at": "2026-10-02T19:23:09.993568Z",
+      "earliest_at": "2026-10-02T23:50:29.870354Z",
+      "latest_at": "2026-10-02T23:50:29.870354Z",
       "primary_item": {
         "id": "43ad85e63502e35ede2b6ff3be78d5567dd2ab17",
         "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
@@ -1566,50 +1484,50 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     },
     {
-      "story_id": "story_d023c4690eff",
-      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "source": "NVIDIA Blog（RSS）",
+      "story_id": "story_2987cb363021",
+      "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+      "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+      "primary_url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+      "source": "Baseten 工程博客（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
+          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+          "title_en": "Agentic inference optimization: 50-90% faster engines",
+          "title_original": "Agentic inference optimization: 50-90% faster engines",
+          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
           "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
+          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+          "source": "Baseten 工程博客（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
+          "published_at": "2026-10-02T21:09:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA Blog（RSS）"
+        "Baseten 工程博客（网页）"
       ],
       "items": [
         {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
+          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+          "title_en": "Agentic inference optimization: 50-90% faster engines",
+          "title_original": "Agentic inference optimization: 50-90% faster engines",
+          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
           "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
+          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+          "source": "Baseten 工程博客（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
+          "published_at": "2026-10-02T21:09:34Z"
         }
       ],
       "item_count": 1,
@@ -1619,35 +1537,116 @@
       "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.962,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T13:00:39Z",
-      "latest_at": "2026-10-02T13:00:39Z",
+      "earliest_at": "2026-10-02T21:09:34Z",
+      "latest_at": "2026-10-02T21:09:34Z",
       "primary_item": {
-        "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-        "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+        "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
+        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+        "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+        "title_en": "Agentic inference optimization: 50-90% faster engines",
+        "title_original": "Agentic inference optimization: 50-90% faster engines",
+        "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
         "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-        "source": "NVIDIA Blog（RSS）",
+        "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+        "source": "Baseten 工程博客（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T19:52:54.170827Z"
+        "scored_at": "2026-10-03T00:20:37.217601Z"
+      }
+    },
+    {
+      "story_id": "story_3a793ac15e27",
+      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+      "url": "https://www.primeintellect.ai/blog/prime-inference",
+      "primary_url": "https://www.primeintellect.ai/blog/prime-inference",
+      "source": "Prime Intellect（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
+          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+          "recommend_reason_zh": null,
+          "url": "https://www.primeintellect.ai/blog/prime-inference",
+          "source": "Prime Intellect（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Prime Intellect（网页）"
+      ],
+      "items": [
+        {
+          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
+          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+          "recommend_reason_zh": null,
+          "url": "https://www.primeintellect.ai/blog/prime-inference",
+          "source": "Prime Intellect（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T23:50:29.870354Z",
+      "latest_at": "2026-10-02T23:50:29.870354Z",
+      "primary_item": {
+        "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
+        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+        "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+        "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+        "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+        "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+        "recommend_reason_zh": null,
+        "url": "https://www.primeintellect.ai/blog/prime-inference",
+        "source": "Prime Intellect（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T00:20:37.217601Z"
       }
     }
   ]
