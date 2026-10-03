@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:25:48.034974Z",
+  "generated_at": "2026-10-03T11:47:59.924496Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8267,
+        "recency": 0.754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
-      }
-    },
-    {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.863,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
-      "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-        "title_en": "Copilot code review: API support and new default effort level",
-        "title_original": "Copilot code review: API support and new default effort level",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -214,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8158,
+        "recency": 0.7441,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
+      }
+    },
+    {
+      "story_id": "story_cc4a44476dc4",
+      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7872,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:13:50Z",
+      "latest_at": "2026-10-02T19:13:50Z",
+      "primary_item": {
+        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
+        "title_en": "Copilot code review: API support and new default effort level",
+        "title_original": "Copilot code review: API support and new default effort level",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8119,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8119,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9022,
+        "recency": 0.823,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -562,8 +562,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-03T05:25:48.034974Z",
-      "latest_at": "2026-10-03T05:25:48.034974Z",
+      "earliest_at": "2026-10-03T11:47:59.924496Z",
+      "latest_at": "2026-10-03T11:47:59.924496Z",
       "primary_item": {
         "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
         "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
@@ -580,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -644,8 +644,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-03T05:25:48.034974Z",
-      "latest_at": "2026-10-03T05:25:48.034974Z",
+      "earliest_at": "2026-10-03T11:47:59.924496Z",
+      "latest_at": "2026-10-03T11:47:59.924496Z",
       "primary_item": {
         "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
         "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
@@ -662,7 +662,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
+      }
+    },
+    {
+      "story_id": "story_97d81b2ddd17",
+      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "url": "https://www.ithome.com/1/009/444.htm",
+      "primary_url": "https://www.ithome.com/1/009/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9238,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T06:18:38Z",
+      "latest_at": "2026-10-03T06:18:38Z",
+      "primary_item": {
+        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_en": null,
+        "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/009/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -710,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8626,
+        "recency": 0.7868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,90 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
-      }
-    },
-    {
-      "story_id": "story_aef691a327ab",
-      "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8528,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T18:24:19Z",
-      "latest_at": "2026-10-02T18:24:19Z",
-      "primary_item": {
-        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-        "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-        "title_en": "Selected models in GitHub Copilot deprecated",
-        "title_original": "Selected models in GitHub Copilot deprecated",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -891,8 +890,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-03T05:25:48.034974Z",
-      "latest_at": "2026-10-03T05:25:48.034974Z",
+      "earliest_at": "2026-10-03T11:47:59.924496Z",
+      "latest_at": "2026-10-03T11:47:59.924496Z",
       "primary_item": {
         "id": "10475e511695c99db79c08d74b401b4da02fb238",
         "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
@@ -909,169 +908,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
-      "story_id": "story_cca0a3c50eed",
-      "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-      "url": "https://x.com/arena/status/2106109027923140928",
-      "primary_url": "https://x.com/arena/status/2106109027923140928",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_aef691a327ab",
+      "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2106109027923140928",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:48:16Z"
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T18:24:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2106109027923140928",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:48:16Z"
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T18:24:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
-      "importance_label": "行业动态",
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7779,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:48:16Z",
-      "latest_at": "2026-10-02T19:48:16Z",
+      "earliest_at": "2026-10-02T18:24:19Z",
+      "latest_at": "2026-10-02T18:24:19Z",
       "primary_item": {
-        "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-        "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-        "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+        "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
+        "title_zh": "已弃用 GitHub Copilot 中的选定模型",
+        "title_en": "Selected models in GitHub Copilot deprecated",
+        "title_original": "Selected models in GitHub Copilot deprecated",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2106109027923140928",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
-      }
-    },
-    {
-      "story_id": "story_841ba4d3786c",
-      "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-      "url": "https://x.com/ChatGPT/status/2106083595433791573",
-      "primary_url": "https://x.com/ChatGPT/status/2106083595433791573",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
-          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
-          "title_en": "With Finances in ChatGPT, you can:",
-          "title_original": "With Finances in ChatGPT, you can:",
-          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ChatGPT/status/2106083595433791573",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T18:07:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ChatGPT (@ChatGPT)"
-      ],
-      "items": [
-        {
-          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
-          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
-          "title_en": "With Finances in ChatGPT, you can:",
-          "title_original": "With Finances in ChatGPT, you can:",
-          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ChatGPT/status/2106083595433791573",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T18:07:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8493,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T18:07:12Z",
-      "latest_at": "2026-10-02T18:07:12Z",
-      "primary_item": {
-        "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
-        "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
-        "title_zh": "ChatGPT 推出 Finances 财务管理功能",
-        "title_en": "With Finances in ChatGPT, you can:",
-        "title_original": "With Finances in ChatGPT, you can:",
-        "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ChatGPT/status/2106083595433791573",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -1134,8 +1054,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-03T05:25:48.034974Z",
-      "latest_at": "2026-10-03T05:25:48.034974Z",
+      "earliest_at": "2026-10-03T11:47:59.924496Z",
+      "latest_at": "2026-10-03T11:47:59.924496Z",
       "primary_item": {
         "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
         "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
@@ -1152,169 +1072,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
-      "story_id": "story_ba641315d711",
-      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_cca0a3c50eed",
+      "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+      "url": "https://x.com/arena/status/2106109027923140928",
+      "primary_url": "https://x.com/arena/status/2106109027923140928",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://x.com/arena/status/2106109027923140928",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
+          "published_at": "2026-10-02T19:48:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://x.com/arena/status/2106109027923140928",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
+          "published_at": "2026-10-02T19:48:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7274,
+        "recency": 0.7938,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T07:23:13Z",
-      "latest_at": "2026-10-02T07:23:13Z",
+      "earliest_at": "2026-10-02T19:48:16Z",
+      "latest_at": "2026-10-02T19:48:16Z",
       "primary_item": {
-        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+        "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/arena/status/2106109027923140928",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
-      "story_id": "story_2987cb363021",
-      "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-      "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "primary_url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "source": "Baseten 工程博客（网页）",
+      "story_id": "story_841ba4d3786c",
+      "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+      "url": "https://x.com/ChatGPT/status/2106083595433791573",
+      "primary_url": "https://x.com/ChatGPT/status/2106083595433791573",
+      "source": "X：ChatGPT (@ChatGPT)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "title_en": "Agentic inference optimization: 50-90% faster engines",
-          "title_original": "Agentic inference optimization: 50-90% faster engines",
-          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
+          "title_en": "With Finances in ChatGPT, you can:",
+          "title_original": "With Finances in ChatGPT, you can:",
+          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
           "recommend_reason_zh": null,
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
+          "url": "https://x.com/ChatGPT/status/2106083595433791573",
+          "source": "X：ChatGPT (@ChatGPT)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
+          "published_at": "2026-10-02T18:07:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Baseten 工程博客（网页）"
+        "X：ChatGPT (@ChatGPT)"
       ],
       "items": [
         {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "title_en": "Agentic inference optimization: 50-90% faster engines",
-          "title_original": "Agentic inference optimization: 50-90% faster engines",
-          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+          "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+          "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+          "title_zh": "ChatGPT 推出 Finances 财务管理功能",
+          "title_en": "With Finances in ChatGPT, you can:",
+          "title_original": "With Finances in ChatGPT, you can:",
+          "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
           "recommend_reason_zh": null,
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
+          "url": "https://x.com/ChatGPT/status/2106083595433791573",
+          "source": "X：ChatGPT (@ChatGPT)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
+          "published_at": "2026-10-02T18:07:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.64,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8874,
+        "recency": 0.7747,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T21:09:34Z",
-      "latest_at": "2026-10-02T21:09:34Z",
+      "earliest_at": "2026-10-02T18:07:12Z",
+      "latest_at": "2026-10-02T18:07:12Z",
       "primary_item": {
-        "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
-        "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-        "title_en": "Agentic inference optimization: 50-90% faster engines",
-        "title_original": "Agentic inference optimization: 50-90% faster engines",
-        "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+        "id": "1e5d23c6dce92b573e366d0b5fdd197c59b16b1a",
+        "title": "ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:",
+        "title_zh": "ChatGPT 推出 Finances 财务管理功能",
+        "title_en": "With Finances in ChatGPT, you can:",
+        "title_original": "With Finances in ChatGPT, you can:",
+        "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
         "recommend_reason_zh": null,
-        "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-        "source": "Baseten 工程博客（网页）",
+        "url": "https://x.com/ChatGPT/status/2106083595433791573",
+        "source": "X：ChatGPT (@ChatGPT)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -1362,15 +1282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7922,
+        "recency": 0.7226,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1397,7 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -1445,15 +1365,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8672,
+        "recency": 0.791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1478,12 +1398,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
       "story_id": "story_8251eed32ade",
-      "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+      "title": "Repository security advisory comments API in public preview",
       "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "source": "GitHub Changelog",
@@ -1491,8 +1411,8 @@
       "sources": [
         {
           "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
-          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title": "Repository security advisory comments API in public preview",
+          "title_zh": null,
           "title_en": "Repository security advisory comments API in public preview",
           "title_original": "Repository security advisory comments API in public preview",
           "summary": null,
@@ -1511,8 +1431,8 @@
       "items": [
         {
           "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
-          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title": "Repository security advisory comments API in public preview",
+          "title_zh": null,
           "title_en": "Repository security advisory comments API in public preview",
           "title_original": "Repository security advisory comments API in public preview",
           "summary": null,
@@ -1526,15 +1446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7917,
+        "recency": 0.7221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1547,8 +1467,8 @@
       "latest_at": "2026-10-02T13:15:25Z",
       "primary_item": {
         "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-        "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
-        "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+        "title": "Repository security advisory comments API in public preview",
+        "title_zh": null,
         "title_en": "Repository security advisory comments API in public preview",
         "title_original": "Repository security advisory comments API in public preview",
         "summary": null,
@@ -1561,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     },
     {
@@ -1609,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7918,
+        "recency": 0.7222,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1644,7 +1564,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T05:26:36.455208Z"
+        "scored_at": "2026-10-03T11:48:46.603288Z"
+      }
+    },
+    {
+      "story_id": "story_2b013d60b571",
+      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6083,
+      "importance": 0.6083,
+      "importance_score": 0.6083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7755,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T18:11:27Z",
+      "latest_at": "2026-10-02T19:03:03Z",
+      "primary_item": {
+        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+        "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T11:48:46.603288Z"
       }
     }
   ]
