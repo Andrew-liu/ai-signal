@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T09:54:31.809016Z",
+  "generated_at": "2026-10-04T15:24:55.917771Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_1be63ddb3fed",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8536,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
@@ -147,8 +147,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-04T09:54:31.809016Z",
-      "latest_at": "2026-10-04T09:54:31.809016Z",
+      "earliest_at": "2026-10-04T15:24:55.917771Z",
+      "latest_at": "2026-10-04T15:24:55.917771Z",
       "primary_item": {
         "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
         "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
@@ -165,89 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
-      }
-    },
-    {
-      "story_id": "story_6c512ed5ed17",
-      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "title_en": "Hugely revealing paper from Google.",
-          "title_original": "Hugely revealing paper from Google.",
-          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "title_en": "Hugely revealing paper from Google.",
-          "title_original": "Hugely revealing paper from Google.",
-          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8404,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-03T21:52:11Z",
-      "latest_at": "2026-10-03T21:52:11Z",
-      "primary_item": {
-        "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-        "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-        "title_en": "Hugely revealing paper from Google.",
-        "title_original": "Hugely revealing paper from Google.",
-        "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
@@ -311,8 +229,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-04T09:54:31.809016Z",
-      "latest_at": "2026-10-04T09:54:31.809016Z",
+      "earliest_at": "2026-10-04T15:24:55.917771Z",
+      "latest_at": "2026-10-04T15:24:55.917771Z",
       "primary_item": {
         "id": "10475e511695c99db79c08d74b401b4da02fb238",
         "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
@@ -329,264 +247,513 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
-      "story_id": "story_3a793ac15e27",
-      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-      "url": "https://www.primeintellect.ai/blog/prime-inference",
-      "primary_url": "https://www.primeintellect.ai/blog/prime-inference",
-      "source": "Prime Intellect（网页）",
+      "story_id": "story_6c512ed5ed17",
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+          "title_en": "Hugely revealing paper from Google.",
+          "title_original": "Hugely revealing paper from Google.",
+          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
           "recommend_reason_zh": null,
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
+          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": null
+          "published_at": "2026-10-03T21:52:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Prime Intellect（网页）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+          "title_en": "Hugely revealing paper from Google.",
+          "title_original": "Hugely revealing paper from Google.",
+          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
           "recommend_reason_zh": null,
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
+          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": null
+          "published_at": "2026-10-03T21:52:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.61,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7762,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T09:54:31.809016Z",
-      "latest_at": "2026-10-04T09:54:31.809016Z",
+      "earliest_at": "2026-10-03T21:52:11Z",
+      "latest_at": "2026-10-03T21:52:11Z",
       "primary_item": {
-        "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-        "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+        "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+        "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+        "title_en": "Hugely revealing paper from Google.",
+        "title_original": "Hugely revealing paper from Google.",
+        "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
         "recommend_reason_zh": null,
-        "url": "https://www.primeintellect.ai/blog/prime-inference",
-        "source": "Prime Intellect（网页）",
+        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
-      "story_id": "story_75c7e0103abd",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "source": "www.theatlantic.com",
+      "story_id": "story_55d0dc988302",
+      "title": "宗教学者与Anthropic公司进行了会面",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source": "www.nytimes.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+          "title": "宗教学者与Anthropic公司进行了会面",
+          "title_zh": "宗教学者与Anthropic公司进行了会面",
           "title_en": null,
-          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_original": "宗教学者与Anthropic公司进行了会面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T21:45:54.461000Z"
+          "published_at": "2026-10-04T12:57:08.561000Z"
         },
         {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "I quit OpenAI because its culture is broken",
-          "title_zh": null,
-          "title_en": "I quit OpenAI because its culture is broken",
-          "title_original": "I quit OpenAI because its culture is broken",
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者与Anthropic公司进行了会面",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
+          "published_at": "2026-10-04T02:34:22Z"
         },
         {
-          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
-          "title": "I quit OpenAI because its culture is broken",
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "Religious scholars met with Anthropic",
           "title_zh": null,
-          "title_en": "I quit OpenAI because its culture is broken",
-          "title_original": "I quit OpenAI because its culture is broken",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49944227",
+          "url": "https://news.ycombinator.com/item?id=49950052",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T13:46:34Z"
+          "published_at": "2026-10-04T02:34:22Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.theatlantic.com"
+        "www.nytimes.com"
       ],
       "items": [
         {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+          "title": "宗教学者与Anthropic公司进行了会面",
+          "title_zh": "宗教学者与Anthropic公司进行了会面",
           "title_en": null,
-          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_original": "宗教学者与Anthropic公司进行了会面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T21:45:54.461000Z"
+          "published_at": "2026-10-04T12:57:08.561000Z"
         },
         {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "I quit OpenAI because its culture is broken",
-          "title_zh": null,
-          "title_en": "I quit OpenAI because its culture is broken",
-          "title_original": "I quit OpenAI because its culture is broken",
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者与Anthropic公司进行了会面",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
+          "published_at": "2026-10-04T02:34:22Z"
         },
         {
-          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
-          "title": "I quit OpenAI because its culture is broken",
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "Religious scholars met with Anthropic",
           "title_zh": null,
-          "title_en": "I quit OpenAI because its culture is broken",
-          "title_original": "I quit OpenAI because its culture is broken",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49944227",
+          "url": "https://news.ycombinator.com/item?id=49950052",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T13:46:34Z"
+          "published_at": "2026-10-04T02:34:22Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5645,
+      "importance": 0.5645,
+      "importance_score": 0.5645,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8392,
+        "recency": 0.9651,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T13:46:34Z",
-      "latest_at": "2026-10-03T21:45:54.461000Z",
+      "earliest_at": "2026-10-04T02:34:22Z",
+      "latest_at": "2026-10-04T12:57:08.561000Z",
       "primary_item": {
-        "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-        "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+        "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+        "title": "宗教学者与Anthropic公司进行了会面",
+        "title_zh": "宗教学者与Anthropic公司进行了会面",
         "title_en": null,
-        "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
+        "title_original": "宗教学者与Anthropic公司进行了会面",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-        "source": "www.theatlantic.com",
+        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "source": "www.nytimes.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
-      "story_id": "story_bae103f61bd5",
-      "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-      "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
-      "primary_url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+      "story_id": "story_62666fdd86a6",
+      "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "source": "fortune.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "title_en": null,
+          "title_original": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.311000Z"
+        },
+        {
+          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T17:44:29Z"
+        },
+        {
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": null,
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:44:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "fortune.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "title_en": null,
+          "title_original": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.311000Z"
+        },
+        {
+          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T17:44:29Z"
+        },
+        {
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": null,
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:44:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5567,
+      "importance": 0.5567,
+      "importance_score": 0.5567,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9217,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T17:44:29Z",
+      "latest_at": "2026-10-04T09:46:05.311000Z",
+      "primary_item": {
+        "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+        "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+        "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+        "title_en": null,
+        "title_original": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+        "source": "fortune.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-04T15:39:15.306824Z"
+      }
+    },
+    {
+      "story_id": "story_79411f0d75c6",
+      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "source": "www.neowin.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "title_en": null,
+          "title_original": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "www.neowin.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.315000Z"
+        },
+        {
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.neowin.net"
+      ],
+      "items": [
+        {
+          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "title_en": null,
+          "title_original": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "www.neowin.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.315000Z"
+        },
+        {
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9217,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-04T09:46:05.315000Z",
+      "primary_item": {
+        "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+        "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+        "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+        "title_en": null,
+        "title_original": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "source": "www.neowin.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-04T15:39:15.306824Z"
+      }
+    },
+    {
+      "story_id": "story_22f350167c25",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "primary_url": "https://github.com/allenv0/SCM",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
-          "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
           "title_zh": null,
-          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_en": "Show HN: AI search for every photo and every frame of video on macOS",
+          "title_original": "Show HN: AI search for every photo and every frame of video on macOS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+          "url": "https://github.com/allenv0/SCM",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T08:02:33Z"
+          "published_at": "2026-10-04T09:24:52Z"
         },
         {
-          "id": "5aa64a7303926a59291da84d070e091e05811223",
-          "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
           "title_zh": null,
-          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_en": "Show HN: AI search for every photo and every frame of video on macOS",
+          "title_original": "Show HN: AI search for every photo and every frame of video on macOS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49951684",
+          "url": "https://news.ycombinator.com/item?id=49952111",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T08:02:33Z"
+          "published_at": "2026-10-04T09:24:52Z"
         }
       ],
       "source_count": 2,
@@ -596,62 +763,62 @@
       ],
       "items": [
         {
-          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
-          "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
           "title_zh": null,
-          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_en": "Show HN: AI search for every photo and every frame of video on macOS",
+          "title_original": "Show HN: AI search for every photo and every frame of video on macOS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+          "url": "https://github.com/allenv0/SCM",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T08:02:33Z"
+          "published_at": "2026-10-04T09:24:52Z"
         },
         {
-          "id": "5aa64a7303926a59291da84d070e091e05811223",
-          "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
           "title_zh": null,
-          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_en": "Show HN: AI search for every photo and every frame of video on macOS",
+          "title_original": "Show HN: AI search for every photo and every frame of video on macOS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49951684",
+          "url": "https://news.ycombinator.com/item?id=49952111",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T08:02:33Z"
+          "published_at": "2026-10-04T09:24:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9734,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T08:02:33Z",
-      "latest_at": "2026-10-04T08:02:33Z",
+      "earliest_at": "2026-10-04T09:24:52Z",
+      "latest_at": "2026-10-04T09:24:52Z",
       "primary_item": {
-        "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
-        "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
         "title_zh": null,
-        "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-        "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "title_en": "Show HN: AI search for every photo and every frame of video on macOS",
+        "title_original": "Show HN: AI search for every photo and every frame of video on macOS",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+        "url": "https://github.com/allenv0/SCM",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -659,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
@@ -736,15 +903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8812,
+        "recency": 0.8138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
@@ -846,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8485,
+        "recency": 0.7836,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,154 +1046,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     },
     {
-      "story_id": "story_264568180c91",
-      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "primary_url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "source": "tej.as",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "title_en": null,
-          "title_original": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T14:44:01.702000Z"
-        },
-        {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "title_en": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "title_original": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "tej.as"
-      ],
-      "items": [
-        {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "title_en": null,
-          "title_original": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T14:44:01.702000Z"
-        },
-        {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "title_en": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "title_original": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7581,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T10:43:51Z",
-      "latest_at": "2026-10-03T14:44:01.702000Z",
-      "primary_item": {
-        "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-        "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-        "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-        "title_en": null,
-        "title_original": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "tej.as",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
-      }
-    },
-    {
-      "story_id": "story_55d0dc988302",
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "story_id": "story_a55f7b341908",
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "Religious scholars met with Anthropic",
+          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
           "title_zh": null,
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T07:53:45Z"
         },
         {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "Religious scholars met with Anthropic",
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
           "title_zh": null,
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49950052",
+          "url": "https://news.ycombinator.com/item?id=49951641",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T07:53:45Z"
         }
       ],
       "source_count": 2,
@@ -1036,62 +1093,62 @@
       ],
       "items": [
         {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "Religious scholars met with Anthropic",
+          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
           "title_zh": null,
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T07:53:45Z"
         },
         {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "Religious scholars met with Anthropic",
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
           "title_zh": null,
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49950052",
+          "url": "https://news.ycombinator.com/item?id=49951641",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T07:53:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8995,
+        "recency": 0.8971,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T02:34:22Z",
-      "latest_at": "2026-10-04T02:34:22Z",
+      "earliest_at": "2026-10-04T07:53:45Z",
+      "latest_at": "2026-10-04T07:53:45Z",
       "primary_item": {
-        "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-        "title": "Religious scholars met with Anthropic",
+        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+        "title": "What's the Future for Pure Math Research in the Age of AI?",
         "title_zh": null,
-        "title_en": "Religious scholars met with Anthropic",
-        "title_original": "Religious scholars met with Anthropic",
+        "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+        "title_original": "What's the Future for Pure Math Research in the Age of AI?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1099,117 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
-      }
-    },
-    {
-      "story_id": "story_62666fdd86a6",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
-          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": null,
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": null,
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
-          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": null,
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": null,
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7918,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:44:29Z",
-      "latest_at": "2026-10-03T17:44:29Z",
-      "primary_item": {
-        "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
-        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-        "title_zh": null,
-        "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-        "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T10:11:45.809582Z"
+        "scored_at": "2026-10-04T15:39:15.306824Z"
       }
     }
   ]
