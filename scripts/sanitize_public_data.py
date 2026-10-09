@@ -81,7 +81,7 @@ def main() -> int:
     parser.add_argument("--data-dir", type=Path, default=Path("data"))
     args = parser.parse_args()
     compact_files = {
-        "archive.json", "latest-24h-all.json", "latest-24h-all-raw.json", "stories-merged.json"
+        "archive.json", "latest-24h-all.json", "latest-24h-all-raw.json", "events.json"
     }
     for path in sorted(args.data_dir.glob("*.json")):
         payload = json.loads(path.read_text(encoding="utf-8"))

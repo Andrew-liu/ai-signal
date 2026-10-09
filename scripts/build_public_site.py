@@ -10,14 +10,13 @@ from pathlib import Path
 PUBLIC_DATA_FILES = (
     "latest-24h.json",
     "latest-24h-all.json",
-    "daily-brief.json",
     "source-status.json",
-    "stories-merged.json",
-    "top3-personas.json",
+    "events.json",
     "waytoagi-7d.json",
 )
 ROOT_FILES = (
     "index.html",
+    "archive.html",
     "site.webmanifest",
     "privacy.html",
     "content-policy.html",

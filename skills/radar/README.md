@@ -24,11 +24,11 @@
 
 ## 它会交付什么
 
-一份按"模型发布 / 产品更新 / 开发者工具 / 值得注意"分组的中文简报：
+一份按"热点 / 最新"两条通道组织的中文简报：
 
 - 每条带原文链接和信源名，官方一手源优先；
 - 数据来自 [AI News Radar](https://github.com/LearnPrompt/ai-news-radar) 公开管道：150+ 信源、AI相关性过滤、信源分层；
-- v0.8 起简报自带 persona 点评：默认实用派口味，说一句"毒舌一点"还能看毒舌评论员和较真党对每日 TOP3 的三味并排锐评；
+- 热点按多渠道交叉热度排序（中英来源各半），最新只收 12 小时内的新硬事件，排序全由规则完成、不调 LLM；
 - 简报永远标注数据时间——数据过期会直说，不装新鲜。
 
 ## 快速开始
@@ -52,7 +52,6 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 - "OpenAI/Anthropic/Google 最近发了什么"
 - "Agent工具有什么新东西"
 - "看下AI雷达" / "AI日报"
-- "锐评一下" / "毒舌点评" / "换个口味"
 - "哪些AI信源值得看"
 
 ## 为什么是零API
@@ -70,15 +69,15 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 | 信源可定制 | 不能 | 每次重新教 | fork后伯乐Skill录入 |
 | 数据新鲜度 | 取决于服务方 | 实时但贵 | 每30分钟，自动 |
 
-## 想换信源？换口味？
+## 想换信源？调口径？
 
 这正是它和兄弟Skill的分工：**ai-radar 管读，[伯乐Skill](../ai-news-radar/README.md) 管选。**
 
 1. fork [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)；
-2. 信源：用伯乐Skill判断和录入（RSS/OPML/公开feed/静态页/AgentMail）；口味：改 `personas/` 下的一个 markdown 文件；
+2. 信源：用伯乐Skill判断和录入（RSS/OPML/公开feed/静态页/AgentMail）；热点/最新口径：改 `scripts/signal_events.py` 顶部常量；
 3. 把 ai-radar SKILL.md 顶部的 `BASE_URL` 一行指向你自己的 Pages。
 
-信源你选，口味你调，数据归你。
+信源你选，口径你调，数据归你。
 
 ## 安全边界
 

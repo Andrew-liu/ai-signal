@@ -1,12 +1,12 @@
 # AI News Radar Roadmap
 
-## Parked — 三口味 persona 网页 UI（2026-07-15 归档）
+## Removed — 三口味 persona / 每日精选 / 旧故事层（2026-10-09）
 
-v0.8–v0.9 期间网页端曾上线「今日 TOP3 · 三口味锐评」置顶板块与精选卡片的单条锐评行，因样式不满意在 v0.9 发布前暂时下线，待重新设计后回归。
+v0.8–v0.9 的「今日 TOP3 · 三口味锐评」、精选卡片锐评行、`daily-brief.json` 精选池、`stories-merged.json` 故事层与前端二次热度打分已整体删除，不再保留开关或兜底。
 
-- 开关：`assets/app.js` 的 `PERSONA_UI_ENABLED`（现为 `false`，置回 `true` 即恢复板块与锐评行，渲染代码完整保留）。
-- 不受影响：数据管线（`scripts/persona_score.py` 每轮照常生成 `data/daily-brief.json` 的 persona 字段与 `data/top3-personas.json`）、Skill 端日报的三口味点评。
-- 回归前要解决的：三列并排面板与卡片视觉融合度、锐评行与推荐理由的层级关系、口味名称/分数的展示样式。
+- 替代：`scripts/signal_events.py` 生成 `data/events.json`（`hot` / `fresh` 双通道），热点榜读 `hot`，「最新」页读 `fresh`。
+- 删除的产物：`personas/`、`scripts/persona_score.py`、`data/daily-brief.json`、`data/stories-merged.json`、`data/top3-personas.json`、`data/merge-log.json`。
+- 无兜底的代价：`events.json` 结构异常或与 `latest-24h.json` 生成时间相差超过 1 小时，`quality_gate.py` 会直接拦下该轮发布。
 
 ## v0.3.0 — Source Overlap Check
 

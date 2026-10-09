@@ -14,7 +14,6 @@ from datetime import datetime, timedelta, timezone
 from scripts.update_news import (
     CST_MISLABEL_OFFSET,
     FUTURE_PUBLISH_SKEW,
-    build_story_record,
     correct_feed_published_batch,
     correct_future_published,
 )
@@ -76,34 +75,6 @@ class CorrectFeedPublishedBatchTest(unittest.TestCase):
 
     def test_empty_list(self):
         self.assertEqual(correct_feed_published_batch([], NOW, assume_cst_mislabel=True), [])
-
-
-class StoryFutureTimeGuardTest(unittest.TestCase):
-    def _item(self, item_id: str, published_at: str) -> dict:
-        return {
-            "id": item_id,
-            "title": "腾讯混元 Hy3 量化版发布",
-            "url": f"https://example.com/{item_id}",
-            "source": "InfoQ CN",
-            "site_id": "opmlrss",
-            "site_name": "OPML RSS",
-            "published_at": published_at,
-        }
-
-    def test_story_times_clamped_to_now(self):
-        future_iso = (NOW + timedelta(hours=8)).isoformat().replace("+00:00", "Z")
-        past_iso = (NOW - timedelta(hours=2)).isoformat().replace("+00:00", "Z")
-        record = build_story_record(
-            "story_test",
-            [self._item("a", past_iso), self._item("b", future_iso)],
-            NOW,
-            24,
-        )
-        for field in ("earliest_at", "latest_at"):
-            value = record[field]
-            self.assertIsNotNone(value)
-            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
-            self.assertLessEqual(parsed, NOW + timedelta(minutes=10))
 
 
 if __name__ == "__main__":

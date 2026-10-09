@@ -729,7 +729,7 @@ class TopicFilterTests(unittest.TestCase):
         self.assertNotIn("items_all", slim)
         self.assertNotIn("items_all_raw", slim)
         self.assertEqual(slim["all_mode_data_url"], "data/latest-24h-all.json")
-        self.assertEqual(slim["stories_data_url"], "data/stories-merged.json")
+        self.assertEqual(slim["events_data_url"], "data/events.json")
         self.assertEqual(all_payload["items_all"][0]["title"], "All post")
         self.assertEqual(all_payload["items_all_raw"][0]["title"], "Raw post")
 

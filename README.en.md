@@ -44,11 +44,10 @@ Responsive website / Agent Skill
 ```
 
 ```text
-scripts/        ingestion, clustering, scoring, and publishing
+scripts/        ingestion, event clustering (signal_events.py), gating, and publishing
 assets/         the single responsive frontend
-data/           static JSON consumed by the site
+data/           static JSON consumed by the site (Hot and Latest both read events.json)
 feeds/          OPML examples and private subscription entry
-personas/       persona prompts
 tests/          pipeline and security tests
 skills/         Agent consumer and maintainer Skills
 ```
@@ -79,7 +78,7 @@ python scripts/update_news.py \
   --rss-opml feeds/follow.example.opml \
   --rss-max-feeds 10
 
-python scripts/persona_score.py --data-dir data
+python scripts/signal_events.py --data-dir data
 python scripts/sanitize_public_data.py --data-dir data
 python scripts/quality_gate.py --data-dir data --max-age-hours 6
 python scripts/build_public_site.py --data-dir data --output-dir dist
@@ -89,7 +88,7 @@ Copy `feeds/follow.example.opml` to `feeds/follow.opml` for private subscription
 
 ## Optional integrations
 
-- `DEEPSEEK_API_KEY`: translation, title enhancement, review lines, and persona scoring
+- `DEEPSEEK_API_KEY`: translation, title enhancement, and review lines (Hot / Latest event ranking needs no LLM)
 - `SOCIALDATA_API_KEY`: X search and curated account lists
 - `TIKHUB_API_KEY`: Douyin and Xiaohongshu search
 - `X_BEARER_TOKEN`: official X API

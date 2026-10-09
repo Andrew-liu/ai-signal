@@ -114,6 +114,7 @@ jobs:
           DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
           DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
           TITLE_ENHANCE_MAX_PER_RUN: ${{ vars.TITLE_ENHANCE_MAX_PER_RUN }}
+          AGIHUNT_API_KEY: ${{ secrets.AGIHUNT_API_KEY }}
         run: |
           if [ -f feeds/follow.opml ]; then
             python scripts/update_news.py --output-dir "$CANDIDATE_DATA" --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-10}"
@@ -121,12 +122,8 @@ jobs:
             python scripts/update_news.py --output-dir "$CANDIDATE_DATA" --window-hours 24 --archive-days 21
           fi
 
-      - name: Persona scoring
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
-          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
-        run: python scripts/persona_score.py --data-dir "$CANDIDATE_DATA"
+      - name: Build hot/fresh event lanes
+        run: python scripts/signal_events.py --data-dir "$CANDIDATE_DATA"
 
       - name: Sanitize and validate candidate
         run: |

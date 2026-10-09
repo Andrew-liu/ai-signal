@@ -143,13 +143,14 @@ SOURCE_PRIORS = {
     "curated_media": 0.18,
     "aibase": 0.45,
     "aihot": 0.45,
+    "agihunt": 0.45,
     "aihubtoday": 0.45,
     "followbuilders": 0.25,
     "opmlrss": 0.15,
     "xapi": 0.15,
     "socialdata_x": 0.15,
 }
-AI_DEFAULT_SOURCES = {"aibase", "aihot", "aihubtoday"}
+AI_DEFAULT_SOURCES = {"aibase", "aihot", "aihubtoday", "agihunt"}
 CURATED_MEDIA_TRUSTED_SOURCE_KEYWORDS = [
     "the decoder ai news",
     "techcrunch ai",

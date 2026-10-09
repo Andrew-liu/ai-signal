@@ -3,242 +3,101 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self' https://andrew-liu.github.io https://raw.githubusercontent.com; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://andrew-liu.github.io https://raw.githubusercontent.com; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests" />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
-    <title>AI Signal｜每天值得看的 AI 信号</title>
-    <meta name="description" content="聚合过去 24 小时 AI 动态，合并重复报道，保留原始信源，帮你更快看懂真正重要的 AI 信号。" />
+    <title>AI Signal｜AI 赛道看板</title>
+    <meta name="description" content="按赛道看过去 24 小时 AI 领域最热和最新的事件：模型、开发工具、开源、芯片机器人、融资财报、安全产品。" />
     <link rel="canonical" href="https://andrew-liu.github.io/ai-signal/" />
-    <meta property="og:title" content="AI Signal｜每天值得看的 AI 信号" />
-    <meta property="og:description" content="少看噪声，更快看懂真正重要的 AI 信号。" />
+    <meta property="og:title" content="AI Signal｜AI 赛道看板" />
+    <meta property="og:description" content="按赛道看 AI 领域最热和最新的事件。" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://andrew-liu.github.io/ai-signal/" />
     <meta property="og:site_name" content="AI Signal" />
     <meta name="application-name" content="AI Signal" />
-    <meta name="theme-color" content="#f6f5f4" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-title" content="AI Signal" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="theme-color" content="#f6f1e7" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="AI Signal｜每天值得看的 AI 信号" />
-    <meta name="twitter:description" content="少看噪声，更快看懂真正重要的 AI 信号。" />
-    <link rel="icon" href="./assets/logo.svg?v=aihot-0819" type="image/svg+xml" />
-    <link rel="icon" href="./assets/icons/favicon-32.png?v=aihot-0819" sizes="32x32" type="image/png" />
-    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png?v=aihot-0819" sizes="180x180" />
+    <link rel="icon" href="./assets/logo.svg?v=board-1009" type="image/svg+xml" />
+    <link rel="icon" href="./assets/icons/favicon-32.png?v=board-1009" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png?v=board-1009" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/styles.css?v=aihot-0819" />
-    <link rel="stylesheet" href="./assets/shell.css?v=aihot-0819" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+SC:wght@500;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" />
+    <link rel="stylesheet" href="./assets/board.css?v=board-1009" />
   </head>
-  <body>
-    <a class="skip-link" href="#newsList">跳到内容列表</a>
+  <body data-skin="editorial">
+    <a class="skip-link" href="#feed">跳到事件列表</a>
+    <header class="top">
+      <a class="brand" href="./" aria-label="AI Signal 首页"><span class="brand-mark" aria-hidden="true"></span><span class="brand-name">AI Signal</span></a>
+      <p class="stamp" id="stamp">正在读取数据</p>
+      <nav class="top-links" id="views" aria-label="页面切换">
+        <a href="./?view=board" data-view="board">赛道看板</a>
+        <a href="./?view=all" data-view="all">全部动态</a>
+        <a href="./?view=community" data-view="community">社区</a>
+      </nav>
+      <div class="skin-pick">
+        <span class="skin-label" id="skin-label">主题</span>
+        <button type="button" class="skin-btn" id="skin" aria-haspopup="listbox" aria-expanded="false" aria-controls="skin-menu" aria-labelledby="skin-label skin-current">
+          <span id="skin-current">报纸头版</span><span class="skin-caret" aria-hidden="true">▾</span>
+        </button>
+        <ul class="skin-menu" id="skin-menu" role="listbox" aria-labelledby="skin-label" tabindex="-1" hidden>
+          <li role="option" data-theme="terminal" aria-selected="false">终端</li>
+          <li role="option" data-theme="editorial" aria-selected="true">报纸头版</li>
+          <li role="option" data-theme="doodle" aria-selected="false">涂鸦手账</li>
+          <li role="option" data-theme="ticker" aria-selected="false">行情终端</li>
+          <li role="option" data-theme="poster" aria-selected="false">色块海报</li>
+          <li role="option" data-theme="notebook" aria-selected="false">实验笔记</li>
+        </ul>
+      </div>
+    </header>
 
-    <div class="app-shell">
-      <aside class="sidebar" id="appSidebar" aria-label="主导航">
-        <a class="sidebar-brand" href="#/" aria-label="AI Signal 首页">
-          <img class="brand-logo" src="./assets/logo.svg?v=aihot-0819" alt="" />
-          <span class="brand-name">AI Signal</span>
-        </a>
-        <div class="sidebar-divider"></div>
-        <nav class="side-nav">
-          <div class="side-group">内容</div>
-          <a class="side-link" data-route="hot" href="#/" title="热点榜（24 小时报道密度）">
-            <svg class="side-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path></svg>
-            <span class="side-label">热点榜</span>
-          </a>
-          <a class="side-link" data-route="home" href="#/selected" title="精选">
-            <svg class="side-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
-            <span class="side-label">精选</span>
-          </a>
-          <a class="side-link" data-route="all" href="#/all" title="全部 AI 动态">
-            <svg class="side-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
-            <span class="side-label">全部动态</span>
-          </a>
-          <a class="side-link" data-route="community" href="#/community" title="社区更新（WayToAGI）">
-            <svg class="side-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
-            <span class="side-label">社区更新</span>
-          </a>
-        </nav>
-        <div class="sidebar-foot">
-          <p>数据自动生成，关键结论请回到原始来源核验。</p>
-          <div class="foot-links" aria-label="外部链接与政策">
-            <a class="foot-icon" href="https://x.com/xueyu1125" target="_blank" rel="noopener noreferrer" title="X" aria-label="X">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg>
-            </a>
-            <a class="foot-icon" href="https://github.com/Andrew-liu/ai-signal" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub 项目">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-            </a>
-            <a class="foot-icon" href="./privacy.html" title="隐私说明" aria-label="隐私说明">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-            </a>
-            <a class="foot-icon" href="./content-policy.html" title="内容与版权" aria-label="内容与版权">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline></svg>
-            </a>
-          </div>
+    <nav class="lanes" id="lanes" aria-label="赛道切换" role="tablist"></nav>
+
+    <main class="lane-view" id="view" aria-live="polite">
+      <header class="view-head">
+        <div class="view-title">
+          <span class="view-code" id="view-code"></span>
+          <h1 class="view-name" id="view-name">AI 赛道看板</h1>
+          <p class="view-stat" id="view-stat"></p>
         </div>
-      </aside>
-
-      <main class="main-col">
-        <section id="feedPage" class="page">
-          <header class="card page-header">
-            <div class="header-row">
-              <div class="header-titles">
-                <h1 id="listTitle">精选</h1>
-                <p class="page-subtitle" id="pageSubtitle">聚合官方发布、技术媒体与开发者社区，把重复报道合并成事件。</p>
-              </div>
-              <div class="header-meta">
-                <span class="header-meta-item">更新 <strong class="updated" id="updatedAt">加载中...</strong></span>
-                <span class="source-status-pill" id="sourceStatusPill">加载中...</span>
-              </div>
-            </div>
-            <div class="toolbar" role="group" aria-label="浏览控制">
-            <div class="mode-switch" role="group" aria-label="精选或全量">
-              <button id="modeSelectedBtn" class="mode-btn active" type="button" aria-pressed="true">精选</button>
-              <button id="modeAllBtn" class="mode-btn" type="button" aria-pressed="false">全量</button>
-            </div>
-            <label class="search-field">
-                <span class="sr-only">搜索 AI 信号或来源</span>
-                <input id="searchInput" type="search" placeholder="搜索信号、公司或来源" aria-label="搜索 AI 信号或来源" />
-              </label>
-              <label class="field site-field">
-                <span class="sr-only">具体来源</span>
-                <select id="siteSelect">
-                  <option value="">全部站点</option>
-                </select>
-              </label>
-              <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
-                <input id="allDedupeToggle" type="checkbox" checked />
-                <span class="all-dedupe-dot"></span>
-                <span id="allDedupeLabel">去重开</span>
-              </label>
-              <span id="resultCount" class="result-count">0 条</span>
-              <button class="clear-filters-btn" id="clearFiltersBtn" type="button" hidden>清除筛选</button>
-            </div>
-            <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 情报栏目"></div>
-          </header>
-
-          <details class="advanced-panel card">
-            <summary>
-              <span>筛选与来源状态</span>
-              <span class="advanced-hint">检查采集是否正常</span>
-            </summary>
-            <div class="advanced-content">
-              <div class="data-source-indicator" id="dataSourceIndicator" hidden>
-                <span id="dataSourceIndicatorText"></span>
-                <button type="button" id="dataSourceResetBtn" class="data-source-reset-btn">恢复本地</button>
-              </div>
-              <div class="source-health" id="sourceHealth">源状态加载中...</div>
-              <details class="source-detail-panel">
-                <summary>查看完整来源清单</summary>
-                <div class="source-health-details" id="sourceHealthDetails"></div>
-                <section class="source-status-table" id="sourceStatusTable" aria-label="源状态详情"></section>
-              </details>
-            </div>
-          </details>
-
-          <section class="top3-board-wrap" id="top3BoardWrap" aria-label="今日 TOP3 · 三口味锐评" hidden>
-            <div class="list-head">
-              <h2>今日 TOP3</h2>
-              <span id="top3BoardMeta"></span>
-            </div>
-            <div id="top3BoardList" class="top3-board-list"></div>
-          </section>
-
-          <section class="signal-feed" id="newsListWrap" aria-label="信号列表">
-            <div id="newsList" class="news-list timeline" aria-live="polite"></div>
-          </section>
-        </section>
-
-        <section id="hotPage" class="page" aria-label="AI热榜" hidden>
-          <header class="card page-header">
-            <div class="header-row">
-              <div class="header-titles">
-                <p class="page-eyebrow">AI TRENDING · 24H</p>
-                <h1>热点榜</h1>
-                <p class="page-subtitle">最近 24 小时报道密度与综合热度排序，多源交叉印证的事件优先。</p>
-              </div>
-            </div>
-            <div class="hot-board-head" id="hotBoardWrap">
-              <span id="hotBoardMeta">最近 24 小时 · 综合热度排序</span>
-            </div>
-          </header>
-          <div id="hotBoardList" class="hot-rank-list"></div>
-        </section>
-
-        <section id="communityPage" class="page" hidden>
-          <header class="card page-header">
-            <div class="header-row">
-              <div class="header-titles">
-                <p class="page-eyebrow">COMMUNITY / WAYTOAGI</p>
-                <h1>社区更新</h1>
-                <p class="page-subtitle">WayToAGI 知识库最近更新，保留原始链接。</p>
-              </div>
-              <div class="header-meta">
-                <span id="waytoagiUpdatedAt">加载中...</span>
-              </div>
-            </div>
-            <div class="toolbar waytoagi-tools">
-              <div class="waytoagi-switch" role="group" aria-label="更新范围">
-                <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button" aria-pressed="true">最近更新日</button>
-                <button id="waytoagi7dBtn" class="waytoagi-btn" type="button" aria-pressed="false">近 7 日</button>
-              </div>
-            </div>
-          </header>
-          <section class="waytoagi-wrap card">
-            <div id="waytoagiMeta" class="waytoagi-meta"></div>
-            <div id="waytoagiList" class="waytoagi-list"></div>
-          </section>
-        </section>
-
-        <footer class="site-footer" aria-label="站点政策">
-          <span><strong>AI Signal</strong> · AI 资讯索引与事件聚合，不替代原始来源。</span>
-          <nav>
-            <a href="./privacy.html">隐私说明</a>
-            <a href="./content-policy.html">内容与版权</a>
-            <a href="https://github.com/Andrew-liu/ai-signal/issues" target="_blank" rel="noopener noreferrer">纠错与删除 ↗</a>
-          </nav>
-        </footer>
-      </main>
-    </div>
-
-    <nav class="m-tabbar" aria-label="移动端主导航">
-      <a class="m-tab" data-route="hot" href="#/">
-        <svg class="m-tab-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path></svg>
-        <span class="m-tab-label">热点</span>
-      </a>
-      <a class="m-tab" data-route="home" href="#/selected">
-        <svg class="m-tab-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
-        <span class="m-tab-label">精选</span>
-      </a>
-      <a class="m-tab" data-route="all" href="#/all">
-        <svg class="m-tab-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
-        <span class="m-tab-label">全部</span>
-      </a>
-      <a class="m-tab" data-route="community" href="#/community">
-        <svg class="m-tab-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
-        <span class="m-tab-label">社区</span>
-      </a>
-    </nav>
-
-    <template id="itemTpl">
-      <article class="news-card">
-        <div class="news-card-body">
-          <div class="meta-row">
-            <span class="curated-badge" hidden>精选</span>
-            <span class="site"></span>
-            <span class="source"></span>
-            <strong class="score-badge" hidden></strong>
-          </div>
-          <a class="title" target="_blank" rel="noopener noreferrer"></a>
-          <p class="news-summary"></p>
-          <div class="why-box" hidden>
-            <span class="why-label">值得关注</span>
-            <span class="why-text"></span>
-          </div>
-          <div class="persona-slot"></div>
+        <div class="seg" id="seg" role="group" aria-label="筛选">
+          <button type="button" data-filter="all" aria-pressed="true">全部</button>
+          <button type="button" data-filter="hot" aria-pressed="false">热</button>
+          <button type="button" data-filter="new" aria-pressed="false">新</button>
         </div>
+      </header>
+      <div class="tools" id="tools" role="search" hidden>
+        <input class="q" id="q" type="search" placeholder="搜索标题、公司或来源，空格分隔多个词" aria-label="搜索全部动态" autocomplete="off" maxlength="80" />
+        <div class="seg seg-range" id="range" role="group" aria-label="数据范围"></div>
+        <div class="seg seg-sites" id="sites" role="group" aria-label="按站点筛选"></div>
+        <button type="button" class="tools-clear" id="tools-clear" hidden>清除检索</button>
+      </div>
+      <ol class="feed" id="feed"></ol>
+      <button type="button" class="more" id="more" hidden></button>
+      <article class="doc" id="doc-privacy" hidden>
+        <p>AI Signal 的公开页面无需注册，不主动收集姓名、邮箱或登录信息。浏览器仅保存主题、筛选和受信任数据源偏好。</p>
+        <p>资讯来自公开 RSS、公开网页及明确配置的第三方接口。站点只发布标题、短摘要、来源、时间、公开互动指标与原文链接，不公开 API Key、Cookie、邮箱地址或私有邮件正文。</p>
+        <p>启用外部模型时，部分公开文章正文片段可能被发送给已配置的模型服务，用于翻译、标题增强与摘要。部署者应自行核查对应服务的隐私条款。</p>
+        <p>如需更正、删除或反馈隐私问题，请通过 <a href="https://github.com/Andrew-liu/ai-signal/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a> 提交具体 URL 和理由。</p>
+        <p class="doc-links"><a href="./?view=board" data-view="board">返回赛道看板</a><a href="./?view=policy" data-view="policy">内容与版权</a></p>
       </article>
-    </template>
-
-    <script src="./assets/app.js?v=aihot-0819" defer></script>
+      <article class="doc" id="doc-policy" hidden>
+        <p>AI Signal 是资讯索引与事件聚合服务，不主张第三方新闻、帖子、论文和图片的版权。版权归原发布者或权利人所有。</p>
+        <p>公开页面原则上仅展示标题、必要的短摘要、来源、时间和原文链接。完整内容请访问原始来源；不得把本站摘要视为投资、法律或其他专业建议。</p>
+        <p>来源接入应优先使用官方 RSS、公开 API 或明确允许抓取的页面，并遵守来源服务条款与 robots.txt。付费内容、登录后内容和明确禁止自动化访问的内容不应采集。</p>
+        <p>权利人可通过 <a href="https://github.com/Andrew-liu/ai-signal/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a> 提交删除或更正请求，请附上权利证明、相关 URL 和联系方式。核实后将停止后续公开展示。</p>
+        <p class="doc-links"><a href="./?view=board" data-view="board">返回赛道看板</a><a href="./?view=privacy" data-view="privacy">隐私说明</a></p>
+      </article>
+    </main>
+    <footer class="foot">
+      <span>数据自动生成，关键结论请回到原始来源核验。看板页可用键盘 ← → 切换赛道。</span>
+      <nav aria-label="站点政策">
+        <a href="./?view=all" data-view="all" data-focus="q">高级检索</a>
+        <a href="./?view=privacy" data-view="privacy">隐私说明</a>
+        <a href="./?view=policy" data-view="policy">内容与版权</a>
+        <a href="https://github.com/Andrew-liu/ai-signal" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      </nav>
+    </footer>
+    <script src="./assets/board.js?v=board-1009" defer></script>
   </body>
 </html>

@@ -7,6 +7,7 @@ import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from email.utils import parseaddr
 import hashlib
+from html import unescape
 import json
 import math
 import os
@@ -49,6 +50,7 @@ BROWSER_UA = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 )
 SH_TZ = ZoneInfo("Asia/Shanghai")
+US_PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 WAYTOAGI_DEFAULT = (
     "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
 )
@@ -122,6 +124,17 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
     },
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
+# DeepSeek：API 文档的更新日志页（Docusaurus），h2=日期、h3=发布标题，中英各一版。
+DEEPSEEK_UPDATES_PAGES: tuple[tuple[str, str], ...] = (
+    ("https://api-docs.deepseek.com/zh-cn/updates", "DeepSeek 更新日志"),
+    ("https://api-docs.deepseek.com/updates", "DeepSeek Updates"),
+)
+# 智谱：开放平台「模型与产品发布记录」的 Mintlify RSS（中文 bigmodel.cn / 英文 z.ai）。
+# 条目标题只是日期，模型名和要点要从正文里抽。
+ZHIPU_RELEASE_FEEDS: tuple[tuple[str, str, str], ...] = (
+    ("https://docs.bigmodel.cn/cn/update/new-releases/rss.xml", "智谱发布记录", "zh"),
+    ("https://docs.z.ai/release-notes/new-released/rss.xml", "Z.ai Release Notes", "en"),
+)
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
 # Per-fetch item cap for wide discussion-tier aggregators (buzzing/iris).
 # They dominate raw volume with very low AI keep rates (see
@@ -336,6 +349,18 @@ PUBLIC_RAW_META_FIELDS: tuple[str, ...] = (
     "creator_metrics",
     "search_surface",
     "summary",
+    "hn_points",
+    "hn_comments",
+    "agihunt_channel",
+    "agihunt_sort",
+    "agihunt_rank",
+    "agihunt_hot",
+    "published_estimated",
+    "github_repo",
+    "github_language",
+    "github_stars",
+    "github_stars_today",
+    "github_trending_rank",
 )
 
 
@@ -1040,7 +1065,7 @@ def waytoagi_updates_to_raw_items(payload: dict[str, Any], now: datetime) -> lis
                 # visible latest-date entries as fresh community signals for
                 # the 24h board while the 7d payload keeps exact date context.
                 published_at=now,
-                meta={"summary": update.get("summary") or title},
+                meta={"summary": update.get("summary") or title, "published_estimated": True},
             )
         )
     return out
@@ -1559,38 +1584,37 @@ def fetch_hacker_news_algolia(session: requests.Session, now: datetime) -> list[
     return parse_hn_algolia_hits(payloads, now)
 
 
+def _class_has(tag: Any, needle: str) -> bool:
+    return any(needle in str(c).lower() for c in (tag.get("class") or []))
+
+
 def parse_anthropic_news_items(page_html: str, now: datetime) -> list[RawItem]:
+    """anthropic.com/news：精选卡片标题在 h1-h4，列表行标题在 class 含 "title" 的 span；日期在 <time>。"""
     site_id = "official_ai"
     site_name = "Official AI Updates"
     soup = BeautifulSoup(page_html, "html.parser")
     out: list[RawItem] = []
     seen: set[str] = set()
 
-    for a in soup.select('a[href^="/news/"]'):
+    for a in soup.select('a[href^="/news/"], a[href^="https://www.anthropic.com/news/"]'):
         href = str(a.get("href") or "").strip()
-        if not href or href == "/news/" or href == "/news":
+        url = urljoin("https://www.anthropic.com", href).split("#")[0].rstrip("/")
+        if url.endswith("/news") or url in seen:
             continue
 
-        title_tag = a.select_one("h1, h2, h3, h4")
-        title = title_tag.get_text(" ", strip=True) if title_tag else ""
-        title = maybe_fix_mojibake(title)
+        title_tag = a.select_one("h1, h2, h3, h4") or a.find(lambda t: t.name in {"span", "div", "p"} and _class_has(t, "title"))
+        title = maybe_fix_mojibake(title_tag.get_text(" ", strip=True)) if title_tag else ""
         if not title or title.lower() == "news":
             continue
 
-        url = urljoin("https://www.anthropic.com", href)
-        if url in seen:
-            continue
-        seen.add(url)
-
         time_tag = a.select_one("time")
-        published = None
-        if time_tag:
-            published = parse_date_any(time_tag.get("datetime") or time_tag.get_text(" ", strip=True), now)
-        if not published:
+        if not time_tag:
             continue
-        if now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+        published = _date_text_published(time_tag.get("datetime") or time_tag.get_text(" ", strip=True), now)
+        if not published or (now and published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS)):
             continue
 
+        seen.add(url)
         out.append(
             RawItem(
                 site_id=site_id,
@@ -1603,6 +1627,126 @@ def parse_anthropic_news_items(page_html: str, now: datetime) -> list[RawItem]:
             )
         )
 
+    return out
+
+
+DATE_TEXT_RE = re.compile(
+    r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2},\s+\d{4}\b"
+)
+
+
+def _date_text_published(text: Any, now: datetime, tz: ZoneInfo = US_PACIFIC_TZ) -> datetime | None:
+    """美国厂商官网只给到「天」的日期（Oct 8, 2026）：按太平洋时间当天 12:00 估计，且不晚于 now。"""
+    raw = str(text or "").strip()
+    if not raw:
+        return None
+    if re.match(r"^\d{4}-\d{2}-\d{2}T\d", raw):
+        return parse_date_any(raw, now)
+    try:
+        day = dtparser.parse(raw, fuzzy=True).date()
+    except (ValueError, OverflowError):
+        return None
+    return _date_only_published(day.isoformat(), now, tz)
+
+
+def parse_xai_news_items(page_html: str, now: datetime) -> list[RawItem]:
+    """x.ai/news：卡片 <a href="/news/..."> 内有 h2/h3 标题和 "Sep 3, 2026" 日期。"""
+    soup = BeautifulSoup(page_html, "html.parser")
+    out: list[RawItem] = []
+    seen: set[str] = set()
+    for a in soup.select('a[href^="/news/"], a[href^="https://x.ai/news/"]'):
+        url = urljoin("https://x.ai", str(a.get("href") or "")).split("#")[0].rstrip("/")
+        if url.endswith("/news") or url in seen:
+            continue
+        title_tag = a.select_one("h1, h2, h3, h4")
+        title = maybe_fix_mojibake(title_tag.get_text(" ", strip=True)) if title_tag else ""
+        date_match = DATE_TEXT_RE.search(a.get_text(" ", strip=True))
+        if not title or not date_match:
+            continue
+        published = _date_text_published(date_match.group(0), now)
+        if not published or published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+            continue
+        seen.add(url)
+        meta: dict[str, Any] = {"provider": "xAI"}
+        desc = a.select_one("p")
+        if desc:
+            meta["summary"] = desc.get_text(" ", strip=True)[:200]
+        out.append(
+            RawItem(
+                site_id="official_ai",
+                site_name="Official AI Updates",
+                source="xAI News",
+                title=title,
+                url=url,
+                published_at=published,
+                meta=meta,
+            )
+        )
+    return out
+
+
+def parse_meta_ai_blog_items(page_html: str, now: datetime) -> list[RawItem]:
+    """ai.meta.com/blog：标题是带文字的 <a href=".../blog/slug/">，日期是其后最近的 "July 27, 2026" 文本。"""
+    soup = BeautifulSoup(page_html, "html.parser")
+    out: list[RawItem] = []
+    seen: set[str] = set()
+    for a in soup.select('a[href^="https://ai.meta.com/blog/"]'):
+        url = str(a.get("href") or "").split("?")[0].split("#")[0].rstrip("/")
+        title = maybe_fix_mojibake(a.get_text(" ", strip=True))
+        if url.endswith("/blog") or url in seen or len(title) < 8:
+            continue
+        date_text = a.find_next(string=DATE_TEXT_RE)
+        if not date_text:
+            continue
+        published = _date_text_published(DATE_TEXT_RE.search(str(date_text)).group(0), now)
+        if not published or published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+            continue
+        seen.add(url)
+        out.append(
+            RawItem(
+                site_id="official_ai",
+                site_name="Official AI Updates",
+                source="Meta AI Blog",
+                title=title,
+                url=url,
+                published_at=published,
+                meta={"provider": "Meta"},
+            )
+        )
+    return out
+
+
+META_NEWSROOM_AI_CATEGORIES = {"ai", "artificial intelligence", "meta ai", "llama"}
+
+
+def parse_meta_newsroom_feed(xml_bytes: bytes, now: datetime) -> list[RawItem]:
+    """Meta Newsroom RSS：只收 AI 分类的条目（各地区站的本地新闻、Instagram 安全等不收）。"""
+    root = ET.fromstring(xml_bytes)
+    out: list[RawItem] = []
+    seen: set[str] = set()
+    for entry in root.iter("item"):
+        cats = {str(c.text or "").strip().lower() for c in entry.findall("category")}
+        if not cats & META_NEWSROOM_AI_CATEGORIES:
+            continue
+        title = maybe_fix_mojibake(unescape(entry.findtext("title") or "").strip())
+        link = (entry.findtext("link") or "").strip()
+        published = parse_date_any(entry.findtext("pubDate"), now)
+        if not title or not link or link in seen or not published:
+            continue
+        if published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+            continue
+        seen.add(link)
+        out.append(
+            RawItem(
+                site_id="official_ai",
+                site_name="Official AI Updates",
+                source="Meta Newsroom",
+                title=title,
+                url=link,
+                published_at=published,
+                meta={"provider": "Meta"},
+            )
+        )
     return out
 
 
@@ -1643,6 +1787,120 @@ def parse_openai_codex_changelog_items(page_html: str, now: datetime) -> list[Ra
             )
         )
 
+    return out
+
+
+def _date_only_published(day: str, now: datetime, tz: ZoneInfo = SH_TZ) -> datetime | None:
+    """只有日期的官方发布：按厂商所在时区当天 12:00 估计，且不晚于 now。"""
+    match = re.search(r"(\d{4})-(\d{1,2})-(\d{1,2})", day or "")
+    if not match:
+        return None
+    try:
+        local = datetime(int(match[1]), int(match[2]), int(match[3]), 12, tzinfo=tz)
+    except ValueError:
+        return None
+    published = local.astimezone(timezone.utc)
+    return min(published, now) if now else published
+
+
+def parse_deepseek_updates_items(page_html: str, now: datetime, page_url: str, source: str) -> list[RawItem]:
+    """DeepSeek API 文档更新日志：每个 h2 是「时间: YYYY-MM-DD」，其后的 h3 是一次发布。"""
+    soup = BeautifulSoup(page_html, "html.parser")
+    root = soup.select_one(".theme-doc-markdown") or soup
+    out: list[RawItem] = []
+    seen: set[str] = set()
+    current_day = ""
+    for node in root.find_all(["h2", "h3"]):
+        text = node.get_text(" ", strip=True).replace("\u200b", "").strip()
+        if node.name == "h2":
+            current_day = text
+            continue
+        anchor = str(node.get("id") or "").strip()
+        if not text or not anchor or anchor in seen or not current_day:
+            continue
+        published = _date_only_published(current_day, now)
+        if not published or published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+            continue
+        seen.add(anchor)
+        meta: dict[str, Any] = {"provider": "DeepSeek"}
+        para = node.find_next_sibling("p")
+        if para:
+            meta["summary"] = para.get_text(" ", strip=True)[:200]
+        out.append(
+            RawItem(
+                site_id="official_ai",
+                site_name="Official AI Updates",
+                source=source,
+                title=maybe_fix_mojibake(text),
+                url=f"{page_url}#{anchor}",
+                published_at=published,
+                meta=meta,
+            )
+        )
+    return out
+
+
+_ZHIPU_CLAUSE_SPLIT = re.compile(r"[：:，。；;]|,\s|\.\s")
+
+
+def _zhipu_model_name(content: BeautifulSoup) -> str:
+    strong = content.find("strong")
+    if strong and strong.get_text(strip=True):
+        return strong.get_text(" ", strip=True)
+    for a in content.find_all("a", href=True):
+        slug = str(a["href"]).rstrip("/").rsplit("/", 1)[-1]
+        if re.match(r"(?i)(glm|cog|autoglm|charglm|codegeex)", slug):
+            parts = slug.split("-")
+            return "-".join([parts[0].upper(), *[p if p[:1].isdigit() else p.capitalize() for p in parts[1:]]])
+    return ""
+
+
+def _zhipu_model_link(content: BeautifulSoup) -> str:
+    for a in content.find_all("a", href=True):
+        href = str(a["href"])
+        if "/guide" in href and href.startswith("http"):
+            return href
+    return ""
+
+
+def parse_zhipu_release_feed(xml_bytes: bytes, now: datetime, source: str, lang: str) -> list[RawItem]:
+    """智谱开放平台发布记录 RSS：标题只是日期，从 content:encoded 里取模型名和第一条要点拼标题。"""
+    content_tag = "{http://purl.org/rss/1.0/modules/content/}encoded"
+    root = ET.fromstring(xml_bytes)
+    out: list[RawItem] = []
+    seen: set[str] = set()
+    for entry in root.iter("item"):
+        link = (entry.findtext("link") or "").strip()
+        published = parse_date_any(entry.findtext("pubDate"), now)
+        if not link or not published or published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+            continue
+        content = BeautifulSoup(entry.findtext(content_tag) or entry.findtext("description") or "", "html.parser")
+        name = _zhipu_model_name(content)
+        points = [li.get_text(" ", strip=True) for li in content.find_all("li")]
+        points = [p for p in points if p] or [content.get_text(" ", strip=True)]
+        lead = _ZHIPU_CLAUSE_SPLIT.split(points[0], maxsplit=1)[0].strip() if points and points[0] else ""
+        lead = lead[:40] if lang == "zh" else " ".join(lead.split()[:12])
+        if lang == "zh":
+            title = f"智谱发布 {name}" if name else "智谱开放平台更新"
+        else:
+            title = f"Z.ai releases {name}" if name else "Z.ai platform update"
+        if lead:
+            title = f"{title}：{lead}" if lang == "zh" else f"{title}: {lead}"
+        url = _zhipu_model_link(content) or link
+        if url in seen:
+            continue
+        seen.add(url)
+        out.append(
+            RawItem(
+                site_id="official_ai",
+                site_name="Official AI Updates",
+                source=source,
+                title=maybe_fix_mojibake(title),
+                url=url,
+                published_at=published,
+                meta={"provider": "Zhipu", "summary": "；".join(points)[:200], "feed_url": link},
+            )
+        )
     return out
 
 
@@ -1844,6 +2102,53 @@ def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[
         r = session.get("https://developers.openai.com/codex/changelog", timeout=20)
         r.raise_for_status()
         out.extend(parse_openai_codex_changelog_items(r.text, now))
+    except Exception:
+        pass
+
+    for page_url, source in DEEPSEEK_UPDATES_PAGES:
+        try:
+            r = session.get(page_url, timeout=20)
+            r.raise_for_status()
+            r.encoding = "utf-8"
+            out.extend(parse_deepseek_updates_items(r.text, now, page_url, source))
+        except Exception:
+            continue
+
+    for feed_url, source, lang in ZHIPU_RELEASE_FEEDS:
+        try:
+            r = session.get(
+                feed_url,
+                timeout=20,
+                headers={"User-Agent": BROWSER_UA, "Accept": "application/rss+xml, application/xml, */*"},
+            )
+            r.raise_for_status()
+            out.extend(parse_zhipu_release_feed(r.content, now, source, lang))
+        except Exception:
+            continue
+
+    try:
+        r = session.get("https://x.ai/news", timeout=20)
+        r.raise_for_status()
+        out.extend(parse_xai_news_items(r.text, now))
+    except Exception:
+        pass
+
+    try:
+        # ai.meta.com 对完整的桌面浏览器 UA 返回 400，简短 UA 反而正常。
+        r = session.get("https://ai.meta.com/blog/", timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        r.raise_for_status()
+        out.extend(parse_meta_ai_blog_items(r.text, now))
+    except Exception:
+        pass
+
+    try:
+        r = session.get(
+            "https://about.fb.com/news/feed/",
+            timeout=20,
+            headers={"User-Agent": BROWSER_UA, "Accept": "application/rss+xml, application/xml, */*"},
+        )
+        r.raise_for_status()
+        out.extend(parse_meta_newsroom_feed(r.content, now))
     except Exception:
         pass
 
@@ -2096,6 +2401,25 @@ def fetch_ai_hubtoday(session: requests.Session, now: datetime) -> list[RawItem]
         )
     return out
 
+AIBASE_TZ = timezone(timedelta(hours=8))
+AIBASE_ADDTIME_RE = re.compile(r'\{"Id":(\d+),"title":.*?"addtime":"(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})"', re.S)
+
+
+def aibase_addtimes(html: str) -> dict[str, datetime]:
+    """AIbase 列表页 SSR 把相对时间统一渲染成"刚刚"，真实发布时间只在内嵌的 Next 数据里
+    （``{"Id":31509,...,"addtime":"2026-10-09 16:56:50"}``，北京时间）。按文章 Id 建索引。"""
+    flat = html.replace('\\"', '"')
+    out: dict[str, datetime] = {}
+    for article_id, stamp in AIBASE_ADDTIME_RE.findall(flat):
+        if article_id in out:
+            continue
+        try:
+            out[article_id] = datetime.strptime(stamp, "%Y-%m-%d %H:%M:%S").replace(tzinfo=AIBASE_TZ).astimezone(UTC)
+        except ValueError:
+            continue
+    return out
+
+
 def fetch_aibase(session: requests.Session, now: datetime) -> list[RawItem]:
     site_id = "aibase"
     site_name = "AIbase"
@@ -2103,6 +2427,7 @@ def fetch_aibase(session: requests.Session, now: datetime) -> list[RawItem]:
     r = session.get("https://www.aibase.com/zh/news", timeout=30)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
+    addtimes = aibase_addtimes(r.text)
 
     out: list[RawItem] = []
     for a in soup.select("a[href^='/news/']"):
@@ -2119,7 +2444,14 @@ def fetch_aibase(session: requests.Session, now: datetime) -> list[RawItem]:
         if time_tag:
             time_text = time_tag.get_text(" ", strip=True)
 
-        published = parse_date_any(time_text, now)
+        article_id = href.rstrip("/").rsplit("/", 1)[-1]
+        meta: dict[str, Any] = {"time_hint": time_text}
+        published = addtimes.get(article_id)
+        if published is None and time_text and time_text != "刚刚":
+            published = parse_date_any(time_text, now)
+        if published is None:
+            # 拿不到真实时间：不再用抓取时间冒充发布时间，交给事件层按"时间未知"处理。
+            meta["published_estimated"] = True
         out.append(
             RawItem(
                 site_id=site_id,
@@ -2128,7 +2460,7 @@ def fetch_aibase(session: requests.Session, now: datetime) -> list[RawItem]:
                 title=title,
                 url=urljoin("https://www.aibase.com", href),
                 published_at=published,
-                meta={"time_hint": time_text},
+                meta=meta,
             )
         )
 
@@ -2307,6 +2639,165 @@ def fetch_aihot(session: requests.Session, now: datetime) -> list[RawItem]:
             raise RuntimeError(f"AI HOT API failed ({api_exc}); {feed_exc}") from feed_exc
 
 
+# ---------------------------------------------------------------------------
+# AGI HUNT (agihunt.info) Agent API
+# ---------------------------------------------------------------------------
+# 接入约定见 agihunt skill v1.2.2：Bearer key + 版本 header，每 key 1000 次/天，
+# 只覆盖近 3 天，day 以北京时间为日界。每轮只发 AGIHUNT_CHANNEL_PLAN 里的少量请求
+# （≈6 次/小时，约 150 次/天），不并发、不重试刷量；429 立即停止本轮。
+AGIHUNT_API_BASE = "https://agihunt.info/agent/v1"
+AGIHUNT_SKILL_VERSION = "1.2.2"
+AGIHUNT_UA = f"agihunt-skill/{AGIHUNT_SKILL_VERSION} AI-Signal/1.0"
+AGIHUNT_TZ = timezone(timedelta(hours=8))
+# (channel slug, sort, take)。models 是高权重频道：同时取最热与最新。
+AGIHUNT_CHANNEL_PLAN: tuple[tuple[str, str, int], ...] = (
+    ("models", "hot", 40),
+    ("models", "new", 30),
+    ("coding-agents", "hot", 20),
+    ("research", "hot", 15),
+    ("funding", "hot", 15),
+    ("hardware", "hot", 10),
+)
+# 北京时间凌晨当天数据还少，models 额外补取昨天最热，保证 24h 窗口不断档。
+AGIHUNT_EARLY_HOUR_CST = 6
+AGIHUNT_CHANNEL_LABELS = {
+    "models": "模型",
+    "coding-agents": "编程与Agent",
+    "research": "研究",
+    "funding": "创投",
+    "hardware": "具身",
+    "infra": "Infra",
+    "multimodal": "多模态",
+    "products": "应用",
+}
+AGIHUNT_SUMMARY_MAX_CHARS = 280
+
+
+def agihunt_api_key() -> str:
+    return str(os.environ.get("AGIHUNT_API_KEY") or "").strip()
+
+
+def agihunt_request_plan(now: datetime) -> list[tuple[str, str, int, str]]:
+    cst = now.astimezone(AGIHUNT_TZ)
+    today = cst.date().isoformat()
+    plan = [(slug, sort, take, today) for slug, sort, take in AGIHUNT_CHANNEL_PLAN]
+    if cst.hour < AGIHUNT_EARLY_HOUR_CST:
+        yesterday = (cst - timedelta(days=1)).date().isoformat()
+        plan.insert(1, ("models", "hot", 30, yesterday))
+    return plan
+
+
+def parse_agihunt_items(
+    payload: dict[str, Any], channel: str, sort: str, take: int, now: datetime | None = None
+) -> list[RawItem]:
+    raw_items = payload.get("items") if isinstance(payload, dict) else None
+    if not isinstance(raw_items, list):
+        raise ValueError("AGI HUNT API returned an invalid items schema")
+    label = AGIHUNT_CHANNEL_LABELS.get(channel, channel)
+    out: list[RawItem] = []
+    for rank, entry in enumerate(raw_items[: max(1, take)], start=1):
+        if not isinstance(entry, dict):
+            continue
+        text = re.sub(r"\s+", " ", str(entry.get("text") or "")).strip()
+        title = maybe_fix_mojibake(str(entry.get("title") or "").strip()) or text[:120]
+        link = str(entry.get("url") or "").strip()
+        if not title or not link.startswith("http"):
+            continue
+        published = parse_iso(str(entry.get("published_at") or "")) or parse_date_any(entry.get("published_at"), now)
+        hot_value: float | None = None
+        hot_raw = entry.get("hot")
+        if not isinstance(hot_raw, bool):
+            try:
+                hot_value = round(float(hot_raw), 3)
+            except (TypeError, ValueError):
+                hot_value = None
+        meta: dict[str, Any] = {
+            "api_url": f"{AGIHUNT_API_BASE}/channel/{channel}/items",
+            "agihunt_channel": channel,
+            "agihunt_sort": sort,
+            "agihunt_rank": rank,
+        }
+        cluster_id = str(entry.get("cluster_id") or "").strip()
+        if cluster_id:
+            meta["agihunt_cluster"] = cluster_id
+        if hot_value is not None:
+            meta["agihunt_hot"] = hot_value
+        if text and text != title:
+            meta["summary"] = text[:AGIHUNT_SUMMARY_MAX_CHARS]
+        out.append(
+            RawItem(
+                site_id="agihunt",
+                site_name="AGI HUNT",
+                source=f"AGI HUNT · {label}",
+                title=title,
+                url=link,
+                published_at=published,
+                meta=meta,
+            )
+        )
+    return out
+
+
+def merge_agihunt_items(items: list[RawItem]) -> list[RawItem]:
+    """同一事件可能同时出现在 hot/new 或多个频道：按 cluster_id（缺失时用 URL）去重，
+    保留 models 优先、hot 排名最靠前的那条。"""
+    def priority(it: RawItem) -> tuple[int, int, int]:
+        meta = it.meta
+        return (
+            0 if meta.get("agihunt_channel") == "models" else 1,
+            0 if meta.get("agihunt_sort") == "hot" else 1,
+            int(meta.get("agihunt_rank") or 999),
+        )
+
+    best: dict[str, RawItem] = {}
+    for it in items:
+        cluster = str(it.meta.get("agihunt_cluster") or "")
+        key = f"cluster:{cluster}" if cluster else f"url:{normalize_url(it.url)}"
+        if key not in best or priority(it) < priority(best[key]):
+            best[key] = it
+    return list(best.values())
+
+
+def fetch_agihunt(session: requests.Session, now: datetime) -> list[RawItem]:
+    api_key = agihunt_api_key()
+    if not api_key:
+        raise RuntimeError("AGIHUNT_API_KEY not set")
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "X-AgiHunt-Skill-Version": AGIHUNT_SKILL_VERSION,
+        "User-Agent": AGIHUNT_UA,
+        "Accept": "application/json",
+    }
+    out: list[RawItem] = []
+    errors: list[str] = []
+    for channel, sort, take, day in agihunt_request_plan(now):
+        url = f"{AGIHUNT_API_BASE}/channel/{channel}/items"
+        try:
+            response = session.get(url, params={"day": day, "sort": sort}, headers=headers, timeout=30)
+        except requests.RequestException as exc:
+            errors.append(f"{channel}/{sort}: {type(exc).__name__}")
+            continue
+        if response.status_code == 200:
+            try:
+                out.extend(parse_agihunt_items(response.json(), channel, sort, take, now))
+            except ValueError as exc:
+                errors.append(f"{channel}/{sort}: {exc}")
+            continue
+        try:
+            code = str((response.json().get("error") or {}).get("code") or "")
+        except Exception:
+            code = ""
+        errors.append(f"{channel}/{sort}: HTTP {response.status_code} {code}".strip())
+        # 鉴权失效 / skill 需升级 / 限速与配额：本轮立即停止，不再继续打请求。
+        if response.status_code in (401, 426, 429):
+            break
+    if not out and errors:
+        raise RuntimeError("AGI HUNT failed: " + "; ".join(errors))
+    if errors:
+        print(f"[agihunt] partial errors: {'; '.join(errors)}")
+    return merge_agihunt_items(out)
+
+
 
 
 def extract_newsnow_source_ids(js: str) -> list[str]:
@@ -2462,6 +2953,79 @@ def fetch_newsnow(session: requests.Session, now: datetime) -> list[RawItem]:
     return out
 
 
+GITHUB_TRENDING_URL = "https://github.com/trending"
+GITHUB_TRENDING_SINCE = "daily"
+GITHUB_TRENDING_DESC_MAX = 200
+GITHUB_STARS_TODAY_RE = re.compile(r"([\d,]+)\s+stars?\s+(?:today|this week|this month)", re.I)
+
+
+def _int_from_text(text: str) -> int | None:
+    digits = re.sub(r"[^\d]", "", str(text or ""))
+    return int(digits) if digits else None
+
+
+def parse_github_trending(html: str, now: datetime) -> list[RawItem]:
+    """解析 github.com/trending 日榜。
+
+    日榜本身没有发布时间，它表达的是"今天在涨星"：published_at 记为本轮抓取时间，
+    并带上今日新增星数等指标，供事件层做热度与开源赛道排序。AI 相关性由事件层判断。
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    out: list[RawItem] = []
+    for rank, row in enumerate(soup.select("article.Box-row"), start=1):
+        link = row.select_one("h2 a[href]")
+        if not link:
+            continue
+        repo = re.sub(r"\s+", "", link.get("href", "")).strip("/")
+        if repo.count("/") != 1:
+            continue
+        desc_tag = row.select_one("p")
+        desc = re.sub(r"\s+", " ", desc_tag.get_text(" ", strip=True)).strip() if desc_tag else ""
+        lang_tag = row.select_one("[itemprop='programmingLanguage']")
+        stars_tag = row.select_one("a[href$='/stargazers']")
+        today_match = GITHUB_STARS_TODAY_RE.search(row.get_text(" ", strip=True))
+        meta: dict[str, Any] = {
+            "github_repo": repo,
+            "github_trending_rank": rank,
+        }
+        if desc:
+            meta["summary"] = desc[:GITHUB_TRENDING_DESC_MAX]
+        if lang_tag:
+            meta["github_language"] = lang_tag.get_text(strip=True)
+        stars = _int_from_text(stars_tag.get_text(strip=True)) if stars_tag else None
+        if stars is not None:
+            meta["github_stars"] = stars
+        if today_match:
+            meta["github_stars_today"] = _int_from_text(today_match.group(1))
+        title = f"{repo}: {desc}" if desc else repo
+        out.append(
+            RawItem(
+                site_id="github_trending",
+                site_name="GitHub Trending",
+                source="GitHub Trending · 日榜",
+                title=title[: 80 + GITHUB_TRENDING_DESC_MAX],
+                url=f"https://github.com/{repo}",
+                published_at=now,
+                meta=meta,
+            )
+        )
+    return out
+
+
+def fetch_github_trending(session: requests.Session, now: datetime) -> list[RawItem]:
+    response = session.get(
+        GITHUB_TRENDING_URL,
+        params={"since": GITHUB_TRENDING_SINCE},
+        headers={"User-Agent": BROWSER_UA, "Accept": "text/html"},
+        timeout=30,
+    )
+    response.raise_for_status()
+    items = parse_github_trending(response.text, now)
+    if not items:
+        raise RuntimeError("GitHub Trending page returned no repositories (layout changed?)")
+    return items
+
+
 def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
     tasks = [
         ("official_ai", "Official AI Updates", fetch_official_ai_updates),
@@ -2478,7 +3042,12 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
         ("aibase", "AIbase", fetch_aibase),
         ("aihot", "AI HOT", fetch_aihot),
         ("newsnow", "NewsNow", fetch_newsnow),
+        ("github_trending", "GitHub Trending", fetch_github_trending),
     ]
+    if agihunt_api_key():
+        tasks.insert(1, ("agihunt", "AGI HUNT", fetch_agihunt))
+    else:
+        print("[agihunt] AGIHUNT_API_KEY not set, source skipped")
 
     raw_items: list[RawItem] = []
     statuses: list[dict[str, Any]] = []
@@ -2939,6 +3508,7 @@ SOURCE_TIER_BY_SITE: dict[str, tuple[str, str, int]] = {
     "aihubtoday": ("ai_vertical", "AI垂直源", 1),
     "aibase": ("ai_vertical", "AI垂直源", 1),
     "aihot": ("ai_vertical", "AI垂直源", 1),
+    "agihunt": ("ai_vertical", "AI垂直源", 1),
     "bestblogs": ("ai_vertical", "AI垂直源", 1),
     "waytoagi": ("community", "社区更新", 2),
     "followbuilders": ("builders", "Builders/X源", 2),
@@ -2953,19 +3523,7 @@ SOURCE_TIER_BY_SITE: dict[str, tuple[str, str, int]] = {
     "zeli": ("discussion", "热议参考", 5),
     "hackernews": ("discussion", "热议参考", 5),
     "newsnow": ("discussion", "热议参考", 5),
-}
-
-SOURCE_TIER_IMPORTANCE = {
-    "official": 1.0,
-    "ai_vertical": 0.78,
-    "ai_media": 0.58,
-    "community": 0.54,
-    "builders": 0.62,
-    "user_opml": 0.5,
-    "self_media": 0.48,
-    "advanced": 0.45,
-    "discussion": 0.32,
-    "other": 0.25,
+    "github_trending": ("discussion", "热议参考", 5),
 }
 
 # ---------------------------------------------------------------------------
@@ -5803,20 +6361,6 @@ def suppress_near_duplicate_items(
     return [item for item in items if str(item.get("id") or id(item)) not in dropped_ids]
 
 
-def canonical_story_url(raw_url: str) -> str:
-    normalized = normalize_url(raw_url)
-    try:
-        parsed = urlparse(normalized)
-    except Exception:
-        return normalized
-    query_pairs = parse_qsl(parsed.query, keep_blank_values=True)
-    if query_pairs:
-        identity_keys = {"id", "item", "p"}
-        kept = [(k, v) for k, v in query_pairs if k.lower() in identity_keys]
-        parsed = parsed._replace(query=urlencode(kept, doseq=True))
-    return urlunparse(parsed).rstrip("/")
-
-
 def title_tokens(title: str) -> set[str]:
     compact = re.sub(r"https?://\S+", " ", str(title or "").lower())
     tokens = re.findall(r"[a-z0-9]+|[\u4e00-\u9fff]{2,}", compact)
@@ -5862,34 +6406,6 @@ def story_titles_can_merge(a: str, b: str) -> bool:
     return True
 
 
-def recency_score(record: dict[str, Any], now: datetime, window_hours: int) -> float:
-    ts = event_time(record)
-    if not ts:
-        return 0.0
-    age_hours = max(0.0, (now - ts).total_seconds() / 3600)
-    return max(0.0, min(1.0, (float(window_hours) - age_hours) / max(1.0, float(window_hours))))
-
-
-def headline_freshness_score(record: dict[str, Any], now: datetime, half_life_hours: float = 48.0) -> float:
-    ts = event_time(record)
-    if not ts:
-        return 0.0
-    age_hours = max(0.0, (now - ts).total_seconds() / 3600)
-    return max(0.0, min(1.0, 0.5 ** (age_hours / max(1.0, half_life_hours))))
-
-
-def ai_relevance_score(record: dict[str, Any]) -> float:
-    value = record.get("ai_relevance_score")
-    if value is None:
-        value = record.get("ai_score")
-    if value is None and isinstance(record.get("ai_relevance"), dict):
-        value = record["ai_relevance"].get("score")
-    try:
-        return max(0.0, min(1.0, float(value)))
-    except Exception:
-        return 1.0 if record.get("ai_is_related") else 0.0
-
-
 def add_creator_ranking_fields(record: dict[str, Any], now: datetime) -> dict[str, Any]:
     out = dict(record)
     metrics = record.get("creator_metrics") if isinstance(record.get("creator_metrics"), dict) else {}
@@ -5919,382 +6435,6 @@ def add_creator_ranking_fields(record: dict[str, Any], now: datetime) -> dict[st
     out["creator_freshness_bonus"] = round(freshness_bonus, 1)
     out["creator_hot_score"] = round(hot_score, 1)
     return out
-
-
-def editorial_score(record: dict[str, Any]) -> float:
-    """External or internal editorial strength used by the headline ranker."""
-    value = record.get("aihot_score")
-    try:
-        if value is not None:
-            score = float(value)
-            return max(0.0, min(1.0, score / 100 if score > 1 else score))
-    except Exception:
-        pass
-    site_id = str(record.get("site_id") or "")
-    if site_id == "official_ai":
-        return 0.9
-    if site_id == "aihot":
-        return 0.78
-    if record.get("ai_is_related"):
-        return max(0.45, ai_relevance_score(record) * 0.72)
-    return ai_relevance_score(record) * 0.6
-
-
-def story_id_for_item(item: dict[str, Any]) -> str:
-    url = canonical_story_url(str(item.get("url") or ""))
-    title = normalized_story_title(item)
-    # Include the title alongside the URL so that distinct notes published under
-    # a shared generic URL (e.g. a wiki hub page) get distinct story ids instead
-    # of colliding into a single group.
-    if url and title:
-        basis = f"{url}\x1f{title}"
-    else:
-        basis = url or title or str(item.get("id") or "")
-    return "story_" + hashlib.sha1(basis.encode("utf-8")).hexdigest()[:12]
-
-
-def calculate_item_importance(
-    item: dict[str, Any],
-    now: datetime,
-    window_hours: int,
-    duplicate_count: int = 1,
-) -> dict[str, Any]:
-    tier = str(item.get("source_tier") or source_tier_for_site(str(item.get("site_id") or "")).get("source_tier"))
-    source_score = SOURCE_TIER_IMPORTANCE.get(tier, SOURCE_TIER_IMPORTANCE["other"])
-    relevance = ai_relevance_score(item)
-    recency = headline_freshness_score(item, now)
-    editorial = editorial_score(item)
-    heat = min(1.0, max(0, duplicate_count - 1) / 4)
-    score = (editorial * 0.3) + (source_score * 0.22) + (relevance * 0.2) + (recency * 0.18) + (heat * 0.1)
-    return {
-        "score": round(max(0.0, min(1.0, score)), 4),
-        "breakdown": {
-            "editorial": round(editorial, 4),
-            "source_tier": round(source_score, 4),
-            "ai_relevance": round(relevance, 4),
-            "recency": round(recency, 4),
-            "story_heat": round(heat, 4),
-        },
-    }
-
-
-def story_category(score: float, primary_item: dict[str, Any], duplicate_count: int) -> str:
-    tier = str(primary_item.get("source_tier") or source_tier_for_site(str(primary_item.get("site_id") or "")).get("source_tier"))
-    if tier == "official":
-        return "official"
-    if duplicate_count >= 3:
-        return "multi_source"
-    if score >= 0.72:
-        return "industry"
-    return "watch"
-
-
-def importance_label(category: str) -> str:
-    return {
-        "official": "官方更新",
-        "multi_source": "多源热议",
-        "industry": "行业动态",
-        "watch": "值得关注",
-    }.get(category, "值得关注")
-
-
-def choose_primary_story_item(
-    items: list[dict[str, Any]],
-    now: datetime,
-    window_hours: int,
-) -> dict[str, Any]:
-    def key(item: dict[str, Any]) -> tuple[int, float, float, str]:
-        tier_rank = int(source_tier_for_site(str(item.get("site_id") or "")).get("source_tier_rank", 9))
-        importance = calculate_item_importance(item, now, window_hours, duplicate_count=len(items))["score"]
-        ts = event_time(item)
-        return (tier_rank, -importance, -(ts.timestamp() if ts else 0), str(item.get("title") or ""))
-
-    return min(items, key=key)
-
-
-def story_item_link(item: dict[str, Any]) -> dict[str, Any]:
-    return {
-        "id": item.get("id"),
-        "title": item.get("title_enhanced_zh") or item.get("title_bilingual") or item.get("title"),
-        "title_zh": item.get("title_enhanced_zh") or item.get("title_zh"),
-        "title_en": item.get("title_en"),
-        "title_original": item.get("title_original"),
-        "summary": item.get("summary"),
-        "recommend_reason_zh": item.get("recommend_reason_zh"),
-        "url": item.get("url"),
-        "source": item.get("source"),
-        "source_name": item.get("site_name"),
-        "site_id": item.get("site_id"),
-        "published_at": item.get("published_at"),
-    }
-
-
-def story_reasons(primary: dict[str, Any], score: float, duplicate_count: int) -> list[str]:
-    reasons: list[str] = []
-    tier = source_tier_for_site(str(primary.get("site_id") or ""))
-    if tier["source_tier"] == "official":
-        reasons.append("official_source")
-    if duplicate_count >= 2:
-        reasons.append("multi_source")
-    if ai_relevance_score(primary) >= 0.8:
-        reasons.append("high_ai_relevance")
-    if score >= 0.75:
-        reasons.append("high_importance")
-    if not reasons:
-        reasons.append("recent_ai_signal")
-    return reasons
-
-
-def build_story_record(
-    story_id: str,
-    items: list[dict[str, Any]],
-    now: datetime,
-    window_hours: int,
-) -> dict[str, Any]:
-    sorted_items = sorted(items, key=source_tier_sort_key)
-    primary = choose_primary_story_item(sorted_items, now, window_hours)
-    importance = calculate_item_importance(primary, now, window_hours, duplicate_count=len(items))
-    score = importance["score"]
-    category = story_category(score, primary, len(items))
-    times = [ts for ts in (event_time(item) for item in sorted_items) if ts]
-    # 与前端 timelineIso 的未来时间防御对齐：错标时区的条目漏到 story 层时，
-    # earliest_at/latest_at 不得超过当前时间（精选模式排序/展示走的是这两个字段）
-    story_future_limit = now + timedelta(minutes=10)
-    times = [ts if ts <= story_future_limit else now for ts in times]
-    source_refs = [story_item_link(item) for item in sorted_items]
-    source_names = sorted({str(item.get("source") or item.get("site_name") or "") for item in sorted_items if item.get("source") or item.get("site_name")})
-    title = primary.get("title_enhanced_zh") or primary.get("title_bilingual") or primary.get("title")
-    url = primary.get("url")
-    return {
-        "story_id": story_id,
-        "title": title,
-        "url": url,
-        "primary_url": url,
-        "source": primary.get("source"),
-        "source_name": primary.get("site_name"),
-        "sources": source_refs,
-        "source_count": len(source_refs),
-        "source_names": source_names,
-        "items": source_refs,
-        "item_count": len(sorted_items),
-        "duplicate_count": len(sorted_items),
-        "score": score,
-        "importance": score,
-        "importance_score": score,
-        "importance_label": importance_label(category),
-        "importance_breakdown": importance["breakdown"],
-        "category": category,
-        "reasons": story_reasons(primary, score, len(sorted_items)),
-        "earliest_at": iso(min(times)) if times else None,
-        "latest_at": iso(max(times)) if times else None,
-        "primary_item": {
-            "id": primary.get("id"),
-            "title": title,
-            "title_zh": primary.get("title_enhanced_zh") or primary.get("title_zh"),
-            "title_en": primary.get("title_en"),
-            "title_original": primary.get("title_original"),
-            "summary": primary.get("summary"),
-            "recommend_reason_zh": primary.get("recommend_reason_zh"),
-            "url": url,
-            "source": primary.get("source"),
-            "source_name": primary.get("site_name"),
-        },
-    }
-
-
-def merge_story_items(
-    items: list[dict[str, Any]],
-    now: datetime,
-    window_hours: int,
-    title_window_hours: int = 6,
-    title_threshold: float = 0.86,
-) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
-    groups: dict[str, list[dict[str, Any]]] = {}
-    group_titles: dict[str, str] = {}
-    group_times: dict[str, datetime | None] = {}
-    group_site_ids: dict[str, str] = {}
-    canonical_to_story: dict[str, list[str]] = {}
-    events: list[dict[str, Any]] = []
-
-    ordered = sorted(items, key=lambda item: event_time(item) or datetime.min.replace(tzinfo=UTC))
-    for item in ordered:
-        item_id = str(item.get("id") or "")
-        canonical_url = canonical_story_url(str(item.get("url") or ""))
-        title = normalized_story_title(item)
-        item_site_id = str(item.get("site_id") or "")
-        item_time = event_time(item)
-        story_id: str | None = None
-        reason = ""
-        similarity = 0.0
-
-        if canonical_url:
-            for candidate_id in canonical_to_story.get(canonical_url, []):
-                candidate_title = group_titles.get(candidate_id, "")
-                candidate_site_id = group_site_ids.get(candidate_id, "")
-                if (
-                    item_site_id
-                    and candidate_site_id == item_site_id
-                    and title != candidate_title
-                    and title_similarity(title, candidate_title) < title_threshold
-                ):
-                    # Same-site items sharing a generic/shared URL (e.g. a wiki hub
-                    # page) but with clearly different titles are distinct notes,
-                    # not repeated reports of one event - don't cluster them.
-                    continue
-                story_id = candidate_id
-                reason = "canonical_url"
-                similarity = 1.0
-                break
-
-        if story_id is None and title_is_mergeable(title):
-            for candidate_id, candidate_title in group_titles.items():
-                candidate_time = group_times.get(candidate_id)
-                if item_time and candidate_time:
-                    delta_hours = abs((item_time - candidate_time).total_seconds()) / 3600
-                    if delta_hours > title_window_hours:
-                        continue
-                sim = title_similarity(title, candidate_title)
-                if sim >= title_threshold and story_titles_can_merge(title, candidate_title):
-                    story_id = candidate_id
-                    reason = "title_similarity"
-                    similarity = sim
-                    break
-
-        if story_id is None:
-            story_id = story_id_for_item(item)
-            groups[story_id] = []
-            group_titles[story_id] = title
-            group_times[story_id] = item_time
-            group_site_ids[story_id] = item_site_id
-            if canonical_url:
-                canonical_to_story.setdefault(canonical_url, []).append(story_id)
-        else:
-            events.append(
-                {
-                    "story_id": story_id,
-                    "item_id": item_id,
-                    "merged_into": story_id,
-                    "reason": reason,
-                    "similarity": round(similarity, 4),
-                }
-            )
-            if canonical_url:
-                bucket = canonical_to_story.setdefault(canonical_url, [])
-                if story_id not in bucket:
-                    bucket.append(story_id)
-
-        groups.setdefault(story_id, []).append(item)
-
-    stories = [build_story_record(story_id, group_items, now, window_hours) for story_id, group_items in groups.items()]
-    stories.sort(key=lambda story: (-float(story.get("score") or 0), str(story.get("latest_at") or ""), str(story.get("title") or "")))
-    return stories, events
-
-
-BRIEF_SCORE_GATE = 0.72
-
-
-def story_passes_brief_gate(story: dict[str, Any]) -> bool:
-    """宁缺毋滥: a story earns a brief slot via multi-source confirmation or a
-    strong score. Quiet days produce a short (possibly empty) brief instead of
-    a padded one."""
-    try:
-        sources = int(story.get("source_count") or 1)
-    except Exception:
-        sources = 1
-    try:
-        score = float(story.get("score") or 0)
-    except Exception:
-        score = 0.0
-    return sources >= 2 or score >= BRIEF_SCORE_GATE
-
-
-def select_diverse_stories(
-    stories: list[dict[str, Any]],
-    limit: int,
-    same_source_penalty: float = 0.03,
-) -> list[dict[str, Any]]:
-    """Greedy top-N by score with a per-source decay so one prolific source
-    cannot fill the brief, plus same-cluster suppression across the whole
-    window: a story whose title near-duplicates an already picked one is
-    skipped, so an event reposted hours apart (outside the merge window)
-    still occupies only one slot."""
-    candidates = sorted(stories, key=lambda story: (-float(story.get("score") or 0), str(story.get("title") or "")))
-    picked: list[dict[str, Any]] = []
-    picked_titles: list[tuple[str, set[str]]] = []
-    picked_per_source: dict[str, int] = {}
-    remaining = list(candidates)
-
-    def near_duplicate_of_picked(story: dict[str, Any]) -> bool:
-        title = normalized_story_title(story)
-        if not title_is_mergeable(title):
-            return False
-        tokens = title_tokens(title)
-        for other_title, other_tokens in picked_titles:
-            if not tokens or not other_tokens:
-                continue
-            if len(tokens & other_tokens) / len(tokens | other_tokens) < 0.4:
-                continue
-            if title_similarity(title, other_title) >= 0.86 and story_titles_can_merge(title, other_title):
-                return True
-        return False
-
-    while remaining and len(picked) < limit:
-        best_idx = -1
-        best_eff = float("-inf")
-        for idx, story in enumerate(remaining):
-            source = str(story.get("source") or story.get("source_name") or "")
-            eff = float(story.get("score") or 0) - same_source_penalty * picked_per_source.get(source, 0)
-            if eff > best_eff:
-                best_eff = eff
-                best_idx = idx
-        if best_idx < 0:
-            break
-        chosen = remaining.pop(best_idx)
-        if near_duplicate_of_picked(chosen):
-            continue
-        source = str(chosen.get("source") or chosen.get("source_name") or "")
-        picked_per_source[source] = picked_per_source.get(source, 0) + 1
-        picked.append(chosen)
-        picked_titles.append((normalized_story_title(chosen), title_tokens(normalized_story_title(chosen))))
-    return picked
-
-
-def build_daily_brief_payload(
-    stories: list[dict[str, Any]],
-    generated_at: str,
-    window_hours: int,
-    max_items: int = 20,
-) -> dict[str, Any]:
-    gated = [story for story in stories if story_passes_brief_gate(story)]
-    items = select_diverse_stories(gated, max_items)
-    return {
-        "generated_at": generated_at,
-        "window_hours": window_hours,
-        "total_items": len(items),
-        "items": items,
-    }
-
-
-def build_stories_payload(
-    stories: list[dict[str, Any]],
-    generated_at: str,
-    window_hours: int,
-) -> dict[str, Any]:
-    return {
-        "generated_at": generated_at,
-        "window_hours": window_hours,
-        "total_stories": len(stories),
-        "stories": stories,
-    }
-
-
-def build_merge_log_payload(events: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
-    return {
-        "generated_at": generated_at,
-        "merge_strategy": "url_or_title_similarity_v0_6",
-        "total_events": len(events),
-        "events": events,
-    }
 
 
 def build_creator_hot_items(
@@ -6376,7 +6516,7 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
     slim_payload.pop("items_all", None)
     slim_payload.pop("items_all_raw", None)
     slim_payload["all_mode_data_url"] = "data/latest-24h-all.json"
-    slim_payload["stories_data_url"] = "data/stories-merged.json"
+    slim_payload["events_data_url"] = "data/events.json"
     return slim_payload, all_payload
 
 
@@ -6411,9 +6551,6 @@ def main() -> int:
     latest_all_path = output_dir / "latest-24h-all.json"
     latest_all_raw_path = output_dir / "latest-24h-all-raw.json"
     status_path = output_dir / "source-status.json"
-    daily_brief_path = output_dir / "daily-brief.json"
-    stories_merged_path = output_dir / "stories-merged.json"
-    merge_log_path = output_dir / "merge-log.json"
     waytoagi_path = output_dir / "waytoagi-7d.json"
     title_cache_path = output_dir / "title-zh-cache.json"
     email_digest_path = output_dir / AGENTMAIL_DIGEST_FILE
@@ -6671,11 +6808,7 @@ def main() -> int:
     latest_items_all_raw_dedup = dedupe_items_by_title_url(latest_items_all_raw, random_pick=True)
     latest_items_ai_dedup, title_cache = add_title_enhancements(latest_items_ai_dedup, session, title_cache)
     latest_items_ai_dedup, title_cache = add_recommend_reasons(latest_items_ai_dedup, session, title_cache)
-    stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
     generated_at = iso(now)
-    daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
-    stories_merged_payload = build_stories_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
-    merge_log_payload = build_merge_log_payload(merge_events, generated_at=generated_at)
 
     # site stats
     site_stat: dict[str, dict[str, Any]] = {}
@@ -6824,9 +6957,6 @@ def main() -> int:
     atomic_write_json(latest_path, sanitize_public_payload(latest_payload), indent=2)
     atomic_write_json(latest_all_path, sanitize_public_payload(latest_all_payload), compact=True)
     atomic_write_json(latest_all_raw_path, sanitize_public_payload(latest_all_raw_payload), compact=True)
-    atomic_write_json(daily_brief_path, sanitize_public_payload(daily_brief_payload), indent=2)
-    atomic_write_json(stories_merged_path, sanitize_public_payload(stories_merged_payload), compact=True)
-    atomic_write_json(merge_log_path, sanitize_public_payload(merge_log_payload), indent=2)
     atomic_write_json(archive_path, sanitize_public_payload(archive_payload), compact=True)
     atomic_write_json(status_path, sanitize_public_payload(status_payload), indent=2)
     atomic_write_json(paid_source_state_path, sanitize_public_payload(paid_source_state), indent=2)
@@ -6838,9 +6968,6 @@ def main() -> int:
     print(f"Wrote: {latest_path} ({len(latest_items)} items)")
     print(f"Wrote: {latest_all_path} ({len(latest_items_all_dedup)} all-mode items)")
     print(f"Wrote: {latest_all_raw_path} ({len(latest_items_all_raw_dedup)} raw items, dev-only)")
-    print(f"Wrote: {daily_brief_path} ({daily_brief_payload.get('total_items', 0)} brief items)")
-    print(f"Wrote: {stories_merged_path} ({stories_merged_payload.get('total_stories', 0)} stories)")
-    print(f"Wrote: {merge_log_path} ({len(merge_events)} merge events)")
     print(f"Wrote: {archive_path} ({len(archive)} items)")
     print(f"Wrote: {status_path}")
     print(f"Wrote: {paid_source_state_path}")

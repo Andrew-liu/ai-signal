@@ -16,21 +16,20 @@ const state = {
   siteFilter: "",
   authorFilter: "",
   query: "",
-  // 单层信息架构：category（内容 tab） x mode（精选/全量全局开关）两个维度。
-  // mode=selected 主列表读 mergedStories()（AI 相关合并事件池，纯时间倒序）；
+  // 单层信息架构：category（内容 tab） x mode（最新/全量全局开关）两个维度。
+  // mode=selected 主列表读 freshStories()（事件层 fresh 通道，纯时间倒序）；
   // mode=all 主列表读 itemsAllRaw/itemsAll（全量原始条目池）。
   mode: "selected",
   waytoagiMode: "today",
   waytoagiData: null,
   sourceStatus: null,
   generatedAt: null,
-  dailyBrief: null,
-  top3Personas: null,
-  storiesMerged: null,
-  storiesDataUrl: "data/stories-merged.json",
+  // 事件层（scripts/signal_events.py）：热/新双通道，热点榜与最新页的唯一数据源。
+  events: null,
+  eventsDataUrl: "data/events.json",
   // 内容 tab：单值，默认 "all"（全部，无过滤）
   activeSection: "all",
-  // hash 路由：home(#/ 精选) / all(#/all) / hot(#/hot) / community(#/community)
+  // hash 路由：home(#/selected 最新) / all(#/all) / hot(#/hot) / community(#/community)
   route: "home",
   mainListVisibleCount: 0,
   xAuthorsExpanded: false,
@@ -122,9 +121,6 @@ const modeAllBtnEl = document.getElementById("modeAllBtn");
 const hotBoardWrapEl = document.getElementById("hotBoardWrap");
 const hotBoardListEl = document.getElementById("hotBoardList");
 const hotBoardMetaEl = document.getElementById("hotBoardMeta");
-const top3BoardWrapEl = document.getElementById("top3BoardWrap");
-const top3BoardListEl = document.getElementById("top3BoardList");
-const top3BoardMetaEl = document.getElementById("top3BoardMeta");
 const newsListWrapEl = document.getElementById("newsListWrap");
 const modeHintEl = document.getElementById("modeHint");
 const allDedupeWrapEl = document.getElementById("allDedupeWrap");
@@ -164,6 +160,7 @@ const SOURCE_KINDS = {
   hackernews: { label: "HN", tone: "aggregate" },
   aihubtoday: { label: "AI站点", tone: "aihub" },
   aibase: { label: "AI站点", tone: "aihub" },
+  agihunt: { label: "AGI HUNT", tone: "aihub" },
   waytoagi: { label: "社区", tone: "builders" },
   newsnow: { label: "聚合", tone: "aggregate" },
   opmlrss: { label: "OPML", tone: "newsletter" },
@@ -303,9 +300,9 @@ function renderSourceStatusPill(errorMessage = "") {
   if (failed) sourceStatusPillEl.classList.add("warn");
 }
 
-// 模式文案：精选（AI 相关合并事件池，纯时间序）/ 全量（原始条目池）
+// 模式文案：最新（事件层 fresh 通道，纯时间序）/ 全量（原始条目池）
 function modeLabelText() {
-  return state.mode === "all" ? "全量" : "精选";
+  return state.mode === "all" ? "全量" : "最新";
 }
 
 function sourceKind(siteId) {
@@ -405,7 +402,7 @@ function clearAllFilters() {
   state.xAuthorsExpanded = false;
   if (searchInputEl) searchInputEl.value = "";
   if (siteSelectEl) siteSelectEl.value = "";
-  // 全量页清筛选后回精选路由（route 驱动 mode）；已在精选页则原地重渲染。
+  // 全量页清筛选后回最新路由（route 驱动 mode）；已在最新页则原地重渲染。
   if (state.route === "all") {
     window.location.hash = "#/selected";
     return;
@@ -427,7 +424,7 @@ function computeSiteStats(items) {
   return Array.from(m.values()).sort((a, b) => b.count - a.count || a.site_name.localeCompare(b.site_name, "zh-CN"));
 }
 
-// 具体来源下拉/站点 pill 的统计口径跟随当前模式：精选=AI 相关池，全量=原始条目池。
+// 具体来源下拉/站点 pill 的统计口径跟随当前模式：最新=事件层 fresh 池，全量=原始条目池。
 function currentSiteStats() {
   if (state.mode === "all") return computeSiteStats(effectiveAllItems());
   return safeAiSiteStats().filter((site) => site.count > 0);
@@ -507,7 +504,7 @@ function renderSiteFilters() {
   siteSelectEl.value = state.siteFilter;
 }
 
-// 全局 精选/全量 由路由驱动（#/ 精选，#/all 全量），此处只同步计数与标题等 UI。
+// 全局 最新/全量 由路由驱动（#/selected 最新，#/all 全量），此处只同步计数与标题等 UI。
 function renderModeSwitch() {
   if (modeSelectedBtnEl) {
     modeSelectedBtnEl.classList.toggle("active", state.mode === "selected");
@@ -531,7 +528,7 @@ function renderModeSwitch() {
 
 function listTitleText() {
   const section = state.activeSection !== "all" ? SECTION_BY_ID[state.activeSection] : null;
-  const label = state.mode === "all" ? "全部动态" : "精选";
+  const label = state.mode === "all" ? "全部动态" : "最新";
   return section ? `${section.label} · ${label}` : label;
 }
 
@@ -948,63 +945,6 @@ function timelineMs(item) {
   return Number.isNaN(d.getTime()) ? 0 : d.getTime();
 }
 
-function normalizedEventText(text) {
-  return String(text || "")
-    .toLowerCase()
-    .replace(/https?:\/\/\S+/g, "")
-    .replace(/[\s　]+/g, "")
-    .replace(/[，。、“”‘’：:；;！!？?（）()\[\]【】《》<>·.,/\\|_-]/g, "");
-}
-
-function eventKey(item) {
-  const raw = itemTitleText(item);
-  const bracket = raw.match(/《([^》]{4,40})》/);
-  if (bracket) return `book:${normalizedEventText(bracket[1]).slice(0, 36)}`;
-
-  const normalized = normalizedEventText(raw);
-  const model = normalized.match(/(bitcpmcann|deepseekv\d+(?:pro)?|grokv\d+(?:medium)?|gemini\d+(?:\.\d+)?(?:flash|pro)?|gpt\d+(?:\.\d+)?|llama\d+)/);
-  if (model) return `entity:${model[1]}`;
-
-  return `title:${normalized.slice(0, 34)}`;
-}
-
-function itemIdentityKeys(item) {
-  const keys = new Set();
-  if (!item) return keys;
-  const url = item.url || item.primary_url;
-  if (url) keys.add(`url:${url}`);
-  if (item.id) keys.add(`id:${item.id}`);
-  const title = item.title_zh || item.title || item.title_en || item.title_original;
-  if (title) {
-    keys.add(`event:${eventKey({ ...item, title, title_zh: item.title_zh || title })}`);
-    keys.add(`title:${normalizedEventText(title).slice(0, 34)}`);
-  }
-  return keys;
-}
-
-function storyIdentityKeys(story) {
-  const keys = new Set();
-  if (!story) return keys;
-  const refs = [
-    { id: story.story_id, title: story.title, url: story.primary_url || story.url },
-    story.primary_item,
-    ...(Array.isArray(story.sources) ? story.sources : []),
-    ...(Array.isArray(story.items) ? story.items : []),
-  ].filter(Boolean);
-  refs.forEach((ref) => {
-    itemIdentityKeys(ref).forEach((key) => keys.add(key));
-  });
-  return keys;
-}
-
-function storyHasAnyKey(story, keys) {
-  if (!keys || !keys.size) return false;
-  for (const key of storyIdentityKeys(story)) {
-    if (keys.has(key)) return true;
-  }
-  return false;
-}
-
 function sourceSignal(item) {
   const site = item.site_name || "";
   const source = item.source || "";
@@ -1112,173 +1052,40 @@ function buildEventSourceList(row) {
   return list;
 }
 
-const PERSONA_NAMES = { pragmatic: "实用派", cynic: "毒舌评论员", "paper-police": "较真党" };
-
-// 三口味 persona 的网页展示暂时下线（2026-07-15 归档，样式待重设计，见 docs/ROADMAP.md）。
-// 数据管线（persona_score.py）与 Skill 端不受影响；置回 true 即恢复 TOP3 板块与卡片锐评行。
-const PERSONA_UI_ENABLED = false;
-
-// 锐评字段（persona_review/persona_id）由 persona_score.py 只写进 daily-brief.json；
-// 主列表/热点榜的 story 对象来自 stories-merged.json，天然没有这两个字段，
-// 必须按 story_id 回查每日精选才能拿到锐评。
-let _briefByIdCache = null;
-function briefStoryById(storyId) {
-  if (!storyId) return null;
-  if (!_briefByIdCache) {
-    _briefByIdCache = new Map();
-    briefStories().forEach((s) => {
-      if (s && s.story_id) _briefByIdCache.set(s.story_id, s);
-    });
-  }
-  return _briefByIdCache.get(storyId) || null;
-}
-
-function buildStoryPersonaLine(story) {
-  let source = story;
-  let reviewText = typeof story?.persona_review === "string" ? story.persona_review.trim() : "";
-  if (!reviewText) {
-    source = briefStoryById(story?.story_id);
-    reviewText = typeof source?.persona_review === "string" ? source.persona_review.trim() : "";
-  }
-  if (!reviewText) return null;
-  const line = document.createElement("div");
-  line.className = "story-persona";
-  const label = document.createElement("span");
-  label.className = "story-persona-label";
-  label.textContent = PERSONA_NAMES[source?.persona_id] || PERSONA_NAMES.pragmatic;
-  const text = document.createElement("span");
-  text.className = "story-persona-text";
-  text.textContent = reviewText;
-  line.append(label, text);
-  return line;
-}
-
-function findTop3PersonaEntry(storyId) {
-  if (!storyId) return null;
-  const items = state.top3Personas?.items;
-  if (!Array.isArray(items) || !items.length) return null;
-  return items.find((entry) => entry && entry.story_id === storyId) || null;
-}
-
-function buildPersonaPanel(entry) {
-  const reviews = entry?.reviews;
-  if (!reviews || typeof reviews !== "object") return null;
-  const panel = document.createElement("div");
-  panel.className = "persona-panel";
-  let cols = 0;
-  Object.keys(PERSONA_NAMES).forEach((personaId) => {
-    const review = reviews[personaId];
-    if (!review || typeof review.review !== "string" || !review.review.trim()) return;
-    const col = document.createElement("div");
-    col.className = "persona-col";
-    col.dataset.persona = personaId;
-    const name = document.createElement("span");
-    name.className = "persona-name";
-    name.textContent = PERSONA_NAMES[personaId];
-    const score = document.createElement("strong");
-    score.className = "persona-score";
-    score.textContent = Number.isFinite(Number(review.score)) ? String(review.score) : "-";
-    const text = document.createElement("p");
-    text.className = "persona-review";
-    text.textContent = review.review.trim();
-    col.append(name, score, text);
-    panel.appendChild(col);
-    cols += 1;
-  });
-  return cols > 0 ? panel : null;
-}
-
 const HOT_WINDOW_HOURS = 24;
-const HOT_DECAY_HOURS = 12;
-const HOT_MIN_IMPORTANCE_SCORE = 82;
-const HOT_TRUSTED_IMPORTANCE_SCORE = 76;
 const HOT_BOARD_LIMIT = 20;
 
+// 热度时间轴锚点：事件层生成时间（缺失时退回主数据生成时间）。
 function hotReferenceTimeMs() {
-  const generated = Date.parse(String(state.storiesMerged?.generated_at || state.generatedAt || ""));
+  const generated = Date.parse(String(state.events?.generated_at || state.generatedAt || ""));
   return Number.isFinite(generated) ? generated : Date.now();
 }
 
-function storyAgeHours(story) {
-  const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
-  if (!latest) return Number.POSITIVE_INFINITY;
-  return Math.max(0, (hotReferenceTimeMs() - latest) / 3600000);
-}
-
-function storyHasTrustedHotSource(story) {
-  const refs = [
-    story?.primary_item,
-    ...(Array.isArray(story?.sources) ? story.sources : []),
-  ].filter(Boolean);
-  return refs.some(isCuratedSourceRef);
-}
-
-function storyQualifiesForHotBoard(story) {
-  const ageHours = storyAgeHours(story);
-  if (!Number.isFinite(ageHours) || ageHours > HOT_WINDOW_HOURS) return false;
-  const importance = storyScore(story);
-  return (
-    storySourceCount(story) >= 2 ||
-    importance >= HOT_MIN_IMPORTANCE_SCORE ||
-    (storyHasTrustedHotSource(story) && importance >= HOT_TRUSTED_IMPORTANCE_SCORE)
-  );
-}
-
-function storyHotness(story) {
-  if (!storyQualifiesForHotBoard(story)) return 0;
-  const sourceSignal = Math.min(1, Math.max(0, storySourceCount(story) - 1) / 3);
-  const importanceSignal = Math.min(1, storyScore(story) / 100);
-  const freshnessSignal = Math.exp(-storyAgeHours(story) / HOT_DECAY_HOURS);
-  return (importanceSignal * 0.45) + (sourceSignal * 0.35) + (freshnessSignal * 0.2);
-}
-
 function storyHotScore(story) {
-  const raw = storyHotness(story);
-  return raw > 0 ? Math.max(1, Math.min(100, Math.round(raw * 100))) : 0;
+  const explicit = Number(story?.hot_score);
+  return Number.isFinite(explicit) && explicit > 0 ? Math.max(1, Math.min(100, Math.round(explicit))) : 0;
 }
 
+// 热度排序与中英配比已在管线（signal_events.py）完成，前端只按 hot_rank 输出，不再二次打分。
 function hotStories(stories) {
   return stories
-    .filter(storyQualifiesForHotBoard)
-    .sort((a, b) => {
-      const byHotScore = storyHotScore(b) - storyHotScore(a);
-      if (byHotScore !== 0) return byHotScore;
-      const byEditorial = storyScore(b) - storyScore(a);
-      if (byEditorial !== 0) return byEditorial;
-      const bySources = storySourceCount(b) - storySourceCount(a);
-      if (bySources !== 0) return bySources;
-      return storyTimeMs(b, "latest_at") - storyTimeMs(a, "latest_at");
-    });
+    .filter((story) => story.is_hot && Number.isFinite(Number(story.hot_rank)))
+    .sort((a, b) => Number(a.hot_rank) - Number(b.hot_rank));
 }
 
-function briefStories() {
-  return (Array.isArray(state.dailyBrief?.items) ? state.dailyBrief.items : []).filter((story) => !isUnsafeStory(story));
+function eventStories() {
+  const stories = state.events?.schema === "events_v1" && Array.isArray(state.events.stories) ? state.events.stories : [];
+  return stories.filter((story) => !isUnsafeStory(story));
 }
 
-function mergedStories() {
-  return (Array.isArray(state.storiesMerged?.stories) ? state.storiesMerged.stories : []).filter((story) => !isUnsafeStory(story));
+// 最新通道：管线判定 is_fresh 的新硬事件。
+function freshStories() {
+  return eventStories().filter((story) => story.is_fresh);
 }
 
-// 精选徽章：故事命中每日精选（daily-brief.json）即视为"精选"来源，与分数徽章分开显示
-let _briefIdentityKeyCache = null;
-function briefIdentityKeySet() {
-  if (_briefIdentityKeyCache) return _briefIdentityKeyCache;
-  const keys = new Set();
-  briefStories().forEach((story) => storyIdentityKeys(story).forEach((key) => keys.add(key)));
-  _briefIdentityKeyCache = keys;
-  return keys;
-}
-function isStoryCurated(story) {
-  return storyHasAnyKey(story, briefIdentityKeySet());
-}
-function isCuratedSourceRef(ref) {
-  if (!ref) return false;
-  return ref.site_id === "official_ai" || ref.site_id === "aihot" || ref.source_tier === "official" || ref.source_tier === "curated";
-}
-
-// AI热榜候选池：最近24小时内，多源印证或重要性达标的事件，按综合热度降序。
+// AI 热榜：事件层 hot 通道，叠加当前来源筛选与搜索词。
 function hotBoardStories() {
-  return hotStories(mergedStories().filter((story) =>
+  return hotStories(eventStories().filter((story) =>
     storyMatchesSiteFilter(story) &&
     storyMatchesQuery(story)));
 }
@@ -1290,10 +1097,10 @@ function hotBoardEntries() {
     .map((story, index) => storyToRow(story, index));
 }
 
-// ---- 主列表数据池：精选模式=mergedStories() 全量（纯时间倒序），全量模式=原始条目池 ----
+// ---- 主列表数据池：最新模式=freshStories()（纯时间倒序），全量模式=原始条目池 ----
 
 function mainListStoriesBase() {
-  return mergedStories().filter((story) => storyMatchesSiteFilter(story) && storyMatchesQuery(story));
+  return freshStories().filter((story) => storyMatchesSiteFilter(story) && storyMatchesQuery(story));
 }
 
 function mainListRawItemsBase() {
@@ -1338,7 +1145,7 @@ function storyToRow(story, index = 0) {
   };
 }
 
-// 原始条目 → 统一行模型：无故事引用，渲染时优雅降级（不展示精选徽章/分数/为什么重要）
+// 原始条目 → 统一行模型：无故事引用，渲染时优雅降级（不展示多源/分数/为什么重要）
 function itemToRow(item, index = 0) {
   return {
     item,
@@ -1453,19 +1260,14 @@ function feedSummaryText(item) {
   return "";
 }
 
-// 共享卡片组件：唯一渲染入口，主列表（精选/全量）共用同一基础变体。
-// row.story 存在时展示精选徽章/分数/为什么重要/persona 面板；row.story 为空（全量原始条目）时优雅降级，跳过这些区块。
+// 共享卡片组件：唯一渲染入口，主列表（最新/全量）共用同一基础变体。
+// row.story 存在时展示多源/分数/为什么重要；row.story 为空（全量原始条目）时优雅降级，跳过这些区块。
 // 热点排行区改用 buildHotRow（单行行式渲染），不再走这个卡片模板。
 function renderItemNode(row) {
   const node = itemTpl.content.firstElementChild.cloneNode(true);
   const item = row.item || {};
 
   const metaRow = node.querySelector(".meta-row");
-
-  const curatedEl = node.querySelector(".curated-badge");
-  const curatedRefs = [item, ...(row.story && Array.isArray(row.story.sources) ? row.story.sources : [])];
-  const curated = (row.story && isStoryCurated(row.story)) || curatedRefs.some(isCuratedSourceRef);
-  curatedEl.hidden = !curated;
 
   const siteEl = node.querySelector(".site");
   siteEl.textContent = item.source || item.site_name || "";
@@ -1569,19 +1371,6 @@ function renderItemNode(row) {
     whyBox.hidden = true;
   }
 
-  const personaSlot = node.querySelector(".persona-slot");
-  if (row.story && PERSONA_UI_ENABLED) {
-    const personaEntry = findTop3PersonaEntry(row.story.story_id);
-    const personaPanel = buildPersonaPanel(personaEntry);
-    if (personaPanel) {
-      // TOP3 三口味面板已含默认口味整列，再显示单条锐评行就是原句重复
-      personaSlot.appendChild(personaPanel);
-    } else {
-      const personaLine = buildStoryPersonaLine(row.story);
-      if (personaLine) personaSlot.appendChild(personaLine);
-    }
-  }
-
   const originalLink = document.createElement("a");
   originalLink.className = "original-link original-action";
   originalLink.href = safeExternalUrl(item.url || row.story?.primary_url || row.story?.url);
@@ -1594,7 +1383,7 @@ function renderItemNode(row) {
 }
 
 // 全量页紧凑行（aihot /all 电报流风格）：一行标题 + 来源/栏目 chip，无摘要无推荐理由。
-// 与精选页丰富卡片（renderItemNode）形成视觉分层：精选是"编辑室"，全部是"电报流"。
+// 与最新页丰富卡片（renderItemNode）形成视觉分层：最新是"编辑室"，全部是"电报流"。
 function renderCompactRow(row) {
   const item = row.item || {};
   const el = document.createElement("article");
@@ -1790,7 +1579,7 @@ let _renderListToken = 0;
 const MAIN_LIST_PAGE_SIZE = 60;
 state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
 
-// 主列表：纯时间倒序 + 按日期分组渲染，精选/全量两种模式共用同一套模板。
+// 主列表：纯时间倒序 + 按日期分组渲染，最新/全量两种模式共用同一套模板。
 function renderMainList() {
   const entries = mainListEntries();
   resultCountEl.textContent = `${fmtNumber(entries.length)} 条`;
@@ -1865,7 +1654,7 @@ function renderMainList() {
       dot.className = "timeline-dot";
       rail.append(timeLabel, dot);
       timelineItem.appendChild(rail);
-      // 精选=丰富卡片（徽章/摘要/推荐理由），全量=紧凑电报流行，视觉上一眼可辨
+      // 最新=丰富卡片（徽章/摘要/推荐理由），全量=紧凑电报流行，视觉上一眼可辨
       timelineItem.appendChild(state.mode === "all" ? renderCompactRow(row) : renderItemNode(row));
       frag.appendChild(timelineItem);
     });
@@ -1884,35 +1673,8 @@ function renderMainList() {
   });
 }
 
-function top3BoardEntries() {
-  if (state.mode !== "selected") return [];
-  const t3 = state.top3Personas?.items;
-  if (!Array.isArray(t3) || !t3.length) return [];
-  const byId = new Map(mergedStories().map((s) => [s.story_id, s]));
-  return t3
-    .slice()
-    .sort((a, b) => (Number(a.rank) || 0) - (Number(b.rank) || 0))
-    .map((entry) => byId.get(entry?.story_id))
-    .filter(Boolean)
-    .map((story, index) => storyToRow(story, index));
-}
-
-// 今日 TOP3 板块：三口味并排锐评的固定展示入口。TOP3 卡片在主列表里按时间排序，
-// 常沉在几屏之外（用户翻不到，面板等于隐身），所以命中 top3-personas.json 的故事在这里置顶再展示一次。
-function renderTop3Board() {
-  if (!top3BoardListEl) return;
-  const rows = PERSONA_UI_ENABLED ? top3BoardEntries() : [];
-  const show = rows.length > 0;
-  if (top3BoardWrapEl) top3BoardWrapEl.hidden = !show;
-  if (!show) return;
-  if (top3BoardMetaEl) top3BoardMetaEl.textContent = Object.values(PERSONA_NAMES).join(" · ");
-  top3BoardListEl.innerHTML = "";
-  rows.forEach((row) => top3BoardListEl.appendChild(renderItemNode(row)));
-}
-
-// AI热榜（独立页面 #/hot）：最近24小时内满足多源印证或重要性门槛的事件，最多 HOT_BOARD_LIMIT 条。
+// AI热榜（独立页面 #/hot）：事件层 hot 通道，最多 HOT_BOARD_LIMIT 条。
 function renderHotBoard() {
-  renderTop3Board();
   if (!hotBoardListEl) return;
   hotBoardListEl.innerHTML = "";
 
@@ -1949,7 +1711,6 @@ function rerenderCurrentView() {
   renderSectionTabs();
   renderModeSwitch();
   renderSiteFilters();
-  renderTop3Board();
   renderMainList();
 }
 
@@ -2138,6 +1899,7 @@ const SITE_TIER_RANK_FALLBACK = {
   aihubtoday: 1,
   aibase: 1,
   aihot: 1,
+  agihunt: 1,
   bestblogs: 1,
   curated_media: 2,
   waytoagi: 2,
@@ -2345,61 +2107,25 @@ async function loadSourceStatusData() {
   return res.json();
 }
 
-async function loadDailyBriefData() {
-  const res = await fetch(`${dataUrl("data/daily-brief.json")}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 daily-brief.json 失败: ${res.status}`);
-  return res.json();
-}
-
-async function loadTop3PersonasData() {
-  const res = await fetch(`${dataUrl("data/top3-personas.json")}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 top3-personas.json 失败: ${res.status}`);
-  return res.json();
-}
-
-async function loadStoriesData() {
-  const res = await fetch(`${dataUrl(state.storiesDataUrl)}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 stories-merged.json 失败: ${res.status}`);
+async function loadEventsData() {
+  const res = await fetch(`${dataUrl(state.eventsDataUrl)}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 events.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, eventsResult] = await Promise.allSettled([
     loadNewsData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
-    loadDailyBriefData(),
-    loadStoriesData(),
-    loadTop3PersonasData(),
+    loadEventsData(),
   ]);
 
-  if (briefResult.status === "fulfilled") {
-    state.dailyBrief = briefResult.value;
-  } else {
-    state.dailyBrief = null;
-  }
-  _briefIdentityKeyCache = null;
-
-  // top3-personas.json 是可选增强数据：文件缺失、请求失败或 items 为空都静默降级。
-  if (
-    personasResult.status === "fulfilled" &&
-    Array.isArray(personasResult.value?.items) &&
-    personasResult.value.items.length > 0
-  ) {
-    state.top3Personas = personasResult.value;
-  } else {
-    state.top3Personas = null;
-  }
-
-  if (storiesResult.status === "fulfilled") {
-    state.storiesMerged = storiesResult.value;
-  } else {
-    state.storiesMerged = null;
-  }
+  // events.json 是热点榜与最新页的唯一数据源：缺失或结构不符时两页显示空态，不再回退旧故事层。
+  state.events = eventsResult.status === "fulfilled" && eventsResult.value?.schema === "events_v1" ? eventsResult.value : null;
 
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;
-    const loadedStoriesDataUrl = state.storiesDataUrl;
     state.itemsAi = payload.items_ai || payload.items || [];
     state.itemsAllRaw = payload.items_all_raw || payload.items_all || [];
     state.itemsAll = payload.items_all || [];
@@ -2411,14 +2137,7 @@ async function init() {
     state.totalRaw = payload.total_items_raw || state.itemsAllRaw.length;
     state.totalAllMode = payload.total_items_all_mode || state.itemsAll.length;
     state.allDataUrl = payload.all_mode_data_url || state.allDataUrl;
-    state.storiesDataUrl = payload.stories_data_url || state.storiesDataUrl;
-    if (state.storiesDataUrl !== loadedStoriesDataUrl) {
-      try {
-        state.storiesMerged = await loadStoriesData();
-      } catch {
-        state.storiesMerged = null;
-      }
-    }
+    state.eventsDataUrl = payload.events_data_url || state.eventsDataUrl;
     state.allDataLoaded = Boolean(payload.items_all || payload.items_all_raw);
     state.generatedAt = payload.generated_at;
 
@@ -2456,7 +2175,7 @@ async function init() {
   document.dispatchEvent(new CustomEvent("aiRadar:ready"));
 }
 
-// 搜索：精选/全量按各自池过滤；热点榜页搜索同样生效
+// 搜索：最新/全量按各自池过滤；热点榜页搜索同样生效
 searchInputEl.addEventListener("input", (e) => {
   state.query = e.target.value;
   state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
@@ -2485,7 +2204,7 @@ siteSelectEl.addEventListener("change", (e) => {
   renderMainList();
 });
 
-// ---- Hash 路由：#/ 热点榜（默认落地） · #/selected 精选 · #/all 全量 · #/community 社区 ----
+// ---- Hash 路由：#/ 热点榜（默认落地） · #/selected 最新 · #/all 全量 · #/community 社区 ----
 // #/hot 保留为旧链接兼容别名。
 const ROUTES = {
   "": "hot",
@@ -2519,7 +2238,7 @@ function renderSideNav() {
 
 function pageTitleForRoute() {
   if (state.route === "all") return "全部动态";
-  return "精选";
+  return "最新";
 }
 
 async function applyRoute() {
@@ -2558,7 +2277,6 @@ async function applyRoute() {
     renderSectionTabs();
     renderModeSwitch();
     renderSiteFilters();
-    renderTop3Board();
     renderMainList();
   } else if (state.route === "hot") {
     renderHotBoard();
@@ -2570,7 +2288,7 @@ async function applyRoute() {
 
 window.addEventListener("hashchange", applyRoute);
 
-// 工具栏内的精选/全量开关：与侧边栏路由等价（#/selected 与 #/all），单一事实来源是 hash。
+// 工具栏内的最新/全量开关：与侧边栏路由等价（#/selected 与 #/all），单一事实来源是 hash。
 if (modeSelectedBtnEl) {
   modeSelectedBtnEl.addEventListener("click", () => {
     if (state.route !== "home") window.location.hash = "#/selected";

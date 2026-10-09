@@ -1,12 +1,12 @@
-"""Tests for the v0.6.x quality fixes: URL-host-only relevance matching,
-same-source decay in the daily brief, and near-duplicate item suppression."""
+"""Tests for the v0.6.x quality fixes: URL-host-only relevance matching and
+near-duplicate item suppression."""
 
 from __future__ import annotations
 
 from datetime import datetime, timedelta, timezone
 
 from scripts.ai_relevance import score_ai_relevance
-from scripts.update_news import select_diverse_stories, suppress_near_duplicate_items
+from scripts.update_news import suppress_near_duplicate_items
 
 
 NOW = datetime(2026, 6, 11, 12, 0, tzinfo=timezone.utc)
@@ -47,31 +47,6 @@ class TestUrlHostOnlyRelevance:
         }
         result = score_ai_relevance(rec)
         assert result["is_ai_related"]
-
-
-def make_story(idx: int, source: str, score: float) -> dict:
-    return {
-        "story_id": f"story_{idx}",
-        "title": f"Story {idx}",
-        "source": source,
-        "score": score,
-    }
-
-
-class TestSelectDiverseStories:
-    def test_one_prolific_source_cannot_fill_the_brief(self):
-        stories = [make_story(i, "AIbase", 0.81) for i in range(15)]
-        stories += [make_story(100 + i, f"Official {i}", 0.78) for i in range(10)]
-        picked = select_diverse_stories(stories, 20)
-        aibase = sum(1 for s in picked if s["source"] == "AIbase")
-        assert len(picked) == 20
-        assert aibase < 15
-        assert any(s["source"].startswith("Official") for s in picked[:10])
-
-    def test_top_story_always_survives(self):
-        stories = [make_story(0, "AIbase", 0.95)] + [make_story(i, f"S{i}", 0.5) for i in range(1, 5)]
-        picked = select_diverse_stories(stories, 3)
-        assert picked[0]["story_id"] == "story_0"
 
 
 def make_dup_item(idx: int, title: str, minutes_ago: int, site_id: str = "buzzing", tier_rank: int = 5) -> dict:

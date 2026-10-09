@@ -29,9 +29,7 @@ data/email-digest.json
 # Internal pipeline state: never publish or commit in this fork
 data/archive.json
 data/latest-24h-all-raw.json
-data/merge-log.json
 data/paid-source-state.json
-data/persona-cache.json
 data/title-zh-cache.json
 
 # Build and candidate snapshots

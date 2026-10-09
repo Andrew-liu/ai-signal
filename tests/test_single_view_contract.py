@@ -9,8 +9,7 @@ DATA_FILES = (
     "latest-24h-all.json",
     "waytoagi-7d.json",
     "source-status.json",
-    "daily-brief.json",
-    "stories-merged.json",
+    "events.json",
 )
 REQUIRED_IDS = (
     "updatedAt",
@@ -50,17 +49,18 @@ def test_single_frontend_keeps_last_mile_content_safety_gate():
 
 
 def test_page_exposes_only_one_responsive_surface():
-    source = read("index.html")
-    assert "view-mode.js" not in source
-    assert "view-switch.css" not in source
-    assert "data-radar-view-target" not in source
-    assert 'href="./classic/' not in source
-    assert "data-radar-view=" not in source
+    for page in ("index.html", "archive.html"):
+        source = read(page)
+        assert "view-mode.js" not in source
+        assert "view-switch.css" not in source
+        assert "data-radar-view-target" not in source
+        assert 'href="./classic/' not in source
+        assert "data-radar-view=" not in source
     assert not (ROOT / "classic" / "index.html").exists()
 
 
 def test_page_preserves_required_runtime_dom_contract():
-    source = read("index.html")
+    source = read("archive.html")
     for element_id in REQUIRED_IDS:
         assert f'id="{element_id}"' in source
     assert 'class="news-card"' in source
@@ -71,22 +71,34 @@ def test_page_preserves_required_runtime_dom_contract():
 
 
 def test_page_exposes_ai_trending_board_with_explicit_24h_rules():
-    html = read("index.html")
+    html = read("archive.html")
     app = read("assets/app.js")
     assert 'aria-label="AI热榜"' in html
     assert "AI热榜" in html
     assert "HOT_WINDOW_HOURS = 24" in app
-    assert "HOT_MIN_IMPORTANCE_SCORE = 82" in app
-    assert "HOT_TRUSTED_IMPORTANCE_SCORE = 76" in app
     assert "function hotReferenceTimeMs()" in app
-    assert "function storyHasTrustedHotSource(story)" in app
-    assert "function storyQualifiesForHotBoard(story)" in app
+    assert 'eventsDataUrl: "data/events.json"' in app
+    assert "hot_rank" in app
+    assert "function freshStories()" in app
     assert "热度" in app
+    # 旧前端热度打分与 persona/TOP3/精选池已整体下线，不得回流。
+    for legacy in (
+        "storyQualifiesForHotBoard",
+        "HOT_MIN_IMPORTANCE_SCORE",
+        "daily-brief.json",
+        "stories-merged.json",
+        "top3-personas.json",
+        "PERSONA_UI_ENABLED",
+    ):
+        assert legacy not in app
+    assert "top3BoardWrap" not in html
+    assert "persona-slot" not in html
 
 
 def test_public_build_only_copies_single_frontend_assets():
     source = read("scripts/build_public_site.py")
     assert 'ROOT_DIRS = ("assets",)' in source
+    assert '"archive.html"' in source
     assert '"classic"' not in source
 
 
@@ -110,3 +122,7 @@ def test_tailwind_compiled_styles_are_checked_in():
     assert "tailwindcss v4.3.3" in compiled
     assert ".hot-board-wrap" in compiled
     assert ".news-card" in compiled
+
+
+
+

@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@source "../index.html";
+@source "../archive.html";
 @source "../privacy.html";
 @source "../content-policy.html";
 @source "./app.js";
@@ -405,10 +405,6 @@
     @apply border border-coral/12 bg-coral-soft;
   }
 
-  .top3-board-wrap {
-    @apply bg-midnight text-white;
-  }
-
   .signal-feed {
     @apply border border-black/8 bg-paper-deep/55;
   }
@@ -427,14 +423,7 @@
     @apply mt-2 mb-0 text-[clamp(34px,4vw,48px)] leading-[1.04] font-semibold tracking-[-0.035em] text-ink;
   }
 
-  .top3-board-wrap .section-index,
-  .top3-board-wrap .list-head h2,
-  .top3-board-wrap #top3BoardMeta {
-    @apply text-white;
-  }
-
   #hotBoardMeta,
-  #top3BoardMeta,
   #resultCount,
   #waytoagiUpdatedAt {
     @apply text-right text-xs text-black/45;
@@ -462,10 +451,6 @@
 
   .hot-row-source-toggle {
     @apply bg-transparent p-0 text-current underline decoration-coral/35 underline-offset-2;
-  }
-
-  .top3-board-list {
-    @apply grid gap-3 px-5 pb-6 sm:px-7 lg:px-8 lg:pb-8;
   }
 
   .bole-empty,
@@ -567,7 +552,6 @@
     @apply text-[11px] font-medium text-black/55;
   }
 
-  .curated-badge,
   .score-badge,
   .source,
   .category,
@@ -588,7 +572,6 @@
     @apply bg-black/5 text-black/55;
   }
 
-  .curated-badge,
   .score-badge.tone-hot,
   .ai-tag.hot,
   .signal-tag.tone-hot,
@@ -722,40 +705,6 @@
     @apply mt-0 mr-0 mb-0 ml-[50px] border-t border-coral/15 px-0 pt-2 pb-3;
   }
 
-  .persona-slot:empty {
-    @apply hidden;
-  }
-
-  .story-persona {
-    @apply grid grid-cols-[auto_1fr] gap-2 border-t border-black/8 pt-2.5;
-  }
-
-  .story-persona-label,
-  .persona-name {
-    @apply text-[10px] font-semibold text-signal;
-  }
-
-  .story-persona-text,
-  .persona-review {
-    @apply m-0 text-xs leading-5 text-graphite;
-  }
-
-  .persona-panel {
-    @apply mt-1.5 grid overflow-hidden rounded-xl bg-paper md:grid-cols-3;
-  }
-
-  .persona-col {
-    @apply grid gap-1.5 p-3.5;
-  }
-
-  .persona-col + .persona-col {
-    @apply border-t border-black/8 md:border-t-0 md:border-l;
-  }
-
-  .persona-score {
-    @apply text-xl font-semibold;
-  }
-
   .list-more-btn,
   .bole-more-btn {
     @apply mt-3 ml-[68px] block w-[calc(100%-68px)];
@@ -880,7 +829,6 @@
   }
 
   #hotBoardMeta,
-  #top3BoardMeta,
   #resultCount,
   #waytoagiUpdatedAt {
     @apply text-left;

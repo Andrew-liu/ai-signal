@@ -29,7 +29,7 @@ def main() -> int:
             continue
         payload = json.loads(source.read_text(encoding="utf-8"))
         compact = source.name in {
-            "archive.json", "latest-24h-all.json", "latest-24h-all-raw.json", "stories-merged.json"
+            "archive.json", "latest-24h-all.json", "latest-24h-all-raw.json", "events.json"
         }
         atomic_write_json(args.target_dir / source.name, payload, indent=None if compact else 2, compact=compact)
     print(f"promoted {len(files)} candidate JSON files")

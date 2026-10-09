@@ -2,7 +2,7 @@
 """Cross-audit source quality against AIHOT curation and story selection.
 
 This is a maintainer-facing audit tool. It never mutates pipeline data: it
-reads ``archive.json`` / ``stories-merged.json`` / ``daily-brief.json`` from
+reads ``archive.json`` / ``events.json`` from
 ``--data-dir`` and writes a markdown report. Per-source metrics:
 
 1. total items and AI relevance keep rate (``ai_is_related``; recomputed via
@@ -10,8 +10,7 @@ reads ``archive.json`` / ``stories-merged.json`` / ``daily-brief.json`` from
 2. AIHOT hit rate: share of items matching an AIHOT-curated item by
    normalized-URL exact match or title-token Jaccard >= 0.6
 3. exclusive contribution rate: share of items no other source covered
-4. selection rate: share of items surfacing in daily-brief or multi-source
-   merged stories
+4. selection rate: share of items surfacing in a multi-source hot/fresh event
 5. average ``importance_score`` when items carry one
 
 Matching is implemented locally on purpose so this audit does not import the
@@ -220,13 +219,13 @@ class MatchIndex:
 
 
 def selected_keys_from_stories(
-    stories_payload: dict[str, Any], brief_payload: dict[str, Any]
+    stories_payload: dict[str, Any],
 ) -> tuple[set[str], set[str]]:
-    """Collect item ids and normalized URLs that made the curated layer."""
+    """Collect item ids and normalized URLs that made the event layer."""
     ids: set[str] = set()
     urls: set[str] = set()
 
-    def absorb(story: dict[str, Any]) -> None:
+    for story in stories_payload.get("stories") or []:
         for src in story.get("sources") or []:
             if src.get("id"):
                 ids.add(str(src["id"]))
@@ -236,15 +235,6 @@ def selected_keys_from_stories(
         for sub in story.get("items") or []:
             if isinstance(sub, dict) and sub.get("id"):
                 ids.add(str(sub["id"]))
-
-    for story in stories_payload.get("stories") or []:
-        distinct_sites = {
-            str(src.get("site_id") or "") for src in story.get("sources") or []
-        } - {""}
-        if len(distinct_sites) > 1:
-            absorb(story)
-    for story in brief_payload.get("items") or []:
-        absorb(story)
     return ids, urls
 
 
@@ -299,7 +289,7 @@ def recommendation_sections(stats: dict[str, dict[str, Any]]) -> list[str]:
             f"- **{sid}**：{s['total']} 条 / AI保留率 {pct(s['ai_kept'], s['total'])}"
             f" / AIHOT命中率 {pct(s['aihot_hits'], s['total'])}"
             f" / 独家率 {pct(s['exclusive'], s['total'])}"
-            f" / 进精选率 {pct(s['selected'], s['total'])}"
+            f" / 进事件率 {pct(s['selected'], s['total'])}"
         )
 
     delete: list[str] = []
@@ -323,8 +313,8 @@ def recommendation_sections(stats: dict[str, dict[str, Any]]) -> list[str]:
         "",
         "## 三档建议（仅供决策：删源需 Carl 拍板，本报告只供决策）",
         "",
-        "判据：删 = 量极大(>=5000)且 AI 保留率 <5% 且几乎从不进精选(<0.1%)；"
-        "降权限流 = 量较大(>=1000)且（AI 保留率 <30% 或进精选率 <1%）；其余保留。",
+        "判据：删 = 量极大(>=5000)且 AI 保留率 <5% 且几乎从不进事件层(<0.1%)；"
+        "降权限流 = 量较大(>=1000)且（AI 保留率 <30% 或进事件率 <1%）；其余保留。",
         "",
         "### 删（候选）",
         "",
@@ -367,8 +357,8 @@ def build_report(
         f"- 生成时间：`{generated_at}`",
         f"- 数据窗口：近 {days} 天（`{window_start.date()}` 至 `{window_end.date()}`，"
         f"以 archive 最新条目时间为锚点），共 `{len(window_items)}` 条",
-        "- 数据来源：`data/archive.json`（21 天滚动全量）、`data/stories-merged.json`、"
-        "`data/daily-brief.json`（后两者仅覆盖最近一轮 24h 窗口，「进精选率」按此口径解读）",
+        "- 数据来源：`data/archive.json`（21 天滚动全量）、`data/events.json`"
+        "（仅覆盖最近一轮 24h 窗口，「进事件率」按此口径解读）",
         "",
         "## 方法",
         "",
@@ -379,14 +369,14 @@ def build_report(
         "小写主机名）精确匹配，或标题小写去标点后 token（英文词 + 中文双字）"
         f"Jaccard >= {JACCARD_THRESHOLD} 模糊匹配。",
         "- **独家贡献率**：条目未被任何其他 site_id 的条目（同样的 URL/标题匹配规则）覆盖的比例。",
-        "- **进精选率**：条目出现在 `daily-brief.json` 或 `stories-merged.json` 多源"
-        " story 的 sources 里（按 item id 或归一化 URL 匹配）的比例。",
+        "- **进事件率**：条目出现在 `events.json` 事件的"
+        " sources/items 里（按 item id 或归一化 URL 匹配）的比例。",
         "- **平均 importance**：条目自带 `importance_score` 时的均值；archive 条目"
-        "普遍不带该字段，故补充「story 层均值」= 该源参与的 story 的平均 importance_score。",
+        "普遍不带该字段，故补充「事件层均值」= 该源参与的事件的平均 importance_score。",
         "",
         "## 总表（按 AI 无关噪音条数从高到低）",
         "",
-        "| site_id | tier | 总条数 | AI保留率 | AIHOT命中率 | 独家贡献率 | 进精选率 | 平均importance | story层均值 |",
+        "| site_id | tier | 总条数 | AI保留率 | AIHOT命中率 | 独家贡献率 | 进事件率 | 平均importance | 事件层均值 |",
         "| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |",
     ]
     for sid in site_ids:
@@ -436,7 +426,7 @@ def build_report(
                 f"- 近 {days} 天 {s['total']} 条；AI 保留率 {pct(s['ai_kept'], s['total'])}；"
                 f"AIHOT 命中率 {pct(s['aihot_hits'], s['total'])}；"
                 f"独家贡献率 {pct(s['exclusive'], s['total'])}；"
-                f"进精选率 {pct(s['selected'], s['total'])}。",
+                f"进事件率 {pct(s['selected'], s['total'])}。",
                 f"- {hist_note}",
                 f"- {DISCUSSION_NOTES.get(sid, '')}",
                 "",
@@ -461,8 +451,7 @@ def main() -> int:
     data_dir = Path(args.data_dir)
     archive = load_json(data_dir / "archive.json")
     items = [it for it in (archive.get("items") or []) if isinstance(it, dict)]
-    stories_payload = load_json(data_dir / "stories-merged.json")
-    brief_payload = load_json(data_dir / "daily-brief.json")
+    stories_payload = load_json(data_dir / "events.json")
 
     timestamps = [t for t in (event_time_of(it) for it in items) if t]
     if not timestamps:
@@ -475,7 +464,7 @@ def main() -> int:
     aihot_truth = [it for it in window_items if is_aihot_truth(it)]
     aihot_index = MatchIndex(aihot_truth)
     all_index = MatchIndex(window_items)
-    selected_ids, selected_urls = selected_keys_from_stories(stories_payload, brief_payload)
+    selected_ids, selected_urls = selected_keys_from_stories(stories_payload)
     story_importance = importance_by_site(stories_payload)
 
     stats: dict[str, dict[str, Any]] = defaultdict(

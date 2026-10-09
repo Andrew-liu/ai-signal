@@ -46,11 +46,10 @@ data/*.json
 主要目录：
 
 ```text
-scripts/        数据采集、聚类、评分和发布脚本
+scripts/        数据采集、事件聚类（signal_events.py）、门禁和发布脚本
 assets/         单一响应式前端资源
-data/           网站读取的静态 JSON
+data/           网站读取的静态 JSON（热点榜 / 最新均读 events.json）
 feeds/          OPML 示例与私有订阅入口
-personas/       Persona 评分提示词
 tests/          数据管线与安全测试
 skills/         Agent 消费和维护 Skill
 ```
@@ -85,7 +84,7 @@ python scripts\update_news.py `
   --rss-opml feeds\follow.example.opml `
   --rss-max-feeds 10
 
-python scripts\persona_score.py --data-dir data
+python scripts\signal_events.py --data-dir data
 python scripts\sanitize_public_data.py --data-dir data
 python scripts\quality_gate.py --data-dir data --max-age-hours 6
 python scripts\build_public_site.py --data-dir data --output-dir dist
@@ -97,7 +96,7 @@ python scripts\build_public_site.py --data-dir data --output-dir dist
 
 以下能力通过环境变量或 GitHub Secrets 开启：
 
-- `DEEPSEEK_API_KEY`：中文翻译、标题增强、推荐理由和 Persona 点评
+- `DEEPSEEK_API_KEY`：中文翻译、标题增强和推荐理由（热点榜 / 最新的事件排序不依赖 LLM）
 - `SOCIALDATA_API_KEY`：X 搜索与账号列表
 - `TIKHUB_API_KEY`：抖音与小红书搜索
 - `X_BEARER_TOKEN`：X 官方 API

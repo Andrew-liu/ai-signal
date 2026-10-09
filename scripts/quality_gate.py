@@ -15,10 +15,8 @@ from urllib.parse import parse_qsl, urlparse
 PUBLIC_FILES = (
     "latest-24h.json",
     "latest-24h-all.json",
-    "daily-brief.json",
     "source-status.json",
-    "stories-merged.json",
-    "top3-personas.json",
+    "events.json",
     "waytoagi-7d.json",
 )
 SENSITIVE_KEYS = {
@@ -102,26 +100,44 @@ def validate_shapes(payloads: dict[str, Any]) -> None:
     all_items = all_payload.get("items_all") or []
     require(isinstance(all_items, list), "items_all must be a list")
 
-    brief = payloads["daily-brief.json"]
-    brief_items = brief.get("items") if isinstance(brief, dict) else None
-    require(isinstance(brief_items, list), "daily brief items must be a list")
-    require(brief.get("total_items") == len(brief_items), "daily brief total_items mismatch")
-    for index, item in enumerate(brief_items):
-        validate_item(item, f"brief item {index}")
-
     status = payloads["source-status.json"]
     require(isinstance(status.get("sites"), list), "source status sites must be a list")
     require(isinstance(status.get("successful_sites"), int), "successful_sites must be integer")
 
-    stories = payloads["stories-merged.json"]
-    story_items = stories.get("stories") if isinstance(stories, dict) else None
-    require(isinstance(story_items, list), "stories must be a list")
-    require(stories.get("total_stories") == len(story_items), "total_stories mismatch")
-    for index, item in enumerate(story_items):
-        validate_item(item, f"story {index}")
-
-    personas = payloads["top3-personas.json"]
-    require(isinstance(personas.get("items"), list), "top3 persona items must be a list")
+    events = payloads["events.json"]
+    require(isinstance(events, dict), "events.json must be an object")
+    require(events.get("schema") == "events_v1", "events.json schema must be events_v1")
+    parse_time(events.get("generated_at"))
+    event_items = events.get("stories")
+    require(isinstance(event_items, list), "events stories must be a list")
+    require(events.get("total_stories") == len(event_items), "events total_stories mismatch")
+    by_id: dict[str, dict[str, Any]] = {}
+    for index, item in enumerate(event_items):
+        validate_item(item, f"event {index}")
+        require(item.get("story_id") not in by_id, f"event {index} has duplicate story_id")
+        by_id[item.get("story_id")] = item
+    for lane in ("hot", "fresh"):
+        lane_ids = events.get(lane)
+        require(isinstance(lane_ids, list), f"events {lane} must be a list")
+        require(set(lane_ids) <= set(by_id), f"events {lane} references unknown story_id")
+    ranks = [by_id[story_id].get("hot_rank") for story_id in events["hot"]]
+    require(ranks == list(range(1, len(ranks) + 1)), "events hot_rank must follow the hot list order")
+    for story_id in events["hot"]:
+        require(by_id[story_id].get("is_hot") is True, "events hot list contains a non-hot story")
+    for story_id in events["fresh"]:
+        require(by_id[story_id].get("is_fresh") is True, "events fresh list contains a non-fresh story")
+    lanes = events.get("lanes")
+    require(isinstance(lanes, list) and lanes, "events lanes must be a non-empty list")
+    lane_keys: set[str] = set()
+    for lane in lanes:
+        require(isinstance(lane, dict) and lane.get("key") and lane.get("label"), "events lane needs key and label")
+        require(lane["key"] not in lane_keys, f"events lane {lane['key']} is duplicated")
+        lane_keys.add(lane["key"])
+        ids = lane.get("stories")
+        require(isinstance(ids, list), f"events lane {lane['key']} stories must be a list")
+        require(set(ids) <= set(by_id), f"events lane {lane['key']} references unknown story_id")
+        for story_id in ids:
+            require(by_id[story_id].get("lane") == lane["key"], f"events lane {lane['key']} contains a story from another lane")
 
     waytoagi = payloads["waytoagi-7d.json"]
     require(isinstance(waytoagi.get("updates_7d"), list), "WaytoAGI updates_7d must be a list")
@@ -163,25 +179,28 @@ def validate_quality(
     baseline_dir: Path | None,
     max_age_hours: float,
     min_success_ratio: float,
-    min_brief_items: int,
+    min_event_items: int,
     min_latest_items: int,
     max_drop_ratio: float,
 ) -> None:
     latest = payloads["latest-24h.json"]
     status = payloads["source-status.json"]
-    brief = payloads["daily-brief.json"]
+    events = payloads["events.json"]
 
     generated_at = parse_time(latest.get("generated_at"))
     if max_age_hours > 0:
         age_hours = (datetime.now(timezone.utc) - generated_at).total_seconds() / 3600
         require(-1 <= age_hours <= max_age_hours, f"snapshot age {age_hours:.1f}h exceeds limit")
+    # 事件层没有兜底数据：必须与本轮条目快照同时生成，防止旧 events.json 跟着新数据发布。
+    events_lag = abs((parse_time(events.get("generated_at")) - generated_at).total_seconds()) / 3600
+    require(events_lag <= 1, f"events.json is {events_lag:.1f}h away from latest-24h.json")
 
     sites = status.get("sites") or []
     require(len(sites) >= 5, "fewer than 5 source adapters reported")
     successful = int(status.get("successful_sites") or 0)
     ratio = successful / len(sites)
     require(ratio >= min_success_ratio, f"source success ratio {ratio:.1%} below threshold")
-    require(int(brief.get("total_items") or 0) >= min_brief_items, "daily brief is too small")
+    require(int(events.get("total_stories") or 0) >= min_event_items, "event layer is too small")
     require(int(latest.get("total_items") or 0) >= min_latest_items, "latest AI pool is too small")
 
     if baseline_dir and (baseline_dir / "latest-24h.json").is_file():
@@ -199,7 +218,7 @@ def main() -> int:
     parser.add_argument("--baseline-dir", type=Path)
     parser.add_argument("--max-age-hours", type=float, default=0)
     parser.add_argument("--min-success-ratio", type=float, default=0.70)
-    parser.add_argument("--min-brief-items", type=int, default=5)
+    parser.add_argument("--min-event-items", type=int, default=5)
     parser.add_argument("--min-latest-items", type=int, default=20)
     parser.add_argument("--max-drop-ratio", type=float, default=0.70)
     args = parser.parse_args()
@@ -212,7 +231,7 @@ def main() -> int:
             args.baseline_dir,
             args.max_age_hours,
             args.min_success_ratio,
-            args.min_brief_items,
+            args.min_event_items,
             args.min_latest_items,
             args.max_drop_ratio,
         )
