@@ -2674,7 +2674,9 @@ AGIHUNT_SUMMARY_MAX_CHARS = 280
 
 
 def agihunt_api_key() -> str:
-    return str(os.environ.get("AGIHUNT_API_KEY") or "").strip()
+    # 通过 PowerShell 管道写入的 secret 可能带 BOM/零宽字符，HTTP 头只接受 latin-1，先清掉。
+    raw = str(os.environ.get("AGIHUNT_API_KEY") or "")
+    return raw.replace("\ufeff", "").replace("\u200b", "").strip()
 
 
 def agihunt_request_plan(now: datetime) -> list[tuple[str, str, int, str]]:

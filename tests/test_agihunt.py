@@ -150,3 +150,8 @@ def test_models_channel_outweighs_other_report_channel():
     ds = next(v for k, v in scores.items() if "DeepSeek" in k)
     ms = next(v for k, v in scores.items() if "Mistral" in k)
     assert ds > ms
+
+
+def test_api_key_strips_bom(monkeypatch):
+    monkeypatch.setenv("AGIHUNT_API_KEY", "\ufeffahk_test\r\n")
+    assert update_news.agihunt_api_key() == "ahk_test"
