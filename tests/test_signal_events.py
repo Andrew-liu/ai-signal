@@ -198,3 +198,53 @@ def test_waytoagi_is_tier3_reference_not_independent_source():
     assert story["tier"] == 1
     assert story["source_count"] == 1  # 参考源不算独立来源
     assert {r["tier"] for r in story["sources"]} == {1, 3}
+
+
+def test_aihot_category_hints_and_tip_is_soft_noise():
+    tip = build_item(rec(1, "aihot", "Claude Code 多代理协作的工作流分享", "https://x.com/a/status/1",
+                         source="X：Someone", aihot_category="tip"))
+    assert tip.noise == "soft"
+    model = build_item(rec(2, "aihot", "Acme releases Nova reasoning model", "https://acme.ai/nova",
+                           source="Acme Blog", aihot_category="ai-models"))
+    assert model.category == "model"
+    assert model.in_scope
+    paper = build_item(rec(3, "aihot", "A new study on sparse attention for long context", "https://arxiv.org/abs/1",
+                           source="arXiv", aihot_category="paper"))
+    assert paper.category == "research"
+
+
+def test_aihot_hot_topic_rank_counts_as_extra_channel_and_hides_summary():
+    base = dict(source="The Decoder：AI News（RSS）", aihot_category="industry", summary="AI HOT 写的摘要")
+    plain = rec(1, "aihot", "OpenAI fires three researchers over safety claims",
+                "https://the-decoder.com/openai-fires", **base)
+    ranked = dict(plain, aihot_hot_rank=2, aihot_hot_sources=6)
+
+    without = build_events([plain], NOW)
+    with_rank = build_events([ranked], NOW)
+    story_without = next(iter(without["stories"]), None)
+    story_with = next(s for s in with_rank["stories"])
+    assert story_without is None or not story_without["is_hot"]
+    assert story_with["is_hot"]
+    assert "aihot_hot" in story_with["reasons"]
+    assert all(r["summary"] is None for r in story_with["sources"])
+    assert story_with["primary_item"]["summary"] is None
+
+
+def test_dismissal_reports_merge_across_languages():
+    zh = build_item(rec(1, "aihot", "OpenAI解雇3名研究员，双方就指控各执一词", "https://x.com/a/status/9",
+                        source="X：Someone", aihot_category="industry"))
+    en = build_item(rec(2, "curated_media", "Fired OpenAI safety researchers dispute their dismissal in open letter",
+                        "https://techcrunch.com/openai-fired", source="TechCrunch AI"))
+    assert same_event(zh, en)
+
+
+def test_aihot_rank_outside_top5_only_adds_heat():
+    base = dict(source="The Decoder：AI News（RSS）", aihot_category="industry")
+    plain = rec(1, "aihot", "OpenAI fires three researchers over safety claims",
+                "https://the-decoder.com/openai-fires", **base)
+    media = rec(2, "curated_media", "OpenAI fires three researchers, dispute over safety claims",
+                "https://techcrunch.com/openai-fires", source="TechCrunch AI")
+    low = build_events([plain, media], NOW)["stories"][0]
+    ranked = build_events([dict(plain, aihot_hot_rank=8), media], NOW)["stories"][0]
+    assert low["is_hot"] and ranked["is_hot"]
+    assert ranked["hot_score"] > low["hot_score"]

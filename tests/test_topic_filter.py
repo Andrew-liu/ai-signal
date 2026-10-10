@@ -29,6 +29,7 @@ from scripts.update_news import (
     normalize_source_for_display,
     parse_aihot_api_items,
     parse_aihot_feed_items,
+    apply_aihot_hot_topics,
     parse_curated_ai_media_feed_items,
     parse_date_any,
     parse_feed_entries_via_xml,
@@ -339,11 +340,12 @@ class TopicFilterTests(unittest.TestCase):
                 {
                     "id": "high",
                     "title": "高分条目",
-                    "title_en": "High score item",
-                    "url": "https://example.com/high",
-                    "source": "OpenAI Blog",
+                    "originalTitle": "High score item",
+                    "links": {"aihot": "https://aihot.news/items/high", "original": "https://example.com/high"},
+                    "source": {"name": "OpenAI Blog"},
                     "publishedAt": "2026-06-16T19:35:22.252Z",
-                    "summary": "Worth reading",
+                    "summary": "AI HOT 编辑摘要",
+                    "reason": "推荐理由",
                     "category": "ai-models",
                     "score": 60,
                     "selected": True,
@@ -351,8 +353,8 @@ class TopicFilterTests(unittest.TestCase):
                 {
                     "id": "low",
                     "title": "Low score item",
-                    "url": "https://example.com/low",
-                    "source": "Blog",
+                    "links": {"original": "https://example.com/low"},
+                    "source": {"name": "Blog"},
                     "publishedAt": "2026-06-16T18:00:00.000Z",
                     "score": 59,
                     "selected": True,
@@ -360,8 +362,8 @@ class TopicFilterTests(unittest.TestCase):
                 {
                     "id": "missing",
                     "title": "Missing score item",
-                    "url": "https://example.com/missing",
-                    "source": "Blog",
+                    "links": {"original": "https://example.com/missing"},
+                    "source": {"name": "Blog"},
                     "publishedAt": "2026-06-16T18:00:00.000Z",
                     "score": None,
                     "selected": True,
@@ -372,12 +374,51 @@ class TopicFilterTests(unittest.TestCase):
         items = parse_aihot_api_items(payload, now=datetime(2026, 6, 16, tzinfo=timezone.utc))
         self.assertEqual(len(items), 1)
         self.assertEqual(items[0].title, "高分条目")
+        self.assertEqual(items[0].url, "https://example.com/high")
         self.assertEqual(items[0].source, "OpenAI Blog")
         self.assertEqual(items[0].meta["aihot_score"], 60)
         self.assertEqual(items[0].meta["aihot_category"], "ai-models")
         self.assertEqual(items[0].meta["aihot_ingest_mode"], "api_selected")
         self.assertEqual(items[0].meta["provided_title_zh"], "高分条目")
         self.assertEqual(items[0].meta["provided_title_en"], "High score item")
+        # AI HOT 的 LLM 摘要与推荐理由不入库，避免公开再分发。
+        self.assertNotIn("summary", items[0].meta)
+        self.assertNotIn("reason", items[0].meta)
+
+    def test_apply_aihot_hot_topics_marks_existing_and_adds_missing(self):
+        existing = parse_aihot_api_items(
+            {
+                "items": [
+                    {
+                        "id": "known",
+                        "title": "已在精选里的事件",
+                        "links": {"original": "https://example.com/known"},
+                        "source": {"name": "Blog"},
+                        "publishedAt": "2026-06-16T10:00:00.000Z",
+                        "score": 80,
+                    }
+                ]
+            }
+        )
+        topics = {
+            "items": [
+                {"rank": 3, "id": "known", "title": "已在精选里的事件", "sourceCount": 5,
+                 "links": {"original": "https://example.com/known"}},
+                {"rank": 1, "id": "new", "title": "只在热点榜上的事件", "sourceCount": 6,
+                 "source": {"name": "X：Grok (@grok)"}, "latestAt": "2026-06-16T11:00:00.000Z",
+                 "links": {"original": "https://x.com/grok/status/1", "story": "https://aihot.news/story/x"}},
+                {"rank": "bad", "id": "skip", "title": "坏数据", "links": {"original": "https://example.com/bad"}},
+            ]
+        }
+        extra = apply_aihot_hot_topics(existing, topics)
+        self.assertEqual(existing[0].meta["aihot_hot_rank"], 3)
+        self.assertEqual(existing[0].meta["aihot_hot_sources"], 5)
+        self.assertEqual(len(extra), 1)
+        self.assertEqual(extra[0].url, "https://x.com/grok/status/1")
+        self.assertEqual(extra[0].source, "X：Grok (@grok)")
+        self.assertEqual(extra[0].meta["aihot_hot_rank"], 1)
+        self.assertTrue(extra[0].meta["published_estimated"])
+        self.assertEqual(extra[0].meta["aihot_ingest_mode"], "hot_topics")
 
     def test_bilingual_fields_preserve_source_provided_title_pair_and_summary(self):
         class NoNetworkSession:
@@ -417,15 +458,26 @@ class TopicFilterTests(unittest.TestCase):
             repair_zh_title_translation("GPT-5.5 Bio Bug Bounty", "GPT-5.5 生物错误赏金"),
             "GPT-5.5 生物安全漏洞悬赏",
         )
+        self.assertEqual(
+            repair_zh_title_translation(
+                "Anthropic AI model sent Philadelphia police a fake murder tip",
+                "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
+            ),
+            "Anthropic 人工智能模型向费城警方发送了虚假的凶杀案线索",
+        )
+        self.assertEqual(
+            repair_zh_title_translation("Why humans still beat AI at chess", "人类为何仍在国际象棋上胜过 AI"),
+            "人类为何仍在国际象棋上胜过 AI",
+        )
 
-    def test_fetch_aihot_uses_public_items_api_with_score_filter(self):
+    def test_fetch_aihot_uses_v1_items_api_with_score_filter(self):
         page_1 = {
             "items": [
                 {
                     "id": "page1",
                     "title": "Page one strong item",
-                    "url": "https://example.com/page-1",
-                    "source": "AI HOT Source",
+                    "links": {"original": "https://example.com/page-1"},
+                    "source": {"name": "AI HOT Source"},
                     "publishedAt": "2026-06-16T19:35:22.252Z",
                     "score": 88,
                     "selected": True,
@@ -433,31 +485,31 @@ class TopicFilterTests(unittest.TestCase):
                 {
                     "id": "page1-low",
                     "title": "Page one low item",
-                    "url": "https://example.com/page-1-low",
-                    "source": "AI HOT Source",
-                    "publishedAt": "2026-06-16T19:35:22.252Z",
+                    "links": {"original": "https://example.com/page-1-low"},
+                    "source": {"name": "AI HOT Source"},
+                    "publishedAt": "2026-06-16T19:30:22.252Z",
                     "score": 40,
                     "selected": True,
                 },
             ],
-            "hasNext": True,
-            "nextCursor": "cursor-2",
+            "page": {"count": 2, "hasMore": True, "nextCursor": "cursor-2"},
         }
         page_2 = {
             "items": [
                 {
                     "id": "page2",
                     "title": "Page two boundary item",
-                    "url": "https://example.com/page-2",
-                    "source": "AI HOT Source",
-                    "publishedAt": "2026-06-16T19:36:22.252Z",
+                    "links": {"original": "https://example.com/page-2"},
+                    "source": {"name": "AI HOT Source"},
+                    "publishedAt": "2026-06-16T18:36:22.252Z",
                     "score": 60,
                     "selected": True,
                 }
             ],
-            "hasNext": False,
-            "nextCursor": None,
+            "page": {"count": 1, "hasMore": False, "nextCursor": None},
         }
+        hot = {"items": [{"rank": 1, "id": "page2", "title": "Page two boundary item", "sourceCount": 4,
+                          "links": {"original": "https://example.com/page-2"}}]}
 
         class FakeResponse:
             def __init__(self, payload):
@@ -475,24 +527,67 @@ class TopicFilterTests(unittest.TestCase):
 
             def get(self, url, **kwargs):
                 self.calls.append((url, kwargs))
-                return FakeResponse(page_1 if len(self.calls) == 1 else page_2)
+                if url.endswith("/hot-topics"):
+                    return FakeResponse(hot)
+                item_calls = [c for c in self.calls if c[0].endswith("/items")]
+                return FakeResponse(page_1 if len(item_calls) == 1 else page_2)
 
         session = FakeSession()
-        items = fetch_aihot(session, now=datetime(2026, 6, 16, tzinfo=timezone.utc))
+        items = fetch_aihot(session, now=datetime(2026, 6, 16, 20, tzinfo=timezone.utc))
         self.assertEqual([item.title for item in items], ["Page one strong item", "Page two boundary item"])
-        self.assertEqual(session.calls[0][0], "https://aihot.virxact.com/api/public/items")
-        self.assertEqual(session.calls[0][1]["params"], {"mode": "selected", "take": 100})
-        self.assertEqual(session.calls[1][1]["params"], {"mode": "selected", "take": 100, "cursor": "cursor-2"})
-        self.assertIn("aihot-skill/0.2.0", session.calls[0][1]["headers"]["User-Agent"])
+        self.assertEqual(session.calls[0][0], "https://aihot.news/api/v1/items")
+        base = {"mode": "selected", "window": "7d", "by": "published", "limit": 100}
+        self.assertEqual(session.calls[0][1]["params"], base)
+        self.assertEqual(session.calls[1][1]["params"], {**base, "cursor": "cursor-2"})
+        self.assertEqual(session.calls[2][0], "https://aihot.news/api/v1/hot-topics")
+        self.assertIn("AI-Signal/", session.calls[0][1]["headers"]["User-Agent"])
+        self.assertEqual(items[1].meta["aihot_hot_rank"], 1)
 
-    def test_fetch_aihot_falls_back_to_full_feed_when_api_fails(self):
+    def test_fetch_aihot_stops_paging_past_lookback_window(self):
+        old_page = {
+            "items": [
+                {
+                    "id": "old",
+                    "title": "Two day old item",
+                    "links": {"original": "https://example.com/old"},
+                    "source": {"name": "Blog"},
+                    "publishedAt": "2026-06-14T10:00:00.000Z",
+                    "score": 90,
+                }
+            ],
+            "page": {"hasMore": True, "nextCursor": "more"},
+        }
+
+        class FakeResponse:
+            def __init__(self, payload):
+                self.payload = payload
+
+            def raise_for_status(self):
+                return None
+
+            def json(self):
+                return self.payload
+
+        class FakeSession:
+            def __init__(self):
+                self.calls = []
+
+            def get(self, url, **kwargs):
+                self.calls.append(url)
+                return FakeResponse({"items": []} if url.endswith("/hot-topics") else old_page)
+
+        session = FakeSession()
+        fetch_aihot(session, now=datetime(2026, 6, 16, 20, tzinfo=timezone.utc))
+        self.assertEqual(session.calls.count("https://aihot.news/api/v1/items"), 1)
+
+    def test_fetch_aihot_falls_back_to_summary_feed_when_api_fails(self):
         xml = """<?xml version='1.0' encoding='UTF-8'?>
-<rss><channel><title>AIHOT — 精选全文</title>
+<rss><channel><title>AIHOT — 精选</title>
 <item>
 <title>Qwen ships a multimodal agent plugin</title>
-<link>https://aihot.virxact.com/items/example</link>
+<link>https://aihot.news/items/example</link>
 <pubDate>Mon, 10 Aug 2026 04:04:12 GMT</pubDate>
-<author>noreply@aihot.virxact.com (X：通义千问)</author>
+<author>noreply@aihot.news (X：通义千问)</author>
 </item>
 </channel></rss>""".encode("utf-8")
 
@@ -512,18 +607,18 @@ class TopicFilterTests(unittest.TestCase):
 
             def get(self, url, **kwargs):
                 self.calls.append((url, kwargs))
-                if url.endswith("/api/public/items"):
+                if "/api/v1/" in url:
                     return ApiFailureResponse()
                 return FeedResponse()
 
         session = FakeSession()
         items = fetch_aihot(session, now=datetime(2026, 8, 10, tzinfo=timezone.utc))
         self.assertEqual([call[0] for call in session.calls[:2]], [
-            "https://aihot.virxact.com/api/public/items",
-            "https://aihot.virxact.com/feed/full.xml",
+            "https://aihot.news/api/v1/items",
+            "https://aihot.news/feed.xml",
         ])
         self.assertEqual(len(items), 1)
-        self.assertEqual(items[0].meta["aihot_ingest_mode"], "rss_full_fallback")
+        self.assertEqual(items[0].meta["aihot_ingest_mode"], "rss_fallback")
         self.assertNotIn("aihot_score", items[0].meta)
 
     def test_fetch_aihot_does_not_fallback_for_valid_empty_api_result(self):
@@ -532,7 +627,7 @@ class TopicFilterTests(unittest.TestCase):
                 return None
 
             def json(self):
-                return {"items": [], "hasNext": False, "nextCursor": None}
+                return {"items": [], "page": {"hasMore": False, "nextCursor": None}}
 
         class FakeSession:
             def __init__(self):
@@ -545,8 +640,10 @@ class TopicFilterTests(unittest.TestCase):
         session = FakeSession()
         items = fetch_aihot(session, now=datetime(2026, 8, 10, tzinfo=timezone.utc))
         self.assertEqual(items, [])
-        self.assertEqual(len(session.calls), 1)
-        self.assertEqual(session.calls[0][0], "https://aihot.virxact.com/api/public/items")
+        self.assertEqual([call[0] for call in session.calls], [
+            "https://aihot.news/api/v1/items",
+            "https://aihot.news/api/v1/hot-topics",
+        ])
 
     def test_parse_curated_media_feed_applies_strict_title_filter_and_cap(self):
         xml = """<?xml version='1.0' encoding='UTF-8'?>

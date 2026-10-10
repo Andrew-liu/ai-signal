@@ -85,7 +85,19 @@ AGIHUNT_SOLO_HOT_RANK = 5       # models 最热榜前 5：等同多一个独立�
 AGIHUNT_BONUS_RANKS = 20        # models 最热榜前 20 才给排名加成
 AGIHUNT_MAX_BONUS = 0.8         # 排名加成上限（与 hn_bonus 同量级）
 GITHUB_MAX_BONUS = 0.8          # GitHub Trending 今日新增星数加成上限
+# AI HOT 热点榜（48h 多信源共同讨论的 Top 10）：外部热度参考，与 AGI HUNT models 榜同一用法。
+AIHOT_SOLO_HOT_RANK = 5         # 热点榜前 5：等同多一个独立渠道
+AIHOT_BONUS_RANKS = 10
+AIHOT_MAX_BONUS = 0.6
+# AI HOT 自带分类：教程/观点按软噪声处理（单源不进赛道），模型/论文作为分类提示。
+AIHOT_SOFT_NOISE_CATEGORIES = frozenset({"tip", "opinion"})
+AIHOT_CATEGORY_HINTS: dict[str, tuple[str, tuple[str, ...]]] = {
+    "ai-models": ("model", ("general", "product", "consumer")),
+    "paper": ("research", ("general", "product", "consumer", "model")),
+}
 UNKNOWN_TIME_FRESHNESS_CAP = 0.35
+# 发布时间比首次发现时间还晚超过这个值，就不可信（时区错标、源头写错日期）。
+FUTURE_TOLERANCE_HOURS = 1
 
 # 赛道看板：(key, 标签, 归入的事件分类)。consumer / general 不进任何赛道。
 LANES: tuple[tuple[str, str, tuple[str, ...]], ...] = (
@@ -129,9 +141,107 @@ OFFICIAL_DOMAINS = {
     "aws.amazon.com", "apple.com", "machinelearning.apple.com", "cohere.com", "perplexity.ai",
     "bigmodel.cn", "zhipuai.cn",
 }
-# 同一厂商的多个官网域名归成一个发布方（中英文档各一份，算一个来源）。
-OFFICIAL_DOMAIN_ALIASES = {"bigmodel.cn": "z.ai", "zhipuai.cn": "z.ai"}
 SHARED_HOSTS = {"github.com", "x.com", "twitter.com", "medium.com", "substack.com", "youtube.com", "news.ycombinator.com"}
+
+
+# ---------------------------------------------------------------------------
+# 主体名录（参考 AIHOT industry/taxonomy.ts 的 ENTITIES / IDENTITY_LEXICON /
+# PUBLISHER_DOMAINS，MIT License）。
+# 用途：1) 给每个事件算出「主体」写进 events.json，前端不再自己猜；
+#       2) 同一家公司的多个官方渠道（官网、开发者文档、官方 X 账号）只算一个发布方。
+# 每项：(id, 显示名, 代表域名或 "", 别名)。拉丁别名按词边界匹配，中文别名按子串匹配。
+# 别名以 "re:" 开头时按正则匹配（大小写敏感时在正则里自己处理）。
+# ---------------------------------------------------------------------------
+ENTITY_DIRECTORY: tuple[tuple[str, str, str, tuple[str, ...]], ...] = (
+    ("openai", "OpenAI", "openai.com", ("openai", "chatgpt", "sora", "codex", "dall-e", r"re:(?i)(?<![a-z0-9])gpt-?(?:\d|o\d|4o)")),
+    ("anthropic", "Anthropic", "anthropic.com", ("anthropic", "claude", r"re:(?i)(?<![a-z0-9])(?:opus|sonnet|haiku)[\s-]*\d")),
+    ("google", "Google", "blog.google", ("google", "deepmind", "gemini", "gemma", "notebooklm", "alphafold", "谷歌", r"re:(?i)(?<![a-z0-9])veo[\s-]?\d")),
+    ("meta", "Meta", "ai.meta.com", ("meta ai", "ai at meta", "llama", "@aiatmeta", "zuckerberg", "扎克伯格", r"re:(?<![A-Za-z0-9])Meta(?![A-Za-z0-9])")),
+    ("xai", "xAI", "x.ai", ("xai", "x.ai", "grok")),
+    ("deepseek", "DeepSeek", "deepseek.com", ("deepseek", "深度求索")),
+    ("zhipu", "智谱", "z.ai", ("智谱", "zhipu", "z.ai", "autoglm", "cogview", "cogvideox", r"re:(?i)(?<![a-z0-9])glm-?\d")),
+    ("alibaba", "阿里", "qwen.ai", ("qwen", "通义", "千问", "阿里", "alibaba", "夸克")),
+    ("moonshot", "Kimi", "moonshot.ai", ("kimi", "月之暗面", "moonshot")),
+    ("minimax", "MiniMax", "minimax.io", ("minimax", "海螺")),
+    ("bytedance", "字节", "", ("字节", "豆包", "bytedance", "doubao", "seedance", "即梦", "火山引擎", "volcengine", "trae")),
+    ("tencent", "腾讯", "", ("腾讯", "混元", "tencent", "hunyuan", "元宝")),
+    ("baidu", "百度", "", ("百度", "baidu", "文心", "ernie")),
+    ("huawei", "华为", "", ("华为", "huawei", "昇腾", "ascend", "盘古")),
+    ("xiaomi", "小米", "", ("小米", "xiaomi", "mimo")),
+    ("kuaishou", "快手", "", ("快手", "可灵", "kling", "kuaishou")),
+    ("microsoft", "Microsoft", "microsoft.com", ("microsoft", "微软", "copilot", "azure", "bing")),
+    ("nvidia", "NVIDIA", "nvidia.com", ("nvidia", "英伟达", "nemotron", "blackwell", "cuda", "gb200", "gb300", "dgx")),
+    ("apple", "Apple", "apple.com", ("苹果", "siri", "apple intelligence", r"re:(?<![A-Za-z0-9])Apple(?![A-Za-z0-9])")),
+    ("amazon", "Amazon", "aws.amazon.com", ("amazon", "aws", "亚马逊", "alexa", "bedrock")),
+    ("mistral", "Mistral", "mistral.ai", ("mistral",)),
+    ("huggingface", "Hugging Face", "huggingface.co", ("hugging face", "huggingface")),
+    ("cursor", "Cursor", "cursor.com", ("cursor", "anysphere")),
+    ("perplexity", "Perplexity", "perplexity.ai", ("perplexity",)),
+    ("openrouter", "OpenRouter", "openrouter.ai", ("openrouter",)),
+    ("cohere", "Cohere", "cohere.com", ("cohere",)),
+    ("tesla", "Tesla", "", ("tesla", "特斯拉", "optimus", "robotaxi", "cybercab")),
+    ("unitree", "宇树", "", ("宇树", "unitree")),
+    ("amd", "AMD", "", ("amd",)),
+    ("intel", "Intel", "", ("intel", "英特尔")),
+    ("tsmc", "台积电", "", ("台积电", "tsmc")),
+    ("runway", "Runway", "", ("runway",)),
+    ("midjourney", "Midjourney", "", ("midjourney",)),
+    ("elevenlabs", "ElevenLabs", "", ("elevenlabs", "eleven labs")),
+    ("stability", "Stability AI", "", ("stability ai",)),
+    ("manus", "Manus", "", ("manus",)),
+    ("thinking-machines", "Thinking Machines", "", ("thinking machines",)),
+    ("world-labs", "World Labs", "", ("world labs",)),
+)
+ENTITY_NAMES = {eid: name for eid, name, _, _ in ENTITY_DIRECTORY}
+ENTITY_DOMAIN = {eid: domain for eid, _, domain, _ in ENTITY_DIRECTORY if domain}
+# 官网域名 -> 主体。一家公司的多个域名（中英文档、博客、开发者站）归成同一个发布方。
+DOMAIN_ENTITY = {
+    **{domain: eid for eid, domain in ENTITY_DOMAIN.items()},
+    "claude.com": "anthropic",
+    "deepmind.google": "google", "ai.google.dev": "google", "developers.googleblog.com": "google",
+    "research.google": "google",
+    "about.fb.com": "meta",
+    "api-docs.deepseek.com": "deepseek",
+    "bigmodel.cn": "zhipu", "zhipuai.cn": "zhipu",
+    "qwenlm.github.io": "alibaba",
+    "blogs.microsoft.com": "microsoft",
+    "blogs.nvidia.com": "nvidia", "developer.nvidia.com": "nvidia",
+    "machinelearning.apple.com": "apple",
+}
+
+
+def _compile_entity_aliases() -> tuple[tuple[str, tuple[re.Pattern[str], ...]], ...]:
+    out = []
+    for eid, _name, _domain, aliases in ENTITY_DIRECTORY:
+        patterns = []
+        for alias in aliases:
+            if alias.startswith("re:"):
+                patterns.append(re.compile(alias[3:]))
+            elif re.search(r"[\u4e00-\u9fff]", alias):
+                patterns.append(re.compile(re.escape(alias)))
+            else:
+                patterns.append(re.compile(rf"(?i)(?<![a-z0-9]){re.escape(alias)}(?![a-z0-9])"))
+        out.append((eid, tuple(patterns)))
+    return tuple(out)
+
+
+_ENTITY_PATTERNS = _compile_entity_aliases()
+
+
+def find_entities(text: str) -> list[str]:
+    """按在文本中首次出现的位置排序返回主体 id（并列时按名录顺序）。"""
+    text = str(text or "")
+    hits: list[tuple[int, int, str]] = []
+    for order, (eid, patterns) in enumerate(_ENTITY_PATTERNS):
+        positions = [m.start() for p in patterns for m in [p.search(text)] if m]
+        if positions:
+            hits.append((min(positions), order, eid))
+    return [eid for _, _, eid in sorted(hits)]
+
+
+def entity_for_host(host: str) -> str:
+    domain = official_domain(host, collapse=False)
+    return DOMAIN_ENTITY.get(domain, "") if domain else ""
 
 def publisher_host(url: str) -> str:
     try:
@@ -140,13 +250,17 @@ def publisher_host(url: str) -> str:
         return ""
     return host
 
-def official_domain(host: str) -> str:
+def official_domain(host: str, *, collapse: bool = True) -> str:
     # 取最短的匹配（api-docs.deepseek.com 与 deepseek.com 都归到 deepseek.com），结果与集合遍历顺序无关。
     matches = [d for d in OFFICIAL_DOMAINS if host == d or host.endswith("." + d)]
     if not matches:
         return ""
     domain = min(matches, key=len)
-    return OFFICIAL_DOMAIN_ALIASES.get(domain, domain)
+    if not collapse:
+        return domain
+    # 同一主体的多个官网（claude.com / anthropic.com，bigmodel.cn / z.ai）归成一个发布方。
+    entity = DOMAIN_ENTITY.get(domain)
+    return ENTITY_DOMAIN.get(entity, domain) if entity else domain
 
 
 def channel_for(record: dict[str, Any]) -> tuple[str, str]:
@@ -166,6 +280,11 @@ def channel_for(record: dict[str, Any]) -> tuple[str, str]:
             return f"pub:{domain}", PRIMARY
         if host and host not in SHARED_HOSTS:
             return f"pub:{host}", role
+        if role == PRIMARY:
+            # 官方账号发在共享平台（"X：OpenAI Developers"）：按账号名对到主体，和官网算同一个发布方。
+            names = find_entities(str(record.get("source") or ""))
+            if names and names[0] in ENTITY_DOMAIN:
+                return f"pub:{ENTITY_DOMAIN[names[0]]}", PRIMARY
     return channel, role
 
 
@@ -500,23 +619,106 @@ def is_github_repo_url(url: str) -> bool:
     return owner not in GITHUB_NON_REPO_OWNERS
 
 
+# 分类边界（参考 AIHOT taxonomy.ts CATEGORIES.guide 里写给模型的"和相邻类别的边界"，MIT License）。
+# 只收录关键词规则最容易混淆的几处；先于通用关键词顺序判断。
+#
+# B1 真实安全事故（数据泄露、宕机、漏洞被利用）和诉讼归安全监管，即使标题带模型/产品名。
+INCIDENT_RE = re.compile(
+    r"(?i)(\bbreach(?:es|ed)?\b|\boutages?\b|\bhacked\b|\bexploited\b|\bcve-\d{4}|vulnerabilit(?:y|ies)|"
+    r"security incident|数据泄露|安全事故|宕机|遭攻击|被攻击|漏洞)"
+)
+# B2 系统性红队 / 对齐 / 可解释性实验属于研究，不因提到模型名归模型，也不因"风险"归安全。
+RED_TEAM_RE = re.compile(
+    r"(?i)(red[- ]?team\w*|红队|alignment (?:research|study|paper|experiment)|interpretability|"
+    r"对齐研究|可解释性研究|研究发现|study finds|researchers? (?:find|found|show))"
+)
+# B3 发布新基准 / 评测集 / 数据集归研究；公布一次跑分、榜单成绩归模型。
+NEW_BENCHMARK_RE = re.compile(
+    r"(?i)(?:(?:new|introduc\w+|launch\w*|releas\w+|unveil\w*|open[- ]sourc\w+|推出|发布|开源|提出|构建)"
+    r"[^。.!?！？]{0,40}?|新)(?P<noun>benchmark|eval(?:uation)? suite|evals?\b|dataset|基准|评测集|测试集|数据集)"
+)
+LEADERBOARD_RESULT_RE = re.compile(
+    r"(?i)(登顶|榜首|排名第|拿下|刷新|超越|\bsota\b|\btops?\b|\bbeats?\b|ranks? (?:first|#1|no\.? ?1)|"
+    r"\d+(?:\.\d+)?\s?%|得分|分数|\bscores?\b|\bscored\b)"
+)
+# B4 厂商发布的推理框架、算子库、通信库、硬件适配组件是开发工具，不因带了模型名或厂商名归模型。
+ENGINEERING_COMPONENT_RE = re.compile(
+    r"(?i)(inference (?:engine|framework|server|stack)|serving (?:engine|framework|stack)|"
+    r"(?:kernel|communication|attention|inference) librar(?:y|ies)|\bkernels\b|"
+    r"\bvllm\b|\bsglang\b|tensorrt|llama\.cpp|\bollama\b|\bmlx\b|"
+    r"推理框架|推理引擎|推理加速库|算子库|通信库|适配组件|部署框架)"
+)
+# B5 只是评论市场（"估值是泡沫""营收会翻倍"）不归融资财报；要有具体金额或已发生的交易。
+COMMENTARY_RE = re.compile(
+    r"(?i)(\bsays?\b|\bsaid\b|\bthinks?\b|\bwarns?\b|\bpredicts?\b|\bargues?\b|\bbelieves?\b|\bclaims?\b|"
+    r"\bbubble\b|称|认为|表示|警告|预测|直言|泡沫)"
+)
+CONCRETE_MONEY_RE = re.compile(
+    r"(?i)(\$\s?\d|\d+(?:\.\d+)?\s?(?:m|b|bn|million|billion|trillion)\b|\d+(?:\.\d+)?\s?(?:亿|万)|"
+    r"series [a-f]\b|seed round|[a-f]\s?轮|种子轮|天使轮)"
+)
+DEAL_RE = re.compile(
+    r"(?i)(acquir\w+|acquisition|merger|\bipo\b|files? to go public|earnings|quarterly results|"
+    r"收购|并购|上市|财报|季报|递表)"
+)
+
+
+def _is_business(text: str) -> bool:
+    if not CATEGORY_RULES[0][1].search(text):
+        return False
+    if CONCRETE_MONEY_RE.search(text) or DEAL_RE.search(text):
+        return True
+    return not COMMENTARY_RE.search(text)
+
+
+# "GPT-5.5 找到 Linux 内核漏洞""免费漏洞查找服务"是能力 / 产品新闻，不是安全事故。
+FOUND_BUG_RE = re.compile(
+    r"(?i)((发现|挖出|找到|\bfinds?\b|\bfound\b|discover\w*|uncover\w*)[^。.!?]{0,16}(漏洞|vulnerabilit)"
+    r"|(漏洞|vulnerabilit\w*|bug)\s*(查找|扫描|挖掘|检测|发现|赏金|hunt\w*|scan\w*|find\w*|detect\w*|bount\w*))"
+)
+
+
+def _first_pos(pattern: re.Pattern[str], text: str) -> int | None:
+    m = pattern.search(text)
+    if not m:
+        return None
+    return m.start("noun") if "noun" in pattern.groupindex else m.start()
+
+
+def _leads_model(pattern: re.Pattern[str], text: str) -> bool:
+    """边界词出现在第一个模型版本号之前，说明它才是标题主语（"vLLM 支持 Qwen3.6"）；
+    反过来"Qwen3.6 发布，vLLM 首日支持"的主语是模型。"""
+    pos = _first_pos(pattern, text)
+    if pos is None:
+        return False
+    model_pos = _first_pos(MODEL_VERSION_RE, text.lower())
+    return model_pos is None or pos < model_pos
+
+
 def classify_category(
     text: str,
     entities: dict[str, set[str]] | None = None,
     channel: str = "",
     url: str = "",
 ) -> str:
-    """规则分类，优先级：融资财报 > 带版本号的模型 > GitHub 仓库(开源) > 关键词顺序 > 芯片弱词兜底。"""
-    business = CATEGORY_RULES[0]
-    if business[1].search(text):
-        return business[0]
+    """规则分类。优先级：融资财报 > 分类边界(事故/诉讼、红队研究、新基准、工程组件)
+    > 带版本号的模型 > GitHub 仓库(开源) > 关键词顺序 > 芯片弱词兜底。"""
+    if _is_business(text):
+        return "business"
+    if (INCIDENT_RE.search(text) and not FOUND_BUG_RE.search(text)) or STRONG_SAFETY_RE.search(text):
+        return "safety"
+    if RED_TEAM_RE.search(text):
+        return "research"
+    if _leads_model(NEW_BENCHMARK_RE, text) and not LEADERBOARD_RESULT_RE.search(text):
+        return "research"
+    github = channel == "github_trending" or is_github_repo_url(url)
+    if not github and _leads_model(ENGINEERING_COMPONENT_RE, text):
+        return "devtool"
     if entities and entities.get("models"):
         # "GLM-5.3 开源" 是模型发布，不应因"开源"落到开源/开发工具。
         return "model"
     if channel == "github_trending" or is_github_repo_url(url):
         return "opensource"
-    if STRONG_SAFETY_RE.search(text):
-        return "safety"
     for name, pattern in CATEGORY_RULES[1:]:
         if pattern.search(text):
             return name
@@ -642,6 +844,7 @@ ACTION_CONCEPTS: dict[str, re.Pattern[str]] = {
     "outage": re.compile(r"(?i)(\boutages?\b|\bdegraded\b|\bdowntime\b|宕机|故障|性能下降|服务中断)"),
     "lawsuit": re.compile(r"(?i)(\bsues?\b|\bsued\b|\blawsuits?\b|起诉|诉讼|索赔)"),
     "layoff": re.compile(r"(?i)(\blayoffs?\b|\blays? off\b|裁员)"),
+    "dismiss": re.compile(r"(?i)(\bfired\b|\bfires\b|\bfiring\b|\bdismiss\w*|\bousted\b|解雇|开除|辞退)"),
     "ipo": re.compile(r"(?i)(\bipo\b|首次公开募股)"),
     "acquire": re.compile(r"(?i)(\bacquir\w+|\bacquisition\b|收购|并购)"),
     "revenue": re.compile(r"(?i)(\brevenues?\b|\bearnings\b|\bannuali[sz]ed\b|营收|财报|年化收入)"),
@@ -753,7 +956,24 @@ def build_item(record: dict[str, Any]) -> Item | None:
         if category in overridable and (channel != "agihunt:funding" or MONEY_SIGNAL_RE.search(match_text)):
             category = fallback
         in_scope = True
+    if str(record.get("site_id") or "").lower() == "aihot":
+        aihot_cat = str(record.get("aihot_category") or "").strip().lower()
+        if aihot_cat in AIHOT_SOFT_NOISE_CATEGORIES and noise == "none":
+            noise = "soft"
+        hint = AIHOT_CATEGORY_HINTS.get(aihot_cat)
+        if hint and category in hint[1]:
+            category = hint[0]
+        if aihot_cat:
+            # AI HOT 精选本身只收 AI 领域内容。
+            in_scope = True
+    if role == PRIMARY and noise == "soft" and hard_event:
+        # 分类边界：新闻由当事人发帖、带有态度（"Why we're open-sourcing X"），也不因此变成观点。
+        noise = "none"
     published = parse_iso(record.get("published_at"))
+    first_seen = parse_iso(record.get("first_seen_at"))
+    if published and first_seen and published > first_seen + timedelta(hours=FUTURE_TOLERANCE_HOURS):
+        # 比首次发现还晚 1 小时以上的"发布时间"不可信，按时间未知处理（同 AIHOT decideTimeline）。
+        published = None
     time_known = published is not None and not record.get("published_estimated")
     return Item(
         record=record,
@@ -767,7 +987,7 @@ def build_item(record: dict[str, Any]) -> Item | None:
         channel=channel,
         role=role,
         published=published if time_known else None,
-        first_seen=parse_iso(record.get("first_seen_at")),
+        first_seen=first_seen,
         entities=entities,
         latin=latin_tokens(text),
         bigrams=cjk_bigrams(title_zh),
@@ -1005,6 +1225,25 @@ class Event:
             return 0.0
         return AGIHUNT_MAX_BONUS * (1 - (rank - 1) / AGIHUNT_BONUS_RANKS)
 
+    @property
+    def aihot_hot_rank(self) -> int | None:
+        """AI HOT 热点榜中的最佳排名（无则 None）。"""
+        ranks = []
+        for it in self.items:
+            if str(it.record.get("site_id") or "").lower() != "aihot":
+                continue
+            try:
+                ranks.append(int(it.record.get("aihot_hot_rank")))
+            except (TypeError, ValueError):
+                continue
+        return min(ranks) if ranks else None
+
+    def aihot_bonus(self) -> float:
+        rank = self.aihot_hot_rank
+        if not rank or rank > AIHOT_BONUS_RANKS:
+            return 0.0
+        return AIHOT_MAX_BONUS * (1 - (rank - 1) / AIHOT_BONUS_RANKS)
+
     def github_bonus(self) -> float:
         best = 0
         for it in self.items:
@@ -1023,7 +1262,7 @@ class Event:
                 x_total += w
             else:
                 raw += w
-        raw += min(X_CHANNEL_CAP, x_total) + self.hn_bonus() + self.agihunt_bonus() + self.github_bonus()
+        raw += min(X_CHANNEL_CAP, x_total) + self.hn_bonus() + self.agihunt_bonus() + self.aihot_bonus() + self.github_bonus()
         return 1 - math.exp(-raw / 3.5)
 
     def velocity(self) -> float:
@@ -1062,8 +1301,24 @@ class Event:
         latest = self.latest or self.first_seen
         return (self.now - latest).total_seconds() / 3600 if latest else float("inf")
 
+    @property
+    def current_signal(self) -> bool:
+        """有"此刻正在热"的外部榜单背书：GitHub 今日趋势、HN、AI HOT 热点榜、AGI HUNT 最热榜。
+        这类榜单本身就说明事件是当下的，发布时间未知也可以上榜。"""
+        for it in self.items:
+            rec = it.record
+            if it.github_repo or it.channel == "hn" or rec.get("aihot_hot_rank") or rec.get("agihunt_sort") == "hot":
+                return True
+        return False
+
+    @property
+    def archive_only(self) -> bool:
+        # 旧文不刷屏（参考 AIHOT）：没有可信发布时间的资料不进热榜/最新/赛道，只留在全部动态里标"抓取于"。
+        # CI 每轮不保留归档，first_seen 永远是"本轮"，不能拿它判断新旧。
+        return not self.time_known and not self.current_signal
+
     def eligible(self) -> bool:
-        return self.in_scope and self.noise != "hard" and bool(self.roles - {DROP})
+        return self.in_scope and self.noise != "hard" and bool(self.roles - {DROP}) and not self.archive_only
 
     def is_hot(self) -> bool:
         if not self.eligible() or self.age_hours() > WINDOW_HOURS:
@@ -1073,6 +1328,10 @@ class Event:
         rank = self.agihunt_models_rank
         if rank and rank <= AGIHUNT_SOLO_HOT_RANK:
             # AGI HUNT 的 models 热榜本身是全网多源聚簇结果，前排算一个额外的独立渠道。
+            channels += 1
+        aihot_rank = self.aihot_hot_rank
+        if aihot_rank and aihot_rank <= AIHOT_SOLO_HOT_RANK:
+            # AI HOT 热点榜前排同样是多信源聚簇结果。
             channels += 1
         if channels < need:
             return False
@@ -1101,6 +1360,40 @@ class Event:
         basis = sorted(it.id for it in self.items)[0]
         return "evt_" + hashlib.sha1(basis.encode("utf-8")).hexdigest()[:12]
 
+    def entity_ids(self) -> list[str]:
+        """事件涉及的公司：主标题里的在前，其余按各条报道首次提到的顺序。"""
+        head = self.headline
+        out: list[str] = []
+        for it in [head, *[x for x in self.items if x is not head]]:
+            for eid in find_entities(f"{it.title_zh} {it.title_en} {it.title}"):
+                if eid not in out:
+                    out.append(eid)
+        return out
+
+    def subject(self) -> dict[str, str] | None:
+        """卡片上的「主体」：GitHub 仓库取 owner；否则主标题里最先出现的公司；
+        标题没提公司时用官方发布方（"Introducing Operator" 发在 openai.com）；最后取各报道里最常见的公司。"""
+        repo = next((str(it.record.get("github_repo")) for it in self.items if it.record.get("github_repo")), "")
+        if repo and "/" in repo:
+            owner = repo.split("/")[0]
+            return {"id": f"github:{owner.lower()}", "name": owner}
+        head = self.headline
+        for text in (head.title_zh, head.title_en, head.title):
+            hits = find_entities(text)
+            if hits:
+                return {"id": hits[0], "name": ENTITY_NAMES[hits[0]]}
+        for it in sorted(self.items, key=lambda x: ROLE_RANK[x.role]):
+            if it.role != PRIMARY:
+                continue
+            eid = entity_for_host(publisher_host(it.url)) or next(iter(find_entities(str(it.record.get("source") or ""))), "")
+            if eid:
+                return {"id": eid, "name": ENTITY_NAMES[eid]}
+        firsts = [hits[0] for it in self.items if (hits := find_entities(f"{it.title_zh} {it.title_en} {it.title}"))]
+        if firsts:
+            eid = max(dict.fromkeys(firsts), key=firsts.count)
+            return {"id": eid, "name": ENTITY_NAMES[eid]}
+        return None
+
 
 def source_ref(item: Item) -> dict[str, Any]:
     rec = item.record
@@ -1122,7 +1415,8 @@ def source_ref(item: Item) -> dict[str, Any]:
         "role": item.role,
         "tier": ROLE_TIER.get(item.role, 3),
         "lang": item.lang,
-        "summary": rec.get("summary"),
+        # AI HOT 摘要是其 LLM 编辑内容，按其使用规则不做公开再分发。
+        "summary": None if str(rec.get("site_id") or "").lower() == "aihot" else rec.get("summary"),
     }
 
 
@@ -1134,6 +1428,8 @@ def event_reasons(event: Event, hot: bool, fresh: bool) -> list[str]:
         reasons.append("multi_source")
     if event.agihunt_models_rank:
         reasons.append("agihunt_models_hot")
+    if event.aihot_hot_rank:
+        reasons.append("aihot_hot")
     if hot:
         reasons.append("hot")
     if fresh:
@@ -1207,6 +1503,8 @@ def event_record(event: Event, hot: bool, fresh: bool) -> dict[str, Any]:
         "category": category,
         "category_label": CATEGORY_LABELS.get(category, "AI 动态"),
         "lane": LANE_BY_CATEGORY.get(category),
+        "subject": event.subject(),
+        "entities": event.entity_ids()[:6],
         "tier": event.tier,
         "time_known": event.time_known,
         "github": github_meta(event),

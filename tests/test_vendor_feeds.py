@@ -188,4 +188,5 @@ def test_meta_blog_and_newsroom_ai_only():
     feed = parse_meta_newsroom_feed(META_FEED, OCT)
     assert [it.title for it in feed] == ["Why Data Centers Are Such a Big Part of Meta\u2019s AI Approach"]
     rec = {"site_id": "official_ai", "source": "Meta Newsroom", "url": feed[0].url}
-    assert channel_for(rec) == ("pub:about.fb.com", PRIMARY)
+    # Newsroom 和 AI 博客是同一家公司的两个官网，只算一个发布方。
+    assert channel_for(rec) == ("pub:ai.meta.com", PRIMARY)

@@ -96,14 +96,21 @@ baseline, then let the aggregator layer add breadth.
   Research-heavy feeds are
   intentionally filtered and downweighted so they fill the research lane without
   dominating the default hot view.
-- **AI HOT**: reads the public `https://aihot.virxact.com/api/public/items`
-  API in selected mode and keeps only items whose AI HOT card score is at least
-  60. The parser preserves AI HOT's Chinese title, valid English original title,
-  editorial summary, category, score, and canonical source URL. If that API is
-  unavailable or returns an invalid schema, the collector falls back first to
-  `https://aihot.virxact.com/feed/full.xml`, then to the legacy public RSS
-  endpoints. RSS fallback records remain explicitly marked as unscored degraded
-  input and never receive a fabricated AI HOT score.
+- **AI HOT**: reads `https://aihot.news/api/v1/items` (`mode=selected`,
+  `window=7d`, `by=published`, `limit=100`) and pages back only until items are
+  older than 36 hours, keeping items whose AI HOT score is at least 60. Only
+  title-level fields are kept (Chinese title, original title, source name,
+  original URL, category, score). AI HOT's LLM-written `summary` and `reason`
+  are never stored or published, per its terms on public redistribution.
+  `https://aihot.news/api/v1/hot-topics` (Top 10 multi-source events) is used as
+  an external heat reference: matching items get `aihot_hot_rank`, ranks 1-5
+  count as one extra independent channel, and topics missing from the selected
+  feed are added with an estimated time (never eligible for "fresh"). AI HOT
+  categories `tip`/`opinion` are treated as soft noise, `ai-models`/`paper` as
+  category hints. If the items API fails, the collector falls back to
+  `https://aihot.news/feed.xml`, then `/feed/full.xml`; RSS fallback records
+  stay marked as unscored degraded input. The legacy `/api/public/*` endpoints
+  and the `aihot.virxact.com` domain are retired on 2026-10-31.
 - **Hacker News Algolia**: reads the public
   `https://hn.algolia.com/api/v1/search_by_date` endpoint for the last 24 hours
   of HN stories matching focused AI/tooling keywords such as OpenAI, Anthropic,

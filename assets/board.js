@@ -49,7 +49,7 @@
     "localhost",
     "127.0.0.1",
   ]);
-  // 卡片左侧的「主体」只是展示用的规则猜测，顺序即优先级。
+  // 卡片左侧「主体」的兜底规则（事件已带 subject 时不用），顺序即优先级。
   const WHO_RULES = [
     [/openai|chatgpt|\bgpt-?\d|sora|codex/i, "OpenAI"],
     [/\bxai\b|grok|马斯克|musk/i, "xAI"],
@@ -179,6 +179,9 @@
   }
 
   function who(s) {
+    // 事件的主体由事件层按主体名录算好（scripts/signal_events.py ENTITY_DIRECTORY）；
+    // 下面的规则只给全部动态里没有 subject 的原始条目兜底。
+    if (s.subject && clean(s.subject.name)) return clean(s.subject.name);
     if (s.github && s.github.repo) return String(s.github.repo).split("/")[0];
     const text = `${s.title_zh || ""} ${s.title || ""} ${s.title_en || ""} ${s.url || ""}`;
     for (const [re, name] of WHO_RULES) if (re.test(text)) return name;

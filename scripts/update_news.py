@@ -198,19 +198,22 @@ CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
         "max_entries": 6,
     },
 )
-AIHOT_ITEMS_API_URL = "https://aihot.virxact.com/api/public/items"
+AIHOT_BASE_URL = "https://aihot.news"
+AIHOT_ITEMS_API_URL = f"{AIHOT_BASE_URL}/api/v1/items"
+AIHOT_HOT_TOPICS_URL = f"{AIHOT_BASE_URL}/api/v1/hot-topics"
 AIHOT_MIN_SCORE = 60
-AIHOT_API_TAKE = 100
+AIHOT_API_LIMIT = 100
 AIHOT_API_MAX_PAGES = 5
-AIHOT_API_UA = f"{BROWSER_UA} aihot-skill/0.2.0 AI-News-Radar/0.7"
-AIHOT_FULL_FEED_URL = "https://aihot.virxact.com/feed/full.xml"
-AIHOT_FEED_URL = "https://aihot.virxact.com/feed.xml"
+# 只往回翻到这个时间就停（事件层窗口 24h + 聚簇余量），不每次重翻 7 天。
+AIHOT_LOOKBACK_HOURS = 36
+# 429 由共享会话的 urllib3 Retry 按 Retry-After 等待，这里不再叠一层重试。
+AIHOT_API_UA = f"{BROWSER_UA} AI-Signal/1.0 (+https://github.com/Andrew-liu/ai-signal)"
+# 只取标题级字段：AI HOT 的 LLM 摘要 / 推荐理由按其使用规则不做公开再分发。
+AIHOT_FEED_URL = f"{AIHOT_BASE_URL}/feed.xml"
+AIHOT_FULL_FEED_URL = f"{AIHOT_BASE_URL}/feed/full.xml"
 AIHOT_FALLBACK_FEED_URLS = (
-    AIHOT_FULL_FEED_URL,
     AIHOT_FEED_URL,
-    "https://aihot.virxact.com/rss.xml",
-    "https://aihot.virxact.com/feed",
-    "https://aihot.virxact.com/feed/daily.xml",
+    AIHOT_FULL_FEED_URL,
 )
 FOLLOW_BUILDERS_FEED_BASE = "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main"
 HN_ALGOLIA_URL = "https://hn.algolia.com/api/v1/search_by_date"
@@ -343,6 +346,8 @@ PUBLIC_RAW_META_FIELDS: tuple[str, ...] = (
     "aihot_category",
     "aihot_selected",
     "aihot_ingest_mode",
+    "aihot_hot_rank",
+    "aihot_hot_sources",
     "provided_title_en",
     "provided_title_zh",
     "creator_metrics",
@@ -650,7 +655,8 @@ def correct_future_published(
     典型病例：InfoQ CN 的 RSS 把北京时间直接标成 GMT（如
     "Tue, 14 Jul 2026 22:01:15 GMT" 实为 22:01 北京时间），按标记解析后
     published 领先真实时间 8 小时，前端时间轴出现未来条目。
-    中文源先尝试减 8 小时纠正；纠正后仍在未来（或非中文源）则回退抓取时间。
+    中文源先尝试减 8 小时纠正；纠正后仍在未来（或非中文源）则视为没有可信发布时间，
+    返回 None，不拿抓取时间冒充发布时间（否则旧文每轮都会被当成"刚刚发布"）。
     """
     if published is None:
         return None
@@ -661,7 +667,7 @@ def correct_future_published(
         corrected = published - CST_MISLABEL_OFFSET
         if corrected <= limit:
             return corrected
-    return now
+    return None
 
 
 def correct_feed_published_batch(
@@ -669,7 +675,7 @@ def correct_feed_published_batch(
     now: datetime,
     *,
     assume_cst_mislabel: bool = False,
-) -> list[datetime]:
+) -> list[datetime | None]:
     """feed 级错标推断：同一 feed 只要最新条目在未来且减 8h 后合理，
 
     即可判定整个 feed 都把北京时间错标成了 GMT，本轮全部条目统一纠正——
@@ -2466,7 +2472,24 @@ def parse_aihot_feed_items(feed_content: bytes, now: datetime, feed_url: str = A
     return out
 
 
+def _aihot_nested(entry: dict[str, Any], key: str, field_name: str) -> str:
+    value = entry.get(key)
+    if isinstance(value, dict):
+        return str(value.get(field_name) or "").strip()
+    return ""
+
+
+def _aihot_score(raw_score: Any) -> float | None:
+    if isinstance(raw_score, bool):
+        return None
+    try:
+        return float(raw_score)
+    except (TypeError, ValueError):
+        return None
+
+
 def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) -> list[RawItem]:
+    """解析 ``/api/v1/items``。只取标题级字段：AI HOT 的 LLM 摘要和推荐理由不入库、不公开。"""
     site_id = "aihot"
     site_name = "AI HOT"
     out: list[RawItem] = []
@@ -2479,18 +2502,12 @@ def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) 
     for entry in raw_items:
         if not isinstance(entry, dict):
             continue
-        raw_score = entry.get("score")
-        if isinstance(raw_score, bool):
-            continue
-        try:
-            score = float(raw_score)
-        except (TypeError, ValueError):
-            continue
-        if score < AIHOT_MIN_SCORE:
+        score = _aihot_score(entry.get("score"))
+        if score is None or score < AIHOT_MIN_SCORE:
             continue
 
-        title = maybe_fix_mojibake(str(first_non_empty(entry.get("title"), entry.get("title_en")) or "").strip())
-        link = str(entry.get("url") or "").strip()
+        title = maybe_fix_mojibake(str(first_non_empty(entry.get("title"), entry.get("originalTitle")) or "").strip())
+        link = _aihot_nested(entry, "links", "original")
         if not title or not link:
             continue
         normalized_url = normalize_url(link)
@@ -2499,7 +2516,7 @@ def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) 
         seen_urls.add(normalized_url)
 
         published = parse_iso(str(entry.get("publishedAt") or "")) or parse_date_any(entry.get("publishedAt"), now)
-        source = maybe_fix_mojibake(str(first_non_empty(entry.get("source"), site_name)))
+        source = maybe_fix_mojibake(str(first_non_empty(_aihot_nested(entry, "source", "name"), site_name) or site_name))
         score_value: int | float = int(score) if score.is_integer() else score
         out.append(
             RawItem(
@@ -2517,13 +2534,78 @@ def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) 
                     "aihot_category": entry.get("category"),
                     "aihot_selected": bool(entry.get("selected")),
                     "provided_title_zh": entry.get("title"),
-                    "provided_title_en": entry.get("title_en"),
-                    "summary": entry.get("summary"),
+                    "provided_title_en": entry.get("originalTitle"),
                 },
             )
         )
 
     return out
+
+
+def apply_aihot_hot_topics(items: list[RawItem], payload: dict[str, Any]) -> list[RawItem]:
+    """把 ``/api/v1/hot-topics`` 的排名标到已有条目上；榜上有、精选里没有的事件补成一条。
+
+    AI HOT 热点榜是"48 小时内被多个独立信源共同讨论"的事件，只作为外部热度参考：
+    补进来的条目只有标题和原文链接，发布时间按估计处理（不进"最新"）。
+    """
+    topics = payload.get("items")
+    if not isinstance(topics, list):
+        return []
+    by_id = {str(it.meta.get("aihot_id")): it for it in items if it.meta.get("aihot_id")}
+    by_url = {normalize_url(it.url): it for it in items}
+    extra: list[RawItem] = []
+    for topic in topics:
+        if not isinstance(topic, dict):
+            continue
+        try:
+            rank = int(topic.get("rank"))
+        except (TypeError, ValueError):
+            continue
+        try:
+            source_count = int(topic.get("sourceCount") or 0)
+        except (TypeError, ValueError):
+            source_count = 0
+        original = _aihot_nested(topic, "links", "original")
+        target = by_id.get(str(topic.get("id") or "")) or (by_url.get(normalize_url(original)) if original else None)
+        if target is not None:
+            previous = target.meta.get("aihot_hot_rank")
+            if previous is None or rank < int(previous):
+                target.meta["aihot_hot_rank"] = rank
+                target.meta["aihot_hot_sources"] = source_count
+            continue
+        title = maybe_fix_mojibake(str(topic.get("title") or "").strip())
+        if not title or not original:
+            continue
+        latest = parse_iso(str(topic.get("latestAt") or ""))
+        item = RawItem(
+            site_id="aihot",
+            site_name="AI HOT",
+            source=maybe_fix_mojibake(str(first_non_empty(_aihot_nested(topic, "source", "name"), "AI HOT") or "AI HOT")),
+            title=title,
+            url=original,
+            published_at=latest,
+            meta={
+                "api_url": AIHOT_HOT_TOPICS_URL,
+                "aihot_id": topic.get("id"),
+                "aihot_ingest_mode": "hot_topics",
+                "aihot_hot_rank": rank,
+                "aihot_hot_sources": source_count,
+                "provided_title_zh": title,
+                "published_estimated": True,
+            },
+        )
+        extra.append(item)
+        by_url[normalize_url(original)] = item
+    return extra
+
+
+def _aihot_headers(accept: str) -> dict[str, str]:
+    return {
+        "User-Agent": AIHOT_API_UA,
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+        "Accept": accept,
+        "Accept-Encoding": "gzip",
+    }
 
 
 def fetch_aihot_feed_fallback(session: requests.Session, now: datetime) -> list[RawItem]:
@@ -2533,11 +2615,7 @@ def fetch_aihot_feed_fallback(session: requests.Session, now: datetime) -> list[
             response = session.get(
                 feed_url,
                 timeout=30,
-                headers={
-                    "User-Agent": AIHOT_API_UA,
-                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                    "Accept": "application/rss+xml, application/xml;q=0.9, text/xml;q=0.8",
-                },
+                headers=_aihot_headers("application/rss+xml, application/xml;q=0.9, text/xml;q=0.8"),
             )
             response.raise_for_status()
             items = parse_aihot_feed_items(response.content, now, feed_url)
@@ -2549,38 +2627,57 @@ def fetch_aihot_feed_fallback(session: requests.Session, now: datetime) -> list[
     raise RuntimeError("AI HOT RSS fallbacks failed: " + "; ".join(errors))
 
 
+def _aihot_oldest_published(payload: dict[str, Any]) -> datetime | None:
+    stamps = [
+        parse_iso(str(entry.get("publishedAt") or ""))
+        for entry in payload.get("items") or []
+        if isinstance(entry, dict)
+    ]
+    stamps = [s for s in stamps if s]
+    return min(stamps) if stamps else None
+
+
+def fetch_aihot_items_api(session: requests.Session, now: datetime) -> list[RawItem]:
+    """``/api/v1/items`` 精选流：按原文发布时间倒序翻页，翻过回看窗口就停。"""
+    out: list[RawItem] = []
+    cursor = ""
+    cutoff = now - timedelta(hours=AIHOT_LOOKBACK_HOURS)
+    for _ in range(AIHOT_API_MAX_PAGES):
+        params: dict[str, Any] = {"mode": "selected", "window": "7d", "by": "published", "limit": AIHOT_API_LIMIT}
+        if cursor:
+            params["cursor"] = cursor
+        response = session.get(AIHOT_ITEMS_API_URL, timeout=30, params=params, headers=_aihot_headers("application/json"))
+        response.raise_for_status()
+        payload = response.json()
+        if not isinstance(payload, dict) or not isinstance(payload.get("items"), list):
+            raise ValueError("AI HOT API returned an invalid items schema")
+        out.extend(parse_aihot_api_items(payload, now))
+        page = payload.get("page") if isinstance(payload.get("page"), dict) else {}
+        cursor = str(page.get("nextCursor") or "")
+        oldest = _aihot_oldest_published(payload)
+        if not page.get("hasMore") or not cursor or (oldest is not None and oldest < cutoff):
+            break
+    return out
+
+
 def fetch_aihot(session: requests.Session, now: datetime) -> list[RawItem]:
     try:
-        out: list[RawItem] = []
-        cursor = ""
-        for _ in range(AIHOT_API_MAX_PAGES):
-            params: dict[str, Any] = {"mode": "selected", "take": AIHOT_API_TAKE}
-            if cursor:
-                params["cursor"] = cursor
-            response = session.get(
-                AIHOT_ITEMS_API_URL,
-                timeout=30,
-                params=params,
-                headers={
-                    "User-Agent": AIHOT_API_UA,
-                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                    "Accept": "application/json",
-                },
-            )
-            response.raise_for_status()
-            payload = response.json()
-            if not isinstance(payload, dict) or not isinstance(payload.get("items"), list):
-                raise ValueError("AI HOT API returned an invalid items schema")
-            out.extend(parse_aihot_api_items(payload, now))
-            cursor = str(payload.get("nextCursor") or "")
-            if not payload.get("hasNext") or not cursor:
-                break
-        return out
+        out = fetch_aihot_items_api(session, now)
     except Exception as api_exc:
         try:
-            return fetch_aihot_feed_fallback(session, now)
+            out = fetch_aihot_feed_fallback(session, now)
         except Exception as feed_exc:
             raise RuntimeError(f"AI HOT API failed ({api_exc}); {feed_exc}") from feed_exc
+    # 热点榜只是加权参考：失败不影响主流程。
+    try:
+        response = session.get(AIHOT_HOT_TOPICS_URL, timeout=30, headers=_aihot_headers("application/json"))
+        response.raise_for_status()
+        payload = response.json()
+        if isinstance(payload, dict):
+            out.extend(apply_aihot_hot_topics(out, payload))
+    except Exception as exc:
+        print(f"[warn] AI HOT hot-topics unavailable: {exc}")
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -3315,6 +3412,8 @@ def fetch_opml_rss(
                     assume_cst_mislabel=cn_feed or any(has_cjk(t) for t, _, _ in pending),
                 )
                 for (title, link, _), published in zip(pending, corrected_times):
+                    if published is None:
+                        continue
                     local_items.append(
                         RawItem(
                             site_id="opmlrss",
@@ -3346,6 +3445,8 @@ def fetch_opml_rss(
                     or any(has_cjk(str(e.get("title") or "")) for e, _ in pending_xml),
                 )
                 for (entry, _), published in zip(pending_xml, corrected_times):
+                    if published is None:
+                        continue
                     local_items.append(
                         RawItem(
                             site_id="opmlrss",
@@ -5495,6 +5596,9 @@ def repair_zh_title_translation(original: str, translated: str) -> str:
     # 公司名 Anthropic 被误译为哲学词；仅替换"人择"这类专有误译，不动泛指"人类"的句子。
     if re.search(r"\bAnthropic\b", source, re.I):
         result = result.replace("人择", "Anthropic").replace("人类学公司", "Anthropic")
+        # 原文以 Anthropic 开头、译文以"人类"开头：几乎必是公司名被直译（"人类人工智能模型…"）。
+        if re.match(r"\s*Anthropic\b", source) and result.startswith("人类") and not re.match(r"\s*Anthropic\b", result):
+            result = "Anthropic " + result[2:].lstrip("的 ")
     # 媒体名 The Information 被译成普通名词；只替换书名号/报社式误译，避免动正文里的"信息"。
     if re.search(r"\bThe Information\b", source):
         result = result.replace("《信息》", "The Information").replace("信息报", "The Information")

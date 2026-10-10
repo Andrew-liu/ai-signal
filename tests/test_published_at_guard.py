@@ -40,16 +40,15 @@ class CorrectFuturePublishedTest(unittest.TestCase):
         self.assertEqual(fixed, published - CST_MISLABEL_OFFSET)
         self.assertLessEqual(fixed, NOW + FUTURE_PUBLISH_SKEW)
 
-    def test_future_non_cn_falls_back_to_now(self):
+    def test_future_non_cn_becomes_unknown(self):
+        # 不拿抓取时间冒充发布时间：没有可信时间就是"时间未知"
         published = NOW + timedelta(hours=8)
-        self.assertEqual(correct_future_published(published, NOW), NOW)
+        self.assertIsNone(correct_future_published(published, NOW))
 
-    def test_far_future_cn_still_falls_back_to_now(self):
-        # 减 8h 后仍在未来（源头日期整个写错）→ 回退抓取时间
+    def test_far_future_cn_becomes_unknown(self):
+        # 减 8h 后仍在未来（源头日期整个写错）→ 时间未知
         published = NOW + timedelta(hours=20)
-        self.assertEqual(
-            correct_future_published(published, NOW, assume_cst_mislabel=True), NOW
-        )
+        self.assertIsNone(correct_future_published(published, NOW, assume_cst_mislabel=True))
 
 
 class CorrectFeedPublishedBatchTest(unittest.TestCase):
@@ -71,7 +70,7 @@ class CorrectFeedPublishedBatchTest(unittest.TestCase):
         future = NOW + timedelta(hours=8)
         past = NOW - timedelta(hours=1)
         fixed = correct_feed_published_batch([future, past], NOW, assume_cst_mislabel=False)
-        self.assertEqual(fixed, [NOW, past])
+        self.assertEqual(fixed, [None, past])
 
     def test_empty_list(self):
         self.assertEqual(correct_feed_published_batch([], NOW, assume_cst_mislabel=True), [])

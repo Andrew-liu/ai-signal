@@ -123,9 +123,22 @@ def test_concept_merge_respects_time_window():
 # ---------------------------------------------------------------------------
 
 
-def test_unknown_publish_time_is_never_fresh():
+def test_unknown_publish_time_is_archive_only():
+    # 旧文不刷屏：没有可信发布时间、也没有当前热榜背书 → 不进热榜/最新/赛道。
     records = [
         rec(20, "aibase", "OpenAI 发布 GPT-6 mini 推理模型", "https://www.aibase.com/news/20",
+            hours_ago=0, published_at=None, published_estimated=True),
+    ]
+    payload = build_events(records, NOW)
+    assert payload["stories"] == []
+    assert all(not lane["stories"] for lane in payload["lanes"])
+
+
+def test_unknown_publish_time_with_hot_list_backing_is_never_fresh():
+    records = [
+        rec(21, "aihot", "OpenAI 发布 GPT-6 mini 推理模型", "https://aihot.news/s/21",
+            hours_ago=0, published_estimated=True, aihot_hot_rank=2, aihot_category="ai-models"),
+        rec(22, "aibase", "OpenAI 发布 GPT-6 mini 推理模型", "https://www.aibase.com/news/22",
             hours_ago=0, published_at=None, published_estimated=True),
     ]
     payload = build_events(records, NOW)
@@ -133,6 +146,16 @@ def test_unknown_publish_time_is_never_fresh():
     assert story["time_known"] is False
     assert not story["is_fresh"]
     assert story["freshness"] <= 0.35
+
+
+def test_future_publish_time_is_untrusted():
+    seen = (NOW - timedelta(hours=1)).isoformat()
+    future = (NOW + timedelta(hours=3)).isoformat()
+    records = [
+        rec(23, "curated_media", "OpenAI launches GPT-6 mini reasoning model", "https://techcrunch.com/a",
+            published_at=future, first_seen_at=seen),
+    ]
+    assert build_events(records, NOW)["stories"] == []
 
 
 # ---------------------------------------------------------------------------
