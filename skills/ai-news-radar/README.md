@@ -392,8 +392,8 @@ AgentMail API Key或Inbox ID
 ai-news-radar/
 ├── index.html
 ├── assets/
-│   ├── app.js
-│   └── styles.css
+│   ├── board.js
+│   └── board.css
 ├── data/
 │   ├── latest-24h.json
 │   ├── latest-24h-all.json

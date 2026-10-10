@@ -16,7 +16,6 @@ PUBLIC_DATA_FILES = (
 )
 ROOT_FILES = (
     "index.html",
-    "archive.html",
     "site.webmanifest",
     "privacy.html",
     "content-policy.html",

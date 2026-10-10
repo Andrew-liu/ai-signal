@@ -19,7 +19,7 @@ def test_homepage_is_lane_board_with_inline_views():
     assert "./assets/app.js" not in html
     for element_id in ("lanes", "feed", "skin", "skin-menu", "seg", "views", "view-name", "view-stat", "more", "stamp"):
         assert f'id="{element_id}"' in html
-    # 全部动态和社区在首页内切换，跟随当前主题；旧版页面只作为页脚的高级检索入口。
+    # 全部动态和社区在首页内切换，跟随当前主题；旧版 archive 页已删除。
     for view in ("board", "all", "community"):
         assert f'data-view="{view}"' in html
     assert "archive.html" not in html
@@ -90,8 +90,23 @@ def test_board_csp_only_allows_google_fonts_as_extra_origin():
     assert "https://fonts.gstatic.com" in vercel
 
 
-def test_archive_page_links_back_to_board():
-    html = read("archive.html")
-    assert 'class="sidebar-brand" href="./"' in html
-    assert "赛道看板" in html
-    assert '@source "../archive.html"' in read("assets/tailwind.css")
+def test_legacy_frontend_and_tailwind_chain_are_removed():
+    for rel in (
+        "archive.html",
+        "assets/app.js",
+        "assets/styles.css",
+        "assets/shell.css",
+        "assets/tailwind.css",
+        "package.json",
+        "legacy",
+        "assets/screenshots",
+    ):
+        assert not (ROOT / rel).exists(), rel
+    assert "archive.html" not in read("scripts/build_public_site.py")
+    workflow = read(".github/workflows/update-news.yml")
+    assert "npm" not in workflow
+    assert "tailwind" not in workflow.lower()
+    for page in ("index.html", "privacy.html", "content-policy.html"):
+        html = read(page)
+        for legacy in ("app.js", "styles.css", "shell.css", "archive.html"):
+            assert legacy not in html, (page, legacy)

@@ -96,8 +96,6 @@ baseline, then let the aggregator layer add breadth.
   Research-heavy feeds are
   intentionally filtered and downweighted so they fill the research lane without
   dominating the default hot view.
-- **AI Breakfast**: reads the public Beehiiv archive through Jina Reader because
-  the original Beehiiv feed can be blocked from GitHub Actions.
 - **AI HOT**: reads the public `https://aihot.virxact.com/api/public/items`
   API in selected mode and keeps only items whose AI HOT card score is at least
   60. The parser preserves AI HOT's Chinese title, valid English original title,

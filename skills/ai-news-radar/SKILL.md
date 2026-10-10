@@ -19,7 +19,7 @@ When this skill triggers inside the repo, read these files first:
   planning.
 - `docs/V2_PRODUCT_BRIEF.md` before changing product positioning or first-screen UX.
 - `scripts/update_news.py` before changing data generation.
-- `assets/app.js`, `assets/styles.css`, and `index.html` before changing the UI.
+- `assets/board.js`, `assets/board.css`, and `index.html` before changing the UI.
 - `references/source-intake.md` when the user provides a new site, GitHub repo,
   RSS feed, newsletter, X source, or asks whether a source can be ingested.
 - `references/v2-method.md` when the user asks for product optimization, source
@@ -173,7 +173,7 @@ Run the fastest relevant checks:
 ```bash
 python -m py_compile scripts/update_news.py
 python -m pytest -q
-node --check assets/app.js
+node --check assets/board.js
 git diff --check
 python "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-creator/scripts/quick_validate.py" skills/ai-news-radar
 ```

@@ -69,7 +69,7 @@ AIHOT_FIRST_PARTY_HINTS = (
     "x：阿里云", "x：可灵", "deepseek", "qwen", "github releases",
 )
 
-REPORT_SITES = {"aibase", "aihubtoday", "bestblogs", "aibreakfast"}
+REPORT_SITES = {"aibase", "aihubtoday", "bestblogs"}
 DROP_SITES = {"tikhub_douyin", "tikhub_xiaohongshu"}
 # 三级参考源：进赛道，只加一点热度，不算独立来源、不能单独上热榜或「最新」。
 REFERENCE_SITES = {"waytoagi"}

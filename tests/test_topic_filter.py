@@ -27,7 +27,6 @@ from scripts.update_news import (
     maybe_fetch_x_api_updates,
     maybe_fix_mojibake,
     normalize_source_for_display,
-    parse_ai_breakfast_items,
     parse_aihot_api_items,
     parse_aihot_feed_items,
     parse_curated_ai_media_feed_items,
@@ -315,17 +314,6 @@ class TopicFilterTests(unittest.TestCase):
         self.assertEqual(items[0].source, "OpenAI Codex Changelog")
         self.assertEqual(items[0].title, "Codex app adds workspace companions")
         self.assertEqual(items[0].url, "https://developers.openai.com/codex/changelog#codex-2026-05-01")
-
-    def test_parse_ai_breakfast_items(self):
-        markdown = """
-        [May 1, 2026 • 4 min read ### **Anthropic update lands** AI Breakfast](https://aibreakfast.beehiiv.com/p/anthropic-update-lands)
-        [Apr 29, 2026 • 5 min read ### **OpenAI ships a model update** AI Breakfast](https://aibreakfast.beehiiv.com/p/openai-ships-model-update)
-        """
-        items = parse_ai_breakfast_items(markdown, now=None)
-        self.assertEqual(len(items), 2)
-        self.assertEqual(items[0].source, "AI Breakfast")
-        self.assertEqual(items[0].title, "Anthropic update lands")
-        self.assertEqual(items[0].url, "https://aibreakfast.beehiiv.com/p/anthropic-update-lands")
 
     def test_parse_aihot_feed_items(self):
         xml = """<?xml version='1.0' encoding='UTF-8'?>

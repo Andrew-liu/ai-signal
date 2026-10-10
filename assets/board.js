@@ -123,7 +123,7 @@
     },
   };
 
-  // 与 archive 页 app.js 共用同一个 dataBaseUrl 覆盖开关，只接受可信 https 域名。
+  // dataBaseUrl 覆盖开关只接受可信 https 域名，其余一律回退到同源数据。
   function dataUrl(path) {
     const raw = store.get("dataBaseUrl");
     if (!raw) return path;

@@ -97,21 +97,15 @@ def test_waytoagi_payload_applies_blocklist_to_all_public_updates():
     assert filtered["updates_today"][0]["title"] == "Kept"
 
 
-def test_frontends_do_not_interpolate_external_errors_or_source_names_into_html():
-
-    for relative in ("assets/app.js",):
-
-        text = (ROOT / relative).read_text(encoding="utf-8")
-        assert "${newsResult.reason.message}" not in text
-        assert "${waytoagiResult.reason.message}" not in text
-        assert "${site.site_name || site.site_id}" not in text
-        assert "titleEl.href = item.url" not in text
+def test_frontend_does_not_interpolate_external_errors_or_source_names_into_html():
+    text = (ROOT / "assets/board.js").read_text(encoding="utf-8")
+    assert "innerHTML" not in text
+    assert "insertAdjacentHTML" not in text
+    assert "${site.site_name || site.site_id}" not in text
 
 
-def test_remote_data_source_is_allowlisted_in_both_frontends():
-    for relative in ("assets/app.js",):
-
-        text = (ROOT / relative).read_text(encoding="utf-8")
-        assert "TRUSTED_DATA_HOSTS" in text
-        assert "safeDataBaseUrl" in text
-        assert "safeExternalUrl" in text
+def test_remote_data_source_is_allowlisted():
+    text = (ROOT / "assets/board.js").read_text(encoding="utf-8")
+    assert "TRUSTED_DATA_HOSTS" in text
+    assert "function dataUrl(path)" in text
+    assert 'url.protocol !== "https:"' in text
