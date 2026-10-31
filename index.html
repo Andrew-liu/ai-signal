@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://andrew-liu.github.io https://raw.githubusercontent.com; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <title>AI Signal｜AI 赛道看板</title>
+    <meta name="description" content="按赛道看过去 24 小时 AI 领域最热和最新的事件：模型、开发工具、开源、芯片机器人、融资财报、安全产品。" />
+    <link rel="canonical" href="https://andrew-liu.github.io/ai-signal/" />
+    <meta property="og:title" content="AI Signal｜AI 赛道看板" />
+    <meta property="og:description" content="按赛道看 AI 领域最热和最新的事件。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://andrew-liu.github.io/ai-signal/" />
+    <meta property="og:site_name" content="AI Signal" />
+    <meta name="application-name" content="AI Signal" />
+<meta name="theme-color" content="#f6f1e7" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" href="./assets/logo.svg?v=board-1009" type="image/svg+xml" />
+    <link rel="icon" href="./assets/icons/favicon-32.png?v=board-1009" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png?v=board-1009" sizes="180x180" />
+    <link rel="manifest" href="./site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+SC:wght@500;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" />
+    <link rel="stylesheet" href="./assets/board.css?v=board-1009" />
+  </head>
+  <body data-skin="editorial">
+    <a class="skip-link" href="#feed">跳到事件列表</a>
+    <header class="top">
+      <a class="brand" href="./" aria-label="AI Signal 首页"><span class="brand-mark" aria-hidden="true"></span><span class="brand-name">AI Signal</span></a>
+      <p class="stamp" id="stamp">正在读取数据</p>
+      <nav class="top-links" id="views" aria-label="页面切换">
+        <a href="./?view=board" data-view="board">赛道看板</a>
+        <a href="./?view=all" data-view="all">全部动态</a>
+        <a href="./?view=opensource" data-view="opensource">开源</a>
+        <a href="./?view=community" data-view="community">社区</a>
+      </nav>
+      <div class="skin-pick">
+        <span class="skin-label" id="skin-label">主题</span>
+        <button type="button" class="skin-btn" id="skin" aria-haspopup="listbox" aria-expanded="false" aria-controls="skin-menu" aria-labelledby="skin-label skin-current">
+          <span id="skin-current">报纸头版</span><span class="skin-caret" aria-hidden="true">▾</span>
+        </button>
+        <ul class="skin-menu" id="skin-menu" role="listbox" aria-labelledby="skin-label" tabindex="-1" hidden>
+          <li role="option" data-theme="terminal" aria-selected="false">终端</li>
+          <li role="option" data-theme="editorial" aria-selected="true">报纸头版</li>
+          <li role="option" data-theme="doodle" aria-selected="false">涂鸦手账</li>
+          <li role="option" data-theme="ticker" aria-selected="false">行情终端</li>
+          <li role="option" data-theme="poster" aria-selected="false">色块海报</li>
+          <li role="option" data-theme="notebook" aria-selected="false">实验笔记</li>
+        </ul>
+      </div>
+    </header>
+
+    <nav class="lanes" id="lanes" aria-label="赛道切换" role="tablist"></nav>
+
+    <main class="lane-view" id="view" aria-live="polite">
+      <header class="view-head">
+        <div class="view-title">
+          <span class="view-code" id="view-code"></span>
+          <h1 class="view-name" id="view-name">AI 赛道看板</h1>
+          <p class="view-stat" id="view-stat"></p>
+        </div>
+        <div class="seg" id="seg" role="group" aria-label="筛选">
+          <button type="button" data-filter="all" aria-pressed="true">全部</button>
+          <button type="button" data-filter="hot" aria-pressed="false">热</button>
+          <button type="button" data-filter="new" aria-pressed="false">新</button>
+        </div>
+      </header>
+      <div class="tools" id="os-tools" role="group" aria-label="开源分类" hidden>
+        <section class="os-brief" id="os-brief" aria-label="本期点评" hidden></section>
+        <div class="seg seg-sites" id="os-cats" role="group" aria-label="按分类筛选"></div>
+      </div>
+      <div class="tools" id="tools" role="search" hidden>
+        <input class="q" id="q" type="search" placeholder="搜索标题、公司或来源，空格分隔多个词" aria-label="搜索全部动态" autocomplete="off" maxlength="80" />
+        <div class="seg seg-range" id="range" role="group" aria-label="数据范围"></div>
+        <div class="seg seg-sites" id="sites" role="group" aria-label="按站点筛选"></div>
+        <button type="button" class="tools-clear" id="tools-clear" hidden>清除检索</button>
+      </div>
+      <ol class="feed" id="feed"></ol>
+      <button type="button" class="more" id="more" hidden></button>
+      <article class="doc" id="doc-privacy" hidden>
+        <p>AI Signal 的公开页面无需注册，不主动收集姓名、邮箱或登录信息。浏览器仅保存主题、筛选和受信任数据源偏好。</p>
+        <p>资讯来自公开 RSS、公开网页及明确配置的第三方接口。站点只发布标题、短摘要、来源、时间、公开互动指标与原文链接，不公开 API Key、Cookie、邮箱地址或私有邮件正文。</p>
+        <p>启用外部模型时，部分公开文章正文片段可能被发送给已配置的模型服务，用于翻译、标题增强与摘要。部署者应自行核查对应服务的隐私条款。</p>
+        <p>如需更正、删除或反馈隐私问题，请通过 <a href="https://github.com/Andrew-liu/ai-signal/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a> 提交具体 URL 和理由。</p>
+        <p class="doc-links"><a href="./?view=board" data-view="board">返回赛道看板</a><a href="./?view=policy" data-view="policy">内容与版权</a></p>
+      </article>
+      <article class="doc" id="doc-policy" hidden>
+        <p>AI Signal 是资讯索引与事件聚合服务，不主张第三方新闻、帖子、论文和图片的版权。版权归原发布者或权利人所有。</p>
+        <p>公开页面原则上仅展示标题、必要的短摘要、来源、时间和原文链接。完整内容请访问原始来源；不得把本站摘要视为投资、法律或其他专业建议。</p>
+        <p>来源接入应优先使用官方 RSS、公开 API 或明确允许抓取的页面，并遵守来源服务条款与 robots.txt。付费内容、登录后内容和明确禁止自动化访问的内容不应采集。</p>
+        <p>权利人可通过 <a href="https://github.com/Andrew-liu/ai-signal/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a> 提交删除或更正请求，请附上权利证明、相关 URL 和联系方式。核实后将停止后续公开展示。</p>
+        <p class="doc-links"><a href="./?view=board" data-view="board">返回赛道看板</a><a href="./?view=privacy" data-view="privacy">隐私说明</a></p>
+      </article>
+    </main>
+    <footer class="foot">
+      <span>数据自动生成，关键结论请回到原始来源核验。看板页可用键盘 ← → 切换赛道。</span>
+      <nav aria-label="站点政策">
+        <a href="./?view=all" data-view="all" data-focus="q">高级检索</a>
+        <a href="./?view=privacy" data-view="privacy">隐私说明</a>
+        <a href="./?view=policy" data-view="policy">内容与版权</a>
+        <a href="https://github.com/Andrew-liu/ai-signal" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      </nav>
+    </footer>
+    <script src="./assets/board.js?v=board-1009" defer></script>
+  </body>
+</html>
