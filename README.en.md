@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://andrew-liu.github.io/ai-signal/"><img src="assets/logo.svg" alt="AI Signal" width="120" height="120"></a>
+<a href="https://news.dinosaurliu.com/"><img src="assets/logo.svg" alt="AI Signal" width="120" height="120"></a>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![live](https://img.shields.io/badge/live-AI%20Signal-b8412c?style=flat-square&labelColor=2e4a62)](https://andrew-liu.github.io/ai-signal/) [![update](https://img.shields.io/github/actions/workflow/status/Andrew-liu/ai-signal/update-news.yml?branch=main&label=update&style=flat-square&labelColor=2e4a62&color=b8412c)](https://github.com/Andrew-liu/ai-signal/actions/workflows/update-news.yml) [![license](https://img.shields.io/badge/license-MIT-b8412c?style=flat-square&labelColor=2e4a62)](LICENSE) [![stars](https://img.shields.io/github/stars/Andrew-liu/ai-signal?style=flat-square&labelColor=2e4a62&color=b8412c)](https://github.com/Andrew-liu/ai-signal/stargazers)<br>
+[![live](https://img.shields.io/badge/live-AI%20Signal-b8412c?style=flat-square&labelColor=2e4a62)](https://news.dinosaurliu.com/) [![update](https://img.shields.io/github/actions/workflow/status/Andrew-liu/ai-signal/update-news.yml?branch=main&label=update&style=flat-square&labelColor=2e4a62&color=b8412c)](https://github.com/Andrew-liu/ai-signal/actions/workflows/update-news.yml) [![license](https://img.shields.io/badge/license-MIT-b8412c?style=flat-square&labelColor=2e4a62)](LICENSE) [![stars](https://img.shields.io/github/stars/Andrew-liu/ai-signal?style=flat-square&labelColor=2e4a62&color=b8412c)](https://github.com/Andrew-liu/ai-signal/stargazers)<br>
 [![python](https://img.shields.io/badge/Python-3.11+-b8412c?style=flat-square&labelColor=2e4a62&logo=python&logoColor=white)](https://www.python.org/) [![static](https://img.shields.io/badge/site-static%20HTML-b8412c?style=flat-square&labelColor=2e4a62)](#tech-stack)
 
 </div>
@@ -16,7 +16,7 @@
 <p align="center"><b>AI news by lane: the 24 hours that are actually worth reading.</b></p>
 
 <p align="center">
-  <a href="https://andrew-liu.github.io/ai-signal/">Live site</a> ·
+  <a href="https://news.dinosaurliu.com/">Live site</a> ·
   <a href="README.md">中文</a> ·
   <a href="docs/SOURCE_COVERAGE.md">Source strategy</a> ·
   <a href="docs/CONFIG_REFERENCE.md">Config reference</a>

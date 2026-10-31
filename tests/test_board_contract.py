@@ -101,6 +101,16 @@ def test_first_screen_is_not_blocked_by_fonts_or_cache_busting():
     assert ".finally(loadFonts)" in js
     # 数据请求复用浏览器缓存与 ETag，不能每次都强制全量下载。
     assert 'cache: "no-store"' not in js
+    # 连接卡住时必须超时重试，不能无限停在「正在读取数据」。
+    assert "AbortController" in js
+    assert "ATTEMPT_TIMEOUTS_MS" in js
+
+
+def test_public_links_use_custom_domain():
+    for rel in ("index.html", "privacy.html", "content-policy.html", "README.md", "README.en.md"):
+        text = read(rel)
+        assert "andrew-liu.github.io/ai-signal" not in text, rel
+    assert '<link rel="canonical" href="https://news.dinosaurliu.com/" />' in read("index.html")
 
 
 def test_legacy_frontend_and_tailwind_chain_are_removed():

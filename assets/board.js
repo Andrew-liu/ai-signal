@@ -47,6 +47,7 @@
   ];
   const TRUSTED_DATA_HOSTS = new Set([
     window.location.hostname,
+    "news.dinosaurliu.com",
     "andrew-liu.github.io",
     "raw.githubusercontent.com",
     "localhost",
@@ -144,13 +145,44 @@
   const pending = new Map();
   // 不用 no-store：GitHub Pages 本身给数据 max-age=600，CDN 也缓存 10 分钟，no-store 拿不到更新的数据，
   // 只会让每次打开都重新下载全部 JSON。默认缓存下 10 分钟内秒开，过期后靠 ETag 走 304。
+  // 国内到 GitHub Pages 的连接偶尔会卡在握手阶段不返回，浏览器会一直等下去。
+  // 所以每次请求都设超时，超时就换一条新连接重试，并在加载提示里告诉用户正在重试。
+  const ATTEMPT_TIMEOUTS_MS = [10000, 15000, 25000];
+  function retryNote(text) {
+    const node = document.querySelector("#feed > li.empty");
+    if (node && node.textContent.startsWith("正在读取数据")) node.textContent = `正在读取数据 · ${text}`;
+  }
+  function fetchJson(path) {
+    const name = path.split("/").pop();
+    const attempt = (n) => {
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), ATTEMPT_TIMEOUTS_MS[n]);
+      // 重试时换一个 URL：同一 URL 的请求会被浏览器缓存锁排在前一个卡住的请求后面，重试就不会真正发出。
+      const url = n ? `${dataUrl(path)}?retry=${n}` : dataUrl(path);
+      return fetch(url, { signal: ctrl.signal })
+        .then((r) => {
+          if (!r.ok) {
+            const err = new Error(`${name} 返回 HTTP ${r.status}`);
+            err.retryable = r.status >= 500;
+            throw err;
+          }
+          return r.json();
+        })
+        .catch((err) => {
+          const timedOut = err.name === "AbortError";
+          const retryable = timedOut || err.retryable || err instanceof TypeError;
+          if (!retryable || n + 1 >= ATTEMPT_TIMEOUTS_MS.length) {
+            throw timedOut ? new Error(`${name} 连接超时，网络较慢，请稍后刷新`) : err;
+          }
+          retryNote(`网络较慢，正在第 ${n + 2} 次尝试`);
+          return attempt(n + 1);
+        })
+        .finally(() => clearTimeout(timer));
+    };
+    return attempt(0);
+  }
   function loadJson(path) {
-    if (!pending.has(path)) {
-      pending.set(path, fetch(dataUrl(path)).then((r) => {
-        if (!r.ok) throw new Error(`${path.split("/").pop()} 返回 HTTP ${r.status}`);
-        return r.json();
-      }));
-    }
+    if (!pending.has(path)) pending.set(path, fetchJson(path));
     return pending.get(path);
   }
 
