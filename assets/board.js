@@ -20,6 +20,7 @@
   const FULL_PATH = "data/latest-24h-all.json";
   const COMMUNITY_PATH = "data/waytoagi-7d.json";
   const OPENSOURCE_PATH = "data/github-rising-stars.json";
+  const FONT_CSS = "https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+SC:wght@500;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap";
   // 每个视图自己的筛选按钮：[值, 文案]，第一个是默认值。
   const SEGS = {
     board: [["all", "全部"], ["hot", "热"], ["new", "新"]],
@@ -141,9 +142,11 @@
   }
 
   const pending = new Map();
+  // 不用 no-store：GitHub Pages 本身给数据 max-age=600，CDN 也缓存 10 分钟，no-store 拿不到更新的数据，
+  // 只会让每次打开都重新下载全部 JSON。默认缓存下 10 分钟内秒开，过期后靠 ETag 走 304。
   function loadJson(path) {
     if (!pending.has(path)) {
-      pending.set(path, fetch(dataUrl(path), { cache: "no-store" }).then((r) => {
+      pending.set(path, fetch(dataUrl(path)).then((r) => {
         if (!r.ok) throw new Error(`${path.split("/").pop()} 返回 HTTP ${r.status}`);
         return r.json();
       }));
@@ -904,5 +907,17 @@
       state.errors.board = err.message;
       $("stamp").textContent = "数据读取失败";
       if (state.view === "board") render();
-    });
+    })
+    .finally(loadFonts);
+
+  // 网络字体放到首屏数据之后再加载：写在 <head> 里会阻塞页面渲染和本脚本执行，
+  // 网络慢或 Google Fonts 不通时页面会一直停在「正在读取数据」。先用系统字体显示，字体到了再替换。
+  function loadFonts() {
+    if (document.getElementById("web-fonts")) return;
+    const link = document.createElement("link");
+    link.id = "web-fonts";
+    link.rel = "stylesheet";
+    link.href = FONT_CSS;
+    document.head.append(link);
+  }
 })();

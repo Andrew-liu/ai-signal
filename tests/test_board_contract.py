@@ -92,6 +92,17 @@ def test_board_csp_only_allows_google_fonts_as_extra_origin():
     assert "https://fonts.gstatic.com" in vercel
 
 
+def test_first_screen_is_not_blocked_by_fonts_or_cache_busting():
+    html = read("index.html")
+    js = read("assets/board.js")
+    # 网络字体不能写成 <head> 里的样式表，否则会阻塞渲染和 board.js 执行。
+    assert 'rel="stylesheet" href="https://fonts.googleapis.com' not in html
+    assert "https://fonts.googleapis.com/css2?" in js
+    assert ".finally(loadFonts)" in js
+    # 数据请求复用浏览器缓存与 ETag，不能每次都强制全量下载。
+    assert 'cache: "no-store"' not in js
+
+
 def test_legacy_frontend_and_tailwind_chain_are_removed():
     for rel in (
         "archive.html",
