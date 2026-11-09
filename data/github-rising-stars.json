@@ -1,6 +1,6 @@
 {
   "schema": "github_rising_stars_v1",
-  "generated_at": "2026-11-09T00:58:44.227391Z",
+  "generated_at": "2026-11-09T08:05:32.533357Z",
   "source": "GitHub Trending",
   "source_url": "https://github.com/trending",
   "periods": [
@@ -212,7 +212,8 @@
         "champion": "thedotmack/claude-mem 以 1723 新增星居首，总星已到 107054。它解决的是编码 agent 最普遍的痛点：每次重开对话都要重新交代项目背景；做法是把工具调用与操作压缩成摘要，后续会话再注入相关上下文，正好卡在 Claude Code、Codex、Gemini 用户规模扩大、会话变长变多的时间点。面向的是已经在日常里重度使用多个 agent、又不愿反复重建上下文的开发者，而且允许自带 OpenRouter / Gemini key 或沿用 Anthropic 订阅，接入成本很低。",
         "dark_horse": "两个总星不高但增速明显快于榜单的项目值得注意：OpenMausBot 总星 9215、增速 14.2%，把本机已装的 claude、codex、grok CLI 包装成通讯录式的一群 bot，数据留在 ~/.openmausbot，卖点是隐私与多 agent 人格化；Orkas 总星 5871、增速 17.1%，用 Commander 拆目标再调度 16 个内置专家 agent 与外部 agent，主打本地优先的长期任务编排。两者都在回答同一个问题：如何在不交出数据的前提下，让多个 agent 分工干活。",
         "date": "2026-10-31"
-      }
+      },
+      "stale": true
     },
     {
       "since": "weekly",
@@ -566,7 +567,8 @@
         "overview": "这期榜单几乎被 AI / ML 项目包揽，15 个项目中有 14 个属于这一类，其中有 9 个新增星数超过 4000；JavaScript 和 Python 各有 4 个项目。共同主题很明显：绝大多数项目是给编码 agent 加装的 skill、记忆或流程插件，用来约束 Claude Code、Cursor、Codex 等工具的输出质量，其中围绕界面设计美感、安全审计和长期记忆的「agent 外围工程」最集中。老牌项目 ECC、superpowers、anthropics/skills 仍在榜，说明这类基础设施已进入沉淀期。",
         "champion": "cloudflare/security-audit-skill 本周新增 12838 星，增速 23.5%，总星数 54732。它受关注，是因为把「让 agent 挖漏洞」从一次性提示变成了有阶段、有产物的流程：按侦察、覆盖驱动搜寻、候选验证、结构化输出、独立复核、报告六个阶段推进，把 findings.json 按 schema 校验，并把结论分成 confirmed、needs_validation、rejected 三类，重复运行还会累积已有 ledger。面向的是想在自有代码库上做可追溯安全审计的团队，以及想复用 Cloudflare 漏洞挖掘 harness 的安全研究者，这正好对应企业开始把 agent 用于安全场景、又急需可复核证据的需求。",
         "dark_horse": "jakubkrehel/skills 总星只有 9482，本期新增 1107，增速 11.7%，明显高于同体量项目。它把设计问题拆成 better-ui、better-typography、better-accessibility 等专门技能，还能按分支或 PR 检查界面回归，对比动辄数千星的同类设计 skill，属于用更小体积解决具体问题的轻量方案。"
-      }
+      },
+      "stale": true
     },
     {
       "since": "monthly",
@@ -848,11 +850,12 @@
         "overview": "本期月榜共 19 个项目，AI / ML 类占 13 个，语言上 TypeScript 6 个、Python 5 个，几乎被编码 agent 的配套生态包场。共同主题很清楚：给 Claude Code、Codex、Cursor 这类 agent 补上技能、插件、长期记忆、上下文压缩和设计审美，排行榜中段密集出现 taste-skill、hallmark、impeccable 这类「去 AI 味」的界面技能，以及 claude-mem、context-mode 这类记忆与上下文治理工具。传统框架只有 ghidra、flutter 等少数老面孔，增速明显落后。",
         "champion": "debpalash/VoiceStudio 以 49116 新增星、51.0% 增速居首，切中的是「完全本地跑」这一诉求：声音克隆、按文字描述生成音色、配音、听写、有声书制作，声称覆盖 646 种语言，提供 macOS、Windows、Linux、Docker 安装包和移动端预览，没有 GPU 也能用 CPU 跑。它面向在意隐私、想避开云端语音订阅的用户，在总星已达 96289 的体量上仍有这样的增幅，说明本地语音生成的部署门槛确实被压到了普通用户可接受的程度。",
         "dark_horse": "mvschwarz/openrig 总星仅 8429，本期新增 6245、增速 74.1% 为全榜最高，值得关注。它用 YAML 描述一支有角色分工、共享上下文的常驻 agent 团队，一条命令启动，只需向 lead agent 讲清目标，适合同时管理多个编码 agent 的个人开发者。"
-      }
+      },
+      "stale": true
     }
   ],
-  "has_error": false,
-  "error": null,
+  "has_error": true,
+  "error": "daily: HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending?since=daily (Caused by ResponseError('too many 504 error responses')); weekly: HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending?since=weekly (Caused by ResponseError('too many 504 error responses')); monthly: HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending?since=monthly (Caused by ResponseError('too many 504 error responses'))",
   "ai": {
     "provider": "deepseek",
     "enabled": false,
