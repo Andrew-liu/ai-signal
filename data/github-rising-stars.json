@@ -1,6 +1,6 @@
 {
   "schema": "github_rising_stars_v1",
-  "generated_at": "2026-11-12T20:54:43.013608Z",
+  "generated_at": "2026-11-13T01:54:54.807797Z",
   "source": "GitHub Trending",
   "source_url": "https://github.com/trending",
   "periods": [
@@ -18,73 +18,73 @@
           "key": "ai",
           "label": "AI / ML",
           "count": 9,
-          "stars_gained": 5347
+          "stars_gained": 5122
         },
         {
           "key": "frontend",
           "label": "前端",
           "count": 1,
-          "stars_gained": 133
+          "stars_gained": 62
         },
         {
           "key": "devtools",
           "label": "开发工具",
           "count": 1,
-          "stars_gained": 107
+          "stars_gained": 63
         },
         {
           "key": "backend",
           "label": "后端 / 全栈",
           "count": 1,
-          "stars_gained": 974
+          "stars_gained": 967
         },
         {
           "key": "other",
           "label": "其他",
           "count": 1,
-          "stars_gained": 300
+          "stars_gained": 218
         }
       ],
       "languages": [
         {
           "language": "TypeScript",
           "count": 5,
-          "stars_gained": 3693
+          "stars_gained": 3661
         },
         {
           "language": "JavaScript",
           "count": 2,
-          "stars_gained": 945
+          "stars_gained": 878
         },
         {
           "language": "Ruby",
           "count": 1,
-          "stars_gained": 974
+          "stars_gained": 967
         },
         {
           "language": "Python",
           "count": 1,
-          "stars_gained": 461
+          "stars_gained": 415
         },
         {
           "language": "Objective-C",
           "count": 1,
-          "stars_gained": 300
+          "stars_gained": 218
         },
         {
           "language": "C++",
           "count": 1,
-          "stars_gained": 287
+          "stars_gained": 176
         },
         {
           "language": "Shell",
           "count": 1,
-          "stars_gained": 107
+          "stars_gained": 63
         },
         {
           "language": "Zig",
           "count": 1,
-          "stars_gained": 94
+          "stars_gained": 54
         }
       ],
       "projects": [
@@ -95,10 +95,10 @@
           "url": "https://github.com/meta/astryx",
           "description": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars": 26378,
-          "forks": 2043,
-          "stars_gained": 1789,
-          "growth_rate": 6.8,
+          "stars": 26602,
+          "forks": 2066,
+          "stars_gained": 1830,
+          "growth_rate": 6.9,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -111,10 +111,10 @@
           "url": "https://github.com/we-promise/sure",
           "description": "The personal finance app for everyone (by everyone)",
           "language": "Ruby",
-          "stars": 13790,
-          "forks": 1024,
-          "stars_gained": 974,
-          "growth_rate": 7.1,
+          "stars": 13953,
+          "forks": 1045,
+          "stars_gained": 967,
+          "growth_rate": 6.9,
           "category": "backend",
           "category_label": "后端 / 全栈",
           "is_dark_horse": false,
@@ -127,9 +127,9 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars": 116593,
-          "forks": 12205,
-          "stars_gained": 812,
+          "stars": 116699,
+          "forks": 12211,
+          "stars_gained": 816,
           "growth_rate": 0.7,
           "category": "ai",
           "category_label": "AI / ML",
@@ -143,10 +143,10 @@
           "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "description": "Keep your coding agent up to date with the latest web best practices",
           "language": "TypeScript",
-          "stars": 2716,
-          "forks": 188,
-          "stars_gained": 799,
-          "growth_rate": 29.4,
+          "stars": 3082,
+          "forks": 202,
+          "stars_gained": 739,
+          "growth_rate": 24.0,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": true,
@@ -159,10 +159,10 @@
           "url": "https://github.com/openai/codex-security",
           "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
           "language": "TypeScript",
-          "stars": 12319,
-          "forks": 972,
-          "stars_gained": 663,
-          "growth_rate": 5.4,
+          "stars": 12458,
+          "forks": 978,
+          "stars_gained": 643,
+          "growth_rate": 5.2,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -175,30 +175,14 @@
           "url": "https://github.com/Alishahryar1/free-claude-code",
           "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) l",
           "language": "Python",
-          "stars": 69177,
-          "forks": 10749,
-          "stars_gained": 461,
-          "growth_rate": 0.7,
+          "stars": 69336,
+          "forks": 10766,
+          "stars_gained": 415,
+          "growth_rate": 0.6,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
           "rank": 6
-        },
-        {
-          "repo": "pookjw/HermesEnabler",
-          "owner": "pookjw",
-          "name": "HermesEnabler",
-          "url": "https://github.com/pookjw/HermesEnabler",
-          "description": "Enable Hermès Watch Faces on any Apple Watch devices",
-          "language": "Objective-C",
-          "stars": 1491,
-          "forks": 138,
-          "stars_gained": 300,
-          "growth_rate": 20.1,
-          "category": "other",
-          "category_label": "其他",
-          "is_dark_horse": true,
-          "rank": 7
         },
         {
           "repo": "CopilotKit/OpenBot",
@@ -207,13 +191,29 @@
           "url": "https://github.com/CopilotKit/OpenBot",
           "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
           "language": "TypeScript",
-          "stars": 11502,
-          "forks": 1426,
-          "stars_gained": 291,
-          "growth_rate": 2.5,
+          "stars": 11645,
+          "forks": 1441,
+          "stars_gained": 298,
+          "growth_rate": 2.6,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
+          "rank": 7
+        },
+        {
+          "repo": "pookjw/HermesEnabler",
+          "owner": "pookjw",
+          "name": "HermesEnabler",
+          "url": "https://github.com/pookjw/HermesEnabler",
+          "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+          "language": "Objective-C",
+          "stars": 1550,
+          "forks": 141,
+          "stars_gained": 218,
+          "growth_rate": 14.1,
+          "category": "other",
+          "category_label": "其他",
+          "is_dark_horse": true,
           "rank": 8
         },
         {
@@ -223,10 +223,10 @@
           "url": "https://github.com/ggml-org/llama.cpp",
           "description": "LLM inference in C/C++",
           "language": "C++",
-          "stars": 134474,
-          "forks": 25500,
-          "stars_gained": 287,
-          "growth_rate": 0.2,
+          "stars": 134579,
+          "forks": 25511,
+          "stars_gained": 176,
+          "growth_rate": 0.1,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -239,8 +239,8 @@
           "url": "https://github.com/QwenLM/qwen-code",
           "description": "An open-source AI coding agent that lives in your terminal.",
           "language": "TypeScript",
-          "stars": 29735,
-          "forks": 3390,
+          "stars": 29843,
+          "forks": 3398,
           "stars_gained": 151,
           "growth_rate": 0.5,
           "category": "ai",
@@ -249,34 +249,34 @@
           "rank": 10
         },
         {
-          "repo": "nodejs/node",
-          "owner": "nodejs",
-          "name": "node",
-          "url": "https://github.com/nodejs/node",
-          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-          "language": "JavaScript",
-          "stars": 123569,
-          "forks": 38053,
-          "stars_gained": 133,
-          "growth_rate": 0.1,
-          "category": "frontend",
-          "category_label": "前端",
-          "is_dark_horse": false,
-          "rank": 11
-        },
-        {
           "repo": "nvm-sh/nvm",
           "owner": "nvm-sh",
           "name": "nvm",
           "url": "https://github.com/nvm-sh/nvm",
           "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
           "language": "Shell",
-          "stars": 95985,
-          "forks": 10757,
-          "stars_gained": 107,
+          "stars": 96022,
+          "forks": 10760,
+          "stars_gained": 63,
           "growth_rate": 0.1,
           "category": "devtools",
           "category_label": "开发工具",
+          "is_dark_horse": false,
+          "rank": 11
+        },
+        {
+          "repo": "nodejs/node",
+          "owner": "nodejs",
+          "name": "node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 123606,
+          "forks": 38057,
+          "stars_gained": 62,
+          "growth_rate": 0.1,
+          "category": "frontend",
+          "category_label": "前端",
           "is_dark_horse": false,
           "rank": 12
         },
@@ -287,10 +287,10 @@
           "url": "https://github.com/ashhart/TensorFold",
           "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
           "language": "Zig",
-          "stars": 1912,
-          "forks": 391,
-          "stars_gained": 94,
-          "growth_rate": 4.9,
+          "stars": 1950,
+          "forks": 392,
+          "stars_gained": 54,
+          "growth_rate": 2.8,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -315,63 +315,63 @@
           "key": "ai",
           "label": "AI / ML",
           "count": 7,
-          "stars_gained": 48735
+          "stars_gained": 44236
         },
         {
           "key": "frontend",
           "label": "前端",
           "count": 1,
-          "stars_gained": 9257
+          "stars_gained": 9104
         },
         {
           "key": "devtools",
           "label": "开发工具",
           "count": 1,
-          "stars_gained": 2310
+          "stars_gained": 2339
         },
         {
           "key": "backend",
           "label": "后端 / 全栈",
           "count": 1,
-          "stars_gained": 5814
+          "stars_gained": 4743
         },
         {
           "key": "other",
           "label": "其他",
           "count": 1,
-          "stars_gained": 1535
+          "stars_gained": 1671
         }
       ],
       "languages": [
         {
           "language": "Python",
           "count": 4,
-          "stars_gained": 21512
+          "stars_gained": 18533
         },
         {
           "language": "Rust",
           "count": 3,
-          "stars_gained": 14265
+          "stars_gained": 13354
         },
         {
           "language": "JavaScript",
           "count": 1,
-          "stars_gained": 11507
-        },
-        {
-          "language": "Shell",
-          "count": 1,
-          "stars_gained": 9575
+          "stars_gained": 10700
         },
         {
           "language": "TypeScript",
           "count": 1,
-          "stars_gained": 9257
+          "stars_gained": 9104
+        },
+        {
+          "language": "Shell",
+          "count": 1,
+          "stars_gained": 8731
         },
         {
           "language": "C++",
           "count": 1,
-          "stars_gained": 1535
+          "stars_gained": 1671
         }
       ],
       "projects": [
@@ -382,31 +382,15 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars": 71099,
-          "forks": 4725,
-          "stars_gained": 11507,
-          "growth_rate": 16.2,
+          "stars": 71241,
+          "forks": 4737,
+          "stars_gained": 10700,
+          "growth_rate": 15.0,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
           "rank": 1,
           "summary_zh": "把编码 agent 变成安全审计员的 skill，按侦察、覆盖驱动的漏洞搜寻、候选验证、结构化输出、独立复核、报告六个阶段推进。发现写入 findings.json 并按 schema 校验，结论分为 confirmed、needs_validation、rejected 三类；对同一仓库重复运行会累积利用已有 ledger。它是 Cloudflare 漏洞挖掘 harness 的起点，适合想给自有代码库做可追溯审计的团队。"
-        },
-        {
-          "repo": "mattpocock/skills",
-          "owner": "mattpocock",
-          "name": "skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars": 322916,
-          "forks": 27085,
-          "stars_gained": 9575,
-          "growth_rate": 3.0,
-          "category": "ai",
-          "category_label": "AI / ML",
-          "is_dark_horse": false,
-          "rank": 2
         },
         {
           "repo": "milind-soni/OpenMausBot",
@@ -415,30 +399,30 @@
           "url": "https://github.com/milind-soni/OpenMausBot",
           "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
           "language": "TypeScript",
-          "stars": 21677,
-          "forks": 3016,
-          "stars_gained": 9257,
-          "growth_rate": 42.7,
+          "stars": 21736,
+          "forks": 3026,
+          "stars_gained": 9104,
+          "growth_rate": 41.9,
           "category": "frontend",
           "category_label": "前端",
           "is_dark_horse": false,
-          "rank": 3
+          "rank": 2
         },
         {
-          "repo": "NVIDIA/auto-ontology",
-          "owner": "NVIDIA",
-          "name": "auto-ontology",
-          "url": "https://github.com/NVIDIA/auto-ontology",
-          "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-          "language": "Python",
-          "stars": 12192,
-          "forks": 1006,
-          "stars_gained": 7947,
-          "growth_rate": 65.2,
+          "repo": "mattpocock/skills",
+          "owner": "mattpocock",
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 323042,
+          "forks": 27099,
+          "stars_gained": 8731,
+          "growth_rate": 2.7,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
-          "rank": 4
+          "rank": 3
         },
         {
           "repo": "vercel-labs/agent-desktop",
@@ -447,30 +431,14 @@
           "url": "https://github.com/vercel-labs/agent-desktop",
           "description": "Computer use CLI for AI agents",
           "language": "Rust",
-          "stars": 22651,
-          "forks": 1679,
-          "stars_gained": 7772,
-          "growth_rate": 34.3,
+          "stars": 22750,
+          "forks": 1686,
+          "stars_gained": 6414,
+          "growth_rate": 28.2,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
-          "rank": 5
-        },
-        {
-          "repo": "D4Vinci/Scrapling",
-          "owner": "D4Vinci",
-          "name": "Scrapling",
-          "url": "https://github.com/D4Vinci/Scrapling",
-          "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-          "language": "Python",
-          "stars": 102072,
-          "forks": 10625,
-          "stars_gained": 5814,
-          "growth_rate": 5.7,
-          "category": "backend",
-          "category_label": "后端 / 全栈",
-          "is_dark_horse": false,
-          "rank": 6
+          "rank": 4
         },
         {
           "repo": "anthropics/skills",
@@ -479,15 +447,47 @@
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "stars": 193647,
-          "forks": 22781,
-          "stars_gained": 5738,
-          "growth_rate": 3.0,
+          "stars": 193715,
+          "forks": 22790,
+          "stars_gained": 6055,
+          "growth_rate": 3.1,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
-          "rank": 7,
+          "rank": 5,
           "summary_zh": "Anthropic 公开的 Agent Skills 示例仓库，每个技能是一个独立文件夹，用 SKILL.md 写指令和元数据，由 Claude 按需加载。内容涵盖创意设计、开发测试、企业沟通等场景，其中 docx、pdf、pptx、xlsx 四个文档技能是生产环境在用的实现，源码可见但不属开源。仓库还附了技能规范与模板，适合照着写自己的 skill。"
+        },
+        {
+          "repo": "NVIDIA/auto-ontology",
+          "owner": "NVIDIA",
+          "name": "auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+          "language": "Python",
+          "stars": 12261,
+          "forks": 1011,
+          "stars_gained": 5802,
+          "growth_rate": 47.3,
+          "category": "ai",
+          "category_label": "AI / ML",
+          "is_dark_horse": false,
+          "rank": 6
+        },
+        {
+          "repo": "D4Vinci/Scrapling",
+          "owner": "D4Vinci",
+          "name": "Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+          "language": "Python",
+          "stars": 102162,
+          "forks": 10637,
+          "stars_gained": 4743,
+          "growth_rate": 4.6,
+          "category": "backend",
+          "category_label": "后端 / 全栈",
+          "is_dark_horse": false,
+          "rank": 7
         },
         {
           "repo": "vercel-labs/agent-browser",
@@ -496,10 +496,10 @@
           "url": "https://github.com/vercel-labs/agent-browser",
           "description": "Browser automation CLI for AI agents",
           "language": "Rust",
-          "stars": 50289,
-          "forks": 3502,
-          "stars_gained": 4183,
-          "growth_rate": 8.3,
+          "stars": 50349,
+          "forks": 3505,
+          "stars_gained": 4601,
+          "growth_rate": 9.1,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -512,10 +512,10 @@
           "url": "https://github.com/zed-industries/zed",
           "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
           "language": "Rust",
-          "stars": 94826,
-          "forks": 11660,
-          "stars_gained": 2310,
-          "growth_rate": 2.4,
+          "stars": 94856,
+          "forks": 11670,
+          "stars_gained": 2339,
+          "growth_rate": 2.5,
           "category": "devtools",
           "category_label": "开发工具",
           "is_dark_horse": false,
@@ -528,10 +528,10 @@
           "url": "https://github.com/google/skills",
           "description": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars": 24049,
-          "forks": 2004,
-          "stars_gained": 2013,
-          "growth_rate": 8.4,
+          "stars": 24076,
+          "forks": 2005,
+          "stars_gained": 1933,
+          "growth_rate": 8.0,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -544,10 +544,10 @@
           "url": "https://github.com/google-deepmind/mujoco",
           "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
           "language": "C++",
-          "stars": 17753,
+          "stars": 17774,
           "forks": 2180,
-          "stars_gained": 1535,
-          "growth_rate": 8.6,
+          "stars_gained": 1671,
+          "growth_rate": 9.4,
           "category": "other",
           "category_label": "其他",
           "is_dark_horse": false,
@@ -571,46 +571,46 @@
           "key": "ai",
           "label": "AI / ML",
           "count": 12,
-          "stars_gained": 588599
+          "stars_gained": 550195
         },
         {
           "key": "backend",
           "label": "后端 / 全栈",
           "count": 1,
-          "stars_gained": 17406
+          "stars_gained": 17692
         },
         {
           "key": "other",
           "label": "其他",
           "count": 1,
-          "stars_gained": 50619
+          "stars_gained": 49960
         }
       ],
       "languages": [
         {
           "language": "Python",
           "count": 6,
-          "stars_gained": 106495
+          "stars_gained": 106877
         },
         {
           "language": "TypeScript",
           "count": 4,
-          "stars_gained": 436301
+          "stars_gained": 395517
         },
         {
           "language": "JavaScript",
           "count": 2,
-          "stars_gained": 61448
+          "stars_gained": 62182
         },
         {
           "language": "Rust",
           "count": 1,
-          "stars_gained": 28902
+          "stars_gained": 29165
         },
         {
           "language": "CSS",
           "count": 1,
-          "stars_gained": 23478
+          "stars_gained": 24106
         }
       ],
       "projects": [
@@ -621,10 +621,10 @@
           "url": "https://github.com/morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars": 455004,
-          "forks": 111761,
-          "stars_gained": 366818,
-          "growth_rate": 80.6,
+          "stars": 455399,
+          "forks": 111838,
+          "stars_gained": 325178,
+          "growth_rate": 71.4,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -637,10 +637,10 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars": 109087,
-          "forks": 12089,
-          "stars_gained": 50619,
-          "growth_rate": 46.4,
+          "stars": 109232,
+          "forks": 12106,
+          "stars_gained": 49960,
+          "growth_rate": 45.7,
           "category": "other",
           "category_label": "其他",
           "is_dark_horse": false,
@@ -654,10 +654,10 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars": 71099,
-          "forks": 4725,
-          "stars_gained": 42138,
-          "growth_rate": 59.3,
+          "stars": 71241,
+          "forks": 4737,
+          "stars_gained": 42602,
+          "growth_rate": 59.8,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -671,10 +671,10 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description": "The best way to control Claude Code, Codex and more from any computer or phone",
           "language": "TypeScript",
-          "stars": 58216,
-          "forks": 10658,
-          "stars_gained": 29814,
-          "growth_rate": 51.2,
+          "stars": 58445,
+          "forks": 10685,
+          "stars_gained": 30926,
+          "growth_rate": 52.9,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -687,10 +687,10 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "language": "Rust",
-          "stars": 108917,
-          "forks": 6489,
-          "stars_gained": 28902,
-          "growth_rate": 26.5,
+          "stars": 109023,
+          "forks": 6497,
+          "stars_gained": 29165,
+          "growth_rate": 26.8,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -704,10 +704,10 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars": 53938,
-          "forks": 2879,
-          "stars_gained": 23478,
-          "growth_rate": 43.5,
+          "stars": 54031,
+          "forks": 2885,
+          "stars_gained": 24106,
+          "growth_rate": 44.6,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -721,10 +721,10 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "stars": 83365,
-          "forks": 7700,
-          "stars_gained": 22422,
-          "growth_rate": 26.9,
+          "stars": 83451,
+          "forks": 7705,
+          "stars_gained": 22251,
+          "growth_rate": 26.7,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -738,10 +738,10 @@
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
           "language": "JavaScript",
-          "stars": 114198,
-          "forks": 7683,
-          "stars_gained": 19310,
-          "growth_rate": 16.9,
+          "stars": 114339,
+          "forks": 7692,
+          "stars_gained": 19580,
+          "growth_rate": 17.1,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -754,10 +754,10 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
           "language": "Python",
-          "stars": 58625,
-          "forks": 7126,
-          "stars_gained": 17406,
-          "growth_rate": 29.7,
+          "stars": 58668,
+          "forks": 7129,
+          "stars_gained": 17692,
+          "growth_rate": 30.2,
           "category": "backend",
           "category_label": "后端 / 全栈",
           "is_dark_horse": false,
@@ -770,10 +770,10 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes",
           "language": "TypeScript",
-          "stars": 116526,
-          "forks": 10108,
-          "stars_gained": 17247,
-          "growth_rate": 14.8,
+          "stars": 116588,
+          "forks": 10112,
+          "stars_gained": 17162,
+          "growth_rate": 14.7,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -787,10 +787,10 @@
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "stars": 193648,
-          "forks": 22781,
-          "stars_gained": 13018,
-          "growth_rate": 6.7,
+          "stars": 193715,
+          "forks": 22790,
+          "stars_gained": 13440,
+          "growth_rate": 6.9,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -804,10 +804,10 @@
           "url": "https://github.com/AgriciDaniel/claude-seo",
           "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Googl",
           "language": "Python",
-          "stars": 28614,
-          "forks": 3672,
-          "stars_gained": 9470,
-          "growth_rate": 33.1,
+          "stars": 28704,
+          "forks": 3675,
+          "stars_gained": 9819,
+          "growth_rate": 34.2,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -820,10 +820,10 @@
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars": 47034,
-          "forks": 4890,
-          "stars_gained": 9448,
-          "growth_rate": 20.1,
+          "stars": 47059,
+          "forks": 4882,
+          "stars_gained": 9515,
+          "growth_rate": 20.2,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
@@ -836,10 +836,10 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars": 35563,
+          "stars": 35588,
           "forks": 3935,
-          "stars_gained": 6534,
-          "growth_rate": 18.4,
+          "stars_gained": 6451,
+          "growth_rate": 18.1,
           "category": "ai",
           "category_label": "AI / ML",
           "is_dark_horse": false,
